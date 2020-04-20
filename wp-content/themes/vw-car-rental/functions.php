@@ -1163,6 +1163,64 @@ function getCardUI($bodyResponse, $page, $nextPage, $prevPage, $url,$bodyRespons
 
 function get_video_list(){
 
+ $args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+        'posts_per_page' => 8
+    );
+
+   $myposts = get_posts($args);
+
+// If there are posts
+if($myposts){
+	  // Loop the posts
+	  // ?>
+ <div class="row">
+	 
+<?php
+  foreach ($myposts as $key=>$value){
+	  	$url_values = get_post_meta( $value->ID, 'url' );
+	  	$title_values = get_post_meta( $value->ID, 'title' );
+	  	$thumbnails_values = get_post_meta( $value->ID, 'thumbnail' );
+	  	$date_values = get_post_meta( $value->ID, 'date' );
+    	$newDate = date("d M Y", strtotime($date_values[$key]));  
+	  	$type = get_post_meta( $value->ID, 'type' );
+	  	if($type[$key] == 'livefacebook'){
+			$type_values = 'live facebook';
+		}else{
+			$type_values = 'ทั่วไป';
+		}
+	  echo $type[$key];
+			if ($thumbnails_values[$key]) {
+			  $image = wp_get_attachment_image_src($thumbnails_values[$key], 'full');
+				
+					  ?>	<div class="col-4 d-flex">
+				<div class="card-video-control d-flex flex-column mx-auto">
+					<div class="video-thumbnail">
+						<img src="<?php echo $image[0]; ?>" class="video-thumbnail">
+					</div>
+					<div class="video-desc-control d-flex flex-column">
+						<span class="video-title mx-auto text-center"><?php echo $title_values[$key]; ?></span>
+						<div class="mt-auto d-flex flex-column">
+							<div class="video-button-type mx-auto d-flex">
+								<span class="video-button-text mx-auto my-auto"><?php echo $type_values; ?></span>
+							</div>
+							<span class="video-date-text mx-auto"><?php echo $newDate;?></span>
+							
+						</div>
+						
+					</div>
+				</div>
+	 		</div>
+		 <?php
+	wp_reset_postdata();
+			}
+	  
+
+  }
+	 
+	 ?> </div> <?php
+}
 
 }
 function get_jobid() {

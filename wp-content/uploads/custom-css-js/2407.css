@@ -1,0 +1,57 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.card-video-control{
+  width: 285px;
+  margin-left: 11px;
+  margin-right: 11px;
+  height: 368px;
+  word-break: break-word;
+  
+}
+
+.video-thumbnail{
+  height: 160px;
+  width: auto;
+  object-fit: cover;
+  background-color: #f0f0f0;
+}
+
+.video-desc-control{
+  padding: 8px;
+ height: 208px;
+  background-color: #ffe4dd;
+}
+
+.video-title{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Noto Thai Medium';
+  color: #231f20;
+  line-height: 1.5em;
+}
+
+.video-button-type{
+  width: 158px;
+  height: 36px;
+  border-radius: 18px;
+  border: solid 1px #979797;
+  background-color: #f9f9f9;
+  margin-bottom: 11px;
+}
+
+.video-button-text{
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Noto Thai Medium';
+  color: #888;
+}
+
+.video-date-text{
+  font-family: 'Noto Thai Regular';
+  font-size: 14px;
+  font-weight: normal;
+  color: #333;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

@@ -4,3 +4,15 @@ Apr 20 2020 00:52:52
 Apr 20 2020 00:52:52
 {"type":8,"message":"unserialize(): Error at offset 5013 of 5839 bytes","file":"F:\\xampp\\htdocs\\jobnow\\wp-includes\\functions.php","line":594}
 
+Apr 20 2020 06:06:25
+{"Number":8,"Message":"unserialize(): Error at offset 175 of 13680 bytes","File":"F:\\xampp\\htdocs\\jobnow\\wp-includes\\functions.php","Line":594}
+
+Apr 20 2020 06:06:25
+{"Number":2,"Message":"array_key_exists() expects parameter 2 to be array, bool given","File":"F:\\xampp\\htdocs\\jobnow\\wp-content\\plugins\\all-in-one-seo-pack\\aioseop_class.php","Line":5774}
+
+Apr 20 2020 06:06:29
+{"type":8,"message":"unserialize(): Error at offset 175 of 13680 bytes","file":"F:\\xampp\\htdocs\\jobnow\\wp-includes\\functions.php","line":594}
+
+Apr 20 2020 06:06:31
+{"type":8,"message":"unserialize(): Error at offset 5013 of 5839 bytes","file":"F:\\xampp\\htdocs\\jobnow\\wp-includes\\functions.php","line":594}
+
