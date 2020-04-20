@@ -1,0 +1,4443 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-10 10:00:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "Profiles"
+msgstr "Profiler"
+
+#: dist/coblocks.js:58
+msgid "Display buttons"
+msgstr "Visa knappar"
+
+#: dist/coblocks.js:58
+msgid "Display button"
+msgstr "Visa knapp"
+
+#: dist/coblocks.js:58
+msgid "Four columns; equal split"
+msgstr "Fyra jämnbreda kolumner"
+
+#: dist/coblocks.js:58
+msgid "Three columns; equal split"
+msgstr "Tre jämnbreda kolumner"
+
+#: dist/coblocks.js:58
+msgid "Two columns; two thirds, one third split"
+msgstr "Två kolumner uppdelade två resp. en tredjedel"
+
+#: dist/coblocks.js:58
+msgid "Two columns; equal split"
+msgstr "Två jämnbreda kolumner"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an external feed"
+msgstr "Hämta ett externt webbflöde"
+
+#: dist/coblocks.js:58
+msgid "Google map"
+msgstr "Google map"
+
+#: dist/coblocks.js:58
+msgid "Add Google API key…"
+msgstr "Lägg till Google API-nyckel…"
+
+#: dist/coblocks.js:58
+msgid "Highlight settings"
+msgstr "Markeringsinställningar"
+
+#: dist/coblocks.js:58
+msgid "text box"
+msgstr "textruta"
+
+#: dist/coblocks.js:58
+msgid "text control"
+msgstr "textkontroll"
+
+#: dist/coblocks.js:58
+msgid "A text box for custom responses."
+msgstr "Textruta för manuellt svar."
+
+#: dist/coblocks.js:58
+msgid "Button color"
+msgstr "Knappfärg"
+
+#: dist/coblocks.js:58
+msgid "Gluten free"
+msgstr "Glutenfritt"
+
+#: dist/coblocks.js:58
+msgid "Calendar URL"
+msgstr "Kalender-URL"
+
+#: dist/coblocks.js:58
+msgid "Vintage filter"
+msgstr "Vintagefilter"
+
+#: dist/coblocks.js:58
+msgid "Add background image"
+msgstr "Lägg till bakgrundsbild"
+
+#: dist/coblocks.js:58
+msgid "Edit background image"
+msgstr "Redigera bakgrundsbild"
+
+#: dist/coblocks.js:58
+msgid "Display as open"
+msgstr "Visa öppnad"
+
+#: dist/coblocks.js:58
+msgid "Replace Image"
+msgstr "Ersätt bild"
+
+#: dist/coblocks.js:58
+msgid "weather"
+msgstr "väder"
+
+#: dist/coblocks.js:58
+msgid "cloud"
+msgstr " moln"
+
+#: dist/coblocks.js:58
+msgid "Cloud"
+msgstr "Moln"
+
+#: dist/coblocks.js:58
+msgid "d-pad"
+msgstr "d-pad"
+
+#: dist/coblocks.js:58
+msgid "video games"
+msgstr "videospel"
+
+#: dist/coblocks.js:58
+msgid "games"
+msgstr "spel"
+
+#: dist/coblocks.js:58
+msgid "Games"
+msgstr "Spel"
+
+#: dist/coblocks.js:58
+msgid "release"
+msgstr "release"
+
+#: dist/coblocks.js:58
+msgid "new"
+msgstr "ny"
+
+#: dist/coblocks.js:58
+msgid "New Releases"
+msgstr "Nya releaser"
+
+#: dist/coblocks.js:58
+msgid "user"
+msgstr "användare"
+
+#: dist/coblocks.js:58
+msgid "verified"
+msgstr "verifierad"
+
+#: dist/coblocks.js:58
+msgid "Verified User"
+msgstr "Verifierad användare"
+
+#: dist/coblocks.js:58
+msgid "changes"
+msgstr "ändringar"
+
+#: dist/coblocks.js:58
+msgid "track"
+msgstr "spåra"
+
+#: dist/coblocks.js:58
+msgid "Track Changes"
+msgstr "Markera ändringar"
+
+#: dist/coblocks.js:58
+msgid "shield"
+msgstr "sköld"
+
+#: dist/coblocks.js:58
+msgid "Security"
+msgstr "Säkerhet"
+
+#: dist/coblocks.js:58
+msgid "handicapped"
+msgstr "handikappad"
+
+#: dist/coblocks.js:58
+msgid "wheelchair"
+msgstr "rullstol"
+
+#: dist/coblocks.js:58
+msgid "accessible"
+msgstr "tillgänglig"
+
+#: dist/coblocks.js:58
+msgid "horizontal"
+msgstr "horisontellt"
+
+#: dist/coblocks.js:58
+msgid "Swap Horizontal"
+msgstr "Växla horisontellt"
+
+#: dist/coblocks.js:58
+msgid "vertical"
+msgstr "vertikalt"
+
+#: dist/coblocks.js:58
+msgid "swap"
+msgstr "växla"
+
+#: dist/coblocks.js:58
+msgid "Swap Vertical"
+msgstr "Växla vertikalt"
+
+#: dist/coblocks.js:58
+msgid "over"
+msgstr "över"
+
+#: dist/coblocks.js:58
+msgid "voice"
+msgstr "röst"
+
+#: dist/coblocks.js:58
+msgid "record"
+msgstr "spela in"
+
+#: dist/coblocks.js:58
+msgid "Record Voice Over"
+msgstr "Dubba"
+
+#: dist/coblocks.js:58
+msgid "work"
+msgstr "arbete"
+
+#: dist/coblocks.js:58
+msgid "group"
+msgstr "grupp"
+
+#: dist/coblocks.js:58
+msgid "Groupwork"
+msgstr "Grupparbete"
+
+#: dist/coblocks.js:58
+msgid "compass"
+msgstr "kompass"
+
+#: dist/coblocks.js:58
+msgid "explore"
+msgstr "utforska"
+
+#: dist/coblocks.js:58
+msgid "Explore"
+msgstr "Utforska"
+
+#: dist/coblocks.js:58
+msgid "face"
+msgstr "ansikte"
+
+#: dist/coblocks.js:58
+msgid "Face"
+msgstr "Ansikte"
+
+#: dist/coblocks.js:58
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: dist/coblocks.js:58
+msgid "Grayscale"
+msgstr "Gråskala"
+
+#: dist/coblocks.js:58
+msgid "Change heading level"
+msgstr "Ändra rubriknivå"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail style"
+msgstr "Miniatyrstorlek"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "16:9 bredd-höjd-förhållande"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "4:3 bredd-höjd-förhållande"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Tillåt styling med format för toning."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Format för toning"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Tillåt styling med anpassade färger"
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Anpassade färgväljare"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Tillåt inställningar för färg i hela redigeraren"
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Inställningar för färg"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Tillåt typografikontroller på blocknivå"
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Typografikontroller"
+
+#: dist/coblocks.js:58
+msgid "General"
+msgstr "Allmänt"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Inställningar för redigerare"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Inställning för att ange inaktivering eller aktivering av toningskontroller och förinställningar för hela webbplatsen."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Inställning för att ange inaktivering eller aktivering av anpassade färgkontroller för hela webbplatsen."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Inställning för att ange inaktivering eller aktivering av färgkontroller för hela webbplatsen."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Inställning för att ange inaktivering eller aktivering av typografikontroller för hela webbplatsen."
+
+#: dist/coblocks.js:58
+msgid "Select a variation to start with."
+msgstr "Välj en variant att börja med."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Plats..."
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Tid..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Skriv evenemangsbeskrivning..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Skriv evenemangsrubrik..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "År..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Månad..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Dag..."
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Ett evenemang i detta evenemangsblock."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Evenemangsobjekt"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Visa evenemang från perioden (högst 100 evenemang)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Evenemang per sida"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Slå på/av för att länka en offentlig kalender."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Visar en offentlig kalender."
+
+#: dist/coblocks.js:58
+msgid "Link a calendar"
+msgstr "Länka en kalender"
+
+#: dist/coblocks.js:58
+msgid "Events settings"
+msgstr "Inställningar för evenemang"
+
+#: dist/coblocks.js:58
+msgid "Add event"
+msgstr "Lägg till evenemang"
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Ange URL här..."
+
+#: dist/coblocks.js:58
+msgid "Edit calendar URL"
+msgstr "Redigera kalender-URL"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Hämta alla"
+
+#: dist/coblocks.js:58
+msgid "1 month"
+msgstr "1 månad"
+
+#: dist/coblocks.js:58
+msgid "2 weeks"
+msgstr "2 veckor"
+
+#: dist/coblocks.js:58
+msgid "1 week"
+msgstr "1 vecka"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "datum"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Lägg till en lista över evenemang eller visa evenemang från en offentlig kalender."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Händelser"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Rensa media"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "skärm"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Ett fel uppstod, kontrollera kalenderbehörighet för att se om den är offentlig, eller försök igen senare."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "programvara"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "uppladdning"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "förbättra"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "trendig"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "trendande"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "stark"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "högskola"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "diplom"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "examen"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "skolavslutning"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "ta studenten"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "utbildning"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "årstid"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "vinter"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "frusen"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "is"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "kall"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "frakt"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "varukorg"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "ingenjör"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "utveckla"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "märke"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "tal"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "språk"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "säker"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "trygg"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "biometrisk"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "försvar"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "biologi"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "säkerhet"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "tillsammans"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "team"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "widget"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "tillägg"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "pussel"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "e-handel"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "handel"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "handla"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "kassan"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "kontanter"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "pengar"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "blomma"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "trädgårdsskötsel"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "fint"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "lukt"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "doft"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "blomblad"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "firande"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "fest"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "stol"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "slappna av"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "kylig"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "helg"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "smak"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "sked"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "gaffel"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "dryck"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "mat"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "skyskrapa"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "stad"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "byggnad"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "bolag"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "företag"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "plats"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "jordklot"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "global"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "offentlig"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "värld"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "sommar"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "vatten"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "hav"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "ute"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "utomhus"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "minimalistisk"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "landskap"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "kullar"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "kryssruta"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "markera"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "karta"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "widgetar"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "fyrkantig"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "rutor"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "ruta"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "vågor"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "alternativ"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "leverera"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "skicka"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "kommentar"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "svara"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "svara"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "brev"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "läs"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "os"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "hubb"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "anslut"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "surface"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "kontor"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "skrivbordsdator"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "pc"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "gilla"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "favorit"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "röst"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "betyg"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "puss"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "hjärta"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "form"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "kärlek"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "typografi"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "markör"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "blyertspenna"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "typsnitt"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "typ"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "konst"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "klotter"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "teckning"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "grekiska"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "glädje"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "kul"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "le"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "emotikon"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "känsla"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "lycklig"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "data"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "prickar"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "kurva"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "diagram"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "cirkeldiagram"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "statistik"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "matte"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "rund"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "plus"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "infoga"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "cirkel"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "minus"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "lägga till"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "pensel"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "måla"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "färger"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "palett"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "producent"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "regissör"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "videografi"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "kollektion"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "bländare"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "film"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "kamera"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "fotografi"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "fotograf"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "foto"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "enhet"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "dator"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "hörlurar"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "taktslag"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "ljud"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "kreativ"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "artist"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "låt"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "poddsändning"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "mikrofon"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "musik"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "design"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "bygg"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "block"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "block"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Ladda upp en mediefil eller välj en från ditt mediebibliotek"
+
+#: dist/coblocks.js:58
+msgid "Offset settings"
+msgstr "Inställningar för förskjutning"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Visa bilder förskjutet, som murförbandsgalleri."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Förskjutning"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Boka möte"
+
+#: dist/coblocks.js:58
+msgid "Special notes"
+msgstr "Särskilda anteckningar"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Eftermiddag"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Morgon"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Tid"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Möte"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Anteckningar?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Nej"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Ja"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Kommer du att delta?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Plus en"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "OSA"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "Kontakt"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Du kan använda följande etiketter i ämnesfältet: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "namn"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Formulärinlämning från [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Skriv bildtext till galleri ..."
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Medieområde"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Lägg till rubrik..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Menyrubrik..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Lägg till knapp..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Skriv text..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Skriv rubrik..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Lägg till innehåll..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Lägg till rubrik..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "länkar"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Sociala medieprofiler"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Ikon och text"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Text"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Maskering"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "sociala medier"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Dela"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Spetsig"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Triangel"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Rundad"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Sluttande"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Vinklad"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Kullar"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Vågig"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "avgränsare"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Avdelare med form"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "funktioner"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Tjänster"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Skriv beskrivning..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Tjänst"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "layouter"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "kolumner"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "rader"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Objekt i pristabell"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "jämförelse"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "start"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Pristabell"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "bildspel"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Visa inlägg eller externt bloggflöde som karusell."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(ingen rubrik)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS-flöde"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Vågrätt"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "senaste"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "blogg"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "inlägg"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Visar inlägg eller RSS-flöde som staplade eller vågräta kort."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Inlägg"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "videoklipp"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "bild"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "anvisningar"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "kartor"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "adress"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Karta"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "stycke"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Färgmarkera"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Sekundär knapp..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Lägg till herorubrik..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "knapp"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Hero"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Redigera URL för %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Gå tillbaka till %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "kod"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "animerad"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "Field value"
+msgstr "Fältvärde"
+
+#: dist/coblocks.js:58
+msgid "Hidden Field settings"
+msgstr "Inställningar för dolda fält"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "indata"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Ett dolt textfält för att samla in ytterligare data."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "URL"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "hyperlänk"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Ett textfält för att samla in en URL."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "En kryssruta med flera alternativ där det går att göra flera val."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "rullgardin"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Ett fält med flera alternativ där det bara går att välja ett av dem."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Flerradig text"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "meddelandetext"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "text"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Textområde"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "fax"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "mobil"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "mobil"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "mobil"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "telefon"
+
+#: dist/coblocks.js:58
+msgid "Add checkbox"
+msgstr "Lägg till kryssruta"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "alternativ"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "markera"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "välj"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Alternativ"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "efternamn"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "förnamn"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "postadress"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "e-post"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "år"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "månad"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "dag"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "kalender"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "kontakt"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "om"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "e-post"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Formulär"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Matobjekt"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Lista"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Rutnät"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "meny"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "restaurang"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Mat & dryck"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Funktioner"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Det här är ett funktionsblock som du kan använda för att färgmarkera funktioner."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Lägg till utvalt innehåll"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Rubrik för funktion"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Lägg till rubrik för utvalt innehåll..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Funktion"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR settings"
+msgstr "Inställningar för Dynamisk HR"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Fullständig bredd"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Linje"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Punkt"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "avståndskontroll"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Dynamisk HR"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Kolumn"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Lager på lager"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Sida vid sida"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "kollage"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "dela"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Klicka för att twittra"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Inneslut"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Täck"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Auto"
+
+#: dist/coblocks.js:58
+msgid "Repeat vertically"
+msgstr "Upprepa vertikalt"
+
+#: dist/coblocks.js:58
+msgid "Repeat horizontally"
+msgstr "Upprepa horisontellt"
+
+#: dist/coblocks.js:58
+msgid "No repeat"
+msgstr "Ingen upprepning"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Stapla i mobilvy"
+
+#: dist/coblocks.js:58
+msgid "Buttons settings"
+msgstr "Inställningar för knapp"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "uppmaning till handling"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "uppmaning"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "länk"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Länk till författare..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Släpp för att ladda upp som profilbild"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "N.N.‌‌"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "profil"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "biografi"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Författare"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Fel"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Varning"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Klart"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Info"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "meddelande"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "avisering"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Avisering"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Skriv rubrik till dragspelsobjekt..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Dragspelsobjekt"
+
+#: dist/coblocks.js:58
+msgid "Add accordion item"
+msgstr "Lägg till dragspelsobjekt"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "vanliga frågor"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "flikar"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Dragspel"
+
+#: dist/coblocks.js:21
+msgid "Image zoom"
+msgstr "Bildzoomning"
+
+#: dist/coblocks.js:21
+msgid "Vertical pos."
+msgstr "Lodrät position"
+
+#: dist/coblocks.js:21
+msgid "Horizontal pos."
+msgstr "Vågrät position"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Våg upptill"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Våg nedtill"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Cirkelformad"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Kryssruta"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Mediekort"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "lightbox"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Aubergine"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Natt"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "Retro"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Silver"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Standard"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "sigill"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "utmärkelser"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "utlåtanden"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "bestyrkande"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "kunder"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Mager"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Mörk"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "foton"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "galleri"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Börja med stor bokstav"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Gemener"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Primär knapp..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Fet"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Normal"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Fylld"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Kontur"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "ikoner"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Ikon"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Slå på/av för att visa %s infogat."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Visar %s infogad."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "Infogad %s"
+
+#: dist/coblocks.js:58
+msgid "Display settings"
+msgstr "Visningsinställningar"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Uppdatering"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Eld"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Skola"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Snöflinga"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Leverans"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Lager"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Bloss"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Ny"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Översätt"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Fingeravtryck"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Utökning"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Kreditkort"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Bygga"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Blomma"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Tårta"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Soffa"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Äta ute"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Stad"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Jordklot"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Vågor"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Berg"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Markör"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Block"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Signal"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Skicka"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Svara"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Hubb"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Tangentbord"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Klocka"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "Surfplatta"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "Bärbar dator"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Enheter"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Stationär dator"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Stjärna"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Hjärta"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Klotter"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Funktioner"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Emotikon"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Omröstning"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Spridningsdiagram"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Cirkeldiagram"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Minuscirkel"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Pluscirkel"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Pensel"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Måla"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Färgväljare"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Palett"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "Film"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Videoklipp"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Galleri"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Kamera"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Bländare"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Röst"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Volym"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Headset"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "Album"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Ljud"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Vintagefilter"
+
+#: dist/coblocks.js:58
+msgid "Dim filter"
+msgstr "Filter för nedtoning"
+
+#: dist/coblocks.js:58
+msgid "Saturation filter"
+msgstr "Filter för mättnad"
+
+#: dist/coblocks.js:58
+msgid "Sepia filter"
+msgstr "Sepiafilter"
+
+#: dist/coblocks.js:58
+msgid "Grayscale filter"
+msgstr "Filter för gråskala"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Original"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Procentsats"
+
+#: dist/coblocks.js:58
+msgid "Viewport height"
+msgstr "Höjd på visningsområde"
+
+#: dist/coblocks.js:58
+msgid "Viewport width"
+msgstr "Bredd på visningsområde"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Pixlar"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Dold"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Webbplats"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Det uppstod ett fel."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Markera"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Hämta ett externt webbflöde"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Telefon"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Läs mer"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Välj ett alternativ"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Ett fel uppstod, vilket förmodligen betyder att webbflödet är nere. Försök igen senare."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Ett fält för datumval med hjälp av en datumväljare."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Ett fält för att samla in en bekräftad e-postadress."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Ett textfält för att samla in för- och efternamn."
+
+#: dist/coblocks.js:58
+msgid "Map controls"
+msgstr "Kartkontroller"
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Ett fält med flera alternativ där det bara går att välja ett av dem."
+
+#: dist/coblocks.js:58
+msgid "Add option"
+msgstr "Lägg till alternativ"
+
+#: dist/coblocks.js:58
+msgid "Marker size"
+msgstr "Storlek på markör"
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Ogiltig API-nyckel eller för många förfrågningar"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Välj förinställning för ikonstorlek"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(ingen rubrik)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Skriv alternativ…"
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Ta bort alternativ"
+
+#: dist/coblocks.js:58
+msgid "https://example.com/feed…"
+msgstr "https://example.com/feed…"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Blogginlägg"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Använd URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Lägg till ett kontaktformulär till din sida."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Populärt"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Alternativ för finjustering är aktiverad."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Slå på/av för att aktivera alternativ för kartkontroll."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Använd externt webbflöde"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Inga inlägg hittade. Börja publicera eller lägga till inlägg från ett RSS-flöde."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Sparat"
+
+#: src/blocks/post-carousel/index.php:40 src/blocks/posts/index.php:40
+msgid "RSS error:"
+msgstr "RSS-fel:"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Visar kontroll för helskärmskarta."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen toggle"
+msgstr "Slå på/av helskärm"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Slå på/av för att visa gatuvykontrollen längst ner till höger."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Visar kontroll för gatuvykarta."
+
+#: dist/coblocks.js:58
+msgid "Street view"
+msgstr "Gatuvy"
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Behöver du hjälp?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Skaffa en nyckel"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Lägg till API-nyckel för Google Maps Om du uppdaterar den här API-nyckeln kommer den att användas till alla kartor."
+
+#: dist/coblocks.js:58
+msgid "Google Maps API key"
+msgstr "API-nyckel för Google Maps"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Slå på/av för att visa kontroll för helskärmskarta"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Slå på/av för att aktivera mellan att zooma in och ut på kartan med zoomningskontroller."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Visar kontroller för kartzoomning."
+
+#: dist/coblocks.js:58
+msgid "Zoom controls"
+msgstr "Zoomkontroller"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Slå på/av för att aktivera växling mellan standard- och satellitkartor."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Växling mellan standard- och satellitkarta är aktiverad."
+
+#: dist/coblocks.js:58
+msgid "Map type"
+msgstr "Karttyp"
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Ett fält som besökare kan lämna telefonnummer i."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Visar publiceringsdatum."
+
+#: dist/coblocks.js:58
+msgid "Post date"
+msgstr "Inläggsdatum"
+
+#: dist/coblocks.js:58
+msgid "Posts settings"
+msgstr "Inläggsinställningar"
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Ange en plats eller adress för att fästa en nål på en Google-karta."
+
+#: dist/coblocks.js:58
+msgid "Select map style"
+msgstr "Välj kartformat"
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Sök efter en plats eller adress..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Höjd för karta i pixlar"
+
+#: dist/coblocks.js:58
+msgid "Map settings"
+msgstr "Inställningar för karta"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Inzoomningsnivå"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Redigera URL för RSS"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Bilden på vänster sida"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Bilden på höger sida"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS-URL:er brukar ligga i katalogen /feed/ för en webbplats."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Slå på/av för att visa publiceringsdatum."
+
+#: dist/coblocks.js:58
+msgid "Post content"
+msgstr "Inläggsinnehåll"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail size"
+msgstr "Miniatyrstorlek"
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Högsta antal ord i innehåll"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Slå på/av för att visa inläggets innehåll."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Visar inläggets innehåll."
+
+#: dist/coblocks.js:58
+msgid "Feed settings"
+msgstr "Inställningar för webbflöde"
+
+#: dist/coblocks.js:58
+msgid "My blog"
+msgstr "Min blogg"
+
+#: dist/coblocks.js:58
+msgid "External feed"
+msgstr "Externt webbflöde"
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Antal inlägg"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel settings"
+msgstr "Inställningar för inläggskarusell"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Inläggskarusell"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Cirkel"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Fyrkantig"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Houzz profile"
+msgstr "Lägg till Houzz-profil"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Yelp profile"
+msgstr "Lägg till Yelp-profil"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "Add YouTube profile"
+msgstr "Lägg till YouTube-profil"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "Add LinkedIn profile"
+msgstr "Lägg till LinkedIn-profil"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Pinterest profile"
+msgstr "Lägg till Pinterest-profil"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Instagram profile"
+msgstr "Lägg till Instagram-profil"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Twitter profile"
+msgstr "Lägg till Twitter-profil"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Facebook profile"
+msgstr "Lägg till Facebook-profil"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Hjälp läsekretsen att växa med länkar till dina profiler i sociala medier."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "palett design färger artist konstnär måla kreativ media"
+
+#: dist/coblocks.js:58
+msgid "Opening in new tab"
+msgstr "Öppnar i ny flik"
+
+#: dist/coblocks.js:58
+msgid "Link rel"
+msgstr "Länk-rel"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "Länk-URL"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Hittade inga resultat."
+
+#: dist/coblocks.js:58
+msgid "Icon search"
+msgstr "Ikonsökning"
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Radius"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Anpassad"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Tillämpa anpassad storlek"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Återställ ikonstorlek"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Lägg till en stiliserad grafisk symbol för att kommunicera något mer."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Dela på LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Ikoner"
+
+#: dist/coblocks.js:58
+msgid "Button size"
+msgstr "Knappstorlek"
+
+#: dist/coblocks.js:58
+msgid "Circle size"
+msgstr "Cirkelstorlek"
+
+#: dist/coblocks.js:58
+msgid "Icon size"
+msgstr "Ikonstorlek"
+
+#: dist/coblocks.js:58
+msgid "Social colors"
+msgstr "Färger för sociala medier"
+
+#: dist/coblocks.js:58
+msgid "Icon settings"
+msgstr "Inställningar för ikon"
+
+#: dist/coblocks.js:58
+msgid "Icon color"
+msgstr "Ikonfärg"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Slå på/av för att använda de officiella färgerna från de olika sociala medieplattformarna."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Delningsknappens färger är aktiverade."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Lägg till länkar för delning på sociala medier som kan hjälpa dig att få delningar och gillanden."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Vänd vertikalt"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Vänd horisontellt"
+
+#: dist/coblocks.js:58
+msgid "Shape color"
+msgstr "Formfärg"
+
+#: dist/coblocks.js:58
+msgid "Background height in pixels"
+msgstr "Bakgrundshöjd i pixlar"
+
+#: dist/coblocks.js:58
+msgid "Shape height in pixels"
+msgstr "Objektshöjd i pixlar"
+
+#: dist/coblocks.js:58
+msgid "Divider settings"
+msgstr "Inställningar för avdelare"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Lägg till en avdelare för att synligt skilja stycken på sidan åt."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Slå på/av för att stapla knappar i mobilvy."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Staplar knappar i mobilvy."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Knappar"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Uppmana besökare att agera med flera knappar, sida vid sida."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Karusell"
+
+#: dist/coblocks.js:58
+msgid "Responsive height"
+msgstr "Responsiv höjd"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Miniatyrer"
+
+#: dist/coblocks.js:58
+msgid "Carousel settings"
+msgstr "Inställningar för karusell"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Slå på/av procentbaserad höjd."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Procentbaserad höjd är aktiverad."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Slå på/av för att visa miniatyrer."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Visar navigering för miniatyr."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Visa flera bilder i ett snyggt karusellgalleri."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Ersätt den här texten med beskrivande text som passar med kortbilden. Sedan kan du lägga till fler block till det här kortet, som knappar, listor och bilder."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Media på vänster sida"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Media på höger sida"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Slå på/av för att lägga till en skugga från %s"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Visar skugga från %s."
+
+#: dist/coblocks.js:58
+msgid " %s shadow"
+msgstr " Skugga från %s"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Slå på/av för att lägga till en skugga från kort."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Visar skugga från kort."
+
+#: dist/coblocks.js:58
+msgid "Card shadow"
+msgstr "Skugga från kort"
+
+#: dist/coblocks.js:58
+msgid "Max width"
+msgstr "Maxbredd"
+
+#: dist/coblocks.js:58
+msgid "Media Card settings"
+msgstr "Inställningar för mediekort"
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Lägg till bild eller videoklipp med ett kort något förskjutet, sida vid sida."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Släpp för att ersätta media"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "media"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Redigera media"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Murverk"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Lägg till rundade hörn på galleriobjekt"
+
+#: dist/coblocks.js:58
+msgid "Masonry settings"
+msgstr "Inställningar för murverk"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Visa flera bilder i ett organiserat murverksgalleri."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Loggor och märken"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Redigera loggor"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Svartvitt"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Lägg till loggor, märken eller certifieringar för ökad trovärdighet."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Ta bort"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Spara"
+
+#: dist/coblocks.js:58
+msgid "Secret key"
+msgstr "Hemlig nyckel"
+
+#: dist/coblocks.js:58
+msgid "Site key"
+msgstr "Webbplatsnyckel"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Få hjälp"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Mina nycklar"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Generera nycklar"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Lägg till din reCAPTCHA-webbplats och hemlig nyckel för att skydda formuläret från skräppost."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Form settings"
+msgstr "Inställningar för formulär"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Ämne"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "E-postadress"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s är inte giltiga e-postadresser."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s och %s är inte giltiga e-postadresser."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s är ingen giltig e-postadress."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Textruta för längre svar."
+
+#: dist/coblocks.js:58
+msgid "Button text color"
+msgstr "Knapptextfärg"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Lägg till text..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Exempel på ämne"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Slå på/av för att lägga till fält för efternamn."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Visar fält för både förnamn och efternamn."
+
+#: dist/coblocks.js:58
+msgid "Last name"
+msgstr "Efternamn"
+
+#: dist/coblocks.js:58
+msgid "Name Field settings"
+msgstr "Inställningar för namnfält"
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Höjd för dynamiskt avgränsningselement i pixlar."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Lägg till en reglerbar avståndskontroll mellan andra block."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Lägg till ett citat att twittra..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Användarnamn"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Twitter-användarnamn"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Knappfärg"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Det enklast sättet när du vill främja din blogg, webbplats eller ditt företag på Twitter."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Lägg till ett citat som läsarna kan twittra."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "0,00 kr"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Lägg till beskrivning..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Stark"
+
+#: dist/coblocks.js:58
+msgid "Item attributes"
+msgstr "Objektattribut"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Slå på/av för att visa pris för det här objektet."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Visar priset för det här objektet."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Pris"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Slå på/av för att visa en bild för det här objektet."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Visar en bild av det här objektet."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Bild"
+
+#: dist/coblocks.js:58
+msgid "Item settings"
+msgstr "Inställningar för objekt"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Ett maträtts- och dryckesobjekt i blocket Mat & dryck."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Veganskt"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Fisk"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Glutenfritt"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Vegetariskt"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Starkare"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Kryddstarkt"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Slå på/av för att visa pris för vardera objekt."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Visar pris för vardera objekt"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Priser"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Slå på/av för att visa bilder för vardera objekt."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Visar bilder av vardera objekt"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Bilder"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks settings"
+msgstr "Inställningar för Mat & dryck"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Visa en meny eller prislista."
+
+#: dist/coblocks.js:58
+msgid "Add menu section"
+msgstr "Lägg till meny-sektion"
+
+#: dist/coblocks.js:58
+msgid "Back to columns"
+msgstr "Tillbaka till kolumner"
+
+#: dist/coblocks.js:58
+msgid "Select row columns"
+msgstr "Välj radkolumner"
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Välj antalet kolumner för den här raden."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Välj en layout för den här raden med %s kolumn(er)."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Rad"
+
+#: dist/coblocks.js:58
+msgid "Row layout"
+msgstr "Radlayout"
+
+#: dist/coblocks.js:58
+msgid "Four columns"
+msgstr "Fyra kolumner"
+
+#: dist/coblocks.js:58
+msgid "Three columns"
+msgstr "Tre kolumner"
+
+#: dist/coblocks.js:58
+msgid "Two columns"
+msgstr "Två kolumner"
+
+#: dist/coblocks.js:58
+msgid "One column"
+msgstr "En kolumn"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Lägg till radbakgrund"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "fyra"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "tre"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "två"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "ett"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Ändra layout för rad med block"
+
+#: dist/coblocks.js:58
+msgid "Fifth / fifth / fifth / two fifths"
+msgstr "En femtedel/en femtedel/en femtedel/två femtedelar"
+
+#: dist/coblocks.js:58
+msgid "Two fifths / fifth / fifth / fifth"
+msgstr "Två femtedelar/en femtedel/en femtedel/en femtedel"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Fjärdedelar"
+
+#: dist/coblocks.js:58
+msgid "One fifth/ three fifths / one fifth"
+msgstr "En femtedel/tre femtedelar/en femtedel"
+
+#: dist/coblocks.js:58
+msgid "Quarter / half / quarter"
+msgstr "En fjärdedel/hälften/en fjärdedel"
+
+#: dist/coblocks.js:58
+msgid "Quarter / quarter/ half"
+msgstr "En fjärdedel/en fjärdedel/hälften"
+
+#: dist/coblocks.js:58
+msgid "Half / quarter / quarter"
+msgstr "Hälften/en fjärdedel/en fjärdedel"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Tredjedelar"
+
+#: dist/coblocks.js:58
+msgid "Quarter / three quarters"
+msgstr "En fjärdedel/tre fjärdedelar"
+
+#: dist/coblocks.js:58
+msgid "Three quarters / quarter"
+msgstr "Tre fjärdedelar/en fjärdedel"
+
+#: dist/coblocks.js:58
+msgid "One third / two thirds"
+msgstr "En tredjedel/två tredjedelar"
+
+#: dist/coblocks.js:58
+msgid "Two thirds / one third"
+msgstr "Två tredjedelar/en tredjedel"
+
+#: dist/coblocks.js:58
+msgid "Equal split"
+msgstr "Lika stora delar"
+
+#: dist/coblocks.js:58
+msgid "Row settings"
+msgstr "Inställningar för rad"
+
+#: dist/coblocks.js:58
+msgid "Select row layout"
+msgstr "Välj radlayout"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Lägg till kolumnbakgrund"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Bredd"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Utrymme runt behållaren."
+
+#: dist/coblocks.js:58
+msgid "Column settings"
+msgstr "Inställningar för kolumn"
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Ett direkt underobjekt till en rad."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Lägg till ett omslag med struktur för kolumnblock och lägg sedan till de innehållsblock du vill till kolumnerna."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Paket %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Ändra antal pristabeller"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Fyra pristabeller"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Tre pristabeller"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Två pristabeller"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "En pristabell"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Lägg till pristabeller och hjälp besökare att jämföra produkter och paket."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Lägg till funktioner"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "Paket A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Köp nu"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "En pristabell kan hjälpa besökare att jämföra produkter och paket."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Lägg till stöd för Internet Explorer genom att ladda in ett JavaScript-polyfill på den här sidan."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Lägg till stöd för Internet Explorer genom att ladda in ett JavaScript-polyfill."
+
+#: dist/coblocks.js:58
+msgid "Internet Explorer support"
+msgstr "Stöd för Internet Explorer"
+
+#: dist/coblocks.js:58
+msgid "Accordion settings"
+msgstr "Inställningar för dragspel"
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Organisera innehåll inuti komprimerbara dragspelsobjekt."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item settings"
+msgstr "Inställningar för dragspelsobjekt"
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Slå på/av för att ange att det här dragspelsobjektet ska vara öppet som standard."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Dragspelsobjekt visas som standard öppet."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Lägg till komprimerbara dragspelsobjekt till dragspel."
+
+#: dist/coblocks.js:58
+msgid "Features settings"
+msgstr "Inställningar för Funktioner"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Lägg till upp till fyra kolumner med korta texter om din produkt eller tjänst."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Lägg till som bakgrund"
+
+#: dist/coblocks.js:58
+msgid "Feature settings"
+msgstr "Inställningar för Funktion"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "En enskild underkolumn inom ett överordnat block för Utvalt."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "En avisering är ett meddelande som visas utanför det vanliga innehållsflödet. Aviseringar använder man ofta när man vill be läsare att vidta vissa åtgärder."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Det här är ett aviseringsblock"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Ge feedback i kontext via meddelanden."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Redigera plats"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Lägg till en adress eller plats för att fästa en nål på en Google-karta."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Slå på/av för att visa knappar med uppmaning till handling."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Visar knappar med uppmaning till handling."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Kolumner"
+
+#: dist/coblocks.js:58
+msgid "Services settings"
+msgstr "Inställningar för tjänster"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Stilar"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Lägg till upp till fyra kolumner med tjänster att visa."
+
+#: dist/coblocks.js:58
+msgid "Image settings"
+msgstr "Inställningar för bild"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Slå på/av för att visa en knapp med uppmaning till handling."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Visar knappen med uppmaning till handling."
+
+#: dist/coblocks.js:58
+msgid "Service settings"
+msgstr "Inställningar för tjänst"
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Ett tjänsteobjekt inom ett block med tjänster."
+
+#: dist/coblocks.js:58
+msgid "Bottom right"
+msgstr "Längst ner till höger"
+
+#: dist/coblocks.js:58
+msgid "Bottom center"
+msgstr "Centrerat längst ner"
+
+#: dist/coblocks.js:58
+msgid "Bottom left"
+msgstr "Längst ner till vänster"
+
+#: dist/coblocks.js:58
+msgid "Center right"
+msgstr "Centrerat till höger"
+
+#: dist/coblocks.js:58
+msgid "Center center"
+msgstr "Centrerat i mitten"
+
+#: dist/coblocks.js:58
+msgid "Center left"
+msgstr "Centrerat till vänster"
+
+#: dist/coblocks.js:58
+msgid "Top right"
+msgstr "Högst upp till höger"
+
+#: dist/coblocks.js:58
+msgid "Top center"
+msgstr "Centrerat högst upp"
+
+#: dist/coblocks.js:58
+msgid "Top left"
+msgstr "Högst upp till vänster"
+
+#: dist/coblocks.js:58
+msgid "Caption style"
+msgstr "Format på bildtexter"
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Skugga"
+
+#: dist/coblocks.js:58
+msgid "Collage settings"
+msgstr "Inställningar för collage"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Samla bilder till ett vackert collagegalleri."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Skriv en biografi som kort och objektivt berättar om din bakgrund och kunskaper för läsarna..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Skriv författarens namn..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Ändra profilbild"
+
+#: dist/coblocks.js:58
+msgid "Author settings"
+msgstr "Inställningar för författare"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Jag lever för uttrycket, inte för intrycket. Jag skapar den värld jag vill ha."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Lägg till en författarbiografi för att bygga upp trovärdighet och auktoritet."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "bild %1$d av %2$d i galleri"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Staplade"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Bildtexter"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth image"
+msgstr "Bild med fullständig bredd"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images"
+msgstr "Bilder med fullständig bredd"
+
+#: dist/coblocks.js:58
+msgid "Stacked settings"
+msgstr "Inställningar för staplar"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Slå på/av för att aktivera lightbox för bild."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Lightbox för bild är aktiverad."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Slå på/av för att visa mediebildtexter."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Visar bildtexter för vardera medieobjekt."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Slå på/av för att fylla tillgängligt galleriområde med bilder med fullständig bredd."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Bilder med fullständig bredd är aktiverade."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Visa flera bilder i ett staplat galleri i en kolumn."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Laddar in Gist"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Lägg till gist-URL i GitHub..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Gistmeta"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Gistfil"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Gist-URL"
+
+#: dist/coblocks.js:58
+msgid "Gist settings"
+msgstr "Inställningar för Gist"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Slå på/av för att visa gistmetadata."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Visar gistmetadata."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Bädda in GitHub-gistar genom att lägga till en gistlänk."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Visa denna gist på GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Sök efter fler gifar"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Sök efter den perfekta gifen på Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Denna gif har ett tomt alt-attribut"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Ta bort gif"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Lämna tom om bilden bara är dekoration."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Beskriv syftet med bilden"
+
+#: dist/coblocks.js:58
+msgid "Alt text (alternative text)"
+msgstr "Alternativ text"
+
+#: dist/coblocks.js:58
+msgid "Gif settings"
+msgstr "Inställningar för Gif"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Välj en gif, vilken gif som helst."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Slå på/av för att ta bort valfri bottenmarginal."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Slå på/av för att lägga till bottenmarginal igen."
+
+#: dist/coblocks.js:58
+msgid "Remove bottom spacing"
+msgstr "Ta bort utrymme längst ner"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Slå på/av för att ta bort valfri toppmarginal."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Slå på/av för att lägga till toppmarginal igen."
+
+#: dist/coblocks.js:58
+msgid "Remove top spacing"
+msgstr "Ta bort utrymme högst upp"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Slå på/av för att stapla element på varandra i mindre visningsområden."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Följsamhet är aktiverad."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Slå på/av för att visa knapp med fullständig bredd."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Visas som fullständig bredd"
+
+#: dist/coblocks.js:58
+msgid "Display fullwidth"
+msgstr "Visa fullständig bredd"
+
+#: dist/coblocks.js:21
+msgid "Crop settings"
+msgstr "Inställningar för beskärning"
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Återställ alternativ för bildbeskärning"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Rotera medsols"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Rotera motsols"
+
+#: dist/coblocks.js:21
+msgid "Image orientation"
+msgstr "Bildorientering"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Inställningar för beskärning av bildplatshållare"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Tio sekunder"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Nio sekunder"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Åtta sekunder"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Sju sekunder"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Sex sekunder"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Fem sekunder"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Fyra sekunder"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Tre sekunder"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Två sekunder"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "En sekund"
+
+#: dist/coblocks.js:58
+msgid "Align cells"
+msgstr "Justera celler"
+
+#: dist/coblocks.js:58
+msgid "Dot navigation"
+msgstr "Punktnavigering"
+
+#: dist/coblocks.js:58
+msgid "Arrow navigation"
+msgstr "Pilnavigering"
+
+#: dist/coblocks.js:58
+msgid "Free scroll"
+msgstr "Rulla fritt"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Dragbar"
+
+#: dist/coblocks.js:58
+msgid "Pause on hover"
+msgstr "Pausa vid hovring"
+
+#: dist/coblocks.js:58
+msgid "Transition speed"
+msgstr "Övergångshastighet"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Spela upp automatiskt"
+
+#: dist/coblocks.js:58
+msgid "Slider settings"
+msgstr "Inställningar för bildspel"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Slå på/av för att rulla utan fasta bilder."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Rulla utan fasta bilder aktiverade."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Slå på/av för att pausa automatisk uppspelning vid hovring."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Pausar automatisk uppspelning vid hovring."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Justerar bilder till mitten."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Justerar bilder åt vänster."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Slå på/av för att visa navigeringspilar för punkter."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Visar punktnavigering."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Slå på/av för att visa navigeringspilar för bildspel."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Visar navigeringspilar för bildspel."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Slå på/av för att aktivera dra-funktion"
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Dra och snärta är aktiverat."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Gå automatiskt vidare till nästa bild."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Går vidare efter %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "sekund"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "sekunder"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Standard"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Anpassad färgväljare"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Anpassad URL"
+
+#: dist/coblocks.js:58
+msgid "Attachment page"
+msgstr "Bilagssidan"
+
+#: dist/coblocks.js:58
+msgid "Media file"
+msgstr "Mediafil"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Dra bilder, ladda upp nya eller välj filer från ditt bibliotek."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Galleri: %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Skriv bildtext..."
+
+#: dist/coblocks.js:58
+msgid "Move image forward"
+msgstr "Flytta bild framåt"
+
+#: dist/coblocks.js:58
+msgid "Move image backward"
+msgstr "Flytta bild bakåt"
+
+#: dist/coblocks.js:58
+msgid "Open in new tab"
+msgstr "Öppna i ny flik"
+
+#: dist/coblocks.js:58
+msgid "Link to"
+msgstr "Länk till"
+
+#: dist/coblocks.js:58
+msgid "Link settings"
+msgstr "Inställningar för länk"
+
+#: dist/coblocks.js:58
+msgid "Select size"
+msgstr "Välj storlek"
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Extra stor"
+
+#: dist/coblocks.js:58
+msgid "No bottom spacing"
+msgstr "Inget utrymme längst ner"
+
+#: dist/coblocks.js:58
+msgid "No top spacing"
+msgstr "Inget utrymme högst upp"
+
+#: dist/coblocks.js:58
+msgid "Letter spacing"
+msgstr "Teckenmellanrum"
+
+#: dist/coblocks.js:58
+msgid "Line height"
+msgstr "Radhöjd"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Storlek"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Omvandla"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Vikt"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Typsnitt"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Byt typografi"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Tillämpa filter"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Versaler"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Rubrik %d"
+
+#: dist/coblocks.js:58
+msgid "Text settings"
+msgstr "Inställningar för text"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Lägg till färgmarkerad text..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Lägg till en färgmarkeringseffekt till stycken för att locka dit läsarens blick och markera viktiga partier."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Dra uppmärksamheten till viktigt innehåll."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Period"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Ändra layout"
+
+#: dist/coblocks.js:58
+msgid "Text color"
+msgstr "Textfärger"
+
+#: dist/coblocks.js:58
+msgid "Background color"
+msgstr "Bakgrundsfärg"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Innehållsbredd i pixlar"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Höjd i pixlar"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Utrymme i behållare"
+
+#: dist/coblocks.js:58
+msgid "Hero settings"
+msgstr "Inställningar för hero"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Lägg till herobakgrund"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Lägg till heroinnehåll, som brukar vara ett introduktionsområde på en sida, följt av en uppmaning till handling eller två."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Ett inledande stycke på en sida följt av ett litet textstycke och en uppmaning till handling."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Gigantisk"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Stort"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Medel"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Litet"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Ingen"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Ta bort bakgrund"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Slå på/av för att spela upp videon i slinga."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Spelar upp bakgrundsvideon i slinga."
+
+#: dist/coblocks.js:58
+msgid "Loop video"
+msgstr "Spela upp videoklipp i slinga"
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Slå på/av för att stänga av ljud på videoklipp."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Stäng av ljud på bakgrundsvideon."
+
+#: dist/coblocks.js:58
+msgid "Mute video"
+msgstr "Stäng av ljud på videoklipp"
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Visa"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Position"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Upprepa"
+
+#: dist/coblocks.js:58
+msgid "Rounded corners"
+msgstr "Rundade hörn"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Padding"
+
+#: dist/coblocks.js:58
+msgid "Background opacity"
+msgstr "Bakgrundsogenomskinlighet"
+
+#: dist/coblocks.js:58
+msgid "Focal point"
+msgstr "Fokuspunkt"
+
+#: dist/coblocks.js:58
+msgid "Fixed background"
+msgstr "Fast bakgrund"
+
+#: dist/coblocks.js:58
+msgid "Background settings"
+msgstr "Inställningar för bakgrund"
+
+#: dist/coblocks.js:58
+msgid "Edit background"
+msgstr "Redigera bakgrund"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Sparar"
+
+#: dist/coblocks.js:58
+msgid "Remove image"
+msgstr "Ta bort bild"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Släpp bild för att ersätta"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Höjd"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Slå på/av för att aktivera helskärmsläge."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Helskärmsläge är aktiverat."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Helskärm"
+
+#: dist/coblocks.js:58
+msgid "Select layout"
+msgstr "Välj layout"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Layout"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Lägg till etikett..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "Mobil: %s"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Fästmarginal"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Avancerade inställningar för %s"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Vänster"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Nederst"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Höger"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Överst"
+
+#: dist/coblocks.js:58
+msgid "Sync units"
+msgstr "Synkronisera enheter"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Synkronisering"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Avsluta synkronisering"
+
+#: dist/coblocks.js:58
+msgid "%s left"
+msgstr "%s vänster"
+
+#: dist/coblocks.js:58
+msgid "%s bottom"
+msgstr "%s nederst"
+
+#: dist/coblocks.js:58
+msgid "%s right"
+msgstr "%s höger"
+
+#: dist/coblocks.js:58
+msgid "%s top"
+msgstr "%s högst upp"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Återställ"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Stäng av avancerade inställningar för %s"
+
+#: dist/coblocks.js:58
+msgid "%s units"
+msgstr "%s enheter"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Välj enheter"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Marginal"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Dela på Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Dela på Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Dela på Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Dela via e-post"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Dela på LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Dela på Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Dela på Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Dela på Facebook"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Titta närmare på CoBlocks på WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Skriv en recension"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Google Map API-nyckel för kartåtergivning"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Ditt meddelande skickades:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Skicka"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Meddelande"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Efternamn"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Förnamn"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Namn"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "E-post"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Google reCAPTCHA hemlig nyckel för skräppostskydd för formulär"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Google reCAPTCHA-platsnyckel för skräppostskydd för formulär"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks är en svit professionella <strong>innehållsblock för att bygga sidor</strong> för blockredigeraren Gutenberg i WordPress. Våra block är hyperfokuserade på att ge användarna alla möjligheter att skapa snygga och innehållsrika sidor i WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

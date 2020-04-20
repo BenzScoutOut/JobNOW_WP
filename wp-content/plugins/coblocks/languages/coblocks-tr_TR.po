@@ -1,0 +1,3419 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:19:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "16:9 En-boy oranı"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "4:3 En-boy oranı"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Gradyan dolgularla biçimlendirmeye izin verin."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Gradyan biçemler"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Özel renklerle biçimlendirmeye izin verin."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Özel renk seçiciler"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Düzenleyici genelinde renk ayarlarına izin verin."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Renk ayarları"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Blok düzeyinde tipografi kontrollerine izin verin."
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Tipografi kontrolleri"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Düzenleyici ayarları"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Tüm sitede gradyan kontrollerini ve önceden belirlenmiş ayarları etkinleştirmek veya etkisizleştirmek için kullanılan ayar."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Tüm sitede özel renk kontrollerini etkinleştirmek veya etkisizleştirmek için kullanılan ayar."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Tüm sitede tüm renk kontrollerini etkinleştirmek veya etkisizleştirmek için kullanılan ayar."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Tüm sitede tipografi kontrollerini etkinleştirmek veya etkisizleştirmek için kullanılan ayar."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Konum..."
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Zaman..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Etkinlik açıklamasını yazın..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Etkinlik başlığını yazın..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Yıl..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Ay..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Gün..."
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Etkinlikler bloğundaki bir etkinlik.."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Etkinlik Öğesi"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Bu döneme ait etkinlikleri gösterin (en fazla 100 etkinlik)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Sayfa başına etkinlik"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Herkese açık takvimi bağlamak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Herkese açık takvim gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "URL’yi buraya girin..."
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Tümünü getir"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "tarih"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Etkinlik listesi ekleyin veya etkinlikleri herkese açık bir takvimde görüntüleyin."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Etkinlikler"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Medyayı Temizle"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "monitör"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Bir hata oluştu. Yeniden herkese açık olduğundan emin olmak için takvim ayrıcalıklarını kontrol edin veya daha sonra tekrar deneyin."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "yazılım"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "karşıya yükle"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "iyileştir"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "moda"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "öne çıkanlar"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "Öne Çıkanlar"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "üniversite"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "derece"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "mezuniyet"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "mezun"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "eğitim"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "mevsim"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "kış"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "donuk"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "buz"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "soğuk"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "gönderim"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "sepet"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "mühendis"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "geliştir"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "rozet"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "konuşma"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "dil"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "güvenli"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "emniyetli"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "biyometrik"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "savunma"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "biyografi"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "güvenlik"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "birlikte"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "ekip"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "bileşen"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "eklenti"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "yapboz"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "e-ticaret"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "ticaret"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "alışveriş"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "ödeme"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "nakit"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "para"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "Çiçek"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "bahçıvanlık"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "güzel"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "koku"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "esans"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "kutlama"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "parti"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "sandalye"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "ferahlatıcı"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "serin"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "hafta sonu"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "zevk"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "kaşık"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "çatal"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "içki"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "yemek"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "gökdelen"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "kasaba"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "bina"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "kurumsal şirket"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "işletme"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "konum"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "dünya"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "küresel"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "herkese açık"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "dünya"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "yaz"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "su"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "okyanus"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "dışarı"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "açık alan"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "manzara"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "Tepeler"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "Onay kutusu"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "işaretle"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "Harita"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "bileşenler"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "Kare"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "kutular"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "kutu"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "Dalgalar"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "Radyo"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "teslim et"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "Gönder"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "yorum yap"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "yanıtla"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "Yanıtla"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "mektup"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "oku"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "Merkez"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "bağlan"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "yüzey"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "ofis"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "masa"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "beğen"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "beğen"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "oy ver"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "puan ver"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "öpücük"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "sevgililer günü"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "şekil"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "kalp"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "tipografi"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "İşaretleyici"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "kalem"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "Yazı Tipi"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "tür"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "sanat"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "Karalama"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "çizim"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "yunan"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "keyif"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "eğlence"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "gülme"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "İfade"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "duygu"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "mutlu"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "veri"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "noktalar"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "grafik"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "tablo"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "pasta dilimi"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "istatistikler"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "matematik"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "yuvarlak"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "artı"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "yerleştir"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "Daire"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "eksi"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "ekle"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "boya fırçası"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "Boya"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "renkler"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "palet"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "yapımcı"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "direktör"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "videografi"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "koleksiyon"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "Açıklık"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "Kamera"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "fotoğrafçılık"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "fotoğrafçı"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "fotoğraf"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "cihaz"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "bilgisayar"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "kulaklık"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "beats"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "Ses"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "yaratıcı"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "sanatçı"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "şarkı"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "podcast yayını"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "mikrofon"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "müzik"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "tasarım"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "Oluşturun"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "blok"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "Bloklar"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Bir ortam dosyasını karşıya yükleyin veya medya kitaplığınızdan bir dosya seçin"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Görselleri tuğla desenli, kaydırma efektli bir galeride görüntüleyin."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Kaydırma"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Randevu Al"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Öğleden Sonra"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Gündüz"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Saat"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Randevu"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Notlarınız var mı?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Hayır"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Evet"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Katılacak mısınız?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Artı bir"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "irtibat kişisi"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "irtibat kişisi"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Konu alanında şu etiketleri kullanabilirsiniz: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "isim"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "[%1$s] adresinden form gönderimi"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Galeri yazısı ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Ortam alanı"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Başlık ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Menü başlığı..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Düğme ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Metin yazın..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Başlık yazın..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "İçerik ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Başlık ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "bağlantılar"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Sosyal Profiller"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Simge ve Metin"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Metin"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Maskele"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "sosyal"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Paylaş"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Sivri"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Üçgen"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Yuvarlak"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Eğimli"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Köşeli"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Tepeler"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Dalgalı"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "ayırıcı"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Şekil Bölücü"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "özellikler"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Hizmetler"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Açıklama yazın..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Hizmet"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "sayfa düzenleri"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "sütunlar"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "satırlar"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Fiyat Tablosu Öğesi"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "karşılaştırma"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "giriş sayfası"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Fiyat Tablosu"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "slayt gösterisi aracı"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Yazıları veya harici blog beslemelerini döngü tasarımıyla yayınlayın."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(başlık yok)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS Beslemesi"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Yatay"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "en yeniler"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "blog"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "yazılar"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Yazıları veya RSS beslemelerini yığın halindeki veya yatay kartlar biçiminde görüntüleyin."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Yazıları"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "video"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "görsel"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "yönergeler"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "haritalar"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "adres"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Harita"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "paragraf"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Vurgula"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "İkincil düğme..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Ana başlık ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "düğme"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Ana "
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "%s URL’sini düzenle"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Şuraya dön: %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "kod"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist Dosyası"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "animasyonlu"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "giriş"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Ek veri toplamak için gizli metin alanı."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "köprü bağlantı"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "URL toplamaya yönelik bir alan."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Birden fazla seçimin belirlenebildiği çok seçenekli bir onay kutusu alanı."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "açılır liste"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Yalnızca bir seçimin belirlenebildiği çok seçenekli alan."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Çok satırlı metin"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "ileti metni"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "metin"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Metin alanı"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "faks"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "mobil"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "hücre"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "hücresel"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "telefon"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "Seçenek"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "Seç"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "Seç"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Radyo"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "soyismi"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "isim"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "posta"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "e-posta"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "yıl"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "ay"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "gün"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "takvim"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "irtibat kişisi"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "hakkında"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "e-posta"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Yemek Öğesi"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Liste"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Dağıtımlı"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "menü"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "restoran"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Yiyecek ve İçecekler"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Özellikler"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Bu blok, özellikleri vurgulamak için kullanabileceğiniz bir özellik bloğudur."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Özellik içeriği ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Özellik Başlığı"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Özellik başlığı ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Özellik"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Tam Genişlikli"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Satır"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Nokta"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "ayırıcı"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Dinamik YK"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Sütun"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Katmanlı"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Bölünmüş"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Kolaj"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "paylaş"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Tweet Göndermek için Tıklayın"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Kapsa"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Manşet"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Oto"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Mobilde yığma"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "eylem çağrısı"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "cta"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "bağlantı"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Yazar bağlantısı..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Avatar olarak karşıya yüklemek için bırakın"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "profil"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "biyografi"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Yazar"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Hata"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Uyarı"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Başarılı"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Bilgi"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "mesaj"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "uyarı"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Bildirim"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Akordeon öğe başlığı girin..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Akordeon Öğe"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "sss"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "sekmeler"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Akordeon"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Üst Dalga"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Alt Dalga"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Dairesel"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Onay kutusu"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Ortam Kartı"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "ışık kutusu"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Patlıcan Tonu"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Gece"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Gümüş"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Standart"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "mühür"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "ödüller"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "deneyimler"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "kanıt"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "istemciler"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Açık"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Karanlık"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "fotoğraflar"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "galeri"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Büyük Harf Yap"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Küçük Harf"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Birincil düğme..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Kalın"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Dolu"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Ana Hatlı"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "simgeler"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Simge"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "%s satır içini görüntülemek için çubuğu kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Satır içi %s görüntüleniyor."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "Satır İçi %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Güncelleme"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Ateş"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Okul"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Kar Tanesi"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Gönderim"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Katmanlar"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Alev"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Yeni"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Çevirmek"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Parmak İzi"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Uzantı"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Kredi Kartı"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Oluşturun"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Çiçek"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Pasta"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Kanepe"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Yemek"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Şehir"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Küre"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Dalgalar"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Dağlar"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "İşaretleyici"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Bloklar"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Sinyal"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Gönder"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Merkez"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Tuş Takımı"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "İzle"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "Dizüstü bilgisayar"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Cihazlar"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Masaüstü"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Yıldız ekle"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Kalp"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Karalama"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Fonksiyonlar"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "İfade"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Anket"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Dağılım"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Pasta Grafiği"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Eksi Daire"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Daire Ekleyin"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Fırça"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Boya"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Renk Seçici"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Renk Lensi"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Video"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Galeri"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Kamera"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Açıklık"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Ses"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Ses Düzeyi"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Kulaklık"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "Albüm"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Ses"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Klasik Süzgeç"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Orijinal"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Yüzde"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Piksel"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Gizli"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Web Sitesi"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Bir hata oluştu."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Seç"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Harici Beslemeyi kaydedin"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Tarih"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Telefon"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Daha fazlasını okuyun"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Seçim yapın"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Bir hata meydana geldi. Besleme bu nedenle kesintiye uğramış olabilir. Daha sonra tekrar deneyin."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Tarih seçme aracıyla tarih seçim talebinde bulunabileceğiniz alan."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Doğrulanan e-posta adreslerinin toplanması için kullanılan alan."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "İsim ve soyismi toplamak için kullanılan metin alanı."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Yalnızca bir seçimin belirlenebildiği çok seçenekli alan."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "API anahtarı geçersiz veya çok sayıda istek var"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Simge boyutu ön ayarını seçin"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(başlık yok)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Seçenek ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Seçeneği Kaldır"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Blog Gönderileri"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "URL kullanın"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Sayfanıza basit bir iletişim formu ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Popüler"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "İnce kontrol seçenekleri etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Harita kontrol seçeneklerini etkinleştirmek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Harici Beslemeyi kullanın"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Hiçbir yazı bulunamadı.  beslemesi kullanarak yazı ekleyin veya yazılarınızı yayımlamaya başlayın."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Kaydedildi"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Tam ekran harita kontrolü gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Sağ altta sokak görünümü harita kontrolünü göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Sokak görünümü için harita kontrolü gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Yardıma mı ihtiyacınız var?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Anahtar alın"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Google Haritalar API anahtarı ekleyin. Bu API anahtarını güncellediğinizde tüm haritalarınız yeni anahtarı kullanır."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Tam ekran harita kontrolünü göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Harita üzerinde yakınlaştırma kontrollerini kullanarak yakınlaştırma ve uzaklaştırmayı etkinleştirmek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Harita yakınlaştırma kontrolleri gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Standart ve uydu harita görüntüleri arasında geçiş yapma özelliğini etkinleştirmek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Standart ve uydu harita görüntüleri arasında geçiş yapma özelliği etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Ziyaretçilerin size telefon numarasını vermesini sağlamak için kullanılan alan."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Yayımlanma tarihi gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Google haritası üzerinde raptiye bırakmak için konum veya adres girin."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "İptal"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Yer veya adres arayın..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Piksel cinsinden harita için yükseklik"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Yakınlaştırma Düzeyi"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "RSS URL’sini düzenleyin"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Soldaki görsel"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Sağdaki görsel"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr " URL’leri, sitelerin genellikle /feed/ dizininde bulunur."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Yayımlanma tarihini göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "İçerikteki maksimum sözcük sayısı"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Yazı içeriğini göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Yazı içeriği gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Yazı sayısı"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Yazı Döngüsü"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Daire"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Kare"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Sosyal medya profillerinize bağlantılar ekleyerek hedef kitlenizi büyütün"
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "palet tasarım renkler sanatçı boya yaratıcı ortam"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "Bağlantı URL'si"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Bir sonuç bulunamadı."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Yarıçap"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Özel"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Özel boyutu uygula"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Simge boyutunu sıfırlayın"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Daha fazla şey anlatmak için biçimlendirilmiş grafik sembol ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "LinkedIn’de Paylaş"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Simgeler"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Her sosyal medya platformunun kendisine ait resmi renklerini kullanmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Paylaş düğmesi renkleri etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Gönderilerinizin beğenilmesine ve paylaşılmasına yardımcı olacak sosyal paylaşım bağlantıları ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Dikey çevir"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Yatay çevir"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Sayfanın bölümlerini gözle görülür bir şekilde birbirinden ayırmak için bir şekil bölücü ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Mobilde düğmeleri yığmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Mobilde düğmeleri yığma"
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Düğmeler"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Yan yana yerleştireceğiniz düğmeler aracılığıyla ziyaretçilerinizi işlem yapmaya yönlendirin."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Döngü"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Küçük resimler"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Yüzde temelli yükseklik için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Yüzde temelli yükseklik etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Küçük resimleri göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Küçük resimlerle gezinti bölümü gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Döngü galerisinde birden fazla görsel sergileyin."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Bu metnin yerine karttaki görselin yanında yer alacak açıklayıcı bir metin koyun. Ardından bu karta düğme, liste veya görsel gibi daha fazla blok ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Soldaki medya"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Sağdaki medya"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "%s gölgesi eklemek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "%s gölgesi gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Kart gölgesi eklemek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Kart gölgesi gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Ofset kart ile yan yana bir görsel veya video ekleyin"
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Yenilemek için ortam öğesini bırakın"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "ortam"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Ortam öğesini düzenleyin"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Örme Duvar Düzeni"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Galeri öğelerine yuvarlak köşeler ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Derlenmiş bir örme duvar düzeni galerisinde birden fazla görsel sergileyin."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Logolar ve Rozetler"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Logoları düzenle"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Siyah - Beyaz"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Güven kazanmak için logo, rozet veya sertifika ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Kaldır"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Kaydet"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Yardım alın"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Anahtarlarım"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Anahtarlar oluşturun"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Formunuzu istenmeyen e-postalara karşı korumak için reCAPTCHA site ve gizli anahtarlarını ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Konu"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "ad@ornek.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "E-posta adresi"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s geçersiz e-posta adresleridir."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s ve %s geçersiz e-posta adresleridir."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s geçersiz bir e-posta adresidir."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Daha uzun yanıtlar için metin kutusu."
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Metin ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Konu örneği"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Soyismi alanı eklemek düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Hem isim hem de soyismi alanları gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Dinamik ayıraç öğesi için piksel cinsinden yükseklik."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Diğer blokların arasına yeniden boyutlandırılabilir bir ayırıcı ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Tweet’lenecek bir alıntı ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Twitter Kullanıcı Adı"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Düğme Rengi"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Twitter’da blog sayfanızı, web sitenizi ve işletmenizi tanıtarak bunların reklamını yapmanın en kolay yolu."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Okuyucuların Twitter’da paylaşabileceği bir alıntı ekleyin."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "0,00 USD"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Açıklama ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Öne Çıkanlar"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Bu öğenin fiyatını göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Bu öğenin fiyatın gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Fiyat"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Bu öğenin bir görselini göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Bu öğenin görseli gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Görsel"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Yiyecek ve İçecek bloğunda yer alan bir yiyecek veya içecek öğesi."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Vegan"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Pesketaryen"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Glutensiz"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Vejetaryen"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Daha Baharatlı"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Baharatlı"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Her bir öğenin fiyatını göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Her bir öğenin fiyatı gösteriliyor"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Fiyatlar"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Her bir öğenin görsellerinin gösterilmesi için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Her bir öğe için görseller görüntüleniyor"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Görseller"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Menü veya fiyat listesi sergileyin."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Bu satır için sütun sayısını belirleyin."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Şimdi bu %s sütunlu satır için bir sayfa düzeni seçin."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Satır"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Satıra arka plan ekleyin"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "dört"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "üç"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "iki"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "bir"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Satır blok düzenini değiştirin"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Çeyrek Dönem"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Üçlük"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Ana sütuna arka plan ekleyin"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Genişlik"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Kapsayıcının etrafındaki alan."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Satırın bir alt satırı."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Sütun bloklarına yapılandırılmış bir sarmalayıcı ekledikten sonra sütunlara istediğiniz içerik bloklarını ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Plan %s"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Fiyat tablolarının sayısını değiştirin"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Dört Fiyat Tablosu"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Üç Fiyat Tablosu"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "İki Fiyat Tablosu"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Bir Fiyat Tablosu"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Ziyaretçilerin fiyatları ve planları karşılaştırabilmesi için fiyat tabloları ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Özellik ekleyin"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "A Planı"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Şimdi Satın Al"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Ziyaretçilerin fiyatları ve planları karşılaştırabilmesi için fiyat tablosu."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Bu sayfaya bir JavaScript polyfill’i yükleyerek Internet Explorer’ı desteklemek."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Bir JavaScript polyfill’i yükleyerek Internet Explorer desteği ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Akordeon öğelerde yer alan içerikleri organize edin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Bu akordeon öğeyi varsayılan olarak açık ayarlamak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Akordeon öğe varsayılan olarak açıktır."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Akordeonlara daraltılabilir akordeon öğeler ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Ürün veya hizmetinize üç sütuna kadar küçük notlar ekleyebilirsiniz."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Arka plan olarak ekleyin"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Üst özellik bloğunun içinde yer alan tekil alt sütun."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Uyarılar, genel içeriğin dışında gösterilen mesajlardır. Uyarılar, okuyucuların genellikle eyleme geçmesini gerektiren bağlamsal geri bildirimlerdir."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Bu bir uyarı bloğudur"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Bağlamsal geri bildirim mesajları veya bildirimler sağlayın."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Konumu Düzenle"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Google haritası üzerinde işaretlenecek bir adres veya konum ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google Haritalar"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Eylem çağrısı düğmelerini göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Eylem çağrısı düğmeleri gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Stiller"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Görüntülemek için en fazla dört sütun ekleyin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Eylem çağrısı düğmesini göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Eylem çağrısı düğmesi gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Hizmetler bloğundaki tek bir hizmet öğesi."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Gölge"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Görselleri bir araya getirerek, harika bir kolaj galerisi oluşturun."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Okuyucularınızın nezdinde tarafsız bir şekilde güven ve güç kazanmanızı sağlayacak bir biyografi yazın..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Yazarın ismini yaz..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Avatarı düzenleyin"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Göz boyamak için değil, tüm dürüstlüğümle var olmak için buradayım. Ürettiklerimle istediğim dünyayı yaratmaya çalışıyorum."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Güven ve güç inşa etmek üzere bir yazar biyografisi ekleyin."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "Galerideki %1$d %2$d sıralı görsel"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Yığın"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Işık Kutusu"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Resim Yazıları"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Görsel ışık kutusunu etkinleştirmek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Görsel ışık kutusu etkin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Ortam resim yazılarını göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Her ortam öğesi için resim yazısı gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Uygun galeri alanını bütünüyle tam genişlikli görsellerle doldurmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Tam genişlikli görseller etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Tek sütunluk yığın galerisinde birden fazla görsel sergileyin."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Gist Yükleme"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "GitHub Gist URL’si ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Gist Meta Verisi"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Gist Dosyası"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Gist URL’si"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Gist meta verilerini göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Gist meta verileri gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Gist bağlantısı ekleyerek GitHub gist’lerini gömülü hale getirin."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Bu Gist’i GitHub’da görüntüleyin"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "GIF dosyası arayın"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Aklınızdaki o mükemmel GIF dosyasını bulmak için Giphy’de arama yapın"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Bu GIF dosyasının ALT niteliği boş"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "GIF dosyasını kaldır"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Görseli sadece dekoratif amaçlı kullanıyorsanız bu kısmı boş bırakın."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Görselin amacını açıklayın"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Dilediğiniz GIF dosyasını seçin, herhangi biri olur."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Alt alan boşluğunu kaldırmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Alt alan boşluğunu tekrar eklemek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Üst alan boşluğunu kaldırmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Üst alan boşluğunu tekrar eklemek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Öğeleri daha küçük görünüm pencerelerinde üst üste yığmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Duyarlılık etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Düğmeyi tam genişlikli olarak görüntülemek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Tam genişlikli olarak görüntüleniyor."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Görsel kırpma seçeneklerini sıfırla"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Saat yönünde döndür"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Saat yönünün tersine döndür"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Kırpma ayarları görseli yer tutucu"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "On Saniye"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Dokuz Saniye"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Sekiz Saniye"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Yedi Saniye"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Altı Saniye"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Beş Saniye"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Dört Saniye"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Üç Saniye"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "İki Saniye"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Bir Saniye"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Sürüklenebilir"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Otomatik Oynatma"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Sabit slayt olmadan ekranı kaydırmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Sabit slaytlar etkinleştirilmeden ekran kaydırma etkin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Öğe üzerinde gezinme sırasında otomatik oynatmayı duraklatmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Öğe üzerinde gezinme sırasında otomatik oynatma duraklatılıyor."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Slaytlar ortaya hizalanıyor."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Slaytlar sola hizalanıyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Nokta ile gezintiyi göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Noktalı gezinti seçeneği gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Slayt gezinti oklarını göstermek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Slayt gezinti okları gösteriliyor."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Sürükleme işlevini etkinleştirmek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Sürükleme ve bırakma etkin."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Otomatik olarak sonraki slayda geçer."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "%1$d %2$s sonrasında ilerleme."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "saniye"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "saniye"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Varsayılan"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Kişiselleştirilmiş renk seçici"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Özelleştirilmiş URL"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Görselleri sürükleyin, yenilerini karşıya yükleyin veya kütüphanenizden dosya seçin."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "%s Galerisi"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Resim yazısı yazın..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "ilave"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Boyut"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Dönüştür"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Ağırlık"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Yazı Tipi"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Tipografiyi değiştir"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Filtreyi uygula"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Büyük Harf"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Başlık %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Vurgulanan metin ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Anlatılması gereken önemli bölümlerin üzerinde durarak dikkat çekmek için paragraf metnini vurgulayın."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Anlatılması gereken önemli bölümlerin üzerinde durarak dikkat çekin."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Nokta"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Sayfa düzenini değiştir"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Piksel cinsinden içerik genişliği"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Piksel cinsinden yükseklik"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Kapsayıcı içindeki alan."
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Ana site üst bilgisine arka plan ekleyin"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Genellikle bir veya iki eylem çağrısıyla birlikte sayfanın giriş kısmını oluşturan ana içeriği ekleyin."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Sayfanın küçük bir metin ve eylem çağrısıyla ile beraber tanıtıcı bölümü."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Çok Büyük"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Büyük"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Orta"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Küçük"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Yok"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Arka Planı kaldırın"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Videoyu döngüye sokmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Arka Plan videosunu döngüye sokma."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Videonun sesini kapatmak için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Arka Plan videosunun sesini kapatma."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Görüntüle"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Konum"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Yinele"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Dolgu"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Uygula"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Kaydediliyor"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Yenilemek için görseli bırakın"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Yükseklik"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Tam ekran modunu etkinleştirmek için düğmeyi kaydırın."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Tam ekran modu etkinleştirildi."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Sayfa Düzeni"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Zorunlu"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Etiket ekleyin..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "Mobil %s"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Cilt payı"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Gelişmiş %s ayarları"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Sol"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Alt"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Sağ"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Üst"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Senkronize Et"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Eşitlemeyi Kaldır"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Gelişmiş %s ayarlarını kapatın"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Birim Seçin"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Kenar boşluğu"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Reddit’te Paylaş"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Google’da Paylaş"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Tumblr’da Paylaş"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "E-posta ile paylaş"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Linkedin'de Paylaş"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Pinterest'te Paylaş"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Twitter'da Paylaş"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Facebook’ta Paylaş"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "WordPress.org’da CoBlocks’u değerlendirin"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Yorum Paylaşın"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Harita oluşturma için Google Haritalar API anahtarı"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Mesajınız gönderildi:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Gönder"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Mesaj"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Son"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "İlk"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Ad"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "E-posta"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Form kaynaklı istenmeyen posta koruması için Google reCaptcha gizli anahtarı"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Form kaynaklı istenmeyen posta koruması için Google reCaptcha site anahtarı"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks, WordPress Gutenberg blok düzenleyici için profesyonel <strong>sayfa geliştirmeye yönelik içerik blokları</strong> paketidir. Bloklarımız, özellikle site geliştiricilerin WordPress’te harika ve zengin içerikli sayfalar oluşturmasına yardımcı olmak amacıyla tasarlanmıştır."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

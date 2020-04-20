@@ -1,0 +1,6 @@
+Apr 20 2020 00:52:52
+{"type":8,"message":"unserialize(): Error at offset 175 of 13680 bytes","file":"F:\\xampp\\htdocs\\jobnow\\wp-includes\\functions.php","line":594}
+
+Apr 20 2020 00:52:52
+{"type":8,"message":"unserialize(): Error at offset 5013 of 5839 bytes","file":"F:\\xampp\\htdocs\\jobnow\\wp-includes\\functions.php","line":594}
+

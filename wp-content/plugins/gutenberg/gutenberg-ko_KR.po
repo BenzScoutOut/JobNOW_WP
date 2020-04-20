@@ -1,0 +1,1380 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-15 04:25:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "클래식"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "응답이 유효한 JSON 응답이 아닙니다."
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "편집기 공개"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "음소거"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "최근 댓글"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "최신 댓글"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "자동"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "미리 올림"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "지원"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "보여줄 댓글 없음."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s - %2$s"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "글 선택"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "주 선택"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "요일 선택"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "월 선택"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "년도 선택"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "글 보관함"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "가능한 블록 타입"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "블록 제거"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "공개하기 패널 열기"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "점"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "넓은 라인"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "크게"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "문서"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "URL 복사"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "파일 이름 쓰기..."
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "파일"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "컬럼 블록 안에 단일 컬럼."
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "컬럼"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "Outline"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "연속재생"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "자동 실행"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "대화상자 닫기"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "죄송합니다. 이 파일 타입은 보안을 이유로 허용되지 않습니다."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "팁 비활성화"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "알았습니다"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "다음 팁 보기"
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "리뷰를 위한 제출이 준비가 됐나요?"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "이미지 제거"
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "오브젝트의 부모에 대한 ID."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "파일 %s를 미디어 라이브러리에 업로드 중 에러."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "자동저장 보기"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "이 글은 아래 버전보다 최신의 자동저장 버전이 있습니다."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "자동저장중"
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "여기에 URL을 입력하세요..."
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "툴바에 고정"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "툴바에서 제거"
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "고정 폭 테이블 셀"
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "여백과 탭을 존중하는 텍스트를 추가하세요. 스타일도 허용됩니다."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "자신의 최신 글 목록 표시."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "트위터, 인스타그램, 유투브와 같은 다은 사이트에서 가져온 콘텐츠를 표시할 수 있는 블록을 추가하세요."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "블록 로딩중 에러: %s"
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "첫번째 글자가 크게 보입니다."
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "임베드 핸들러"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "%s 제거"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "고유주소 복사"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "고유주소 복사됨"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "높이 - 픽셀"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "여백 설정"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "큰 첫글자 보이기 토글."
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "이름:"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%3$s 중 %2$s)"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "아이템 제거"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "색상 코드: %s"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "플러그인 닫기"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "이미지 크기"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "미디어 라이브러리"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "선택된 블록으로 건너뛰기"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "예약..."
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "글 고유주소 편집"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "블록 설정 보이기"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "블록 설정 감추기"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "블록 설정 닫힘"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "편집기 설정"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "링크 제거"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "페이지 브레이크"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "페이지 처리"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "다음 페이지"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "높이"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "넓이"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "썸네일이 잘라지지 않았습니다."
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "썸네일이 정렬을 위해 잘라졌습니다."
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "고급"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "사이즈 지정"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "템플릿 초기화"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "현재 상태 유지"
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "템플릿을 초기화하면 콘텐츠의 손실을 가져올 수 있습니다. 계속하길 원하시나요?"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "문서 통계"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "지금 예약됐으며 준비될 것입니다."
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "예약됨"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "예약중..."
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "코드 편집기 선택됨"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "비주얼 편집기 선택됨"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "플러그인"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "블럭 추가"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "텍스트 추가..."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "문서"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "선택 또는 미디어 업로드"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "제목 쓰기..."
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "제목 없음"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "헤딩 %d"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "정렬기준"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "새 열"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "갤러리"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "드롭다운으로 보기"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "텍스트 색상"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "가로줄"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "순서없는 목록으로 변경"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "공개하기:"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "복사 에러"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "결과가 없습니다."
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "서식이 설정된 텍스트 쓰기..."
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "특성 이미지"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "닫기 설정"
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "URL 사용"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "보안 비일번호 사용"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "발행일 표시"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "배경색상"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "클래식"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "부제목"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "비디오"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "숏코드"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "태그"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "설정"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "가시성:"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "가시성"
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "글 가시성"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "블럭"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "제목 쓰기..."
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "다시하기"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "되돌리기"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "공개"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "단어"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "순서있는 목록"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "테이블"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "공개할 준비가 됐나요?"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "부제목 쓰기..."
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "공개됨"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "헤딩요소"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "문단"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "문단"
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "블럭이 선택되지 않았습니다."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "초기화"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "위로 올리기"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "비밀번호 생성"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "상태"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "순서"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "이미지"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "이미지 편집"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "이미지"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "임베드"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "편집기"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s 제거됨"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s 추가됨"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "미리보기"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "블록 삭제됨."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "블록 업데이트 됨."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "블록 생성됨."
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "휴지통 처리 실패"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "저장되지 않은 변경사항이 있습니다. 계속하면 없어집니다."
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "문서 아웃라인"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "헤딩"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "선택한 비밀번호로 보호됨. 비밀번호가 있는 사람만 이 글을 볼 수 있습니다."
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "비밀번호로 보호됨"
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "사이트 관리자와 편집자만 볼 수 있습니다."
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "비공개"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "모든 사람 보기 가능."
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "지금 이 글을 비공개로 발행하시겠습니끼?"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "부모 텀"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "부모 카테고리"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "새 텀 추가"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "새 카테고리 추가"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "텀"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "정말로 이글을 발행 취소하시겠습니까?"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "즉시"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "임시 글로 저장하기"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "저장중"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "링크 복사하기"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "현재 라이브 상태입니다."
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "예약"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "업데이트"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "리뷰를 위한 제출"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "업데이트 중..."
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "공개중..."
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "고유주소:"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d 리비전"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "제안:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "글 포맷"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "채팅"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "표준"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "추가 정보"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "수동 요약에 대해 더 알아보기"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "요약 쓰기 (선택적)"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "템플릿:"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "부모 없음"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "블록이 없습니다."
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "저장됨"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "임베드"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "블록"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "블록 검색"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "글 텍스트 복사"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "복구 시도"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "편집기가 예상치 못한 에러를 발견했습니다."
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(다중 H1 헤딩은 추천하지 않습니다)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(사용중인 테마가 이미 글 제목으로 H1을 사용하고 있을 수도 있습니다)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(올바르지 않은 헤딩 레벨)"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(빈 헤딩)"
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "일반 블록으로 전환"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "비주얼로 편집"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "복제"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "블록은 이미 하단에 있으므로 아래로 이동할 수 없습니다"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "블록은 이미 상단에 있으므로 위로 이동할 수 없습니다"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "블록 %s은(는) 블록일뿐이므로 이동할 수 없습니다"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "아래로 이동"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "HTML로 편집"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "블록으로 변환"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "블록: %s"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "이 블록은 에러가 있으며 미리보기 할 수 없습니다."
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "다음으로 변형하기:"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "제거"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "원본 찾기"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "복사됨!"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "추가적인 설정은 편집기 블록 설정 사이드바에서 가능합니다."
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "편집기 콘텐츠"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "도구"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "편집기 탑바"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "이 알림 무시"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "아이템 제거됨."
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "아이템 추가됨."
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "업로드 하려면 파일을 놓으세요"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "알 수 없는 에러 발생함"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d 결과 찾음. 위 아래로 이동하려면 화살표 키를 사용하세요."
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(제목 없음)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "제출하기"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "닫기"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "링크"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "취소선"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "이탤릭"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "굵게"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "아이템 수"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "모두"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "카테고리"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "선택"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "쓰기..."
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "詩"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "산문"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "컬럼 삭제"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "다음에 컬럼 추가"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "이전에 컬럼 추가"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "행 삭제"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "다음에 행 추가"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "이전에 행 추가"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "숏코드를 여기서 쓰기..."
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "나눔자"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "분리자"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "인용"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "인용 쓰기..."
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "인용 텍스트 쓰기..."
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "요약글"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "미리 포맷됨"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "텍스트"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "더 읽기"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "목록 쓰기..."
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "순서있는 목록"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "순서없는 목록"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "목록 아이템 들여쓰기"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "목록 아이템 내어쓰기"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "순서있는 목록으로 변환"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "목록"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "최근 글"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "글을 찾을 수 없습니다."
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "최근 글"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "사진"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "미리보기"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "사용자 정의 HTML"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "제목"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "레벨"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "사진"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "없음"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "미디어 파일"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "첨부 페이지"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "비디오"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "오디오"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "음악"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "이미지"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "블로그"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "글"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "%s로부터 임베드 된 콘텐츠"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "여기에 임베드 하려면 URL을 입력하세요..."
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "임베드중..."
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "컬럼"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "코드"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "코드 쓰기..."
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "카테고리"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "보여줄 글 수"
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "버튼"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "적용"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "블록이 삭제됐거나 가능하지 않습니다."
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "취소"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "편집"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "캡션 쓰기..."
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "업로드"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "오디오"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "이 색상조합은 사람들이 읽기 어려울 수 있습니다. 더 밝은 배경 색상 그리고/또는 어두운 글자 색상을 사용해보세요."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "이 색상조합은 사람들이 읽기 어려울 수 있습니다. 더 어두운 배경 색상 그리고/또는 밝은 글자 색상을 사용해보세요."
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "클리어"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "사용자 정의 색상 피커"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "색상: %s"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "위젯"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "포맷"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "1440부터 인쇄. 이것은 코어의 새로운 블록 편집기를 위한 개발 플러그인입니다."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "제목 추가"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "글쓴이"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "슬러그"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "토론"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "요약글"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "공개하기"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "메타데이터"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "저장하기"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "문서"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(제목 없음)"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "구텐베르크 팀"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "구텐베르그"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "데모"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "%s 전"

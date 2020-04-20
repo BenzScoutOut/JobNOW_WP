@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-12 18:28:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "Si cambias el número de columnas, se restablecerá el diseño y puede que se elimine contenido."
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "Alinea los bloques a una cuadrícula general, compatible con los puntos de interrupción."
+
+#: index.js:6
+msgid "Huge"
+msgstr "Enorme"
+
+#: index.js:6
+msgid "Large"
+msgstr "Grande"
+
+#: index.js:6
+msgid "Medium"
+msgstr "Medio"
+
+#: index.js:6
+msgid "Small"
+msgstr "Pequeño"
+
+#: index.js:6
+msgid "No padding"
+msgstr "Sin espaciado interno"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "Elige el espaciado interno para esta columna:"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "Espaciado interno"
+
+#: index.js:6
+msgid "Background"
+msgstr "Fondo"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "Color de columna"
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "Punto de interrupción adaptable"
+
+#: index.js:6
+msgid "Layout"
+msgstr "Diseño"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "Elige un diseño para empezar con:"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "Elegir diseño"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "Mostrando diseño para ordenadores"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "Mostrando diseño para tabletas"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "Mostrando diseño para móviles"
+
+#: index.js:6
+msgid "Span"
+msgstr "Ancho"
+
+#: index.js:6
+msgid "Offset"
+msgstr "Separación"
+
+#: index.js:6
+msgid "Column"
+msgstr "Columna"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "Dispositivos móviles"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "Tableta"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "Ordenadores"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 columnas"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 columnas"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2 columnas"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1 columna"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "Permite que los bloques se alineen con una cuadrícula general"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "Cuadrícula de diseño"
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "Una columna utilizada dentro de un bloque cuadrícula de diseño."
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Patrulla de nieve</strong>"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "Ten en cuenta que, al obtener una vista previa de tu entrada, se mostrará el punto de interrupción de tu navegador, no el que tengas seleccionado actualmente."

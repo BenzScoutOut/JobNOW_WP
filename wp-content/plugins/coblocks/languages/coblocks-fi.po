@@ -1,0 +1,3415 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Finnish
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:15:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "16:9 kuvasuhde"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "4:3 kuvasuhde"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Salli tyylin muokkaus liukuväritäytön avulla."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Liukuvärityylit"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Salli tyylin muokkaus mukautetuilla väreillä."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Mukautettujen värien valitsimet"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Salli väriasetukset koko muokkaimen laajuisesti."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Väriasetukset"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Salli lohkotason typografiaohjaimet."
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Typografiaohjaimet"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Muokkaimen asetukset"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Asetusta käytetään liukuväriohjaimien käytöstä poistoon tai käyttöönottoon koko sivuston laajuisesti."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Asetusta käytetään mukautettujen väriohjaimien käytöstä poistoon tai käyttöönottoon koko sivuston laajuisesti."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Asetusta käytetään kaikkien väriohjaimien käytöstä poistoon tai käyttöönottoon koko sivuston laajuisesti."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Asetusta käytetään typografiaohjaimien käytöstä poistoon tai käyttöönottoon koko sivuston laajuisesti."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Sijainti..."
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Aika..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Kirjoita tapahtuman kuvaus..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Kirjoita tapahtuman nimi..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Vuosi..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Kuukausi..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Päivä..."
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Tapahtuma tapahtumalohkon sisällä."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Tapahtumakohde"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Näytä tapahtumat tältä jaksolta (enintään 100 tapahtumaa)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Tapahtumia per sivu"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Vaihda tila: linkki julkiseen kalenteriin."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Julkinen kalenteri näytetään."
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Kirjoita URL tähän..."
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Nouda kaikki"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "päivämäärä"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Lisää tapahtumalista tai näytä tapahtumia julkisesta kalenterista."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Tapahtumat"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Tyhjennä mediasisältö"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "näyttö"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Virhe. Tarkista kalenterin käyttöoikeudet varmistaaksesi, että se on julkinen. Voit myös yrittää myöhemmin uudelleen."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "ohjelmisto"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "siirrä"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "paranna"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "trendikäs"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "trendi"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "Tulinen"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "yliopisto"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "diplomi"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "tutkinto"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "valmistujaiset"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "valmistuminen"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "koulutus"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "vuodenaika"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "talvi"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "jäätynyt"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "jää"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "kylmä"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "lähetys"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "ostoskori"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "insinööri"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "kehitä"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "tunnusmerkki"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "puhe"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "kieli"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "suojattu"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "turvallinen"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "biometrinen"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "puolustus"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "turvallisuus"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "yhdessä"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "tiimi"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "vimpain"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "lisäosa"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "arvoitus"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "sähköinen kaupankäynti"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "kauppa"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "myymälä"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "kassa"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "käteinen"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "raha"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "Kukka"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "puutarhanhoito"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "kiva"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "haju"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "tuoksu"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "terälehti"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "juhlat"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "kutsut"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "tuoli"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "rentoudu"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "viileä"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "viikonloppu"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "maku"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "lusikka"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "haarukka"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "juoma"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "ruoka"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "pilvenpiirtäjä"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "kaupunki"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "rakennus"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "yhtiö"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "yritys"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "sijainti"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "maa"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "globaali"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "julkinen"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "maailma"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "kesä"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "vesi"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "valtameri"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "ulkona"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "ulkoilma"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "minimaalinen"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "maisema"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "Kukkulat"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "Valintaruutu"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "tarkista"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "Kartta"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "vimpaimet"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "neliö"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "laatikot"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "laatikko"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "Aallot"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "Valintanappi"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "toimita"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "Lähetä"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "kommentti"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "vastaa"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "Vastaa"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "kirje"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "lue"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "Keskitin"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "yhdistä"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "surface"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "pöytä"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "pc"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "tykätä"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "suosikki"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "äänestä"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "arvioida"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "suukko"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "ystävänpäivä"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "muoto"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "rakkaus"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "typografia"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "Merkintä"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "lyijykynä"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "Kirjasin"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "tyyppi"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "taide"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "Piirros"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "piirustus"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "kreikka"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "ilo"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "hauska"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "hymy"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "Hymiö"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "emoticon"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "iloinen"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "data"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "pisteet"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "diagrammi"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "kaavio"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "ympyräkaavio"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "tilastot"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "matematiikka"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "pyöreä"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "liitä"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "Ympyrä"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "miinus"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "lisää"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "sivellin"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "Maalaus"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "värit"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "paletti"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "tuottaja"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "ohjaaja"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "videokuvaus"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "kokoelma"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "Aukko"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "Filmi"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "Kamera"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "valokuvaus"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "valokuvaaja"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "valokuva"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "laite"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "tietokone"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "kuulokkeet"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "ääni"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "luova"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "esittäjä"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "laulu"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "podcast"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "mikrofoni"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "musiikki"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "Rakenna"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "lohko"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "Lohkot"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Siirrä mediatiedosto palvelimeen tai valitse tiedosto mediakirjastostasi."
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Näytä kuvat limitettynä tiiliseinägalleriana."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Limitys"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Varaa aika"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Iltapäivä"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Aamu"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Aika"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Sovittu aika"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Huomautuksia?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Ei"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Kyllä"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Tuletko osallistumaan?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "+ avec"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "yhteystieto"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "yhteystieto"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Voit käyttää seuraavia avainsanoja Aihe-kentässä: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "Nimi"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Lomake lähetetty osoitteesta [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Kirjoita gallerian kuvateksti..."
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Media-alue"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Lisää otsikko..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Valikon nimi..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Lisää painike..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Kirjoita teksti..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Kirjoita nimi..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Lisää sisältöä..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Lisää otsikko..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "linkit"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Sosiaalisen median profiilit"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Kuvake ja teksti"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Teksti"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Peite"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "sosiaalinen"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Jaa"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Kärki"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Pyramidi"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Pyöreä"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Rinne"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Vino"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Kukkulat"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Aaltoileva"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "erottaja"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Muotojakaja"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "ominaisuudet"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Palvelut"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Kirjoita kuvaus..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Palvelu"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "asettelut"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "palstat"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "rivit"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Hintataulun kohde"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "vertailu"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "saapumissivu"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Hintataulu"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "liukusäädin"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Näytä artikkelit tai ulkoinen blogisyöte karusellina."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(ei otsikkoa)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS-syöte"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Vaakasuunta"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "uusimmat"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "blogi"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "artikkelit"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Näytä artikkelit tai RSS-syöte pinottuina tai vaakasuuntaisina kortteina."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Artikkelit"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "video"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "kuva"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "ohjaukset"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "kartat"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "osoite"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Kartta"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "kappale"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Korostus"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Toissijainen painike..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Lisää sankariosion otsikko..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "painike"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Sankariosio"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Muokkaa URL-osoitetta: %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Palaa kohteeseen %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "koodi"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "animaatio"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "syöte"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Piilotettu tekstikenttä lisätietojen kokoamista varten"
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "hyperlinkki"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Tekstikenttä URL-osoitetta varten."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Useita vaihtoehtoja sisältävä valintaruutukenttä, joka sallii vain yhden vaihtoehdon valinnan."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "avattava valikko"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Useita vaihtoehtoja sisältävä kenttä, joka sallii vain yhden vaihtoehdon valinnan."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Usean rivin teksti"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "viestin teksti"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "teksti"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Tekstialue"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "faksi"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "mobiililaite"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "solu"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "matkapuhelin"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "puhelin"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "valinta"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "Valitse"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "Valitse"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Valintanappi"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "sukunimi"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "etunimi"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "sähköposti"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "sähköposti"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "vuosi"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "kuukausi"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "päivä"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "kalenteri"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "yhteystieto"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "tietoja"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "sähköposti"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Lomake"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Ruokatuote"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Lista"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Ruudukko"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "valikko"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "ravintola"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Ruoka ja juomat"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Ominaisuudet"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Tämä on ominaisuuslohko, jonka avulla voit tuoda esille haluamiasi ominaisuuksia."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Lisää ominaisuuden sisältö"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Ominaisuuden nimi"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Lisää ominaisuuden nimi..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Ominaisuus"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Täysi leveys"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Rivi"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Piste"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "tyhjä väli"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Dynaaminen HR"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Palsta"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Kerrokset"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Ruudutvierekkäin"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Kollaasi"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "jaa"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Twiittaa napsauttamalla"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Sisällytä"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Peitä"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Automaattinen"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Esitä pinona mobiililaitteessa"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "toimi heti -kehote"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "linkki"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Tekijän linkki..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Pudota, jos haluat siirtää palvelimeen avatar-kuvana"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "Maija Meikäläinen"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "profiili"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "elämäkerta"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Virhe"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Varoitus"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Onnistui"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Tiedot"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "viesti"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "huomautus"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Hälytys"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Kirjoita haitarinäkymän kohteen nimi..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Haitarinäkymän kohde"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "välilehdet"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Haitarinäkymä"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Yläosan aalto"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Alaosan aalto"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Pyöristetty"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Valintaruutu"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Mediakortti"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Tumma violetti"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Yö"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Hopea"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Vakio"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "sinetti"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "palkinnot"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "asiakaskokemukset"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "asiakkaat"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Vaalea"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Tumma"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "valokuvat"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "galleria"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Isot kirjaimet"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Pienet kirjaimet"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Ensisijainen painike..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Lihavoitu"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Normaali"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Täyttö"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Ääriviivat"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "kuvakkeet"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Kuvake"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Vaihda tila: näytä %s sisäkkäisenä."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Näytetään %s sisäkkäisenä."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "Sisäkkäinen %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Päivitys"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Tuli"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Koulu"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Lumihiutale"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Toimitus"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Kerrokset"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Heijastus"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Uutta"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Käännä"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Sormenjälki"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Laajennus"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Luottokortti"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Rakenna"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Kukka"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Kakku"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Sohva"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Ruokailu"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Paikkakunta"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Maapallo"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Aallot"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Vuoret"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Merkintä"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Lohkot"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Signaali"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Lähetä"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Vastaa"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Keskitin"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Näppäimistö"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Katso"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "Tabletti"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "Kannettava tietokone"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Laitteet"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Pöytätietokone"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Tähti"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Sydän"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Piirros"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Toiminnot"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Hymiö"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Kysely"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Pistekaavio"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Ympyräkaavio"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Miinusympyrä"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Lisää ympyrä"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Sivellin"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Maalaus"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Värien valitsin"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Värisuodatin"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "Filmi"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Video"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Galleria"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Kamera"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Aukko"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Ääni"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Äänenvoimakkuus"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Kuulokemikrofoni"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "Albumi"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Ääni"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Vintage-suodatin"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Alkuperäinen"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Prosenttiosuus"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Kuvapiste"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Piilotettu"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Sivusto"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Jokin meni vikaan."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Valitse"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Nouda ulkoinen syöte"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Pvm"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Puhelin"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Lisätietoja"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Valitse yksi"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "On tapahtunut virhe. Tämä merkitsee todennäköisesti, että syöte ei toimi. Yritä myöhemmin uudelleen."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Kenttä, jonka kautta pyydetään päivämäärän valintaa."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Kenttä, jonka kautta pyydetään vahvistettua sähköpostiosoitetta."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Tekstikenttä, jonka kautta kerätään etu- ja sukunimiä."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Useita vaihtoehtoja sisältävä kenttä, joka sallii vain yhden vaihtoehdon valinnan."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Virheellinen API-avain tai liikaa pyyntöjä"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Valitse kuvakkeen esimääritetty koko"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(ei otsikkoa)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Kirjoita valinta..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Poista valinta"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Blogiartikkelit"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Käytä URL-osoitetta"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Lisää sivullesi yhteydenottolomake."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Suositut"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Tarkat ohjainvalinnat on otettu käyttöön."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Vaihda tila: kartan ohjainsäätimet käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Käytä ulkoista syötettä"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Artikkeleja ei löydetty. Aloita julkaiseminen tai lisää artikkeleita RSS-syötteestä."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Tallennettu"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Koko näytön karttaohjain näytetään."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Näytä/piilota katunäkymäohjaimet oikeassa alakulmassa."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Katunäkymäohjain näytetään."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Tarvitsetko apua?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Hanki avain"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Lisää Google Maps -API-avain Tämän API-avaimen päivittäminen määrittää kaikki karttasi käyttämään uutta avainta."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Näytä/piilota koko näytön karttaohjain."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Vaihda tila: kartan lähentäminen ja loitontaminen zoomausohjaimilla käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Kartan zoomausohjaimet näytetään."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Vaihda tila: siirtyminen vakiotyyppisten ja satelliittikarttojen välillä käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Siirtyminen vakiotyyppisten ja satelliittikarttojen välillä on otettu käyttöön."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Puhelinnumerokenttä, jonka avulla vierailijat voivat antaa puhelinnumeronsa."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Julkaisupäivä näytetään."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Pudota nuppineula Google-kartalle antamalla sijainti tai osoite."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Etsi paikkaa tai osoitetta..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Kartan korkeus kuvapisteinä"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Zoomaustaso"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Muokkaa RSS URL -osoitetta"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Kuva vasemmalla"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Kuva oikealla"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS-URL-osoitteet sijaitsevat normaalisti sivuston /feed/-hakemistossa."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Näytä/piilota julkaisupäivä."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Sisällön sanojen enimmäismäärä"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Näytä/piilota artikkelin sisältö."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Artikkelin sisältö näytetään."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Artikkelien lukumäärä"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Artikkelikaruselli"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Neliö"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Kasvata yleisöäsi lisäämällä linkkejä sosiaalisen median profiileihin."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "paletti design suunnittelu värit artisti taiteilija maalaus luova media"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "Linkin URL-osoite"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Tuloksia ei löytynyt."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Säde"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Mukautettu"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Käytä mukautettua kokoa"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Nollaa kuvakkeen koko"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Lisää stilisoitu graafinen symboli haluamasi viestin välittämiseksi."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Jaa LinkedIn-palvelussa"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Kuvakkeet"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Vaihda tila: sosiaalisen median viralliset värit."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Jakopainikkeiden värit on otettu käyttöön."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Sisällön jakaminen sosiaalisessa mediassa auttaa sinua saamaan lisää tykkäyksiä ja jakoja."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Käännä pystysuunnassa"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Käännä vaakasuunnassa"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Lisää muotojakaja, joka erottaa sivun osiot toisistaan visuaalisesti."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Vaihda tila: painikkeiden esittäminen pinona mobiililaitteissa."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Painikkeiden esittäminen pinona mobiililaitteissa."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Painikkeet"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Kehota vierailijoita suorittamaan tiettyjä toimintoja vierekkäin esitettävien painikkeiden avulla."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Karuselli"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Pikkukuvat"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Vaihda tila: prosenttipohjainen korkeus käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Prosenttipohjainen korkeus on aktivoitu."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Näytä/piilota pikkukuvat."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Näyttää navigoinnin pikkukuvien avulla."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Näytä kuvavalikoima upeana karuselligalleriana."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Korvaa tämä teksti kuvauksella, joka sopii yhteen korttisi kuvan kanssa. Lisää tämän jälkeen tähän korttiin muita lohkoja, kuten painikkeita, listoja tai kuvia."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Mediasisältö vasemmalla"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Mediasisältö oikealla"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Vaihda tila: varjostuksen lisäys (%s)."
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Varjostus näytetään – %s."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Vaihda tila: kortin varjostuksen lisäys."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Kortin varjostus näytetään."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Lisää kuva tai video ja sen vierellä esitettävä kortti."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Korvaa media pudottamalla sisältö tähän"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Muokkaa mediaa"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Tiiliseinä"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Lisää pyöristetyt kulmat gallerian kohteisiin."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Näytä kuvavalikoima järjesteltynä tiiliseinägalleriana."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Logot ja tunnusmerkit"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Muokkaa logoja"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Mustavalkoinen"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Lisäämällä logoja, tunnusmerkkejä ja sertifikaatteja voit rakentaa luotettavaa vaikutelmaa."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Poista"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Tallenna"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Pyydä ohjeita"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Omat avaimet"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Luo avaimet"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Lisäämällä reCAPTCHA-todennuksen ja salaiset avaimet voit suojata lomakkeesi roskapostilta."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Aihe"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "nimi@esimerkki.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Sähköpostiosoite"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "‌‌%s eivät ole kelvollisia sähköpostiosoitteita."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s ja %s eivät ole kelvollisia sähköpostiosoitteita."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "‌‌%s ei ole kelvollinen sähköpostiosoite."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Tekstiruutu pidempiä vastauksia varten."
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Lisää teksti..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Aiheen esimerkki"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Vaihda tila: Sukunimi-kentän lisäys."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Sekä Etunimi- että Sukunimi-kenttä näytetään."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Dynaamisen erotinelementin korkeus kuvapisteinä"
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Lisää kooltaan muokattavissa oleva tyhjä väli muiden lohkojen väliin."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Lisää lainaus twiittiin..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Käyttäjänimi"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Twitter-käyttäjänimi"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Painikkeen väri"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Helpoin tapa markkinoida blogiasi, sivustoasi ja yritystäsi Twitterin kautta."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Lisää lainaus, jonka lukijat voivat jakaa Twitterin kautta."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "0,00 $"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Lisää kuvaus..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Tulinen"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Näytä/piilota tämän tuotteen hinta."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Tämän tuotteen hinta näytetään."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Hinta"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Näytä/piilota kuva tätä tuotetta varten."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Tämän tuotteen kuva näytetään."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Kuva"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Ruoka- tai juomatuote Ruoka ja juomat -lohkossa."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Vegaaninen"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Kasvis- ja kalaruokaa"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Gluteeniton"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Kasvisruokaa"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Mausteisempi"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Mausteinen"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Näytä/piilota kunkin tuotteen hinta."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Kunkin tuotteen hinta näytetään."
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Hinnat"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Näytä/piilota kunkin tuotteen kuva."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Kutakin tuotetta varten näytetään kuva."
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Kuvat"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Näytä ruokalista tai hinnasto"
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Valitse palstojen lukumäärä tätä riviä varten."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Valitse seuraavaksi tämän %s palstan rivin asettelu."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Rivi"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Lisää rivin tausta"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "neljä"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "kolme"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "kaksi"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "yksi"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Muuta rivilohkon asettelua"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Neljännesvuodet"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Kolmannekset"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Lisää palstan tausta"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Leveys"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Tila osiosäilön ympärillä."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Rivin välitön alaelementti."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Lisää palstalohkoihin strukturoitu paketoija, ja lisää sitten haluamasi sisältölohkot palstoihin."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Sopimus %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Muuta hintataulujen määrää"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Neljä hintataulua"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Kolme hintataulua"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Kaksi hintataulua"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Yksi hintataulu"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Lisää hintatauluja, joiden avulla vierailijat voivat vertailla tuotteita ja sopimuksia."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Lisää toimintoja"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "Sopimus A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Osta nyt"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Hintataulu, joka auttaa vierailijoita vertailemaan tuotteita ja sopimuksia."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Internet Explorerin tuki voidaan lisätä lataamalla JavaScript-muotoinen polyfill-koodi tälle sivulle."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Lisää Internet Explorer -tuki lataamalla JavaScript-muotoinen polyfill-koodi."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Järjestä sisältö kutistettavissa olevien haitarinäkymäkohteiden sisällä."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Vaihda tila: haitarinäkymän kohteen asettaminen oletusarvoisesti avoimeksi."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Haitarinäkymän kohde on oletuksena auki."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Lisää kutistettavissa olevia kohteita haitarinäkymiin."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Lisää enimmillään kolme palstaa pieniä muistiinpanoja, jotka koskevat tarjoamaasi tuotetta tai palvelua."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Lisää taustana"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Yksittäinen alatason palsta ylätason ominaisuuslohkon sisällä."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Hälytys on viesti, joka näytetään normaalin sisältövirran ulkopuolella. Hälytykset tarjoavat kontekstiin perustuvaa palautetta ja kehottavat yleensä lukijaa suorittamaan jonkin tietyn toimen."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Tämä on hälytyslohko"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Tarjoa kontekstiin perustuvia palauteviestejä tai huomautuksia."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Muokkaa sijaintia"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Pudota nuppineula Google-kartalle osoitteen tai sijainnin lisäämiseksi."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Näytä/piilota toimintakehotepainikkeet."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Toimi heti -kehotteet näytetään."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Palstat"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Tyylit"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Voit lisätä enimmillään neljä palstaa palveluiden näyttämistä varten."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Näytä/piilota toimintakehotepainike."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Toimintakehotepainike näytetään."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Yksittäinen palvelukohde palveluiden lohkossa."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Varjostus"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Kokoa kuvat näyttäväksi kollaasityyppiseksi galleriaksi."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Kirjoita elämäkerta, joka antaa lukijoillesi luotettavan ja uskottavan vaikutelman..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Kirjoita tekijän nimi..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Muokkaa avatar-kuvaa"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Asioiden ilmaiseminen on tärkeintä – ei vain vaikutuksen tekeminen. Kaiken taustalla on tavoite tehdä maailmasta parempi paikka."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Lisää tekijän elämäkerta, joka luo luotettavuutta ja uskottavuutta."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "Kuva %1$d / %2$d galleriassa"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Pinottu"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Kevyt"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Kuvatekstit"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Vaihda tila: kuvan lightbox-ikkuna käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Kuvien lightbox-ikkuna on käytössä."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Näytä/piilota mediasisällön kuvatekstit."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Kuvatekstit näytetään kullekin mediakohteelle."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Vaihda tila: käytettävissä olevan galleria-alueen täyttö täyden leveyden kuvilla."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Täyden leveyden kuvat on otettu käyttöön."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Näytä kuvavalikoima yhden palstan pinottuna galleriana."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Ladataan GiST-koodikatkelmaa"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Lisää GitHub-palvelun sisältämän GiST-koodikatkelman URL..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "GiST-metatiedot"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "GiST-tiedosto"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "GiST-koodikatkelman URL"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Näytä/piilota GiST-metatiedot."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "GiST-metatiedot näytetään."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Upota GitHub-palvelun GiST-koodikatkelmia lisäämällä GiST-linkki."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Tarkastele tätä GiST-koodikatkelmaa GitHub-palvelussa"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Etsi GIF-tiedostoja"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Etsi tilanteeseen täydellisesti sopiva GIF-animaatio Giphy-palvelusta"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Tämän GIF-kuvan alt-attribuutti on tyhjä"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Poista GIF"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Jätä tyhjäksi, jos kyseessä on vain kuvituskuva."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Kuvaile tämän kuvan tarkoitus"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Valitse mikä tahansa haluamasi GIF"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Vaihda tila: poista alamarginaali."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Vaihda tila: lisää alamarginaali takaisin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Vaihda tila: poista ylämarginaali."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Vaihda tila: lisää ylämarginaali takaisin."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Vaihda tila: elementtien pinoaminen pienemmissä näyttöikkunoissa."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Mukautuvuus on otettu käyttöön."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Vaihda tila: painikkeen näyttäminen täydessä leveydessä."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Näytetään täydessä leveydessä."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Nollaa kuvien rajausvalinnat"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Kierrä myötäpäivään"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Kierrä vastapäivään"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Rajausasetusten kuvan paikkamerkki"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Kymmenen sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Yhdeksän sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Kahdeksan sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Seitsemän sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Kuusi sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Viisi sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Neljä sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Kolme sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Kaksi sekuntia"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Yksi sekunti"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Vedettävissä"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Automaattinen toisto"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Vaihda tila: vieritys ilman kiinteitä dioja."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Vieritys ilman kiinteitä dioja on käytössä."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Vaihda tila: automaattisen toiston keskeytys osoitettaessa."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Automaattinen toisto keskeytetään osoitettaessa kohdistimella."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Diat tasataan keskelle."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Diat tasataan vasemmalle."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Näytä/piilota pistenavigointi."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Pistenavigointi näytetään."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Näytä/piilota diojen navigointinuolet."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Diojen navigointinuolet näytetään."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Vaihda tila: vetotoiminto käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Vetäminen ja sipaisu käytössä."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Siirry automaattisesti seuraavaan diaan."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Automaattinen siirtymä %1$d%2$s jälkeen."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "sekunti"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "sekuntia"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Oletus"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Mukautettujen värien valitsin"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Mukautettu URL"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Vedä kuvia haluamaasi kohtaan, siirrä uusia kuvia palvelimeen tai valitse tiedostoja omasta kirjastostasi."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Galleria (%s)"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Kirjoita kuvateksti..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Erittäin suuri"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Koko"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Muunna"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Painotus"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Kirjasin"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Muuta typografiaa"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Käytä suodatinta"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Isot kirjaimet"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Otsikko %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Lisää korostettu teksti..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Herätä lukijoiden huomio ja korosta tärkeitä kertomuksia lisäämällä tekstikappaleisiin korostustehosteita."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Herätä huomiota ja korosta tärkeitä kertomuksia."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "jakso"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Muuta asettelua"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Sisällön leveys kuvapisteinä"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Korkeus kuvapisteinä"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Tila osiosäilön sisällä."
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Lisää sankariosion tausta"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Lisää sankarisisältö. Tällä tarkoitetaan näkyvällä tavalla esillä olevaa sivun esittelyosiota, johon sisältyy usein mukaan myös jokin toimi heti -kehote."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Sivun esittelyosio, joka sisältää pienen määrän tekstiä sekä toimi heti -kehotteen."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Valtava"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Suuri"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Pieni"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Ei mitään"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Poista tausta"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Vaihda tila: videon jatkuva toisto."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Taustavideo toistetaan jatkuvasti."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Vaihda tila: videon mykistys."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Taustavideo mykistetään."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Näyttö"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Sijainti"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Toisto"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Täyte"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Käytä"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Tallennetaan"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Korvaa pudottamalla kuva"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Korkeus"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Vaihda tila: koko näytön tila käytössä/pois."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Koko näytön tila on otettu käyttöön."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Koko näyttö"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Asettelu"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Vaaditaan"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Lisää selite..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "Mobiililaite: %s"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Sidontareunus"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Lisäasetukset"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "%s-lisäasetukset"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Vasen"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Alhaalla"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Oikea"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Ylä"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Synkronoi"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Poista synkronointi"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Palauta"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Poista %s-lisäasetukset käytöstä"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Valitse yksiköt"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Marginaali"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook-"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Jaa Reddit-palvelussa"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Jaa Googlen kautta"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Jaa Twitterissä"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Jaa sähköpostitse"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Jaa LinkedIn-palvelussa"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Jaa Pinterest-palvelussa"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Jaa Twitterissä"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Jaa Facebookissa"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Arvostele CoBlocks-paketti WordPress.org-sivustossa"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Jätä arvostelu"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Google Maps -palvelun API-avain karttojen muodostukseen"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Viestisi lähetettiin:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Lähetä"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Viesti"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Sukunimi"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Etunimi"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Nimi"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "Sähköposti"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Googlen salainen reCAPTCHA-avain lomakkeiden roskapostisuojaukseen"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Googlen reCAPTCHA-sivustoavain lomakkeiden roskapostisuojaukseen"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks on kokoelma ammattimaisia <strong>sivustojen sisältölohkoja </strong> WordPressin Gutenberg-lohkoeditoria varten. Lohkomme ovat erittäin tarkoin suunniteltuja, ja niiden avulla suunnittelijat voivat luoda ainutlaatuisen näyttäviä sivuja WordPressiä käyttäen."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

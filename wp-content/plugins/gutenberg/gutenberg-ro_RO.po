@@ -1,0 +1,5114 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-09 10:26:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/index.js:8
+msgid "Post Comments"
+msgstr "Comentarii la articol"
+
+#: build/block-library/index.js:8
+msgid "No comments."
+msgstr "Niciun comentariu."
+
+#: build/block-library/index.js:8
+msgid "Contact"
+msgstr "Contact"
+
+#: build/block-library/index.js:8
+msgid "About"
+msgstr "Despre"
+
+#: build/block-library/index.js:8
+msgid "Home"
+msgstr "Prima pagină"
+
+#: build/edit-post/index.js:6
+msgid "Preview in new tab"
+msgstr "Previzualizează într-o filă nouă"
+
+#: build/block-library/index.js:8
+msgid "25 / 50 / 25"
+msgstr "25/50/25"
+
+#: build/block-library/index.js:8
+msgid "33 / 33 / 33"
+msgstr "33/33/33"
+
+#: build/block-library/index.js:8
+msgid "70 / 30"
+msgstr "70/30"
+
+#: build/block-library/index.js:8
+msgid "30 / 70"
+msgstr "30/70"
+
+#: build/block-library/index.js:8
+msgid "50 / 50"
+msgstr "50/50"
+
+#: lib/class-wp-rest-menu-items-controller.php:418
+msgid "Invalid post type."
+msgstr "Tip de articol nevalid."
+
+#: lib/class-wp-rest-menu-items-controller.php:510
+msgid "Invalid URL."
+msgstr "URL invalid."
+
+#: lib/class-wp-rest-menu-items-controller.php:468
+#: lib/class-wp-rest-menu-items-controller.php:471
+msgid "Invalid menu item parent."
+msgstr "Părinte element de meniu invalid."
+
+#: lib/class-wp-rest-menu-items-controller.php:460
+msgid "Invalid menu position."
+msgstr "Poziție meniu invalidă."
+
+#: lib/class-wp-rest-menu-items-controller.php:436
+msgid "Invalid menu ID."
+msgstr "ID meniu invalid."
+
+#: lib/class-wp-rest-menu-items-controller.php:428
+msgid "URL require if menu item of type custom."
+msgstr "URL-ul necesar dacă elementul de meniu este de tipul personalizat."
+
+#: lib/class-wp-rest-menu-items-controller.php:425
+msgid "Title require if menu item of type custom."
+msgstr "Titlul necesar dacă elementul de meniu este de tipul personalizat."
+
+#: lib/class-wp-rest-menu-items-controller.php:407
+msgid "Invalid post  ID."
+msgstr "ID articol invalid."
+
+#: lib/class-wp-rest-menu-items-controller.php:271
+msgid "The post cannot be deleted."
+msgstr "Articolul nu poate fi șters."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:263
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "Elementele de meniu nu pot fi aruncate la gunoi. Setează „%s” pentru a șterge."
+
+#: lib/class-wp-rest-menu-items-controller.php:97
+msgid "Cannot create existing post."
+msgstr "Nu pot crea un articol existent."
+
+#: lib/class-wp-rest-menu-items-controller.php:83
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "Regret, nu poți vedea aceste elemente de meniu dacă nu ai acces la permisiunea de a le edita."
+
+#: lib/class-wp-rest-menu-items-controller.php:81
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Regret, nu ai voie să editezi articole în acest tip de articol."
+
+#: lib/class-wp-rest-menu-items-controller.php:65
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "Regret, nu poți vedea acest element de meniu dacă nu ai acces la permisiunea de a-l edita."
+
+#: lib/class-wp-rest-menus-controller.php:480
+msgid "The locations assigned to the menu."
+msgstr "Locațiile atribuite meniului."
+
+#: lib/class-wp-rest-menus-controller.php:452
+msgid "Menu location does not exist."
+msgstr "Locația meniului nu există."
+
+#: lib/class-wp-rest-menus-controller.php:409
+msgid "The term cannot be deleted."
+msgstr "Termenul nu poate fi șters."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:399
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Termenii nu pot fi aruncați la gunoi. Setează „%s” pentru a șterge."
+
+#: lib/class-wp-rest-menus-controller.php:223
+#: lib/class-wp-rest-menus-controller.php:330
+msgid "Parent term does not exist."
+msgstr "Termenul părinte nu există."
+
+#: lib/class-wp-rest-menus-controller.php:217
+#: lib/class-wp-rest-menus-controller.php:324
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Nu pot seta termenul părinte, taxonomia nu este ierarhică."
+
+#: lib/class-wp-rest-menus-controller.php:130
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "Regret, nu ai voie să atribui locațiile furnizate."
+
+#: lib/class-wp-rest-menus-controller.php:60
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "Regret, nu poți vedea acest meniu dacă nu ai acces la permisiunea de a-l edita."
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Regret, nu ai voie să editezi acest termen."
+
+#: lib/class-wp-rest-menus-controller.php:40
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "Regret, nu poți vedea aceste meniuri dacă nu ai acces la permisiunea de a le edita."
+
+#: lib/class-wp-rest-menu-items-controller.php:953
+msgid "Order sort attribute ascending or descending."
+msgstr "Ordonează atributele de sortare crescător sau descrescător."
+
+#: lib/class-wp-rest-menu-items-controller.php:960
+msgid "Sort collection by object attribute."
+msgstr "Sortează colecția după atribute obiect."
+
+#: lib/class-wp-rest-menu-items-controller.php:948
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Limitează setul de rezultate la articole cu o anumită valoare menu_order."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:914
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "Termenii atribuiți obiectului în taxonomia %s."
+
+#: lib/class-wp-rest-menu-items-controller.php:902
+msgid "Whether the menu item represents an object that no longer exists ."
+msgstr "Indiferent dacă elementul de meniu reprezintă un obiect care nu mai există."
+
+#: lib/class-wp-rest-menu-items-controller.php:888
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "Relația XFN exprimată în legătura acestui element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:881
+msgid "The URL to which this menu item points."
+msgstr "URL-ul la care indică acest element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:874
+msgid "The singular label used to describe this type of menu item."
+msgstr "Singura etichetă folosită pentru a descrie acest tip de element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:864
+msgid "The target attribute of the link element for this menu item."
+msgstr "Atributul țintă al elementului de legătură pentru acest element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:856
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories ."
+msgstr "ID-ul bazei de date al obiectului inițial pe care îl reprezintă acest element de meniu. De exemplu, ID pentru articole și term_id pentru categorii."
+
+#: lib/class-wp-rest-menu-items-controller.php:850
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "Tipul de obiect reprezentat inițial, cum ar fi „categorie”, „articol” sau „atașament”."
+
+#: lib/class-wp-rest-menu-items-controller.php:843
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any . 0 otherwise . "
+msgstr "ID-ul bazei de date al nav_menu_item care este părintele meniului pentru acest element, dacă există unul. În caz contrar, 0."
+
+#: lib/class-wp-rest-menu-items-controller.php:834
+msgid "The description of this menu item."
+msgstr "Descrierea acestui element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:820
+msgid "Class names for the link element of this menu item."
+msgstr "Numele clasei pentru elementul de legătură al acestui element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:811
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "Text pentru atributul de titlu al elementului de legătură pentru acest element de meniu."
+
+#: lib/class-wp-rest-menu-items-controller.php:795
+msgid "A named status for the object."
+msgstr "O stare numită pentru obiect."
+
+#: lib/class-wp-rest-menu-items-controller.php:787
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "Familia de obiecte reprezentate inițial, cum ar fi „post_type” sau „taxonomy”."
+
+#: lib/class-wp-rest-menu-items-controller.php:780
+msgid "Name of type."
+msgstr "Numele tipului."
+
+#: lib/class-wp-rest-menu-items-controller.php:762
+msgid "HTML title for the object, transformed for display."
+msgstr "Titlu HTML pentru obiect, transformat pentru afișare."
+
+#: lib/class-wp-rest-menu-items-controller.php:757
+msgid "Title for the object, as it exists in the database."
+msgstr "Titlu pentru obiect, așa cum există în baza de date."
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Regret, nu ai voie să editezi termeni în această taxonomie."
+
+#. translators: 1: Pattern name.
+#: lib/class-wp-patterns-registry.php:54
+msgid "Pattern \"%1$s\" not found."
+msgstr "Modelul „%1$s” nu a fost găsit."
+
+#: lib/class-wp-patterns-registry.php:35
+msgid "Pattern name must be a string."
+msgstr "Numele modelului trebuie să fie un șir de caractere."
+
+#: lib/class-wp-rest-menu-locations-controller.php:206
+msgid "The ID of the assigned menu."
+msgstr "ID-ul meniului atribuit."
+
+#: lib/class-wp-rest-menu-locations-controller.php:200
+msgid "The description of the menu location."
+msgstr "Descrierea locației meniului."
+
+#: lib/class-wp-rest-menu-locations-controller.php:194
+msgid "The name of the menu location."
+msgstr "Numele locației meniului."
+
+#: lib/class-wp-rest-menus-controller.php:137
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+msgid "Invalid menu location."
+msgstr "Locație meniu invalidă."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "Regret, nu ai voie să vezi locațiile meniului."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "Un identificator alfanumeric pentru locația meniului."
+
+#: build/block-editor/index.js:49
+msgid "Pattern \"%s\" inserted."
+msgstr "Modelul „%s” a fost inserat."
+
+#: build/block-library/index.js:8
+msgid "Images size"
+msgstr "Dimensiune imagine"
+
+#: build/core-data/index.js:1
+msgid "User"
+msgstr "Utilizator"
+
+#: build/core-data/index.js:1
+msgid "Widget area"
+msgstr "Zonă asamblabilă"
+
+#: build/core-data/index.js:1
+msgid "Post Type"
+msgstr "Tip de articol"
+
+#: build/core-data/index.js:1
+msgid "Site"
+msgstr "Sit"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d left to position %3$d"
+msgstr "Mută blocul %1$s din poziția stânga %2$d în poziția %3$d"
+
+#. translators: %s: Social Link service name
+#: build/block-library/blocks/social-link.php:21
+msgid "Link to %s"
+msgstr "Legătură la %s"
+
+#: build/edit-post/index.js:6
+msgid "Block Patterns"
+msgstr "Modele de bloc"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Mută blocul %1$s din poziția %2$d mai jos în poziția %3$d"
+
+#: build/components/index.js:6
+msgid "Radial Gradient"
+msgstr "Gradient radial"
+
+#: build/components/index.js:6
+msgid "Linear Gradient"
+msgstr "Gradient liniar"
+
+#: build/components/index.js:6
+msgid "Type"
+msgstr "Tip"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved left"
+msgstr "Blocul %1$s este la începutul conținutului și nu poate fi mutat în stânga"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved up"
+msgstr "Blocul %1$s este la începutul conținutului și nu poate fi mutat în sus"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved left"
+msgstr "Blocul %1$s este la sfârșitul conținutului și nu poate fi mutat în stânga"
+
+#: build/block-editor/index.js:49
+msgid "An unknown error occurred during creation. Please try again."
+msgstr "A apărut o eroare necunoscută în timpul creării. Te rog reîncearcă."
+
+#: build/block-editor/index.js:49
+msgid "New page: <mark>%s</mark>"
+msgstr "Pagină nouă: <mark>%s</mark>"
+
+#: build/block-editor/index.js:49
+msgid "Creating"
+msgstr "Creez"
+
+#: build/block-editor/index.js:49
+msgid "Change a block's type by pressing the block icon on the toolbar."
+msgstr "Schimbă tipul de bloc apăsând pe iconul blocului în bara de unelte."
+
+#: build/block-editor/index.js:49
+msgid "Drag files into the editor to automatically insert media blocks."
+msgstr "Trage fișierele în editor pentru a insera automat blocuri media."
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved down"
+msgstr "Blocul %1$s este la sfârșitul conținutului și nu poate fi mutat în jos"
+
+#: build/edit-post/index.js:6
+msgid "Open document settings"
+msgstr "Deschide setările pentru documente"
+
+#: build/edit-post/index.js:6
+msgid "Open block settings"
+msgstr "Deschide setările pentru blocuri"
+
+#: build/edit-post/index.js:6
+msgid "Desktop"
+msgstr "Desktop"
+
+#: build/edit-post/index.js:6
+msgid "Mobile"
+msgstr "Mobil"
+
+#: build/edit-post/index.js:6
+msgid "Tablet"
+msgstr "Tabletă"
+
+#: build/block-library/index.js:8
+msgid "Post Tags"
+msgstr "Etichete articol"
+
+#: build/block-library/index.js:8
+msgid "No tags."
+msgstr "Nicio etichetă."
+
+#: build/block-library/index.js:8
+msgid "Post Featured Image"
+msgstr "Imagine reprezentativă articol"
+
+#: build/block-library/index.js:8
+msgid "Read more…"
+msgstr "Citește mai mult..."
+
+#: build/block-library/index.js:8
+msgid "Show link on new line"
+msgstr "Arată legătura pe o linie nouă"
+
+#: build/block-library/index.js:8
+msgid "Max words"
+msgstr "Număr maxim de cuvinte"
+
+#: build/block-library/index.js:8
+msgid "Post Excerpt Settings"
+msgstr "Setări rezumat articol"
+
+#: build/block-library/index.js:8
+msgid "Date Format"
+msgstr "Format dată"
+
+#: build/block-library/index.js:8
+msgid "Format settings"
+msgstr "Setări format"
+
+#: build/block-library/index.js:8
+msgid "Change Date"
+msgstr "Schimbă data"
+
+#: build/block-library/index.js:8
+msgid "Post Comments Form"
+msgstr "Formular comentarii la articole"
+
+#: build/block-library/index.js:8
+msgid "Post Comments Count"
+msgstr "Număr de comentarii la articol"
+
+#: build/block-library/index.js:8
+msgid "Display icons linking to your social media profiles or websites."
+msgstr "Afișează iconuri care se leagă la profilurile sau siturile tale web din media socială."
+
+#: build/block-library/index.js:8
+msgid "Select poster image"
+msgstr "Selectează imaginea pentru poster"
+
+#: build/block-library/index.js:8
+msgid "Display an icon linking to a social media profile or website."
+msgstr "Afișează un icon care se leagă la un profil sau un sit web din media socială."
+
+#: build/block-library/index.js:8
+msgctxt "block keywords"
+msgid "links"
+msgstr "legături"
+
+#: build/block-library/index.js:8
+msgid "Social Icons"
+msgstr "Iconuri sociale"
+
+#: build/block-library/index.js:8
+msgid "Social Icon"
+msgstr "Icon social"
+
+#: build/block-library/index.js:8
+msgid "Post content"
+msgstr "Conținut articol"
+
+#: build/block-library/index.js:8
+msgid "Background color"
+msgstr "Culoare fundal"
+
+#: build/block-library/index.js:8
+msgid "Media file"
+msgstr "Fișier media"
+
+#: build/block-library/index.js:8
+msgid "Image alignment"
+msgstr "Aliniere imagine"
+
+#: build/block-library/index.js:8
+msgid "Display featured image"
+msgstr "Afișează imaginea reprezentativă"
+
+#: build/block-library/index.js:8
+msgid "Featured image settings"
+msgstr "Setări imagine reprezentativă"
+
+#: build/block-library/index.js:8
+msgid "Text color"
+msgstr "Culoare text"
+
+#: build/block-library/index.js:8
+msgid "Change heading level"
+msgstr "Schimbă nivelul subtitlului"
+
+#: build/block-library/index.js:8
+msgid "survey"
+msgstr "sondaj"
+
+#: build/block-library/index.js:8
+msgid "social"
+msgstr "social"
+
+#: build/block-library/index.js:8
+msgid "Embed a TikTok video."
+msgstr "Înglobează un video TikTok."
+
+#: build/edit-site/index.js:1
+msgid "Edit Page Template"
+msgstr "Editează șablonul de pagină"
+
+#: build/edit-site/index.js:1
+msgid "Update Design"
+msgstr "Actualizează designul"
+
+#: build/edit-site/index.js:1
+msgid "New"
+msgstr "Nou"
+
+#: build/edit-site/index.js:1
+msgid "Switch Template"
+msgstr "Comută șablonul"
+
+#: build/edit-site/index.js:1
+msgid "loading…"
+msgstr "încarc..."
+
+#: build/edit-site/index.js:1
+msgid "Customized"
+msgstr "Personalizat"
+
+#: build/edit-site/index.js:1
+msgid "Add Template"
+msgstr "Adaugă șablon"
+
+#: build/edit-site/index.js:1
+msgid "Template already exists, edit it instead."
+msgstr "Șablonul există, dar îl poți edita."
+
+#: lib/global-styles.php:309
+msgid "Global Styles"
+msgstr "Stiluri globale"
+
+#: lib/template-loader.php:231
+msgid "Empty template."
+msgstr "Șablon gol."
+
+#: lib/template-loader.php:219
+msgid "No matching template found."
+msgstr "Nu am găsit niciun șablon care să se potrivească."
+
+#: build/block-library/index.js:8
+msgid "Display settings"
+msgstr "Setări afișare"
+
+#: build/block-editor/index.js:49
+msgid "Choose variation"
+msgstr "Alege variația"
+
+#: build/components/index.js:6
+msgid "Angle"
+msgstr "Unghi"
+
+#: build/blocks/index.js:2
+msgid "%s Block"
+msgstr "Bloc %s"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. %2$s"
+msgstr "Bloc %1$s. %2$s"
+
+#: build/blocks/index.js:2
+msgid "%s Block. Column %d"
+msgstr "Bloc %s. Coloana %d"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. Column %2$d. %3$s"
+msgstr "Bloc %1$s. Coloana %2$d. %3$s"
+
+#: build/blocks/index.js:2
+msgid "%s Block. Row %d"
+msgstr "Bloc %s. Rândul %d"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. Row %2$d. %3$s"
+msgstr "Bloc %1$s. Rândul %2$d. %3$s"
+
+#: build/block-library/index.js:8
+msgid "Post Excerpt"
+msgstr "Rezumat articol"
+
+#: build/block-library/index.js:8
+msgid "Post Date"
+msgstr "Dată articol"
+
+#: build/block-library/index.js:8
+msgid "No Date"
+msgstr "Nicio dată"
+
+#: build/block-library/index.js:8
+msgid "Post Author"
+msgstr "Autor articol"
+
+#: build/block-library/index.js:8
+msgid "Choose"
+msgstr "Alege"
+
+#: build/block-library/index.js:8
+msgid "twentytwenty"
+msgstr "twentytwenty"
+
+#: build/block-library/index.js:8
+msgid "Theme"
+msgstr "Temă"
+
+#: build/block-library/index.js:8 build/edit-site/index.js:1
+msgid "Error adding template."
+msgstr "Eroare la adăugarea șablonului."
+
+#: build/block-library/index.js:8
+msgid "Footer label"
+msgstr "Etichetă subsol"
+
+#: build/block-library/index.js:8
+msgid "Header label"
+msgstr "Etichetă antet"
+
+#: build/block-library/index.js:8
+msgid "Unsupported"
+msgstr "Neacceptat"
+
+#: build/block-library/index.js:8
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Descrierea va fi afișată în meniu dacă tema actuală o suportă."
+
+#: build/block-library/index.js:8
+msgid "Level %1$s. %2$s"
+msgstr "Nivel %1$s. %2$s"
+
+#: build/block-library/index.js:8
+msgid "Level %s. Empty."
+msgstr "Nivel %s. Gol."
+
+#: build/block-library/index.js:8
+msgid "Empty"
+msgstr "Gol"
+
+#: build/block-editor/index.js:49
+msgid "Search results for \"%s\""
+msgstr "Rezultate de căutare pentru „%s”"
+
+#: build/block-editor/index.js:49
+msgid "Recently updated"
+msgstr "Actualizate recent"
+
+#: build/block-editor/index.js:49
+msgid "Multiple selected blocks"
+msgstr "Mai multe blocuri selectate"
+
+#. translators: %s: The author.
+#: build/block-library/blocks/post-author.php:19 build/block-library/index.js:8
+msgid "By %s"
+msgstr "De %s"
+
+#: build/block-library/index.js:8
+msgid "Choose a template part by slug and theme, or create a new one."
+msgstr "Alege o parte din șablon după descriptor și temă sau creează una nouă."
+
+#: build/edit-site/index.js:1
+msgid "Inspector"
+msgstr "Inspector"
+
+#: build/block-library/index.js:8
+msgid "Link label"
+msgstr "Etichetă legătură"
+
+#: build/block-library/index.js:8
+msgid "%s label"
+msgstr "Etichetă %s"
+
+#: build/block-library/index.js:8
+msgid "poem"
+msgstr "poem"
+
+#: build/block-library/index.js:8
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#: build/block-library/index.js:8
+msgid "Full post"
+msgstr "Articol întreg"
+
+#: build/block-library/index.js:8
+msgid "Show:"
+msgstr "Arată:"
+
+#: build/block-library/index.js:8
+msgid "Buttons"
+msgstr "Butoane"
+
+#: build/block-library/index.js:8
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "Îndeamnă vizitatorii să acționeze cu ajutorul unui grup de legături de tipul buton."
+
+#: build/block-library/index.js:8
+msgid "Background"
+msgstr "Fundal"
+
+#: build/block-library/index.js:8
+msgid "Background & Text Color"
+msgstr "Culoare fundal și text"
+
+#: build/block-editor/index.js:49
+msgid "Image size"
+msgstr "Dimensiune imagine"
+
+#: build/block-editor/index.js:49
+msgid "(%s: gradient %s)"
+msgstr "(%s: gradient %s)"
+
+#: build/block-editor/index.js:49
+msgid "(%s: color %s)"
+msgstr "(%s: culoare %s)"
+
+#: build/block-editor/index.js:49
+msgid "(Gradient: %s)"
+msgstr "(Gradient: %s)"
+
+#: build/block-editor/index.js:49
+msgid "(Color: %s)"
+msgstr "(Culoare: %s)"
+
+#: build/edit-post/index.js:6
+msgid "Here's a detailed guide."
+msgstr "Iată un ghid detaliat."
+
+#: build/edit-post/index.js:6
+msgid "New to the block editor? Want to learn more about using it? "
+msgstr "Ești novice în utilizarea editorului de blocuri? Vrei să afli mai multe despre folosirea lui?"
+
+#: build/edit-post/index.js:6
+msgid "Learn how to use the block editor"
+msgstr "Învață cum să folosești Editorul de blocuri"
+
+#: build/edit-post/index.js:6
+msgid "Help"
+msgstr "Ajutor"
+
+#: build/edit-post/index.js:6
+msgid "https://wordpress.org/support/article/wordpress-editor/"
+msgstr "https://wordpress.org/support/article/wordpress-editor/"
+
+#: build/block-directory/index.js:1
+msgid "%s block icon"
+msgstr "Icon bloc %s"
+
+#: build/editor/index.js:11
+msgid "Submit for Review…"
+msgstr "Trimite pentru verificare..."
+
+#: build/editor/index.js:11
+msgid "Update…"
+msgstr "Actualizare..."
+
+#: build/editor/index.js:11
+msgid "Select items to save."
+msgstr "Selectează elementele pentru a le salva."
+
+#: build/editor/index.js:11
+msgid "What do you want to save?"
+msgstr "Ce vrei să salvezi?"
+
+#: build/editor/index.js:11
+msgid "Untitled"
+msgstr "Fără titlu"
+
+#: lib/experiments-page.php:120
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "Editorul de blocuri include funcționalități experimentale care pot fi folosite în timp ce sunt în dezvoltare. Selectează-le pe cele care vrei să le activezi. Este posibil ca aceste funcționalități să sufere modificări importante, deci evită utilizarea lor în producție."
+
+#: gutenberg.php:61 gutenberg.php:62
+msgid "Site Editor (beta)"
+msgstr "Editor sit (beta)"
+
+#: build/api-fetch/index.js:1
+msgid "You are probably offline."
+msgstr "Probabil ești offline."
+
+#: build/block-editor/index.js:49
+msgid "The media file has been replaced"
+msgstr "Fișierul media a fost înlocuit"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Replace"
+msgstr "Înlocuiește"
+
+#: build/block-editor/index.js:49
+msgid "You are currently in edit mode. To return to the navigation mode, press Escape."
+msgstr "Acum ești în modul editare. Pentru a reveni la modul navigare, apasă tasta Esc."
+
+#: build/block-editor/index.js:49
+msgid "You are currently in navigation mode. Navigate blocks using the Tab key. To exit navigation mode and edit the selected block, press Enter."
+msgstr "Acum ești în modul navigare. Navighezi în blocuri folosind tasta Tab. Pentru a ieși din modul navigare și pentru a edita blocul selectat, apasă Enter."
+
+#: build/components/index.js:6
+msgid "Use your left or right arrow keys or drag and drop with the mouse to change the gradient position. Press the button to change the color or remove the control point."
+msgstr "Pentru a schimba poziția gradientului, folosește tastele săgeată stânga și dreapta sau trage și plasează cu mausul. Apasă butonul pentru a schimba culoarea sau pentru a înlătura punctul de control."
+
+#: build/components/index.js:6
+msgid "Preset size"
+msgstr "Pre-setează dimensiunea"
+
+#: build/block-editor/index.js:49
+msgid "Tools offer different interactions for block selection & editing. To select, press Escape, to go back to editing, press Enter."
+msgstr "Uneltele oferă diferite interacțiuni pentru selectarea și editarea blocurilor. Pentru a selecta, apasă Esc, pentru a reveni la editare, apasă Enter."
+
+#: build/block-editor/index.js:49
+msgid "Open Media Library"
+msgstr "Deschide biblioteca Media"
+
+#: build/components/index.js:6
+msgid "Finish"
+msgstr "Finalizează"
+
+#: build/components/index.js:6
+msgid "Page %1$d of %2$d"
+msgstr "Pagina %1$d din %2$d"
+
+#: build/components/index.js:6
+msgid "Remove Control Point"
+msgstr "Înlătură punctul de control"
+
+#: build/block-library/index.js:8
+msgid "Justify items right"
+msgstr "Aliniază elementele în dreapta"
+
+#: build/block-library/index.js:8
+msgid "Justify items center"
+msgstr "Aliniază elementele pe centru"
+
+#: build/block-library/index.js:8
+msgid "Justify items left"
+msgstr "Aliniază elementele în stânga"
+
+#: build/block-library/index.js:8
+msgid "Change items justification"
+msgstr "Modifică alinierea elementelor"
+
+#: build/edit-post/index.js:6
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "Fiecare bloc are un set propriul de comenzi pentru diverse modificări, cum ar fi culoare, lățime și aliniere. Când ai un bloc selectat, comenzile vor apărea și se vor ascunde automat."
+
+#: build/block-library/index.js:8
+msgid "ADD MEDIA"
+msgstr "ADAUGĂ MEDIA"
+
+#: build/edit-post/index.js:6
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "Toate blocurile disponibile sunt în biblioteca Blocuri. O vei găsi oriunde vezi iconul <InserterIconImage />."
+
+#: build/block-library/index.js:8
+msgid ""
+"// A \"block\" is the abstract term used\n"
+"// to describe units of markup that\n"
+"// when composed together, form the\n"
+"// content or layout of a page.\n"
+"registerBlockType( name, settings );"
+msgstr ""
+"// Un „bloc” este termenul abstract folosit\n"
+"// pentru a descrie unitățile de markup care,\n"
+"// atunci când sunt redactate împreună, formează\n"
+"// conținutul sau aranjamentul unei pagini.\n"
+"registerBlockType( name, settings );"
+
+#: build/edit-post/index.js:6
+msgid "Welcome Guide"
+msgstr "Ghid de bun venit"
+
+#: lib/experiments-page.php:83
+msgid "Enable Full Site Editing demo templates"
+msgstr "Activează șabloanele demonstrative pentru editarea completă a sitului"
+
+#: lib/experiments-page.php:78
+msgid "Full Site Editing Demo Templates"
+msgstr "Șabloane demonstrative pentru editarea completă a sitului"
+
+#: build/edit-post/index.js:6
+msgid "Welcome to the block editor"
+msgstr "Bine ai venit la Editorul de blocuri"
+
+#: build/edit-post/index.js:6
+msgid "Get started"
+msgstr "Începe"
+
+#: build/edit-post/index.js:6
+msgid "inserter"
+msgstr "dispozitiv de inserare"
+
+#: build/edit-post/index.js:6
+msgid "Make each block your own"
+msgstr "Îți personalizezi fiecare bloc"
+
+#: build/edit-post/index.js:6
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "În editorul WordPress, fiecare paragraf, imagine sau video este prezentat ca un „bloc” distinct de conținut."
+
+#: build/block-library/index.js:8
+msgid "Post Title"
+msgstr "Titlu articol"
+
+#: build/block-library/index.js:8
+msgid "Add submenu"
+msgstr "Adaugă sub-meniu"
+
+#: build/block-library/index.js:8
+msgid "Add link…"
+msgstr "Adaugă legătură..."
+
+#: build/block-library/index.js:8
+msgid "recording"
+msgstr "înregistrare"
+
+#: build/block-library/index.js:8
+msgid "podcast"
+msgstr "podcast"
+
+#: lib/template-parts.php:40
+msgid "Template parts to include in your templates."
+msgstr "Părți din șablon de inclus în șabloanele tale."
+
+#: lib/template-parts.php:32
+msgid "Uploaded to this template part"
+msgstr "Încărcată în această parte din șablon"
+
+#: lib/template-parts.php:31
+msgid "Insert into template part"
+msgstr "Inserează în partea din șablon"
+
+#: lib/template-parts.php:35
+msgid "Template parts list"
+msgstr "Listă cu părți din șablon"
+
+#: lib/template-parts.php:34
+msgid "Template parts list navigation"
+msgstr "Navigare în lista cu părți din șablon"
+
+#: lib/template-parts.php:33
+msgid "Filter template parts list"
+msgstr "Filtrează lista cu părți din șablon"
+
+#: lib/template-parts.php:30
+msgid "Template part archives"
+msgstr "Arhive părți din șablon"
+
+#: lib/template-parts.php:29
+msgid "No template parts found in Trash."
+msgstr "Nicio parte din șablon găsită la gunoi."
+
+#: lib/template-parts.php:28
+msgid "No template parts found."
+msgstr "Nicio parte din șablon găsită."
+
+#: lib/template-parts.php:27
+msgid "Parent Template Part:"
+msgstr "Parte din șablon părinte:"
+
+#: lib/template-parts.php:26
+msgid "Search Template Parts"
+msgstr "Caută părți din șablon"
+
+#: lib/template-parts.php:25
+msgid "All Template Parts"
+msgstr "Toate părțile din șablon"
+
+#: lib/template-parts.php:24
+msgid "View Template Part"
+msgstr "Vezi partea din șablon"
+
+#: lib/template-parts.php:23
+msgid "Edit Template Part"
+msgstr "Editează partea din șablon"
+
+#: lib/template-parts.php:22
+msgid "New Template Part"
+msgstr "Parte de șablon nouă"
+
+#: lib/template-parts.php:21
+msgid "Add New Template Part"
+msgstr "Adaugă parte de șablon nouă"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Adaugă parte nouă"
+
+#: lib/template-parts.php:19
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "Părți din șablon"
+
+#: lib/template-parts.php:18 build/block-library/index.js:8
+msgid "Template Part"
+msgstr "Parte din șablon"
+
+#: lib/template-parts.php:17 build/edit-site/index.js:1
+msgid "Template Parts"
+msgstr "Părți din șablon"
+
+#: lib/class-wp-rest-widget-forms.php:53
+msgid "Array of instance changes"
+msgstr "Tablou cu modificări de instanță"
+
+#: lib/class-wp-rest-widget-forms.php:48
+msgid "Current widget instance"
+msgstr "Instanță piesă curentă"
+
+#: build/block-library/index.js:8
+msgid "sound"
+msgstr "sunet"
+
+#: build/block-library/index.js:8
+msgid ""
+"WHAT was he doing, the great god Pan,\n"
+"\tDown in the reeds by the river?\n"
+"Spreading ruin and scattering ban,\n"
+"Splashing and paddling with hoofs of a goat,\n"
+"And breaking the golden lilies afloat\n"
+"    With the dragon-fly on the river."
+msgstr ""
+"Oare ce făcea, marele zeu Pan,\n"
+"\tÎntre trestii, în josul râului?\n"
+"Răspândea ruină și împrăștia exil,\n"
+"Vâslea și stropea cu copitele-i de țap\n"
+"Și strivea nuferii aurii care pluteau\n"
+"    Cu libelulele pe râu."
+
+#: build/block-library/index.js:8
+msgid "Navigation"
+msgstr "Navigare"
+
+#: build/block-library/index.js:8
+msgid "Loading Navigation…"
+msgstr "Încarc navigarea..."
+
+#: build/block-library/index.js:8
+msgid "Navigation Structure"
+msgstr "Structură de navigare"
+
+#: build/block-library/index.js:8
+msgid "Create empty"
+msgstr "Creează una goală"
+
+#: build/block-editor/index.js:49
+msgctxt "Generic label for block inserter button"
+msgid "Add block"
+msgstr "Adaugă bloc"
+
+#: build/block-editor/index.js:49
+msgctxt "directly add the only allowed block"
+msgid "Add %s"
+msgstr "Adaugă %s"
+
+#: build/block-editor/index.js:49
+msgid "%s block added"
+msgstr "Blocul %s a fost adăugat"
+
+#: build/block-library/index.js:8
+msgid "Create a Navigation from all existing pages, or create an empty one."
+msgstr "Creează o navigare din toate paginile existente sau creează una goală."
+
+#: build/block-library/index.js:8
+msgid "Navigation Link"
+msgstr "Legătură de navigare"
+
+#: build/block-library/index.js:8
+msgid "(Note: many devices and browsers do not display this text.)"
+msgstr "(Notă: multe dispozitive și navigatoare nu afișează acest text.)"
+
+#: build/block-library/index.js:8
+msgid "Describe the role of this image on the page."
+msgstr "Descrie rolul acestei imagini în pagină."
+
+#: build/block-editor/index.js:49
+msgid "Toggle between using the same value for all screen sizes or using a unique value per screen size."
+msgstr "Comută între a folosi aceeași valoare pentru toate dimensiunile de ecran sau o valoare unică pentru fiecare dimensiune de ecran."
+
+#: build/block-editor/index.js:49
+msgid "Use the same %s on all screensizes."
+msgstr "Folosește aceeași %s pentru toate dimensiunile de ecran."
+
+#: build/block-editor/index.js:49
+msgid "Large screens"
+msgstr "Ecrane mari"
+
+#: build/block-editor/index.js:49
+msgid "Medium screens"
+msgstr "Ecrane medii"
+
+#: build/block-editor/index.js:49
+msgid "Small screens"
+msgstr "Ecrane mici"
+
+#: build/block-editor/index.js:49
+msgid "Currently selected"
+msgstr "Selectat acum"
+
+#: build/block-editor/index.js:49
+msgid "Search or type url"
+msgstr "Caută sau tastează URL-ul"
+
+#: build/block-editor/index.js:49
+msgid "Press ENTER to add this link"
+msgstr "Apasă pe Enter pentru a adăuga această legătură"
+
+#: build/block-editor/index.js:49
+msgid "Currently selected link settings"
+msgstr "Setări pentru legătura selectată acum"
+
+#: build/block-editor/index.js:49
+msgctxt "Text labelling a interface as controlling a given layout property (eg: margin) for a given screen size."
+msgid "Controls the %1$s property for %2$s viewports."
+msgstr "Controlează proprietatea %1$s pentru spațiile vizibile în %2$s."
+
+#: build/components/index.js:6
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: build/block-library/index.js:8
+msgid "Open Colors Selector"
+msgstr "Deschide selectorul de culori"
+
+#: lib/templates.php:35
+msgid "Templates list"
+msgstr "Listă de șabloane"
+
+#: lib/templates.php:34
+msgid "Templates list navigation"
+msgstr "Navigare în lista de șabloane"
+
+#: build/block-library/index.js:8
+msgid "Site Title"
+msgstr "Titlu sit"
+
+#: lib/templates.php:33
+msgid "Filter templates list"
+msgstr "Filtrează lista de șabloane"
+
+#: lib/templates.php:32
+msgid "Uploaded to this template"
+msgstr "Încărcată în acest șablon"
+
+#: lib/templates.php:31
+msgid "Insert into template"
+msgstr "Inserează în șablon"
+
+#: lib/templates.php:30
+msgid "Template archives"
+msgstr "Arhive șabloane"
+
+#: build/block-editor/index.js:49
+msgid "Editor footer"
+msgstr "Editor pentru subsol"
+
+#: lib/templates.php:24
+msgid "View Template"
+msgstr "Vezi șablonul"
+
+#: lib/templates.php:23
+msgid "Edit Template"
+msgstr "Editează șablonul"
+
+#: lib/templates.php:22
+msgid "New Template"
+msgstr "Șablon nou"
+
+#: lib/templates.php:21
+msgid "Add New Template"
+msgstr "Adaugă șablon nou"
+
+#: lib/templates.php:20
+msgctxt "Template"
+msgid "Add New"
+msgstr "Adaugă șablon nou"
+
+#: lib/templates.php:19
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "Șabloane"
+
+#: lib/templates.php:18
+msgid "Template"
+msgstr "Șablon"
+
+#: lib/template-loader.php:260
+msgid "No matching template found"
+msgstr "Nu am găsit niciun șablon care să se potrivească"
+
+#: lib/templates.php:29
+msgid "No templates found in Trash."
+msgstr "Niciun șablon găsit la gunoi."
+
+#: lib/templates.php:28
+msgid "No templates found."
+msgstr "Niciun șablon găsit."
+
+#: lib/templates.php:27
+msgid "Parent Template:"
+msgstr "Șablon părinte:"
+
+#: lib/templates.php:26
+msgid "Search Templates"
+msgstr "Caută șabloane"
+
+#: lib/templates.php:25
+msgid "All Templates"
+msgstr "Toate șabloanele"
+
+#: build/components/index.js:6
+msgid "Gradient: %s"
+msgstr "Gradient: %s"
+
+#: build/components/index.js:6
+msgid "Gradient code: %s"
+msgstr "Cod gradient: %s"
+
+#: build/edit-post/index.js:6
+msgid "All content copied."
+msgstr "A fost copiat tot conținutul."
+
+#: build/api-fetch/index.js:1
+msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
+msgstr "Încărcarea elementului media a eșuat. Dacă este o fotografie sau o imagine mare, te rog să-i reduci dimensiunile și încearcă din nou."
+
+#: build/block-editor/index.js:49
+msgid "Gradient"
+msgstr "Gradient"
+
+#: build/block-editor/index.js:49
+msgid "Gradient Presets"
+msgstr "Presetări gradient"
+
+#: build/block-editor/index.js:49
+msgid "No Preview Available."
+msgstr "Nicio previzualizare disponibilă."
+
+#: build/block-editor/index.js:49
+msgid "Cool to warm spectrum"
+msgstr "Spectru de culori de la reci la calde"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray to cyan bluish gray"
+msgstr "De la gri foarte deschis la gri albăstrui-turcoaz"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange to vivid red"
+msgstr "De la portocaliu viu luminos la roșu viu"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "De la chihlimbar viu luminos la portocaliu viu luminos"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan to vivid green cyan"
+msgstr "De la turcoaz verde deschis la turcoaz verde viu"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue to vivid purple"
+msgstr "De la albastru turcoaz viu la violet viu"
+
+#: build/editor/index.js:11
+msgid "https://wordpress.org/support/article/excerpt/"
+msgstr "https://wordpress.org/support/article/excerpt/"
+
+#: build/block-editor/index.js:49
+msgid "Electric grass"
+msgstr "Verde electrizant"
+
+#: build/block-editor/index.js:49
+msgid "Blush bordeaux"
+msgstr "Bordo roșu-violet"
+
+#: build/block-editor/index.js:49
+msgid "Blush light purple"
+msgstr "Mov roșu-violet deschis"
+
+#: build/block-library/index.js:8
+msgid "Dimensions"
+msgstr "Dimensiuni"
+
+#: build/block-library/index.js:8
+msgid "Minimum height in pixels"
+msgstr "Înălțime minimă, în pixeli"
+
+#: build/block-library/index.js:8
+msgid "Nam risus massa, ullamcorper consectetur eros fermentum, porta aliquet ligula. Sed vel mauris nec enim."
+msgstr "Nam risus massa, ullamcorper consectetur eros fermentum, porta aliquet ligula. Sed vel mauris nec enim."
+
+#: build/block-library/index.js:8
+msgid "Etiam et egestas lorem. Vivamus sagittis sit amet dolor quis lobortis. Integer sed fermentum arcu, id vulputate lacus. Etiam fermentum sem eu quam hendrerit."
+msgstr "Etiam et egestas lorem. Vivamus sagittis sit amet dolor quis lobortis. Integer sed fermentum arcu, id vulputate lacus. Etiam fermentum sem eu quam hendrerit."
+
+#: build/block-library/index.js:8
+msgid "Call to Action"
+msgstr "Apel la acțiune"
+
+#: build/block-library/index.js:8
+msgid "In quoting others, we cite ourselves."
+msgstr "Citând pe alții, ne cităm pe noi înșine."
+
+#: build/block-library/index.js:8
+msgid "December 6, 2018"
+msgstr "6 decembrie 2018"
+
+#: build/block-library/index.js:8
+msgid "February 21, 2019"
+msgstr "21 februarie 2019"
+
+#: build/block-library/index.js:8
+msgid "May 7, 2019"
+msgstr "7 mai 2019"
+
+#: build/block-library/index.js:8
+msgid "Release Date"
+msgstr "Data lansării"
+
+#: build/block-library/index.js:8
+msgid "Jazz Musician"
+msgstr "Muzicieni de jazz"
+
+#: build/block-library/index.js:8
+msgid "Version"
+msgstr "Versiune"
+
+#: build/block-library/index.js:8
+msgid "Six."
+msgstr "Șase."
+
+#: build/block-library/index.js:8
+msgid "Five."
+msgstr "Cinci."
+
+#: build/block-library/index.js:8
+msgid "One."
+msgstr "Unu."
+
+#: build/block-library/index.js:8
+msgid "One of the hardest things to do in technology is disrupt yourself."
+msgstr "Unul dintre cele mai grele lucruri de înfăptuit în tehnologie este să te distrugi singur."
+
+#: build/block-library/index.js:8
+msgid "Four."
+msgstr "Patru."
+
+#: build/block-library/index.js:8
+msgid "Three."
+msgstr "Trei."
+
+#: build/block-library/index.js:8
+msgid "Two."
+msgstr "Două."
+
+#: build/block-editor/index.js:49
+msgid "Block navigation"
+msgstr "Navigare în blocuri"
+
+#: lib/experiments-page.php:67
+msgid "Full Site Editing"
+msgstr "Editare completă sit"
+
+#: lib/templates.php:40
+msgid "Templates to include in your theme."
+msgstr "Șabloane de inclus în tema ta."
+
+#: lib/templates.php:17 build/edit-site/index.js:1
+msgid "Templates"
+msgstr "Șabloane"
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library."
+msgstr "Niciun bloc găsit în bibliotecă."
+
+#: build/block-directory/index.js:1
+msgid "Retry"
+msgstr "Reîncearcă"
+
+#: build/block-directory/index.js:1
+msgid "Updated %s"
+msgstr "%s actualizat"
+
+#: build/block-directory/index.js:1
+msgid "%d active installation"
+msgid_plural "%d active installations"
+msgstr[0] "O instalare activă"
+msgstr[1] "%d instalări active"
+msgstr[2] "%d de instalări active"
+
+#: build/edit-site/index.js:1
+msgid "Add"
+msgstr "Adaugă"
+
+#: build/block-directory/index.js:1
+msgid "%s out of 5 stars"
+msgstr "%s din 5 stele"
+
+#: build/block-library/index.js:8
+msgid "Enter address"
+msgstr "Introdu adresa"
+
+#: build/edit-post/index.js:6
+msgid "Pre-publish checks"
+msgstr "Verificări înainte de publicare"
+
+#: build/block-directory/index.js:1
+msgid "Please contact your site administrator to install new blocks."
+msgstr "Pentru a instala blocuri noi, te rog contactează administratorul sitului."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. Please contact your site administrator to install new blocks."
+msgstr "Nu am găsit niciun bloc în bibliotecă. Pentru a instala blocuri noi, te rog contactează administratorul sitului."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. These blocks can be downloaded and installed:"
+msgstr "Nu am găsit niciun bloc în bibliotecă. Aceste blocuri pot fi descărcate și instalate:"
+
+#: build/block-directory/index.js:1
+msgid "Block previews can’t load."
+msgstr "Previzualizarea blocurilor nu poate fi încărcată."
+
+#: build/block-directory/index.js:1
+msgid "Block previews can't install."
+msgstr "Previzualizarea blocurilor nu poate fi instalată."
+
+#: build/block-library/index.js:8
+msgid "Attachment page"
+msgstr "Pagină atașament"
+
+#: build/block-library/index.js:8
+msgid "Fill"
+msgstr "Completează"
+
+#: build/block-library/index.js:8
+msgid "Border radius"
+msgstr "Rotunjire chenar"
+
+#: build/block-library/index.js:8
+msgid "Open block navigator"
+msgstr "Deschide navigarea în blocuri"
+
+#: build/editor/index.js:11
+msgid "Restore the backup"
+msgstr "Restaurează copia de siguranță"
+
+#: build/editor/index.js:11
+msgid "The backup of this post in your browser is different from the version below."
+msgstr "Copia de siguranță a acestui articol din navigatorul tău este diferită de versiunea de mai jos."
+
+#: lib/experiments-page.php:61
+msgid "Enable block directory search"
+msgstr "Activează căutarea în directorul de blocuri"
+
+#: lib/experiments-page.php:56
+msgid "Block Directory"
+msgstr "Director de blocuri"
+
+#: lib/class-wp-rest-block-directory-controller.php:145
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Nu mă pot conecta la sistemul de fișiere. Te rog confirmă-ți datele de conectare."
+
+#: lib/class-wp-rest-block-directory-controller.php:80
+msgid "Sorry, you are not allowed to install blocks."
+msgstr "Regret, nu ai voie să instalezi blocuri."
+
+#: build/edit-post/index.js:6
+msgid "%1$d block is disabled."
+msgid_plural "%1$d blocks are disabled."
+msgstr[0] "%1$d bloc este dezactivat."
+msgstr[1] "%1$d blocuri sunt dezactivate."
+msgstr[2] "%1$d de blocuri sunt dezactivate."
+
+#: build/block-library/index.js:8
+msgid "Start value"
+msgstr "Valoare de pornire"
+
+#: build/block-library/index.js:8
+msgid "Ordered list settings"
+msgstr "Setări listă ordonată"
+
+#: build/block-editor/index.js:49
+msgid "Default Style"
+msgstr "Stil implicit"
+
+#: build/block-editor/index.js:49
+msgid "Not set"
+msgstr "Nesetat"
+
+#: lib/class-wp-rest-widget-areas-controller.php:98
+msgid "The content for the object."
+msgstr "Conținutul pentru obiect."
+
+#: lib/class-wp-rest-widget-areas-controller.php:107
+msgid "Content for the object, as it exists in the database."
+msgstr "Conținut pentru obiect, așa cum există în baza de date."
+
+#: lib/class-wp-rest-widget-areas-controller.php:112
+msgid "HTML content for the object, transformed for display."
+msgstr "Conținut HTML pentru obiect, transformat pentru afișare."
+
+#: lib/class-wp-rest-widget-areas-controller.php:118
+msgid "Version of the content block format used by the object."
+msgstr "Versiune a formatului pentru blocul de conținut folosit de obiect."
+
+#: build/block-editor/index.js:49
+msgid "While writing, you can press <kbd>/</kbd> to quickly insert new blocks."
+msgstr "În timp ce scrii, poți apăsa <kbd>/</kbd> pentru a introduce rapid blocuri noi."
+
+#: build/block-library/index.js:8
+msgid "Change column alignment"
+msgstr "Modifică alinierea coloanei"
+
+#: build/block-library/index.js:8
+msgid "Color"
+msgstr "Culoare"
+
+#: build/edit-post/index.js:6
+msgid "Disable & Reload"
+msgstr "Dezactivează și reîncarcă"
+
+#: build/edit-post/index.js:6
+msgid "Enable & Reload"
+msgstr "Activează și reîncarcă"
+
+#: gutenberg.php:86
+msgid "Experiments Settings"
+msgstr "Setări experimente"
+
+#: lib/class-wp-block-styles-registry.php:44
+msgid "Block name name must be a string."
+msgstr "Numele blocului trebuie să fie un șir de caractere."
+
+#: lib/experiments-page.php:50
+msgid "Enable Widgets screen and Legacy Widgets block"
+msgstr "Activează ecranul Piese și blocul Piese tradiționale"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "Setări experimentale"
+
+#: build/components/index.js:6
+msgid "Custom"
+msgstr "Personalizat"
+
+#: build/editor/index.js:11
+msgid "Draft"
+msgstr "Ciornă"
+
+#. translators: 1: block name, 2: block style name
+#: lib/class-wp-block-styles-registry.php:76
+msgid "Block \"%1$s\" does not contain a style named \"%2$s.\"."
+msgstr "Blocul „%1$s” nu conține un stil cu numele „%2$s”."
+
+#: build/block-editor/index.js:49
+msgid "Learn more about anchors"
+msgstr "Află mai mult despre ancore"
+
+#: lib/customizer.php:61
+msgid "Widget Blocks (Experimental)"
+msgstr "Blocuri piese (experimentale)"
+
+#: build/block-library/index.js:8
+msgid "What's this?"
+msgstr "Ce-i asta?"
+
+#: build/block-library/index.js:8
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:8
+msgid "Title attribute"
+msgstr "Atribut titlu"
+
+#: build/block-library/index.js:8
+msgid "SEO settings"
+msgstr "Setări SEO"
+
+#: build/block-library/index.js:8
+msgid "Description"
+msgstr "Descriere"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Open in new tab"
+msgstr "Deschide într-o filă nouă"
+
+#: build/block-editor/index.js:49
+msgid "Move right"
+msgstr "Mută în dreapta"
+
+#: build/block-editor/index.js:49
+msgid "Move left"
+msgstr "Mută în stânga"
+
+#: build/block-library/index.js:8
+msgid "links"
+msgstr "legături"
+
+#: build/block-library/index.js:8
+msgid "navigation"
+msgstr "navigare"
+
+#: build/block-library/index.js:8
+msgid "menu"
+msgstr "meniu"
+
+#: build/block-library/index.js:8
+msgid "Upload a file or pick one from your media library."
+msgstr "Încarcă un fișier sau alege unul din biblioteca media."
+
+#: build/block-library/index.js:8
+msgid "Learn more about embeds"
+msgstr "Află mai multe despre înglobări"
+
+#: build/block-library/index.js:8
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-editor/index.js:49
+msgid "Upload a media file or pick one from your media library."
+msgstr "Încarcă un fișier în media sau alege unul din biblioteca media."
+
+#: build/block-editor/index.js:49
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr "Încarcă un fișier imagine, alege unul din biblioteca ta media sau adaugă unul cu un URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr "Încarcă un fișier audio, alege unul din biblioteca ta media sau adaugă unul cu un URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr "Încarcă un fișier video, alege unul din biblioteca ta media sau adaugă unul cu un URL."
+
+#: build/block-editor/index.js:49
+msgid "Skip"
+msgstr "Sari"
+
+#: build/block-library/index.js:8
+msgid "Don't let search engines follow this link."
+msgstr "Nu lăsa motoarele de căutare să urmărească această legătură."
+
+#: build/block-library/index.js:8
+msgid "Upload an image or video file, or pick one from your media library."
+msgstr "Încarcă un fișier imagine sau video sau alege unul din biblioteca media."
+
+#: build/block-library/index.js:8
+msgid "Add a page, link, or another item to your navigation."
+msgstr "Adaugă o pagină, o legătură sau un alt element în navigare."
+
+#: build/block-library/index.js:8
+msgid "Add a navigation block to your site."
+msgstr "Adaugă un bloc de navigare pe situl tău."
+
+#: build/block-editor/index.js:49
+msgid "Select a variation to start with."
+msgstr "Selectează o variație cu care să începi."
+
+#: build/editor/index.js:11
+msgctxt "verb"
+msgid "Group"
+msgstr "Grupează"
+
+#: build/editor/index.js:11
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Anulează gruparea"
+
+#: build/block-library/index.js:8
+msgid "Create Table"
+msgstr "Creează tabelul "
+
+#: build/block-library/index.js:8
+msgid "Insert a table for sharing data."
+msgstr "Inserează un tabel pentru partajarea datelor."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "More tools & options"
+msgstr "Mai multe unelte și opțiuni"
+
+#: build/block-editor/index.js:49
+msgid "Separate multiple classes with spaces."
+msgstr "Separă clasele multiple cu spații."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:342
+msgid "Displays a set of blocks"
+msgstr "Afișează un set de blocuri"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:338
+#: lib/class-experimental-wp-widget-blocks-manager.php:350
+msgid "Blocks Area"
+msgstr "Zonă blocuri"
+
+#: lib/class-wp-rest-widget-areas-controller.php:201
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "Regret, nu ai voie să editezi barele laterale."
+
+#: lib/class-wp-rest-widget-areas-controller.php:146
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "Regret, nu ai voie să parcurgi barele laterale."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "ID-ul barei laterale"
+
+#: build/block-library/index.js:8
+msgid "Move image backward"
+msgstr "Mută imaginea înapoi"
+
+#: build/block-library/index.js:8
+msgid "Move image forward"
+msgstr "Mută imaginea înainte"
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Cod în-linie"
+
+#: build/block-library/index.js:8
+msgid "Footer section"
+msgstr "Secțiune subsol"
+
+#: build/block-library/index.js:8
+msgid "Header section"
+msgstr "Secțiune antet"
+
+#: build/block-library/index.js:8
+msgid "Sorting and filtering"
+msgstr "Sortare și filtrare"
+
+#: build/block-library/index.js:8
+msgid "Post meta settings"
+msgstr "Setări metadate articol"
+
+#: build/block-library/index.js:8
+msgid "Post Content"
+msgstr "Conținut articol"
+
+#: build/block-library/index.js:8
+msgid "Post content settings"
+msgstr "Setări conținut articol"
+
+#: build/block-library/index.js:8
+msgid "Column settings"
+msgstr "Setări coloană"
+
+#: lib/widgets.php:207
+msgid "Block area updated."
+msgstr "Zona blocurilor a fost actualizată."
+
+#: lib/widgets.php:206
+msgid "Block area scheduled."
+msgstr "Zona blocurilor a fost programată."
+
+#: lib/widgets.php:202
+msgid "Block areas list"
+msgstr "Listă zone de blocuri"
+
+#: lib/widgets.php:201
+msgid "Block areas list navigation"
+msgstr "Navigare în lista cu zone de blocuri"
+
+#: lib/widgets.php:200
+msgid "Filter block areas list"
+msgstr "Filtrează lista cu zone de blocuri"
+
+#: lib/widgets.php:198
+msgid "No block area found."
+msgstr "Nicio zonă de blocuri găsită."
+
+#: lib/widgets.php:197
+msgid "Search Block Areas"
+msgstr "Caută zone de blocuri"
+
+#: lib/widgets.php:196
+msgid "All Block Areas"
+msgstr "Toate zonele de blocuri"
+
+#: lib/widgets.php:195
+msgid "View Block Area"
+msgstr "Vezi zona de blocuri"
+
+#: lib/widgets.php:194
+msgid "Edit Block Area"
+msgstr "Editează zona de blocuri"
+
+#: lib/widgets.php:193
+msgid "New Block Area"
+msgstr "Zonă de blocuri nouă"
+
+#: lib/widgets.php:192
+msgid "Add New Block Area"
+msgstr "Adaugă zonă de blocuri nouă"
+
+#: lib/widgets.php:189
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Zone de blocuri"
+
+#: lib/widgets.php:188
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Zonă blocuri (experimentală)"
+
+#: lib/widgets.php:187
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Zonă blocuri (experimentală)"
+
+#: lib/widgets.php:185
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Tip de articol personalizat, experimental, care va stoca zonele de blocuri din cadrul temelor."
+
+#: lib/widgets.php:203
+msgid "Block area published."
+msgstr "Zona blocurilor a fost publicată."
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Conținut ecran Piese"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Zone de blocuri"
+
+#: build/block-library/index.js:8
+msgid "section"
+msgstr "secțiune"
+
+#: build/block-library/index.js:8
+msgid "row"
+msgstr "rând"
+
+#: build/block-library/index.js:8
+msgid "container"
+msgstr "container"
+
+#: build/block-library/index.js:8
+msgid "A block that groups other blocks."
+msgstr "Un bloc care grupează alte blocuri."
+
+#: build/block-library/index.js:8
+msgid "Group"
+msgstr "Grup"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(experimental)"
+
+#: build/block-library/index.js:8
+msgid "Crop image to fill entire column"
+msgstr "Decupează imaginea pentru a umple întreaga coloană"
+
+#: build/block-editor/index.js:49
+msgid "Add a block"
+msgstr "Adaugă un bloc"
+
+#: build/editor/index.js:11
+msgid "Replace Image"
+msgstr "Înlocuiește imaginea"
+
+#: build/block-library/index.js:8
+msgid "Leave empty if the image is purely decorative."
+msgstr "Lasă gol dacă imaginea este doar decorativă."
+
+#: build/block-library/index.js:8
+msgid "Describe the purpose of the image"
+msgstr "Descrie scopul imaginii"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "Modifică alinierea pe verticală"
+
+#: build/block-library/index.js:8
+msgid "Change widget"
+msgstr "Schimbă piesa"
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget"
+msgstr "Piesă tradițională"
+
+#: build/block-library/index.js:8
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Nu ai permisiunea de a folosi piese pe acest sit."
+
+#: build/block-library/index.js:8
+msgid "Select a legacy widget to display:"
+msgstr "Selectează o piesă tradițională pentru afișare:"
+
+#: build/block-library/index.js:8
+msgid "There are no widgets available."
+msgstr "Nu este disponibilă nicio piesă."
+
+#: build/block-editor/index.js:49
+msgid "Change block type or style"
+msgstr "Modifică tipul sau stilul de bloc"
+
+#: build/block-library/index.js:8
+msgid "Display a legacy widget."
+msgstr "Afișează o piesă tradițională."
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget (Experimental)"
+msgstr "Piesă tradițională (experimentală)"
+
+#: build/editor/index.js:11
+msgid "Search Terms"
+msgstr "Termeni de căutare"
+
+#: build/editor/index.js:11
+msgid "Exit the Editor"
+msgstr "Ieși din editor"
+
+#: build/edit-post/index.js:6
+msgid "Block Manager"
+msgstr "Manager de blocuri"
+
+#: lib/class-wp-rest-widget-forms.php:81
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Regret, nu ai voie să accesezi piese pe acest sit."
+
+#: lib/class-wp-rest-widget-forms.php:42
+msgid "Class name of the widget."
+msgstr "Numele clasei piesei."
+
+#: build/block-library/index.js:8
+msgid "link"
+msgstr "legătură"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Conținutul înglobat de pe %s nu poate fi previzualizat în editor."
+
+#: build/components/index.js:6
+msgid "Custom color"
+msgstr "Culoare personalizată"
+
+#: build/block-library/index.js:8
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Îndeamnă vizitatorii să acționeze cu o legătură de tipul buton."
+
+#: gutenberg.php:51 gutenberg.php:52
+msgid "Widgets (beta)"
+msgstr "Piese (beta)"
+
+#: build/block-library/blocks/rss.php:58
+msgid "by"
+msgstr "de"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "A apărut o eroare, care, probabil, înseamnă că fluxul nu funcționează. Reîncercă mai târziu."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Eroare RSS:"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode deactivated"
+msgstr "Mod ecran întreg dezactivat"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode activated"
+msgstr "Mod ecran întreg activat"
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode deactivated"
+msgstr "Mod centrat pe bloc dezactivat"
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode activated"
+msgstr "Mod centrat pe bloc activat"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar deactivated"
+msgstr "Bara de unelte de sus dezactivată"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar activated"
+msgstr "Bara de unelte de sus activată"
+
+#: build/editor/index.js:11
+msgid "Stick to the top of the blog"
+msgstr "Evidențiază în partea de sus a blogului"
+
+#: build/edit-post/index.js:6
+msgid "Read about permalinks"
+msgstr "Citește despre legăturile permanente"
+
+#: build/edit-post/index.js:6
+msgid "The last part of the URL."
+msgstr "Ultima parte a URL-ului."
+
+#: build/edit-post/index.js:6
+msgid "URL Slug"
+msgstr "Descriptor URL"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgctxt "block style"
+msgid "Default"
+msgstr "Implicit"
+
+#: build/block-library/index.js:8
+msgid "posts"
+msgstr "articole"
+
+#: build/block-library/index.js:8
+msgid "A calendar of your site’s posts."
+msgstr "Un calendar al articolelor de pe situl tău."
+
+#: build/block-library/index.js:8
+msgid "Calendar"
+msgstr "Calendar"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Back"
+msgstr "Înapoi"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature activated"
+msgstr "Funcționalitate activată"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature deactivated"
+msgstr "Funcționalitate dezactivată"
+
+#: build/block-library/index.js:8
+msgid "feed"
+msgstr "flux"
+
+#: build/block-library/index.js:8
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:8
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Afișează intrările din toate fluxurile RSS sau Atom."
+
+#: build/block-library/index.js:8
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:8
+msgid "Max number of words in excerpt"
+msgstr "Număr maxim de cuvinte în rezumat"
+
+#: build/block-library/index.js:8
+msgid "Display excerpt"
+msgstr "Afișează rezumatul"
+
+#: build/block-library/index.js:8
+msgid "Display date"
+msgstr "Afișează data"
+
+#: build/block-library/index.js:8
+msgid "Display author"
+msgstr "Afișează autorul"
+
+#: build/block-library/index.js:8
+msgid "RSS settings"
+msgstr "Setări RSS"
+
+#: build/block-library/index.js:8
+msgid "Edit RSS URL"
+msgstr "Editează URL-ul RSS"
+
+#: build/block-library/index.js:8
+msgid "Hide the excerpt on the full content page"
+msgstr "Ascunde rezumatul pe pagina cu conținut complet"
+
+#: build/block-library/index.js:8
+msgid "The excerpt is visible."
+msgstr "Rezumatul este vizibil."
+
+#: build/block-library/index.js:8
+msgid "The excerpt is hidden."
+msgstr "Rezumatul este ascuns."
+
+#: build/block-library/index.js:8
+msgid "Sorry, this content could not be embedded."
+msgstr "Regret, acest conținut nu a putut fi înglobat."
+
+#: build/block-library/index.js:8
+msgid "Embed Amazon Kindle content."
+msgstr "Înglobează conținut Amazon Kindle."
+
+#: build/block-library/index.js:8
+msgid "ebook"
+msgstr "ebook"
+
+#: build/block-library/index.js:8
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Înglobează conținut Crowdsignal (fostul Polldaddy)."
+
+#: build/block-library/index.js:8
+msgid "Focal point picker"
+msgstr "Selector punct de focalizare"
+
+#: build/block-library/index.js:8
+msgid "A cloud of your most used tags."
+msgstr "Un nor cu cele mai folosite etichete."
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud"
+msgstr "Nor de etichete"
+
+#: build/block-library/index.js:8 build/core-data/index.js:1
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud settings"
+msgstr "Setări nor de etichete"
+
+#: build/block-library/index.js:8
+msgid "- Select -"
+msgstr "- Selectează -"
+
+#: build/block-library/index.js:8
+msgid "find"
+msgstr "găsește"
+
+#: build/block-library/index.js:8
+msgid "Help visitors find your content."
+msgstr "Ajută-ți vizitatorii să-ți găsească conținutul."
+
+#: build/block-library/blocks/search.php:32
+#: build/block-library/blocks/search.php:83
+#: build/block-library/blocks/search.php:91 build/block-library/index.js:8
+msgid "Search"
+msgstr "Caută"
+
+#: build/block-library/index.js:8
+msgid "Add button text…"
+msgstr "Adaugă text buton..."
+
+#: build/block-library/index.js:8
+msgid "Button text"
+msgstr "Text buton"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder…"
+msgstr "Substituent opțional..."
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder text"
+msgstr "Text substituent opțional"
+
+#: build/block-library/index.js:8
+msgid "Add label…"
+msgstr "Adaugă etichetă..."
+
+#: build/block-library/index.js:8
+msgid "Label text"
+msgstr "Text etichetă"
+
+#: build/block-library/index.js:8
+msgid "archive"
+msgstr "arhivă"
+
+#: build/block-library/index.js:8
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Conținutul găsit înainte de acest bloc va fi arătat în rezumatul din pagina ta arhive."
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Subliniere"
+
+#: build/block-editor/index.js:49
+msgid "Attempt Block Recovery"
+msgstr "Încearcă recuperarea blocului"
+
+#: build/editor/index.js:11
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "cuvinte"
+
+#: build/block-library/index.js:8
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Conținut..."
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Convertește în legătură"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Try again"
+msgstr "Încearcă din nou"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "Bloc (selectat)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "Document (selectat)"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Creează conținut și salvează-l pentru a fi refolosit, de tine și de ceilalți contributori, pe tot situl. Actualizează blocul, iar modificările se aplică oriunde este folosit."
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d cuvânt"
+msgstr[1] "%d cuvinte"
+msgstr[2] "%d de cuvinte"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar"
+msgstr "Bara de unelte de sus"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "Clasă CSS legătură"
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Pentru a edita imaginea reprezentativă, ai nevoie de permisiunea de a încărca elemente media."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "Pentru a edita acest bloc, ai nevoie de permisiunea de a încărca elemente media."
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(bloc selectat)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "Unelte pentru blocuri"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "Legătură permanentă"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "Această imagine are atributul alt gol."
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Această imagine are atributul alt gol; numele fișierului este %s"
+
+#: lib/widgets.php:205
+msgid "Block area reverted to draft."
+msgstr "Zona blocurilor a revenit la ciornă."
+
+#: lib/widgets.php:204
+msgid "Block area published privately."
+msgstr "Zona blocurilor a fost publicată privat."
+
+#: lib/widgets.php:199
+msgid "No block areas found in Trash."
+msgstr "Nicio zonă de blocuri găsită la gunoi."
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "Adaugă bloc nou"
+
+#: lib/widgets.php:190
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Zonă blocuri"
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Legătură inserată."
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Avertizare: legătura a fost inserată dar poate avea erori. Te rog testeaz-o."
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s bloc selectat."
+msgstr[1] "%s blocuri selectate."
+msgstr[2] "%s de blocuri selectate."
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "Miniatură"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "Dimensiune completă"
+
+#: build/block-editor/index.js:49
+msgid "Link selected."
+msgstr "Legătură selectată."
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "Începe să scrii text sau HTML"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "Tastează text sau HTML"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "Icon bloc"
+
+#: build/block-editor/index.js:49
+msgid "Align text right"
+msgstr "Aliniază textul la dreapta"
+
+#: build/block-editor/index.js:49
+msgid "Align text center"
+msgstr "Aliniază textul pe centru"
+
+#: build/block-editor/index.js:49
+msgid "Align text left"
+msgstr "Aliniază textul la stânga"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "Începe să scrii sau tastează „/” pentru a alege un bloc"
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Bloc gol; începe să scrii sau tastează slash pentru a alege un bloc"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "Bloc paragraf"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "Sfârșit de pagină"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "Rearanjează pentru mobil"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Trage imagini, încarcă unele noi sau selectează fișiere din biblioteca ta."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Adnotare"
+
+#: build/block-editor/index.js:49
+msgctxt "blocks"
+msgid "Most used"
+msgstr "Cele mai folosite"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Rezolvă"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importă"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "Descarcă"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "Înglobează"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "Clasic"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "Mare"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Legătură editată."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Legătură înlăturată."
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "Verifică-ți de două ori setările înainte de publicare."
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "Generez previzualizarea..."
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "Editează sau actualizează imaginea"
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "Media"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "Navighează la cea mai apropiată bară de unelte."
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "Instrumente pentru documente"
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "Instrumente pentru documente și blocuri"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Înglobează un video din biblioteca media sau încarcă unul nou."
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Inserează o poezie. Folosește formatele speciale de spațiere. Sau citează versurile cântecului."
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "Adaugă spațiu gol între blocuri și le personalizează înălțimea."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "Afișează o listă cu cele mai recente comentarii."
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "Inserează o imagine pentru a avea o expunere vizuală."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Adaugă cod HTML personalizat și previzualizează-l pe măsură ce editezi."
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Introdu secțiuni noi și organizează conținutul pentru a ajuta vizitatorii (și motoarele de căutare) să înțeleagă structura conținutului tău."
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "Afișează mai multe imagini într-o galerie bogată."
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "Adaugă o legătură la un fișier ce poate fi descărcat."
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Înglobează videouri, imagini, twituri, fișiere audio și alt conținut din surse externe."
+
+#: build/block-library/index.js:8
+msgid "Media & Text settings"
+msgstr "Setări media și text"
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "Creează o listă cu buline sau numerotată."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Inserează elemente personalizate suplimentare cu un scurtcod WordPress."
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Accentuează vizual textul citat. „Citând pe alții, ne cităm pe noi înșine.” — Julio Cortázar"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Accentuează vizual un citat din textul tău."
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "Începe cu blocul pentru construirea întregii narațiuni."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "Separă-ți conținutul într-o experiență pe mai multe pagini."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Setează media și cuvintele adiacente media pentru un aranjament mai bogat."
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Separă ideile sau secțiunile cu un separator orizontal."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "Redimensionează pentru dispozitive mai mici"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Această înglobare ar putea să nu-și păstreze raportul de aspect când navigatorul este redimensionat."
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Această înglobare își va păstra raportul de aspect când navigatorul este redimensionat."
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Înglobează un video Animoto."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "Înglobează un video Vimeo."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "Înglobează conținut Flickr."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Înglobează conținut Spotify."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "Înglobează conținut SoundCloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "Înglobează un articol Facebook."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "Înglobează un video WordPress.tv."
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "Înglobează un video VideoPress."
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "Înglobează un articol Tumblr."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "Înglobează un video TED."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "Înglobează conținut Speaker Deck."
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "Înglobează un video YouTube."
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "Înglobează conținut SmugMug."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "Înglobează conținut Slideshare."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Înglobează conținut Scribd."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "Înglobează conținut Screencast."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "Înglobează conținut ReverbNation."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Înglobează un fir Reddit."
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "Înglobează conținut Polldaddy."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Înglobează conținut Mixcloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "Înglobează un articol WordPress."
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "Înglobează un articol Instagram."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Înglobează conținut Kickstarter."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Înglobează conținut Issuu."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Înglobează conținut Imgur."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Înglobează conținut Hulu."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Înglobează un video Dailymotion."
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "Înglobează conținut CollegeHumor."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Înglobează conținut Cloudup."
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Adaugă o imagine sau un video cu o suprapunere de text — excelentă pentru anteturi."
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Afișează fragmente de cod care respectă spațierea și filele."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "Folosește editorul clasic WordPress."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "Afișează o listă cu toate categoriile."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "Înglobează un player audio simplu."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "Înglobează un twit."
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Înglobează conținut Meetup.com."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "Vizualizare"
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "De la stânga la dreapta"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "Salvează ca în așteptare"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "Adresă %s"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "Plasează sau introdu URL-ul"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "Inserează din URL"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "Stiluri"
+
+#: build/edit-post/index.js:6
+msgid "Advanced panels"
+msgstr "Panouri avansate"
+
+#: build/edit-post/index.js:6
+msgid "Document panels"
+msgstr "Panouri cu documente"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "Generale"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "Deschide meniul de navigare în blocuri."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "Lucrezi fără distragerea atenției"
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "Te concentrezi numai pe un bloc la un moment dat"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "Accesezi toate instrumentele pentru blocuri și documente dintr-un singur loc"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "Opțiuni"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "Minute"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "Ore"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "An"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "Zi"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "Decembrie"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "Noiembrie"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "Octombrie"
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "Septembrie"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "August"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "Iulie"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "Iunie"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "Mai"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "Aprilie"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "Martie"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "Februarie"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "Ianuarie"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "Lună"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "Dată"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Mergi la prima sau la ultima zi a săptămânii."
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Prima/ultima"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Prima și ultima"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Mută înapoi (PgUp) sau înainte (PgDn) cu o lună."
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Pagină înainte și pagină înapoi"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Mută înapoi (în sus) și înainte (în jos) cu o săptămână."
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "Săgeți sus și jos"
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Mută înapoi (stânga) și înainte (dreapta) cu o zi."
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "Săgeți stânga și dreapta"
+
+#: build/components/index.js:6
+msgid "Select the date in focus."
+msgstr "Selectează data dorită."
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "Navigare cu o tastatură"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "Dă clic pe ziua dorită pentru a o selecta."
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Dă clic pe săgeata dreapta sau stânga pentru a selecta luni anterioare sau următoare."
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "Dă clic pentru a selecta"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "Ajutor pentru calendar"
+
+#: build/components/index.js:6
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Folosește tastele săgeți pentru a modifica culoarea de bază. Mută în sus pentru culori mai deschise, în jos pentru culori mai închise, la stânga pentru a reduce saturația și la dreapta pentru a crește saturația."
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "Alege o umbră"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "Modifică formatul de culoare"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "Valori de culoare în HSL"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "Valori de culoare în RGB"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "Valori de culoare în hexazecimal"
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "Modul RGB este activ"
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "Modul nuanță/saturație/luminozitate este activ"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "Mută cu săgeata stânga sau dreapta pentru a modifica nuanța."
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Valoarea nuanței măsurată în grade pe cercul de culoare, de la 0 la 359."
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Valoarea alfa, de la 0 (transparent) la 1 (complet opac)."
+
+#: build/block-library/index.js:8
+msgid "Stripes"
+msgstr "Dungi"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "Situl tău nu include suport pentru acest bloc."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Situl tău nu include suport pentru blocul „%s”. Poți lăsa acest bloc intact sau îl poți înlătura complet."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Situl tău nu include suport pentru blocul „%s”. Poți lăsa acest bloc intact, îi poți converti conținutul într-un bloc HTML personalizat sau îl poți înlătura complet."
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "Zonă media"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "Media și text"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "Arată media în dreapta"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "Arată media în stânga"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(se deschide într-o filă nouă)"
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "Copertă"
+
+#: build/block-library/index.js:8
+msgid "Border settings"
+msgstr "Setări chenar"
+
+#: build/editor/index.js:11
+msgid "Terms"
+msgstr "Termeni"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "Lucrarea ta va fi publicată la data și ora specificate."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "Ești pregătit ca să programezi?"
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "Arată întotdeauna verificările înainte de publicare."
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "Preia controlul"
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "În prezent, la acest articol lucrează un alt utilizator, asta înseamnă că nu poți face modificări decât dacă preiei controlul."
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "În prezent, la acest articol lucrează %s, asta înseamnă că nu poți face modificări decât dacă preiei controlul."
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "În prezent, un alt utilizator are controlul editării acestui articol. Nu te impacienta, modificările pe care le-ai făcut până acum au fost salvate."
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "În prezent, %s are controlul editării acestui articol. Nu te impacienta, modificările pe care le-ai făcut până acum au fost salvate."
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "Avatar"
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "Acest articol este editat acum."
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "Altcineva a preluat controlul acestui articol."
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "Acest bloc conține conținut neașteptat sau invalid."
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "Corectează blocul"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "Convertește în HTML"
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "Acest bloc poate fi folosit numai o singură dată."
+
+#: build/edit-post/index.js:6
+msgid "Exit code editor"
+msgstr "Ieși din editorul de cod"
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "Editez codul"
+
+#: build/block-library/index.js:8
+msgid "Solid color"
+msgstr "Culoare densă"
+
+#: build/block-library/index.js:8
+msgid "Main color"
+msgstr "Culoare principală"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "Scrie HTML…"
+
+#: build/block-library/index.js:8
+msgid "Media settings"
+msgstr "Setări media"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "Suprapune"
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "Inserează media"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Blocurile reutilizabile au fost importate cu succes!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Fișier JSON invalid"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Importă din JSON"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Apostrof"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Perioadă"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Virgulă"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "După conversie"
+
+#: build/block-editor/index.js:49
+msgid "Change alignment"
+msgstr "Modifică alinierea"
+
+#: build/block-editor/index.js:49
+msgid "Change text alignment"
+msgstr "Modifică alinierea textului"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "Un bloc"
+msgstr[1] "%d blocuri"
+msgstr[2] "%d de blocuri"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "Bară înclinată dreapta"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Nicio arhivă de arătat."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Acest fișier este gol."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Regret, acest tip de fișier nu este acceptat aici."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Manage all reusable blocks"
+msgstr "Administrează toate blocurile reutilizabile"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "Titlu"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode"
+msgstr "Mod ecran întreg"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Peisaj frumos"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "Închide panoul"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "Convertește în bloc clasic"
+
+#: build/block-library/index.js:8
+msgid "Poster image"
+msgstr "Imagine poster"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Acest bloc este învechit. Te rog folosește în schimb blocul Coloane."
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "Coloane text (învechit)"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "Număr de rânduri"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "Număr de coloane"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Acest bloc este învechit. Te rog folosește în schimb blocul Paragraf."
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "Subtitlu (învechit)"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "citat"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "Schimbă tipul de bloc după adăugarea unui paragraf nou."
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode"
+msgstr "Mod centrat pe bloc"
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "Adaugă etichete"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "Aplică formatul „%1$s”."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "Folosește un format de articol"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "Inserează după"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "Inserează înainte"
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "Înlătură blocul selectat (blocurile selectate)."
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "Înlătură o legătură."
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Etichetele ajută utilizatorii și motoarele de căutare să navigheze pe situl tău și să-ți găsească conținutul. Adaugă câteva cuvinte cheie pentru a-ți descrie articolul."
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Tema ta folosește formate de articol pentru a evidenția diverse tipuri de conținut, cum ar fi imagini sau videouri. Folosește un format de articol pentru a vedea care-i stilul său special."
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "Inserează un bloc nou înainte de blocul selectat (blocurile selectate)."
+
+#: build/edit-post/index.js:6
+msgid "Switch between visual editor and code editor."
+msgstr "Comută între editorul vizual și editorul de cod."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "Revino la ultimele modificări."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "Salvează-ți modificările."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "Scurtături globale"
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "Convertește textul selectat într-o legătură."
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "Subliniază textul selectat."
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "Formatare text"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "Inserează un bloc nou după blocul selectat (blocurile selectate)."
+
+#: build/edit-post/index.js:6
+msgid "Keyboard shortcuts"
+msgstr "Scurtături tastatură"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "Fă duplicat după blocul selectat (blocurile selectate)."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "Scurtături bloc"
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "Anulează selecția."
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Selectează tot textul când tastezi. Apasă din nou pentru a selecta toate blocurile."
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "Scurtături selecție"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d right to position %3$d"
+msgstr "Mută blocul %1$s din poziția dreapta %2$d în poziția %3$d"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Comunitatea WordPress"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Ajută la construirea Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Dacă vrei să afli mai multe despre cum să construiești blocuri suplimentare sau dacă ești interesat să ajuți proiectul, mergi la <a href=\"%s\">depozitarul GitHub</a>."
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Îți mulțumim pentru testarea Gutenberg!"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Codul este poezie"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "Mai multe"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Mai multe"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Bine ai venit la editorul Gutenberg"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Sigur vrei să anulezi programarea acestui articol?"
+
+#: build/block-library/index.js:8
+msgid "Alt text (alternative text)"
+msgstr "Text alternativ (alt text)"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "Bloc reutilizabil"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Înglobări, cum ar fi YouTube, twituri sau alte articole WordPress."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerii"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Imagini și videouri"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Text și subtitluri"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Încearcă-l, poți descoperi unele lucruri pe care WordPress poate le-a adăugat deja în articolele tale, de care nu știai. Iată o scurtă listă cu ceea ce poți găsi în prezent:"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "Titlul pentru obiect."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "Identificator unic pentru obiect."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "Bloc reutilizabil fără titlu"
+
+#: build/components/index.js:6
+msgid "Small"
+msgstr "Mic"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "Reutilizabil"
+
+#: build/editor/index.js:11
+msgid "Remove from Reusable blocks"
+msgstr "Înlătură din blocuri reutilizabile"
+
+#: build/editor/index.js:11
+msgid "Add to Reusable blocks"
+msgstr "Adaugă în blocuri reutilizabile"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "Editează URL-ul"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Color settings"
+msgstr "Setări culoare"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Răspunsul nu este un răspuns valid JSON."
+
+#: build/block-library/index.js:8
+msgid "Video settings"
+msgstr "Setări video"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "Ultimele comentarii"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "Arhive"
+
+#: build/block-library/index.js:8
+msgid "Number of comments"
+msgstr "Număr de comentarii"
+
+#: build/block-library/index.js:8
+msgid "Audio settings"
+msgstr "Setări audio"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "comentarii recente"
+
+#: build/block-library/index.js:8
+msgid "Background opacity"
+msgstr "Opacitate fundal"
+
+#: build/block-library/index.js:8
+msgid "Archives settings"
+msgstr "Setări arhive"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "Suport"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Niciun comentariu de arătat."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s pe %2$s"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Selectează luna"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "Fără sunet"
+
+#: build/block-library/index.js:8
+msgid "Latest comments settings"
+msgstr "Setări ultimele comentarii"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "Automat"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "Pre-încărcare"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Selectează articolul"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Selectează săptămâna"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Selectează ziua"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Selectează anul"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "Afișează o arhivă lunară a articolelor tale."
+
+#: build/block-library/index.js:8
+msgid "Display avatar"
+msgstr "Afișează avatarul"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "Deschide panoul de publicare"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "Puncte"
+
+#: build/block-library/index.js:8
+msgid "Download button settings"
+msgstr "Setări buton de descărcare"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "Mare"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "Linie lată"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "Înlătură blocul"
+msgstr[1] ""
+msgstr[2] ""
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Fișier"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "O singură coloană într-un bloc de coloane."
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "Coloană"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "Contur"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "Închide dialogul"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "PDF"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "document"
+
+#: build/format-library/index.js:1
+msgid "Inline image"
+msgstr "Imagine în-linie"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "Tipuri de bloc disponibile"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "Buclă"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "Redare automată"
+
+#: build/block-library/index.js:8
+msgid "Playback controls"
+msgstr "Comenzi redare"
+
+#: build/block-library/index.js:8
+msgid "Link to"
+msgstr "Legătură la"
+
+#: build/block-library/index.js:8
+msgid "Text link settings"
+msgstr "Setări legătură text"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "Copiază URL-ul"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "Scrie numele fișierului..."
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "Gri foarte închis"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "Gri foarte deschis"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "Chihlimbar viu luminos"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "Portocaliu viu luminos"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "Roșu viu"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "Roz pal"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "Albastru cyan viu"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "Albastru cyan pal"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "Cyan verde viu"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "Cyan verde deschis"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "Gri albăstrui cyan"
+
+#: build/block-library/index.js:8
+msgid "Show download button"
+msgstr "Arată butonul de descărcare"
+
+#: build/block-library/index.js:8
+msgid "download"
+msgstr "descarcă"
+
+#: build/block-editor/index.js:49
+msgid "Transform to"
+msgstr "Transformă în"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Regret, acest tip de fișier nu este permis din motive de securitate."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Dezactivează sfaturi"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Am înțeles"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Vezi următorul sfat"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Când ești gata, trimite-ți lucrarea pentru a fi revizuită și un editor o va putea aproba pentru tine."
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "Înlătură imaginea"
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "Ești gata să trimiți spre revizuire?"
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ID-ul pentru părintele obiectului."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "Vezi salvarea automată"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Există o salvare automată a acestui articol care este mai recentă decât versiunea de mai jos."
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "Introdu URL-ul aici..."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "Salvare automată"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Eroare în timpul încărcării fișierului %s în biblioteca media."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Fișierul depășește dimensiunea maximă de încărcare pentru acest sit."
+
+#: lib/class-wp-rest-menu-items-controller.php:399
+msgid "Invalid term ID."
+msgstr "ID termen invalid."
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "Fixează în bara de unelte"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "Anulează fixarea din bara de unelte"
+
+#: build/block-library/index.js:8
+msgid "Table settings"
+msgstr "Setări tabel"
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Eroare la încărcarea blocului: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Eroare necunoscută"
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "Celule de tabel cu lățime fixă"
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "Afișează o listă cu cele mai recente articole."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Adaugă un bloc care afișează conținut extras de pe alte situri, cum ar fi Twitter, Instagram sau YouTube."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Adaugă un bloc care afișează conținut pe mai multe coloane, apoi adaugă blocurile de conținut dorite."
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Adaugă text care respectă spațierea și filele și permite, de asemenea, designul."
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Inserează un tabel — perfect pentru partajarea diagramelor și datelor."
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Înlătură %s"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "Copiază legătura permanentă"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "Legătură permanentă copiată"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "Înălțimea în pixeli"
+
+#: build/block-library/index.js:8
+msgid "Spacer settings"
+msgstr "Setări distanțier"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "Distanțier"
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "Nume:"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s din %3$s)"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "Înlătură elementul"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "Cod culoare: %s"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "Comută pentru a arăta o literă inițială mare."
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "Arată litera inițială mare."
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "Sari la blocul selectat"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "Programează..."
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "Editează legătura permanentă a articolului"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "Arată setări bloc"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "Ascunde setări bloc"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "Setări bloc închise"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "Setări editor"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Link settings"
+msgstr "Setări legătură"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Anulează legătura"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "Sfârșit de pagină"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "paginație"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "pagina următoare"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "Înălțime"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "Lățime"
+
+#: build/block-editor/index.js:49
+msgid "Image dimensions"
+msgstr "Dimensiuni imagine"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "Miniaturile nu sunt decupate."
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "Miniaturile sunt decupate pentru aliniere."
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "Închide modulul"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "Dimensiune imagine"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "Bibliotecă Media"
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "Avansat"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "Adaugă element"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "Resetează șablonul"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "Păstrează-l așa cum este"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "Statistici document"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "Programat"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "Programez..."
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "Module"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "Dimensiune personalizată"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "este programat acum. Va fi live pe"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "Editor de cod selectat"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "Editor vizual selectat"
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Resetarea șablonului poate duce la pierderea conținutului, vrei să continui?"
+
+#: build/blocks/index.js:2
+msgid "Layout elements"
+msgstr "Elemente de aranjament"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "Bară sus editor"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s adăugat"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "Paragrafe"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "Cuvinte"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "Public"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "Privat"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "Crează parolă"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "Vizibilitate:"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "Ce urmează?"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "Publicat"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "Programează"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Actualizează"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "Ordine"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "Salvat"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "Blocuri"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "Adaugă bloc"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Blocul %s este singurul bloc și nu poate fi mutat"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "Mută în jos"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "Mută în sus"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "Unelte"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "Editor"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor"
+msgstr "Editor vizual"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "Setări"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Cursiv"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Aldin"
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "Bloc actualizat."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "Bloc creat."
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "Categorie părinte"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "Publică:"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "Sugestie:"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "Standard"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "Mai multe opțiuni"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "Editează vizual"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s înlăturat"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Previzualizează"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "Bloc șters."
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "Aruncarea la gunoi a eșuat."
+
+#: build/edit-post/index.js:6
+msgid "View post"
+msgstr "Vezi articolul"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "Structură conținut"
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "Protejat cu parolă"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "Vizibil pentru toată lumea."
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "Vizibilitate articol"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "Folosește o parolă sigură"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "Termen părinte"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "Adaugă termen nou"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "Adaugă categorie nouă"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "Termen"
+
+#: build/editor/index.js:11
+msgid "Add new Term"
+msgstr "Adaugă termen nou"
+
+#: build/editor/index.js:11
+msgid "Add new tag"
+msgstr "Adaugă etichetă nouă"
+
+#: build/editor/index.js:11
+msgid "Switch to draft"
+msgstr "Comută la ciornă"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Sigur vrei să anulezi publicarea acestui articol?"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "Salvează ciorna"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "Salvez"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "Copiază legătura"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "este live acum."
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "Actualizez..."
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "Public..."
+
+#: build/editor/index.js:11
+msgid "Allow pingbacks & trackbacks"
+msgstr "Permite pingback-uri și trackback-uri"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "Stare"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "Notă"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "Șablon:"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "fără părinte"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "fără titlu"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "Niciun bloc găsit."
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Înglobări"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "Caută un bloc"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "Încearcă recuperarea"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "Revenire"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "Editorul a găsit o eroare neașteptată."
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Blocurile nu pot fi mutate jos deoarece ele sunt deja în partea de jos"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Blocurile nu pot fi mutate sus deoarece sunt deja în partea de sus"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "Editează ca HTML"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "Bloc: %s"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Acest bloc a găsit o eroare și nu poate fi previzualizat."
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "Niciun bloc selectat."
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "Închide setările"
+
+#: build/edit-post/index.js:6
+msgid "Status & visibility"
+msgstr "Stare și vizibilitate"
+
+#: build/edit-post/index.js:6
+msgid "Page attributes"
+msgstr "Atribute pagină"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "Bloc"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "Document"
+
+#: build/edit-post/index.js:6
+msgid "Code editor"
+msgstr "Editor de cod"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "Resetează"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "Element înlăturat."
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "Element adăugat."
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "Trimite"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "Închide"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "Legătură"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Barare"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "Etichetă"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "Imediat"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Protejat cu o parolă pe care o alegi. Numai cei care au parola pot vedea acest articol."
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "Vizibil numai pentru administratorii și editori sitului."
+
+#: build/editor/index.js:11
+msgid "Move to Trash"
+msgstr "Aruncă la gunoi"
+
+#: build/editor/index.js:11
+msgid "Updating failed."
+msgstr "Actualizarea a eșuat."
+
+#: build/editor/index.js:11
+msgid "Scheduling failed."
+msgstr "Programarea a eșuat."
+
+#: build/editor/index.js:11
+msgid "Publishing failed."
+msgstr "Publicarea a eșuat."
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved right"
+msgstr "Blocul %1$s este la începutul conținutului și nu poate fi mutat în dreapta"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved right"
+msgstr "Blocul %1$s este la sfârșitul conținutului și nu poate fi mutat în dreapta"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Ai modificări nesalvate. Dacă continui, vor fi pierdute."
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "Fișier Media"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "Afișează ca listă derulantă"
+
+#: build/block-library/index.js:8
+msgid "Categories settings"
+msgstr "Setări categorii"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "Adaugă text..."
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "Buton"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "Aplică"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "Culoare text"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "Culoare fundal"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "Blocul a fost șters sau este indisponibil."
+
+#: build/blocks/index.js:2
+msgid "Reusable blocks"
+msgstr "Blocuri reutilizabile"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "Anulează"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "Editează"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "Scrie textul asociat..."
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "Folosește URL-ul"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "Conținut înglobat din %s"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "Introdu URL-ul pentru a îngloba aici..."
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "articol"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "URL %s"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "Înglobez..."
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "Scrie titlul..."
+
+#: build/block-library/index.js:8
+msgid "Fixed background"
+msgstr "Fundal fix"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "Editează imaginea"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "Coloane"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "Cod"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "Scrie codul..."
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "Categorii"
+
+#: build/block-library/index.js:8
+msgid "Show hierarchy"
+msgstr "Arată ierarhia"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "Arată numărul de articole"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "Nivel"
+
+#: build/block-library/index.js:8
+msgid "Heading settings"
+msgstr "Setări subtitluri"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "fotografii"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "imagini"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "Niciuna"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "Pagină atașament"
+
+#: build/block-library/index.js:8
+msgid "Gallery settings"
+msgstr "Setări galerie"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "Galerie"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "Clasic"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "video"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "audio"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "muzică"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "imagine"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "Ultimele articole"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "Afișează data articolului"
+
+#: build/block-library/index.js:8
+msgid "Grid view"
+msgstr "Vizualizare ca grilă"
+
+#: build/block-library/index.js:8
+msgid "List view"
+msgstr "Vizualizare ca listă"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "fotografie"
+
+#: build/block-library/index.js:8
+msgid "Image settings"
+msgstr "Setări imagine"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "Imagine"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "Previzualizează"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "înglobează"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "HTML personalizat"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "titlu"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "subtitlu"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "Subtitlu"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "Scrie subtitlul..."
+
+#: build/components/index.js:6
+msgid "Font size"
+msgstr "Dimensiune font"
+
+#: build/block-library/index.js:8
+msgid "Drop cap"
+msgstr "Letrină"
+
+#: build/block-library/index.js:8
+msgid "Text settings"
+msgstr "Setări text"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "Citește mai mult"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "Scrie lista..."
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "listă numerotată"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "listă ordonată"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "listă cu buline"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "Indentează elementele din listă"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "Elemente de listă fără indentare"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "Convertește în listă ordonată"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "Convertește în listă neordonată"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "Listă"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "articole recente"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "Niciun articol găsit."
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "Preformatat"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "text"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:6
+msgid "Oldest to newest"
+msgstr "De la cele mai vechi la cele mai noi"
+
+#: build/components/index.js:6
+msgid "Newest to oldest"
+msgstr "De la cele mai noi la cele mai vechi"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "Categorie"
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(fără titlu)"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "Scrie..."
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "poezie"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "Vers"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "Coloană nouă"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "Șterge coloana"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "Adaugă coloană după"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "Adaugă coloană înainte"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "Șterge rândul"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "Adaugă rând după"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "Adaugă rând înainte"
+
+#: build/block-library/index.js:8
+msgid "Edit table"
+msgstr "Editează tabelul"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "Tabel"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "Scrie subtitlul..."
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "Scrie scurtcodul aici..."
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "Scurtcod"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "Scrie text pre-formatat..."
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "Subtitlu %d"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "A apărut o eroare necunoscută."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "Niciun rezultat."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d rezultat găsit, folosește tastele săgeată sus și jos pentru a naviga."
+msgstr[1] "%d rezultate găsite, folosește tastele săgeată sus și jos pentru a naviga."
+msgstr[2] "%d de rezultate găsite, folosește tastele săgeată sus și jos pentru a naviga."
+
+#: build/block-editor/index.js:49
+msgid "Insert link"
+msgstr "Inserează legătura"
+
+#: build/block-editor/index.js:49
+msgid "Edit link"
+msgstr "Editează legătura"
+
+#: build/block-editor/index.js:49
+msgid "Remove link"
+msgstr "Înlătură legătura"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "Număr de elemente"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "Tot"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "Ordonează după"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "Selectează"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Selectează sau încarcă media"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "Video"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(Subtitlu gol)"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Sigur vrei să ștergi acest bloc reutilizabil?\n"
+"\n"
+"El va fi înlăturat definitiv din toate articolele și paginile care îl folosesc."
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "Convertește în bloc normal"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "Fă duplicat"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "Convertește în blocuri"
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "Transformă în:"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "Înlătură"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "Găsește originalul"
+
+#: build/edit-post/index.js:6
+msgid "Copy all content"
+msgstr "Copiază tot conținutul"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "Copiat!"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Setările suplimentare sunt disponibile acum în bara laterală pentru setări a blocului Editor"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "Vizibilitate"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "Conținut editor"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "Respinge această notificare"
+
+#: build/editor/index.js:11
+msgid "Pending review"
+msgstr "Recenzie în așteptare"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "O revizie"
+msgstr[1] "%d revizii"
+msgstr[2] "%d de revizii"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "Format articol"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "Discuții"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "Imagine reprezentativă"
+
+#: build/editor/index.js:11
+msgid "Set featured image"
+msgstr "Setează imaginea reprezentativă"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "Află mai multe despre rezumatele manuale"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "Scrie un rezumat (opțional)"
+
+#: build/editor/index.js:11
+msgid "Allow comments"
+msgstr "Permite comentarii"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d rezultat găsit."
+msgstr[1] "%d rezultate găsite."
+msgstr[2] "%d de rezultate găsite."
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "Eroare la copiere"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "Copiază textul articolului"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Nu sunt recomandate mai multe subtitluri H1)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Tema ta poate folosește deja un H1 pentru titlul articolului)"
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "Schiță document"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "Subtitluri"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "Vrei să publici privat acest articol acum?"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "Ești gata să publici?"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "Legătură permanentă:"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "Scrie citatul..."
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "Trage fișiere pentru încărcare"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "linie orizontală"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "Separator"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "Citat"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "despărțitor"
+
+#: build/block-editor/index.js:49
+msgid "Align center"
+msgstr "Aliniază la centru"
+
+#: build/block-editor/index.js:49
+msgid "Align left"
+msgstr "Aliniază la stânga"
+
+#: build/block-editor/index.js:49
+msgid "Align right"
+msgstr "Aliniază la dreapta"
+
+#: build/blocks/index.js:2
+msgid "Common blocks"
+msgstr "Blocuri comune"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "Audio"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "Încarcă"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "Selector de culori personalizate"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "Culoare: %s"
+
+#: build/block-editor/index.js:49
+msgid "Full width"
+msgstr "Lățime completă"
+
+#: build/block-editor/index.js:49
+msgid "Wide width"
+msgstr "Lățime mare"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Piese"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formatare"
+
+#: build/block-editor/index.js:49
+msgid "HTML anchor"
+msgstr "Ancoră HTML"
+
+#: build/block-editor/index.js:49
+msgid "Additional CSS class(es)"
+msgstr "Clasă (clase) CSS suplimentar"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Această combinație de culori poate să nu fie lizibilă pentru toți cititori. Încearcă să folosești o culoare de fundal mai luminoasă și/sau o culoare pentru text mai închisă."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Această combinație de culori poate să nu fie lizibilă pentru toți cititori. Încearcă să folosești o culoare de fundal mai întunecată și/sau o culoare pentru text mai deschisă."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "Adaugă titlu"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "Autor"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "Descriptor"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "Discuții"
+
+#: build/edit-post/index.js:6
+msgid "Custom fields"
+msgstr "Câmpuri personalizate"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "Rezumat"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "Publică"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "Metadate"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "Salvează"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "Documentație"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Selectează categoria"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(Fără titlu)"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Echipa Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demonstrație"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "Acum %s"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:103
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Pentru a funcționa corect, Gutenberg necesită WordPress %s sau o versiune ulterioară. Te rog actualizează WordPress înainte de a activa Gutenberg."
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "Numele stilului blocului trebuie să fie un șir de caractere."
+
+#: build/core-data/index.js:1
+msgid "Comment"
+msgstr "Comentariu"

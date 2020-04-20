@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in Arabic
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-16 17:15:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "سيؤدي تغيير عدد الأعمدة إلى إعادة تعيين تخطيطك، ويمكن إزالة المحتوى."
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "عمود يُستخدم داخل مكوّن شبكة التخطيط."
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Snow Patrol</strong>"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "يمكنك محاذاة المكوّنات إلى الشبكة العالمية، مع دعم نقاط التوقف المستجيبة."
+
+#: index.js:6
+msgid "Huge"
+msgstr "كبير جدًا"
+
+#: index.js:6
+msgid "Large"
+msgstr "كبير"
+
+#: index.js:6
+msgid "Medium"
+msgstr "متوسط"
+
+#: index.js:6
+msgid "Small"
+msgstr "صغير"
+
+#: index.js:6
+msgid "No padding"
+msgstr "لا توجد مساحات متروكة"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "اختيار ترك مساحات في هذا العمود:"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "ترك مساحات في العمود"
+
+#: index.js:6
+msgid "Background"
+msgstr "الخلفية"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "لون العمود"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "لاحظ أن نقطة التوقف في متصفحك ستظهر عند معاينة مقالتك، وليس في المقالة المحدَّدة حاليًا."
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "نقاط التوقف المستجيبة"
+
+#: index.js:6
+msgid "Layout"
+msgstr "التخطيط"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "تحديد تخطيط للبدء بما يلي:"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "اختيار تخطيط"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "عرض تخطيط الأجهزة المكتبية"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "عرض تخطيط الأجهزة اللوحية"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "عرض تخطيط الأجهزة المحمولة"
+
+#: index.js:6
+msgid "Span"
+msgstr "امتداد"
+
+#: index.js:6
+msgid "Offset"
+msgstr "إزاحة"
+
+#: index.js:6
+msgid "Column"
+msgstr "عمود"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "الأجهزة المحمولة"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "الأجهزة اللوحية"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "الأجهزة المكتبية"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 أعمدة"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 أعمدة"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "عمودان"
+
+#: index.js:6
+msgid "1 column"
+msgstr "عمود واحد"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "السماح بمحاذاة أي مكوّنات إلى الشبكة العالمية"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "شبكة الخطوط"

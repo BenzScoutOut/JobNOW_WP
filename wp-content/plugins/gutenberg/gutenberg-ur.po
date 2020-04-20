@@ -1,0 +1,2753 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Urdu
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-10 13:04:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ur_PK\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-editor/index.js:49
+msgid "Default Style"
+msgstr "طے شدہ انداز"
+
+#: build/block-editor/index.js:49
+msgid "Not set"
+msgstr "مقرر نہیں کیا"
+
+#: build/block-library/index.js:8
+msgid "Align Column Right"
+msgstr "کالم کو دائیں جانب سیدھ میں لائیں۔"
+
+#: build/block-library/index.js:8
+msgid "Align Column Left"
+msgstr "کالم کو بائیں جانب سیدھ میں لائیں۔"
+
+#: build/edit-post/index.js:6
+msgid "Disable & Reload"
+msgstr "غیر فعال کریں اور دوبارہ لوڈ کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Enable & Reload"
+msgstr "فعال کریں اور دوبارہ لوڈ کریں۔"
+
+#: build/components/index.js:6
+msgid "Custom"
+msgstr "مرضی کے مطابق"
+
+#: build/editor/index.js:11
+msgid "Draft"
+msgstr "ڈرافٹ"
+
+#: build/block-editor/index.js:49
+msgid "Skip"
+msgstr "سکپ کریں"
+
+#: build/block-library/index.js:8
+msgid "What's this?"
+msgstr "یہ کیا ہے؟"
+
+#: build/block-library/index.js:8
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:8
+msgid "Description"
+msgstr "وضاحت"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Open in new tab"
+msgstr "نئے ٹیب میں کھولیں"
+
+#: build/block-library/index.js:8
+msgid "links"
+msgstr "لنکس"
+
+#: build/block-library/index.js:8
+msgid "navigation"
+msgstr "نیویگیشن"
+
+#: build/block-library/index.js:8
+msgid "menu"
+msgstr "مینو"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "ایڈیٹر تجاویز"
+
+#: build/block-library/index.js:8
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "مواد۔۔۔"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "لنک میں تبدیل کریں"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Try again"
+msgstr "دوبارہ کوشش کریں"
+
+#: build/editor/index.js:11
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "الفاظ"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "بلاک (منتخب کردہ)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "دستاویز (منتخب کردہ)"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "مواد بنا کر اسے اپنے اور دیگر شریک کاروں کے دوبارہ سائٹ پر استعمال کے لیے محفوظ کریں۔ اس بلاک میں کی گئی تبدیلی استعمال کی گئی ہر جگہ پر دیکھی جا سکے گی۔"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d لفظ"
+msgstr[1] "%d الفاظ"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "سی ایس ایس کلاس لنک کریں"
+
+#: build/block-editor/index.js:49
+msgid "Link Rel"
+msgstr "لنک Rel"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "پرمالنک"
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "نمایاں تصویر میں ترمیم کے لیے، آپ کو میڈیا اپلوڈ کی اجازت درکار ہے۔"
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "اس حصے میں ترمیم کے لیے، آپ کو میڈیا اپلوڈ کرنے کی اجازت درکار ہے۔"
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(سلیکٹ کیے ہوئے بلاک)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "بلاک ٹولز"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "اس امیج کا \"ALT\" ٹیگ نہیں ہے"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "اس امیج کا \"ALT\" ٹیگ نہیں ہے. اور اس کی فائل کا نام %s ہے"
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "خالی بلاک؛ لکھنا شروع کریں یا سلیش لکھ کر بلاک منتخب کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "پیراگراف بلاک"
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s بلاک سلیکٹ ہوگیا ہے۔"
+msgstr[1] "%s بلاک سلیکٹ ہو گئے ہیں۔"
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "ٹیکسٹ یا ایچ ٹی ایم ایل میں لکھنا شروع کریں"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "ٹیکسٹ یا ایچ ٹی ایم ایل لکھیں"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "لکھنا شروع کریں یا بلاک منتخب کریں"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "بلاک آئیکون"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "پیج بریک"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "موبائل پر سٹیک"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "ڈریگ کرکے، اپلوڈ کرکے، یا اپنی لائبریریسے تصویر سلیکٹ کریں۔"
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "نیا شامل کرے"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "تنبیہ: لنک داخل کیا گیا ہے لیکن غلطیاں ہو سکتی ہے۔ مہربانی ٹیسٹ کریں۔"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "مکمل سائز"
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "تھمب نیل"
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "لنک ڈال دیا گیا"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "لنک میں ترمیم کر دی گئی۔"
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "لنک حذف کر دیا گیا ہے۔"
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "میڈیا"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "اپنی میڈیا لائبریری سے ویڈیو سلیکٹ کریں یا ایک نئی اپلوڈ کریں"
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "شاعری لکھیں۔ مخصوص فارمیٹ استعمال کریں یا گانے کے بول لکھیں۔"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "بڑا"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "ڈاؤن لوڈ"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Embed"
+msgstr "ایمبیڈ"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "ایمبیڈ"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "کلاسک"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Rounded"
+msgstr "گول"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "درآمد کریں"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "قریبی ٹول بار پر جائیں۔"
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "دستاویز ٹولز"
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "دستاویز اور بلاک ٹولز"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "بہت بڑا"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "بڑا"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "درمیانہ"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "چھوٹا"
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "شائع کرنے سے پہلے اپنی ترتیبات کو دوبارہ چیک کریں۔"
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "پیش منظر تیار کیا جا رہا ہے۔۔۔"
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "تصویر میں ترمیم یا اپڈیٹ کریں"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "حل کریں"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "عمومی"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "اینٹر"
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "میڈیا"
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "بلاک کے درمیان سفید جگہ ایڈ کریں اور اس کی ہائیٹ کو تبدیل کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "ورڈپریس شارٹ کوڈ کے ذریعے سے کسٹم ایلیمنٹ استعمال کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "افقی لکیر کی مدد سے خیالات یا حصوں میں وقفہ بنائیں۔"
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "حوالہ متن بصری زور دیتے ہیں۔ \"دوسروں کے حوالے سے، ہم خود کا حوالہ دیتے ہیں۔\" جولیو کارٹر"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "اپنے ٹیکسٹ میں سے کسی کوٹ کو ظاہری اہمیت دیں۔"
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "ہرطرح کے بلڈنگ بلاکس سے آغاز کریں"
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "اپنے کانٹینٹ کو ایک سے زیادہ صفحے کے لیے الگ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "بہتر لے آوٹ کے لیے میڈیا کو سائیڈ بائے سائیڈ رکھیں"
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "نمبر کی یا بلٹ کی لسٹ بنائیں"
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "حالیہ تبصروں کی فہرست شو کریں"
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "ظاہری سٹیٹمینٹ کے لیے تصویر کا استعمال کریں"
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "کسٹم HTML کوڈ لکھیں اور ایڈٹ کرتے ہوئے ظاہری تبدیلیاں دیکھیں۔"
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "نئے حصوں کا تعارف اور زائرین (اور سرچ انجنز) کی مدد کے لیے مواد کو منظم کریں اپنے مواد کی ساخت کو سمجھیں۔"
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "ایک سے زائد تصاویر گیلری میں دکھائیں"
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "ڈاؤن لوڈ ہونے والی فائل میں لنک شامل کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "بیرونی ذرائع سے ویڈیوز، تصاویر، ٹویٹس، آڈیو، اور دیگر مواد شامل کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "چھوٹی ڈیوائسز کے لیے سائز تبدیل کریں"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "جب براؤزر کو دوبارہ تبدیل کیا جاتا ہے تو یہ ایمبیڈ اپنی تناسبی پہلو کو محفوظ نہیں کرسکتا۔"
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "جب براؤزر کو دوبارہ تبدیل کیا جاتا ہے تو یہ ایمبیڈ اپنی تناسبی پہلو کو محفوظ نہیں کرسکتا۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "WordPress.tv ویڈیوایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "VideoPress ویڈیوایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "ٹمبلر پوسٹ ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "TED ویڈیوایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "اسپیکر ڈیک ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "SmugMug مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "سلائیڈ شیئر مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Scribd مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "اسکرین شارٹ مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "ReverbNation مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Reddit تھریڈ ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "پول ڈیڈی مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Mixcloud مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Meetup.com مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Kickstarter مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Issuu مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Imgur مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Hulu مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Dailymotion ویڈیوایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "CollegeHumor مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Cloudup مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Animoto مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "ویمیو مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "فلکر مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Spotify مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "SoundCloud مواد ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "ایک انسٹا گرام پوسٹ ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "فیس بک پوسٹ ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "یوٹیوب ویڈیوایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "ایک ٹویٹ ایمبیڈ کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "متن اوورلے کے ساتھ ایک تصویر یا ویڈیو شامل کریں — ہیڈر کے لیے بہت اچھا ہے۔"
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "ڈسپلے کوڈ کے ٹکڑے دکھائیں جو آپ کی جگہ اور ٹیب کا احترام کرتے ہیں۔"
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "کلاسک WordPress ایڈیٹر کا استعمال کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "تمام زمرے کی ایک فہرست دکھائیں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "ایک سادہ آڈیو پلیئر کو شامل کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "WordPress پوسٹ ایمبیڈ کریں"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "تاریخ"
+
+#: build/block-library/index.js:8
+msgid "Stripes"
+msgstr "اسٹرپس"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr " آ پ کی سائٹ پر اس بلاک کی سپورٹ موجود نہیں۔"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "آ پ کے سائٹ \"%s\" بلاک کو سپورٹ نہیں کرتی۔ یا اس کو استعمال نہ کریں یا اس کو ڈیلیٹ کر دیں۔"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "آپ کی سائٹ میں \"%s\" بلاک کی سپورٹ نہیں۔ یا اس کو ایسے رہنے دیں، یا ایچ ٹی ایم ایل میں کنورٹ کریں، یا اس کو ڈیلیٹ کر دیں۔"
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "میڈیا کی جگہ"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "میڈیا اور متن"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "میڈییا کو دائیں جانب شو کریں"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "میڈیا کو بائیں جانب شو کریں"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "بلاک نیویگیشن مینو کھولیں۔"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "تشویش کے بغیر کام"
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "ایک وقت میں ایک بلاک پر فوکس کریں"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "ایک ہی جگہ میں تمام بلاک اور دستاویز ٹولز تک رسائی حاصل کریں"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "دیکھیں"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "اختیارات"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "%s ایڈریس"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "یوآرایل کو ٹائپ کریں یا پیسٹ کریں"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(ایک نئے ٹیب میں کھلتا ہے)"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "منٹس"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "کیلنڈر مدد"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "ایک ہفتے کے پہلے (ہوم) یا آخری (اینڈ) دن پر جائیں۔"
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "ہوم/اینڈ"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "ہوم اور اینڈ"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "پچھلے (پیج اپ) پر منتقل یا اگلے (پیج ڈاؤن) کو ایک ماہ تک منتقل کریں۔"
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "پیج اپ/پیج ڈاؤن"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "پیج اپ اور پیج ڈاؤن"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "پچھلے (اپ) یا آگے (ڈاؤن) ایک ہفتے تک منتقل کریں۔"
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "اپ اور ڈاؤن ایروز"
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "ایک دن پیچھے (بائیں) یا آگے (دائیں) منتقل کریں۔"
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "بایئں اینڈ دایئں ایرو"
+
+#: build/components/index.js:6
+msgid "Select the date in focus."
+msgstr "فوکس میں تاریخ منتخب کریں۔"
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "کی بورڈ کے ساتھ نیویگیشن کریں"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "مطلوبہ دن کو منتخب کرنے کے لیے کلک کریں۔"
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr " ماضی یا مستقبل میں دوسرے مہینے کو منتخب کرنے کے لیے دائیں یا بائیں ایروز پر کلک کریں۔"
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "منتخب کرنے کے لیے کلک کریں"
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "شیڈ منتخب کریں"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "رنگ کا فارمیٹ تبدیل کریں"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "ایچ ایس ایل میں رنگ کی ویلیو"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "آرجی بی میں رنگ کی ویلیو"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "ہیکسا ڈیسیمل میں رنگ کی ویلیو"
+
+#: build/components/index.js:6
+msgid "Hex color mode active"
+msgstr "ہیکس رنگ موڈ فعال ہے"
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "ہیو/سنٹرویشن/لائٹنیس موڈ فعال ہے"
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "آرجی بی موڈ فعال ہے"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "ہیو کو بائیں منتقل کرنے کے لئے بائیں یا دائیں منتقل کریں۔"
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "۰ سے ۳۵۹ تک ہیو کی مقدار ڈگریز میں۔"
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "الفا ویلیو، ۰ ( ٹرانسپیرنٹ) سے لے کے ۱(مکمل اوپیک) تک۔"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "وقت"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "دن"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "مہینہ"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "گهنٹے"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "سال"
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "بائیں سے دائیں"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "یوآرایل سے شامل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "سٹائل"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "عمومی"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "دسمبر"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "نومبر"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "اکتوبر"
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "ستمبر"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "اگست"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "جولائی"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "جون"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "مئی"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "اپریل"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "مارچ"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "فروری"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "جنوری"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "زیر التواء کے طور پر محفوظ کریں"
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "کور"
+
+#: build/editor/index.js:11
+msgid "Terms"
+msgstr "اصطلاح"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "آپ کا کام مخصوص تاریخ اور وقت پر شائع کیا جائے گا۔"
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "کیا آپ شیڈول کے لیے تیار ہیں؟"
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "ہمیشہ شائع کرنے سے پہلے چیکس دکھائیں۔"
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "قبضہ کریں"
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "ایک اور صارف فی الحال اس پوسٹ پر کام کر رہا ہے، جس کا مطلب یہ ہے کہ آپ تبدیلی نہیں کر سکتے ہیں، جب تک آپ ٹیک اوور نہ کر لیں۔"
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s فی الحال اس پوسٹ پر کام کر رہے ہیں، جس کا مطلب یہ ہے کہ آپ تبدیلی نہیں کر سکتے ہیں، جب تک آپ ٹیک اوور نہ کر لیں۔"
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "ابھی دوسرا صارف اس پوسٹ کے کنٹرول میں ترمیم کر رہا ہے۔ فکر مت کریں، اس لمحے تک آپ کی تبدیلیوں کو محفوظ کر لیا گیا ہے۔"
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "ابھی %s اس پوسٹ کے کنٹرول میں ترمیم کر رہے ہیں۔ فکر مت کریں، اس لمحے تک آپ کی تبدیلیوں کو محفوظ کر لیا گیا ہے۔"
+
+#: build/block-editor/index.js:49
+msgid "Paste URL or type to search"
+msgstr "ویب سائٹ کا ایڈریس پیسٹ کریں یا ٹائپ کریں"
+
+#: lib/widgets-page.php:58 lib/edit-site-page.php:78
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Medium"
+msgstr "درمیانہ"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr " HTML لکھیں"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "اوورلے"
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "یہ بلاک صرف ایک بار استعمال کیا جا سکتا ہے۔"
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "کوڈ میں ترمیم"
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "اوتار"
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "اس پوسٹ میں پہلے ہی ترمیم کر دی گئی ہے۔"
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "کسی اور نے اس پوسٹ کو لے لیا ہے۔"
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "اس بلاک میں غیر متوقع یا غلط مواد شامل ہے۔"
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "بلاک کو حل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "ایچ ٹی ایم ایل میں تبدیل کریں"
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "میڈیا شامل کریں"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "بیک ٹک"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "مدت"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "کومہ"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "دوبارہ قابل استعمال بلاک کو کامیابی سے درآمد کر لیا گیا!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "غلط دوبارہ قابل استعمال بلاک JSON فائل"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "غلط JSON فائل"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "JSON سے درآمد کریں"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d بلاک"
+msgstr[1] "%d بلاکس"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "فارورڈ سلیش"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "%d بلاک کی قسم تبدیل کریں"
+msgstr[1] "%d بلاکس کی قسم تبدیل کریں"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "تبدیلی کے بعد"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "موجودہ"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "دکھانے کے لیے کوئی آرکائیو موجود نہیں"
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "یہ فائل خالی ہے"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "عنوان"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "معذرت، اس فائل ٹائپ کو یہاں سپورٹ نہیں کیا جاتا۔"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "خوبصورت نظارہ"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "یہ بلاک اب استعمال میں نہیں ہے، براہِ مہربانی اس کی بجائے کالم استعمال کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "ٹیکسٹ کالم (اب ختم ہو گئے ہیں)"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "بنائیں"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "صف شمار"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "کالم شمار"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "یہ بلاک اب موجود نہیں، پیراگراف استعمال کریں"
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "ذیلی ہیڈنگ ( اب موجود نہیں )"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "blockquote"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "پینل بند کریں"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "کلاسک بلاک میں تبدیل کریں"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "نئے پیراگراف کو شامل کرنے کے بعد بلاک کی قسم کو تبدیل کریں۔"
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "مووی"
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "لنک حذف کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "منتخب متن کو ایک لنک میں تبدیل کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "منتخب شدہ متن کو انڈرلائن کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "منتخب متن کو اٹالک کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "منتخب متن کو بولڈ کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "متن کی فارمیٹنگ"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "منتخب کردہ بلاک (بلاکس) کے بعد ایک نیا بلاک داخل کریں۔"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "منتخب کردہ بلاک (بلاکس) سے پہلے ایک نیا بلاک داخل کریں۔"
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "منتخب کردہ بلاک (بلاکس) کو حذف کریں۔"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "منتخب کردہ بلاک (بلاکس) کی نقل۔"
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "بلاک شارٹ کٹس"
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "ٹائپ کرتے ہوئے تمام متن منتخب کریں۔ تمام بلاکس کو منتخب کرنے کے لیے دوبارہ دبائیں۔"
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "منتخب کرنے کے شارٹ کٹس"
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "ایڈیٹر کے پچھلے حصے پر جائیں۔"
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "ایڈیٹر کے اگلے حصے پر جائیں۔"
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "ترتیبات سائٰیڈبار دکھائیں یا چھپائیں۔"
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "اپنی آخری ترتیب کو دوبارہ کریں۔"
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "اپنی آخری تبدیلیوں کو کالعدم کریں۔"
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "اپنی تبدیلیوں کو محفوظ کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "گلوبل شارٹ کٹس"
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "ٹیگز صارفین اور سرچ انجن کو آپ کی ویب سائٹ کو نیویگیشن اور اپنی مواد کو تلاش کرتے ہیں۔ اپنی پوسٹ کی وضاحت کرنے کے لیے کچھ کی ورڈز شامل کریں۔"
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "ٹیگز شامل کریں"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "\"%1$s\" فارمیٹ کو لاگو کریں۔"
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "آپکی تھیم مختلف قسم کے مواد کو نمایاں کرنے کے لیے پوسٹ فارمیٹس استعمال کرتی ہے، جیسے تصاویر یا ویڈیوز۔ اس خاص اسٹائل کو دیکھنے کے لیے پوسٹ فارمیٹ کی درخواست کریں۔"
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "پوسٹ فارمیٹ استعمال کریں"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "بعد میں داخل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "پہلے داخل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "%1$d بلاک کو %2$d پوزیشن سے لے کر ایک جگہ منتقل کریں"
+msgstr[1] "%1$d بلاکس کو %2$d پوزیشن سے لے کر ایک جگہ منتقل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "%1$d بلاک کو %2$d پوزیشن سے لے کر ایک جگہ منتقل کریں"
+msgstr[1] "%1$d بلاکس کو %2$d پوزیشن سے لے کر ایک جگہ منتقل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "انتخاب صاف کریں۔"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Gutenberg کو آزمانے کا شکریہ!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Gutenberg بنانے میں مدد کریں"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "کوڈ شاعری ہے"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress کمیونٹی"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "سیر حاصل میڈیا"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg، 2017"
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "یقینا، مکمل وسیع تصویر بہت بڑی ہو سکتی ہے۔ لیکن کبھی کبھی تصویر اس کے قابل ہے۔"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "مزید"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "مزید"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "دوبارہ قابل استعمال بلاکس"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "کیا آپ واقعی اس پوسٹ کو ان شیڈول کرنا چاہتے ہیں؟"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "بصری ترمیم"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "تصاویر اور ویڈیوز"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "متن اور عنوانات"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "گیلریز"
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "<em>انسرٹر</em> ٹول"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Gutenberg ایڈیٹر میں خوش آمدید"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "ایک تصویر ہزار الفاظ کئ برابر ہے"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "لے آؤٹ بلاکس، لائیک بٹن، ہیرو تصاویر، سپریٹر وغیرہ"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "یوٹیوب، ٹویٹس، یا دیگرWordPress پوسٹوں کی طرح ایمبیڈ کر سکتے ہیں"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "اور <em>فہرستیں</em> کی طرح کورس میں سے ایک :)"
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "بلاعنوان دوبارہ قابل استعمال بلاک"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "آبجیکٹ کا عنوان"
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "اعتراض کے لیے منفرد شناخت۔"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "HTML کے طور پر رکھیں"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "دوبارہ قابل استعمال"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "یوآرایل میں ترمیم کریں"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "معاونت"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "یہ ریسپانس ایک درست جےسن ریسپانس نہیں ہے۔"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "خاموش"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "حالیہ تبصرے"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "حالیہ تبصرے"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "اپنی پوسٹوں کا ایک ماہانہ آرکائیو دکھائیں۔"
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "ایڈیٹر شائع "
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "دکھانے کے لئے کوئی تبصرہ نہیں۔"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s از %2$s"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "سال منتخب کریں۔"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "دن منتخب کریں۔"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "ہفتہ منتخب کریں۔"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "پوسٹ منتخب کریں"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "آٹو"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "پری لوڈ"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "مہینہ منتخب کریں"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "آرکائیوز"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "نقاط"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "چوڑی لکیر"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "پی ڈی ایف"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "دستاویز"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "یوآرایل کاپی کریں"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "فائل کا نام لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "ایک کالمی بلاک کے اندر ایک کالم۔"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "آؤٹ لائن"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "کھلا شائع کرنے کا پینل"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "سبزی مائل آسمانی سرمئی"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "بہت ہلکا سرمئی"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "شوخ سبزی مائل نیلا"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "پرانا سبزی مائل نیلا"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "شوخ سبزی مائل نیلا"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "ہلکا سبزی مائل"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "چمکیلا شوخ آسمانی"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "چمکیلا شوخ نارنجی"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "شوخ لال"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "ہلکا گلابی"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "دستیاب بلاکس کی اقسام"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "بلاک کو حذف کریں"
+msgstr[1] ""
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "ڈائیلاگ بند کریں"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "خودبخود چلے"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "فائل"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "بڑا"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "گہراسرمئی"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "لوپ"
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "کالم"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "تجاویز کو غیر فعال کریں"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "یہ مل گیا"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "اگلی تجویز دیکھیں"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "جب آپ تیار ہو جائیں تو، اپنے کام کا جائزہ لینے کے لیے ارسال کریں، اور ایک ایڈیٹر آپ کے لیے منظور کرنے کے قابل ہو گا۔"
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "کیا آپ جائزے کے لیے ارسال کرنے کے لیے تیار ہیں؟"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "معاف کیجیے گا! سکیورٹی وجوہات کی بناء پر اس طرح کی فائل کی قسم کی اجازت نہیں۔"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "تصویر کو حذف کریں"
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "خود کار طریقہ سے محفوظ کیا جا رہا ہے"
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "یو آر ایل یہاں درج کریں"
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "خودکار طریقہ سے محفوظ کیا گیا مواد دیکھیں"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "%s فائلز کو میڈیا لائبریری میں محفوظ کرنے میں مسلہ درپیش ہے"
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "اوبجیکٹ کے پیرنٹ کے لیے آئی ڈی۔"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "اس پوسٹ کا خودکار محفوظ ہے یہ نیچے د یئے گئے ورژن سے زیادہ تازہ ترین ہے۔"
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "یہ فائل اس سائٹ کے لیے زیادہ سے زیادہ اپ لوڈ سائز سے بڑی ہے۔"
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "بلاک %s لوڈ کرنے میں خرابی "
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "نامعلوم خرابی"
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "متن شامل کریں جو آپ کی خلاء اور ٹیب کا احترام کرتا ہے، اور اسٹائل کی اجازت دیتا ہے."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "ایک بلاک شامل کریں جو دوسری سائٹس سے حاصل کیا گیا مواد دکھائے، جیسا کہ ٹویٹر، انسٹاگرام یا یوٹیوب"
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "ایک ٹیبل استعمال کریں، یہ چارٹ اور ڈیٹا شئیر کرنے کے لیے بہترین ہے۔"
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "ٹیبل سیل کی مقررہ چوڑائی"
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "اپنی تازہ ترین پوسٹ کی فہرست دکھائیں۔"
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "ایک ایسے بلاک کو شامل کریں جو متعدد کالموں میں مواد دکھاتا ہے، پھر جو کچھ بھی مواد کے بلاکس آپ چاہیں شامل کریں۔"
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "ٹول بار پر پن کریں"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "ٹول بار سے ان پن کریں"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "پرما لنک کاپی ہوگیا ہے۔"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "پرما لنک کاپی کریں"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "%s کو مٹائیں "
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "شے کو مٹائیں "
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr " ایمبیڈ  ہینڈلر"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "رنگ کوڈ: %s"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "(%1$s (%2$s of %3$s"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "پکسلز میں اونچائی"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "اسپیسر"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "بڑا ابتدائی حرف دکھانے کے لیے ٹوگل کریں۔"
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "بڑا ابتدائی حرف دکھایا جا رہا ہے۔"
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "نام:"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "بلاک کی ترتیبات دکھائیں"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "بلاک کی ترتیبات چھپائیں"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "بلاک کی ترتیبات بند کردی ہے"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "ایڈیٹر کی ترتیبات"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "صفحہ بندی"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "اگلا صفحہ"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "اونچائی"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "منتخب کردہ بلاک کی طرف رجوع کریں "
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "غیر منحصر"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "چوڑائی"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "پلگ ان بند کریں"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "پوسٹ پرمالنک میں ترمیم کریں "
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "میڈیا لائبریری"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "تھمب نیل كا سائز تبدیل نہیں کیا گیا۔"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "تھمب نیل سیدھا کرنے کے لیے سائز تبدیل کیا گیا۔"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "شیڈول۔۔۔"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "تصویر کا ناپ"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "پیج بریک"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "آئٹم شامل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "جدید ترین"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "ٹمپلیٹ کو ری سیٹ کریں"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "اپنی مرضی کا سائز"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "کوڈ ایڈیٹر منتخب کیا گیا ہے۔  "
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "دستاویزی اعدادوشمار"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "ویسے کا ویسے ہی رہنے دیں "
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "ظاہری ایڈیٹرمنتخب کیا گیا ہے "
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "ٹمپلیت کو ری سیٹ کرنے سے آپ کا مواد ضائع ہو سکتا ہے، کیا آپ اس عمل کو جاری رکھنا چاہتے ہیں؟"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "شیڈول ترتیب دے دیا گیا۔ اب یہ لائیو ہوگا"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "شیڈ ول ترتیبب دیا جا رہا ہے"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "پلگ انز"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "شیڈول کردہ"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "آپ کی پوسٹ کا مواد آپ کی پوسٹ کی قسم کے مطابق مقرر کردہ ٹیمپلیٹ سے میل نہیں کھاتا۔"
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "پوسٹ دیکھیں "
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "الفاظ"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "پیراگراف"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "نجی"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "فوری طور پر"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "معیار"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "دستاویز"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "بلاک: %s"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "شاعری "
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "متن"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "فہرست"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "حال ہی میں کی جانے والی پوسٹس "
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "تصویر"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "پاسورڈ بنائیں"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "ٹیگ"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "نیا بلاک شامل کریں"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "منسوخ کریں"
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "یو آر ایل استعمال کریں"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "کوڈ"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "پوسٹ شمار دکھائیں"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "ڈراپ ڈاؤن کے طور پر دکھائیں"
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "بٹن"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "تصویر میں ترمیم کریں"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "بلاگ"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "پوسٹ"
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "دستاویز کی آؤٹ لائن"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "مواد کی ساخت"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "گیلری"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "کلاسک"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "ویڈیو"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "آڈیو"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "موسیقی"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "تصویر"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "سرخی"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "سطح"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "تصاویر"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "تصاویر"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "میڈیا فائل"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "ایک محفوظ پاس ورڈ کا استعمال کریں"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "نئی اصطلاح شامل کریں"
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "پوسٹ کی نمائش"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "کاپی لنک"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "شیڈول"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "پوسٹ فارمیٹ"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "ایک طرف"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "نمایاں تصویر"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "دستی حوالہ جات کے بارے میں مزید معلومات حاصل کریں"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "ایک خلاصہ لکھیں (اختیاری)"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "عنوان"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "سانچے:"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "ذیلی عنوان"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "تصویر"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "بولیٹ فہرست"
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "تازہ ترین پوسٹ"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "مٹائیں %s"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "نظارہ کریں"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "بلاک ڈیلیٹ کر دیا گیاہے "
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "بلاک اپڈیٹ ہو گیا"
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "بلاک تخلیق ہوگیا"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s شامل کردیا گیا"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "سرخیاں"
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "صرف سائٹ ایڈمنز اور ایڈیٹرز کے لئے نظر آتا ہے."
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "ہر کسی کو دیکھنے کے لئے."
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "کیا آپ اب اس اشاعت کوذاتی طور پر شائع کرنا چاہتے ہیں؟"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "نئی قسم شامل کریں"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "مدت"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "بچت"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "نمائش:"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "کیا آپ شائع کرنے کے لئے تیار ہیں؟"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "جائزہ کے لئے جمع کروائیں"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "بات چیت"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "عوامی"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "پرمالنک"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "بغیر عنوان "
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "بلاکس"
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "باقاعدہ(ریگولر) بلاک میں تبدیل کریں"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "مزید اختیارات"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "نقل"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "بلاکس میں تبدیل کریں"
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "کوئی بلاک منتخب نہیں کیا گیا"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "آرڈر"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "پوسٹ کی تاریخ دکھائیں"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "ٹیبل"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "بولڈ"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "لنک"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(خالی سرخی)"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "اصل تلاش کریں"
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "میں تبدیل کریں:"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "کاپی شدہ!"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "ایڈیٹر"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "ترتیبات"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "بلاک %s صرف ایک بلاک ہے، اور منتقل نہیں کیا جا سکتا"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "شارٹ کوڈ"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "افقی لائن  (دائیں سے بائیں)"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "اس سے پہلے کالم شامل کریں"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "میڈیا کا انتخاب کریں یا اپلوڈ کریں"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "ترتیبات بند کریں "
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "ایڈیٹر مواد "
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "ٹولز "
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "ریکوری کی کوشش کریں"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "ایڈیٹر کو کسی غیر متوقع خرابی کا سامنا ہے"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(سرخی کی غلط سطح)"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "ری سیٹ کریں"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "ترمیم کریں"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "زمرے"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "اپڈیٹ کریں"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "اسٹیٹس"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "مصرع"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "نیا کالم"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "کالم کو حذف کریں"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "اس کے بعد کالم شامل کریں"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "قطار کو حذف کریں"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "اس سے بعد قطار شامل کریں"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "اس سے پہلے قطار شامل کریں"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "سب ہیڈنگ لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "شارٹ کوڈ یہاں لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "تقسیم کنندہ"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "سیپریٹر"
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "Pullquote"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "حوالہ لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "قول لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "پہلے سے پیش کردہ طریقے سے تحریر لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "فہرست لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "حاشیہ لسٹ آئٹم"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "آؤٹ ڈینٹ لسٹ آئٹم"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "ترتیب شدہ فہرست میں تبدیل کریں"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "غیر ترتیب شدہ فہرست میں تبدیل کریں"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "نمبر والی فہرست"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "ایمبیڈ"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "%d ہیڈنگ"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "سرخی لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "%s سے ایمبیڈڈ مواد"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "یہاں ایمبیڈ کرنے کے لیے یوآرایل درج کریں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s یوآرایل"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "ایمبیڈنگ۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "عنوان لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "کوڈ لکھیں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "ٹکسٹ شامل کریں۔۔۔"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "بلاک حذف کردیا گیا ہے یا دستیاب نہیں ہے۔"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "عنوان لکھیں۔۔۔"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "ایمبیڈز"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "اضافی ترتیبات ایڈیٹر بلاک کی سائیڈ بار کی ترتیبات میں دستیاب ہیں "
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "ظاہری"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "ایڈیٹر ٹاپ بار"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "آپ کی تبدیلیاں غیر محفوظ ہیں۔ اگر آپ آگے بڑھیں گے تو وہ ضائع  ہو جائیں گی۔"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "آپ کے انتخاب کردہ پاس ورڈ کے ساتھ محفوظ کیا گیا۔ جن کے پاس پاسورڈ ہونگے وہ اس پوسٹ کو دیکھ سکتے ہیں۔"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "بنیادی اصطلاح"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "کیا آپ واقعی یہ پوسٹ غیر شائع کرنا چاہتے ہیں؟"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "شائع:"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "اگلا کیا ہے؟"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "ابھی  ان لائن ہے۔"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "اپڈیٹ کیا جا رہا ہے۔۔۔"
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "شائع کیا جا رہا ہے۔۔۔"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d نظرثانی"
+msgstr[1] "%d نظرثانیاں"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "بنیادی نہیں"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr " بلاک کے لیے تلاش کریں"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d نتیجہ مل گیا۔"
+msgstr[1] "%d نتائج مل گئے۔"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr " خرابی کاپی کریں"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "پوسٹ کا متن کاپی کریں"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(ایک سے زیادہ H1 سرخیاں کی تجویز نہیں کی جاتی ہیں)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(ہو سکتا ہے آپ کی تھیم پوسٹ کےعنوان لیے پہلے سے H1 استعمال کرتی ہے)"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "ظاہری ترمیم کریں"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "ایچ ٹی ایم ایل میں ترمیم کریں"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "بلاک ذیل میں نہیں جا سکتے ہیں کیونکہ وہ پہلے سے ہی نیچے ہیں"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "بلاکس کواوپرمنتقل نہیں کیا جا سکتا ہے کیونکہ وہ پہلے سے اوپر ہیں"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "اس بلاک نے ایک خرابی کا سامنا کیا اور پیش نظر نہیں کیا جا سکتا۔"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "آئٹمز کی تعداد"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "زمرہ"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "ترتیب از"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "اس نوٹس کو برخاست کریں"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "آئٹم حذف کر دیا گیا۔"
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "آئٹم شامل کر دیا گیا۔"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "کوئی نتیجہ نہیں۔"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d نتیجہ ملا، نیویگیٹ کرنے کے لئے اوپر اور نیچے کی ایرو کیز کا استعمال کریں۔"
+msgstr[1] "%d نتیجے ملے، نیویگیٹ کرنے کے لیے اوپر اور نیچے کی ایرو کیز کا استعمال کریں۔"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "کوئی بلاکس نہیں ملے۔"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "کسٹم ایچ ٹی ایم ایل"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "ایک نامعلوم خرابی درپیش آئی۔"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "مزید پڑھیں"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "واحد: بلاک"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "اوپر جائیں"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "نیچے جائیں"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "ویڈیو"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "کالمز"
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "اپ لوڈ کرنے کے لیے فائلز کو ڈراپ کریں"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "منسلکہ صفحہ"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "محفوظ شدہ"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "پس منظر رنگ"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "ٹیکسٹ کارنگ"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "حذف کریں"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "بنیادی زمرہ"
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "پاسورڈ لگا ہوا ہے"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "شام"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "صبح"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "اقتباس"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "ترتیب شدہ فہرست"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "خط مقطوع"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "اٹالک"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "وضع شدہ"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "پیراگراف"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "تجاویز:"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "تمام"
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(بلاعنوان)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "منتخب کریں"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "بند کریں"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "دوبارہ کریں"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "ڈرافٹ محفوظ کریں"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "پیش منظر"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "ارسال کریں۔"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "کچھ نہیں"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "لاگو کریں"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "کالعدم کریں"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "یوآرایل"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "شائع کر دی گئی"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "کوئی پوسٹ نہیں ملی۔"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"کیا آپ واقعی یہ دوبارہ قابل استعمال بلاک حذف کرنا چاہتے ہیں؟\n"
+"\n"
+" یہ مستقل طور پر تمام پوسٹیں اور صفحات سے حذف کر دیا جائے گا جو اس کو استعمال کرتے ہیں۔"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "بناوٹ"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "آڈیو"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "رنگوں کا یہ مجموعہ صارفین کو پڑھنے میں مشکل پیدا کر سکتا ہے۔ کوشش کریں کہ ہلکے رنگ کا پس منظر اور/یا گہرے رنگ کا متن استعمال کریں۔"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "رنگوں کا یہ مجموعہ صارفین کو پڑھنے میں مشکل پیدا کر سکتا ہے۔ کوشش کریں کہ گہرے رنگ کا پس منظر اور/یا ہلکے رنگ کا متن استعمال کریں۔"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "رنگ: %s"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "مرضی کے رنگ چنندہ"
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "صاف کریں"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "چڑھائیں"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "ویجٹس"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "1440 کے بعد سے پرنٹنگ. یہ کور میں نئے بلاک ایڈیٹر کے لئے ترقیاتی پلگ ان ہے."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "عنوان شامل کریں"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "مصنف"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "تبادلہءخیال"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "سلگ"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "میٹا ڈیٹا"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "دستاویزات"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "شائع کریں"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "اقتباس"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "محفوظ کریں"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "زمرہ منتخب کریں"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(بلاعنوان)"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "ڈیمو"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg ٹیم"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "%s پہلے"

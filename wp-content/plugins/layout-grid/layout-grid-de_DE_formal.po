@@ -1,0 +1,149 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-25 13:55:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "Durch Ändern der Spaltenanzahl wird das Layout zurückgesetzt, wobei möglicherweise Inhalte entfernt wurden."
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "Eine Spalte im Layoutraster-Block."
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Snow Patrol</strong>"
+
+#: index.js:6
+msgid "Huge"
+msgstr "Sehr groß"
+
+#: index.js:6
+msgid "Large"
+msgstr "Groß"
+
+#: index.js:6
+msgid "Medium"
+msgstr "Mittelgroß"
+
+#: index.js:6
+msgid "Small"
+msgstr "Klein"
+
+#: index.js:6
+msgid "No padding"
+msgstr "Kein Abstand"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "Abstand für diese Spalte auswählen:"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "Spaltenabstand"
+
+#: index.js:6
+msgid "Background"
+msgstr "Hintergrund"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "Spaltenfarbe"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "Hinweis: Bei der Vorschau des Beitrags wird nicht der aktuell ausgewählte Haltepunkt, sondern der Haltepunkt deines Browsers angezeigt."
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "Responsive Haltepunkte"
+
+#: index.js:6
+msgid "Layout"
+msgstr "Layout"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "Layout auswählen"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "Desktop-Layout anzeigen"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "Tablet-Layout anzeigen"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "Mobiles Layout anzeigen"
+
+#: index.js:6
+msgid "Span"
+msgstr "Überspannen"
+
+#: index.js:6
+msgid "Offset"
+msgstr "Versetzen"
+
+#: index.js:6
+msgid "Column"
+msgstr "Spalte"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "Mobil"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "Desktop"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 Spalten"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 Spalten"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2 Spalten"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1 Spalte"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "Layoutraster"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "Blöcke an einem globalen Raster ausrichten. Wird auch für responsive Haltepunkte unterstützt."
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "Wählen sie ein Layout aus, um zu beginnen:"

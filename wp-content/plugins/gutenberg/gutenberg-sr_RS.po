@@ -1,0 +1,2818 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-11 10:34:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-editor/index.js:49
+msgid "Add a block"
+msgstr "Додај блок"
+
+#: build/block-library/index.js:8
+msgid "Display a legacy widget."
+msgstr "Прикажите застарели виџет."
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget (Experimental)"
+msgstr "Застарели виџет (експерименталнo)"
+
+#: build/block-library/index.js:8
+msgid "There are no widgets available."
+msgstr "Нема расположивих виџета."
+
+#: build/block-editor/index.js:49
+msgid "Change block type or style"
+msgstr "Промени врсту или стил блока"
+
+#: build/block-library/index.js:8
+msgid "Change widget"
+msgstr "Промени виџет"
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget"
+msgstr "Застарели виџет"
+
+#: build/block-library/index.js:8
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Немате дозволе за коришћење виџета на овом веб месту."
+
+#: build/block-library/index.js:8
+msgid "Select a legacy widget to display:"
+msgstr "Одаберите застарели виџет за приказ:"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Размак"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/editor/index.js:11
+msgid "Exit the Editor"
+msgstr "Изађи из уређивача"
+
+#: build/edit-post/index.js:6
+msgid "Block Manager"
+msgstr "Управљач блокова"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Угнежђен садржај са %s не може бити прегледан у уређивачу."
+
+#: build/editor/index.js:11
+msgid "Stick to the top of the blog"
+msgstr "Залепи на врх блога"
+
+#: build/edit-post/index.js:6
+msgid "Read about permalinks"
+msgstr "Прочитајте више сталним везама"
+
+#: build/edit-post/index.js:6
+msgid "URL Slug"
+msgstr "Подложак URL-а"
+
+#: build/block-library/index.js:8
+msgid "A cloud of your most used tags."
+msgstr "Облак ваших најкоришћенијих ознака."
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud"
+msgstr "Облак ознака"
+
+#: build/block-library/index.js:8 build/core-data/index.js:1
+msgid "Taxonomy"
+msgstr "Таксономија"
+
+#: build/block-library/index.js:8
+msgid "- Select -"
+msgstr "- Изабери -"
+
+#: build/block-library/index.js:8
+msgid "Help visitors find your content."
+msgstr "Помозите посетиоцима да пронађу ваш садржај."
+
+#: build/block-library/index.js:8
+msgid "Add button text…"
+msgstr "Додајте текст дугмета…"
+
+#: build/block-library/index.js:8
+msgid "Button text"
+msgstr "Текст дугмета"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder…"
+msgstr "Необавезни држач места…"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder text"
+msgstr "Текст необавезног држача места"
+
+#: build/block-library/index.js:8
+msgid "Add label…"
+msgstr "Додајте натпис…"
+
+#: build/block-library/index.js:8
+msgid "Label text"
+msgstr "Текст натписа"
+
+#: build/block-library/index.js:8
+msgid "image %1$d of %2$d in gallery"
+msgstr "слика %1$d од %2$d у галерији"
+
+#: build/block-library/index.js:8
+msgid "archive"
+msgstr "архива"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "Блок (изабрано)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "Документ (изабрано)"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d реч"
+msgstr[1] "%d речи"
+msgstr[2] "%d речи"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Направите садржај и сачувајте га да бисте га ви и ваши сарадници поновно користили на вашем веб месту. Ажурирајте блок и измене ће бити примењене свуда где се користи."
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "CSS класа везе"
+
+#: build/block-editor/index.js:49
+msgid "Link Rel"
+msgstr "Rel везе"
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(изабрани блок)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "Алатке блока"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "Стална веза"
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Да бисте уредили изабрану слику, морате имати дозволу да отпремите садржај."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "Да бисте уредили овај блок, морате имати дозволу да отпремите садржај."
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "Ова слика има празан alt атрибут"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Ова слика има празан alt атрибут; име њене датотеке је %s"
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s блок је одабран."
+msgstr[1] "%s блока су одабрана."
+msgstr[2] "%s блокова је одабрано."
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "Додај нови"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "Иконица блока"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Превуците слике, отпремите нове или изаберите датотеке из своје библиотеке."
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Празан блок; започните са писањем или откуцајте косу црту да бисте одабрали блок"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "Пуна величина"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "Прелом странице"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "Блок Пасус"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "Наслагање на преносивом"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "Започните са писањем или откуцајте / да бисте одабрали блок"
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "Започните писање са текстом или HTML-ом"
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "Умањена слика"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "Откуцајте текст или HTML"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Упозорење: веза је уметнута али можда има грешке. Молимо вас да је испробате."
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "Алатке документа и блока"
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "Алатке документа"
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "Два пута проверите своја подешавања пре објављивања."
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "Уреди или ажурирај слику"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Угнездите видео запис из своје библиотеке садржаја или отпремите нов."
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "Прављење прегледа…"
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Уметните поезију. Користите посебно обликовање прореда. Или цитирате текст песме."
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Веза је уређена."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Веза је уклоњена."
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "Велики"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Rounded"
+msgstr "Заобљени"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "Класични"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Embed"
+msgstr "Угнежђивање"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "Преузми"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "Угнезди"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Увези"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Огромна"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "Велика"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Средња"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Нормална"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "Мала"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "Садржај"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Реши"
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "садржај"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "Крећи се на најближу траку са алаткама."
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "Додајте везу ка датотеци за преузимање."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Додајте прилагођени HTML и прегледајте га док га уређујете."
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Направите прекид између замисли или одељака са водоравним растављачем."
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "Направите неуређен или нумерисан списак."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "Прикажите списак својих скорашњих коментара."
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "Прикажите више слика у богатој галерији."
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Угнездите видео записе, слике, аудио записе, твитове и други садржај из спољашњих извора."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Уметните додатне прилагођене елементе са Вордпресовим кратким кôдом."
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "Уметните слику да бисте направили видљив исказ."
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Представите нове одељке и организујте садржај да помогнете посетиоцима (и претраживачима веба) да разумеју структуру вашег садржаја."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "Поделите свој садржај у више страница."
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "Почните са блоком за прављење приче."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Поставите садржај и речи раме уз раме за богатији распоред."
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "Додајте празни простор између блокова и прилагодите његову висину."
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Додајте слику или видео запис са слојем текста преко ње — одлично за заглавља."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "Прикажите списак свих категорија."
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Додајте исечке кôда који поштују ваше прореде и табулаторе."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "Угнездите једноставан прегледач звучног записа."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "Користите класични Вордпресов уређивач."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Угнездите садржај са Cloudup-а."
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "Угнездите садржај са CollegeHumor-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "Угнездите садржај са Flickr-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Угнездите садржај са Hulu-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Угнездите садржај са Imgur-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Угнездите садржај са Issuu-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Угнездите садржај са Kickstarter-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Угнездите садржај са Meetup.com-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Угнездите садржај са Mixcloud-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "Угнездите садржај са Polldaddy-а."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "Угнездите садржај са ReverbNation-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "Угнездите садржај са Screencast-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Угнездите садржај са Scribd-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "Угнездите садржај са Slideshare-а."
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "Угнездите садржај са SmugMug-а."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "Угнездите садржај са SoundCloud-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "Угнездите садржај са Speaker Deck-а."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Угнездите садржај са Spotify-а."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Угнездите Dailymotion видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "Угнездите Фејсбуков чланак."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Угнездите Редитову нит."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "Угнездите TED видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "Угнездите Tumblr-ов чланак."
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "Угнездите VideoPress видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "Угнездите Vimeo видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "Угнездите Вордпресов чланак."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "Угнездите WordPress.tv видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "Угнездите Јутјубов видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "Угнездите твит."
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Угнездите Animoto видео запис."
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "Угнездите Инстаграмов чланак."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "Промени величину за мање уређаје"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Ово угнежђивање можда неће сачувати пропорције када прегледач веба промени величину."
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Ово угнежђивање ће сачувати пропорције када прегледач веба промени величину."
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(отвара се у новом језичку)"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "Приступите свим алаткама блокова и документа са једног места"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "април"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "август"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "Помоћ за календар"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "Притисните жељени дан да бисте га изабрали."
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Притисните леву или десну стрелицу да бисте изабрали друге месеце у прошлости или будућности."
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "Притисните за избор"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "Датум"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "Дан"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "децембар"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "фебруар"
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "Усредсредите се на један блок истовремено"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "Опште"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Идите на први (home) или последњи (end) дан седмице."
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Home и End"
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "Сати"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "Уметни са URL-а"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "јануар"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "јул"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "јун"
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "Лево и десно стрелице"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "март"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "мај"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "Садржај и текст"
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "Простор садржаја"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "Минути"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "Месец"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Померите се уназад (PgUp) или напред (PgDn) за један месец."
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Померите се уназад (лево) или напред (десно) за један дан."
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Померите се уназад (горе) или напред (доле) за једну седмицу."
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "Кретање са тастатуром"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "новембар"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "октобар"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "Отвори изборник кретања блока."
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "Могућности"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Page Up и Page Down"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "Налепите URL или куцајте"
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:6
+msgid "Select the date in focus."
+msgstr "Ставите датум у фокус."
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "септембар"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "Прикажи садржај лево"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "Прикажи садржај десно"
+
+#: build/block-library/index.js:8
+msgid "Stripes"
+msgstr "Штрафте"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "Стилови"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "Време"
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "Горе и доле стрелице"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "Радите без ометања"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "Година"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "Поглед"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "Сачувај као „На чекању“"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "Ваше веб место не укључује подршку за овај блок."
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Лево ка десно"
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Алфа вредност, од 0 (провидно) до 1 (потпуно непровидно)."
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "Промени облик боја"
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "Одабери сенку"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "Вредност боје у HSL-у"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "Вредност боје у RGB-у"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "Вредност боје у хексадецималама"
+
+#: build/components/index.js:6
+msgid "Hex color mode active"
+msgstr "Hex режим боје је укључен"
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Вредност нијансе у степенима, од 0 до 359."
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "Режим нијансе/засићење/светлине је укључен"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "Померите стрелицу лево или десно да промените нијансу."
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "RGB режим је укључен"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Ваше веб место не укључује подршку за блок „%s“. Можете оставити овај блок нетакнутим или га у целости уклонити."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Ваше веб место не укључује подршку за блок „%s“. Можете оставити овај блок нетакнутим, претворити га у блок Прилагођени HTML или га у целости уклонити."
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "Прекривач"
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s тренутно ради на овом чланку, што значи да ви не можете да правите измене осим ако не преузмете."
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "Увек прикажи провере пре објављивања."
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Други корисник тренутно ради на овом чланку, што значи да ви не можете да правите измене осим ако не преузмете."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "Да ли сте спремни за заказивање?"
+
+#: build/block-editor/index.js:49
+msgid "Paste URL or type to search"
+msgstr "Налепите URL или куцајте за претрагу"
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "Преузми"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "Ваш рад ће бити објављен у наведени датум и време."
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s сада има контролу над уређивањем овог чланка. Не брините, ваше измене до овог тренутка су сачуване."
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Други корисник сада има контролу над уређивањем овог чланка. Не брините, ваше измене до овог тренутка су сачуване."
+
+#: lib/widgets-page.php:58 lib/edit-site-page.php:78
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Medium"
+msgstr "Средња"
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "Аватар"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "Претвори у HTML"
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "Уређивање кôда"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "Неко други је преузео овај чланак."
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "Овај блок може да се користи само једном."
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "Овај блок садржи неочекивани или неважећи садржај."
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "Уметни садржај"
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "Реши блок"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "Напишите HTML…"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "Прекривач"
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "Овај чланак се већ уређује."
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d блок"
+msgstr[1] "%d блока"
+msgstr[2] "%d блокова"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "Након претварања"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Обрнути полунаводник"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Промени врсту %d блока"
+msgstr[1] "Промени врсту %d блока"
+msgstr[2] "Промени врсту %d блокова"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Запета"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "Тренутно"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "Коса црта"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Увези из JSON-а"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Неисправна JSON датотека"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Неисправна JSON датотека блока за вишекратну употребу"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Тачка"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Блок за вишекратну употребу је успешно увезен!"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Нема архива за приказ."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Жао нам је, ова врста датотека овде није подржана."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Ова датотека је празна."
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "Наслов"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Предиван пејзаж"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "Затвори таблу"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "Број ступаца"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "Претвори у класични блок"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "Направи"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "Број редова"
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "Поднаслов (застарело)"
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "Текстуални ступци (застарело)"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Овај блок је застарео. Молимо вас да уместо тога користите блок Ступци."
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Овај блок је застарео. Молимо вас да уместо тога користите блок Пасус."
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "Промени врсту блока након додавања новог пасуса."
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "Додај ознаке"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "Примени облик „%1$s“."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "Пречице блока"
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "Очисти избор."
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "Претвори изабрани текст у везу."
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "Дуплирај изабрани блок."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "Опште пречице"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "Уметни после"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "Уметни пре"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "Уметни нови блок после изабраног блока."
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "Уметни нови блок пре изабраног блока."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "Направи изабрани текст подебљаним."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "Направи изабрани текст искошеним."
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Померите %1$d блок са места %2$d надоле за једно место"
+msgstr[1] "Померите %1$d блока са места %2$d надоле за једно место"
+msgstr[2] "Померите %1$d блокова са места %2$d надоле за једно место"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Померите %1$d блок са места %2$d нагоре за једно место"
+msgstr[1] "Померите %1$d блока са места %2$d нагоре за једно место"
+msgstr[2] "Померите %1$d блокова са места %2$d нагоре за једно место"
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "Крећи се на следећи део уређивача."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "Крећи се на претходни део уређивача."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "Понови своје последње враћање."
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "Уклони везу."
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "Уклони изабрани блок."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "Сачувај своје измене."
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Изабери сав текст за време куцања. Притисни поново за одабир свих блокова."
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "Пречице одабира"
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "Прикажи или сакриј бочну траку подешавања."
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Ознаке помажу корисницима и претраживачима веба да се крећу кроз ваше веб место и пронађу садржај. Додајте пар речи да опишете свој чланак."
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "Обликовање текста"
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "Подвуци изабрани текст."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "Врати своје последње измене."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "Користи облик чланка"
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "филм"
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Ваша тема користи облике чланака да истакне различите врсте садржаја, попут слика и видео записа. Примените облик чланка да видите ово посебно стилизовање."
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Кôд је поезија"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Помози градњу Гутенберга"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Мет Муленвег, 2017."
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Богат садржајем"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Хвала вам за испробавање Гутенберга!"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Вордпресова заједница"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Сваки блок може да користи ова поравнања. Блок угнежђивања их такође има, и одмах је одговарајући:"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Уколико желите да сазнате више о прављењу додатних блокова или сте заинтересовани у помагању пројекту, идите на <a href=\"%s\">GitHub складиште</a>."
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Можете направити било какве блокове које желите, непокретне или динамичне, украсне или просте:"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Можете променити број ступаца у својим галеријама превлачећи клизач у инспектору блока у бочној траци."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Приступачност је важна &mdash; немојте заборавити alt атрибут"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... као овај који је поравнат десно."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Слика вреди хиљаду речи"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "И <em>спискови</em> као овај, наравно :)"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Да ли сигурно желите да овај чланак више не буде заказан?"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Угнежђивања, као што је Јутјуб, Твитер или други Вордпресови чланци."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Галерије"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Ношење са сликама и садржајем са највећом пажњом је примарни фокус новог уређивача. Надамо се да ћете додавање натписа или мењање у пуну величину слика пронаћи много лакшим и робустнијим него пре."
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Заглавља су такође посебни блокови, што помаже са обрисом и организацијом вашег садржаја."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Уколико ваша тема то подржава, видећете дугме „Широко“ на траци са алаткама слике. Пробајте."
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Слике и видео записи"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Блокови распореда, као што су Дугмад, Прекривне слике, Растављачи и сл."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Од планина и штампарских преса"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "Блок за вишекратну употребу"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Текстови и заглавља"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Циљ новог уређивача је једноставно и пријатно додавање богатог садржаја у Вордпресу. Цео овај чланак је састављен од <em>делова садржаја</em>—донекле сличним Лего коцкицама—које можете да померите около и да узајамно делујете са њима. Померите свој курсор около и примећићете да се различити блокови осветљавају са обрисима и стрелицама. Притисните стрелице да брзо промените место блокова, без страха од губљења ствари током поступка умножавања и лепљења."
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Пробајте одабир и уклањање или уређивање натписа, сада не морате да будете пажљиви са одабиром слике или друго текста због грешке или упропашћавања презентације."
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Видљиво уређивање"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Добро дошли у уређивач Гутенберг"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Оно што тренутно читате је <strong>текстуални блок</strong>, најједноставнији блок од свих. Текстуални блок има сопствене контроле за померање унутар чланка…"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "Више"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Више"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Велика предност блокова је да их можете уредити у месту и директно руковати својим садржајем. Уместо поља за уређивање ствари као што је извор цитата или текст дугмета, можете директно променити садржај. Пробајте уређивање цитата:"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Дајте му прилику, можда ћете открити ствари које Вордпрес већ може да дода у ваше чланке за које нисте знали. Ево кратког списка шта ту тренутно можете пронаћи:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Замислите да све што Вордпрес може да уради за вас је доступно брзо и на истом месту у сучељу. Нема потребе да схватите HTML ознаке, класе или запамтите компликовану синтаксу кратких кôдова. То је дух иза уметача—дугмета <code>(+)</code> које ћете видети у уређивачу—које вам дозвољава да прегледате све доступне блокове садржаја и да их додајете у свој чланак. Додаци и теме могу да региструју сопствене, отварајући много могућности за богато уређивање и објављивање."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Алатка <em>Уметач</em>"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "Наслов предмета."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "Јединствени идентификатор предмета."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "Неименован блок за вишекратну употребу"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "Остави као HTML"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "За вишекратну употребу"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "Уреди URL"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "Архиве"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "Подршка"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "Аутоматски"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "Последњи коментари"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "Утишано"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "Учитај унапред"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Изабери дан"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Изабери месец"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Изабери чланак"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Изабери седмицу"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Изабери годину"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Нема коментара за приказ."
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Одговор није исправан JSON одговор."
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "Објава уређивача"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s на %2$s"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "скорашњи коментари"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "Прикажите месечну архиву својих чланака."
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "Уклони блок"
+msgstr[1] ""
+msgstr[2] ""
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "Умножи URL"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Датотека"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "Самопуштање"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "Тачке"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "Петља"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "Широки ред"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "Један ступац унутар блока ступаца."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "Доступне врсте блока"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "Затвори дијалог"
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "Ступац"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "Отвори таблу објаве"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "Напишите име датотеке…"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "Обрис"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "документ"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "Плавичасто сиви цијан"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "Светло зелени цијан"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "Блиставо јарки ћилибар"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "Блиставо јарко наранџаста"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "Бледо плави цијан"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "Бледо роза"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "Веома тамно сива"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "Веома светло сива"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "Јарко плави цијан"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "Јарко зелени цијан"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "Јарко црвена"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "Велика"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Онемогући савете"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Разумем"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Види следећи савет"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Када сте спремни, предајте свој рад на преглед и уредник ће моћи да га одобри за вас."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Жао нам је, ова врста датотека није дозвољена из безбедоносних разлога."
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "Да ли сте спремни за предавање на преглед?"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "Уклони слику"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Постоји аутоматски снимљено издање овог чланка које је новије него издање испод."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "Види аутоматски снимљено издање"
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "Овде унесите URL…"
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ID родитеља предмета."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "Аутоматско снимање"
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Ова датотека превазилази највећу дозвољену величину за отпремање овог веб места."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Грешка приликом отпремања датотеке %s у библиотеку садржаја."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Додајте блок који приказује садржај у више ступаца, затим додајте који год блок садржаја желите."
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Додајте текст који поштује ваше прореде и табулаторе и такође омогућава стилизовање."
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "Непромењива ширина ћелија табеле"
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Додајте блок који приказује садржај повучен са других веб места као што су Твитер, Инстаграм или Јутјуб."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "Прикажите списак својих скорашњих чланака."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Грешка приликом учитавања блока: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Непозната грешка"
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "Закачи на траку са алаткама"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "Откачи са траке са алаткама"
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Уметните табелу — савршено за дељење графикона и података."
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "Умножи сталну везу"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "Висина у пикселима"
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "Име:"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "Размакница"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "Кôд боје: %s"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Држач угнежђивања"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "Стална веза је умножена"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "Уклони ставку"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s од %3$s)"
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "Приказује се велико почетно слово."
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "Изокрени приказ великог почетног слова."
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Уклони %s"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "Подешавања блока су затворена"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "Затвори додатак"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "Уреди сталну везу чланка"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "Подешавања уређивача"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "Висина"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "Сакриј подешавања блока"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "Величина слике"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "Библиотека садржаја"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "Прелом странице"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "Закажи…"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "Прикажи подешавања блока"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "Скочи на изабрани блок"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "Умањене слике су опсечене за поравнање."
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "Умањене слике нису опсечене."
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Уклони везу"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "Ширина"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "следећа страница"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "обележавање страница"
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "Напредно"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "Додај ставку"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "Прилагођена величина"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "Остави га какав јесте"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "Додаци"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "Ресетуј шаблон"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "Заказано"
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Ресетовање шаблона може да произведе губитак садржаја. Да ли желите да наставите?"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Садржај вашег чланка се не поклапа са шаблоном додељеном вашој врсти чланака."
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "Уређивач кôда је изабран"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "Статистике документа"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "Заказивање…"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "Видљиви уређивач је изабран"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "је сада заказан. Ићи ће уживо"
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(нема наслова)"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "Сви"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "Примени"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "Са стране"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "Страници прилога"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "Боја позадине"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "Блокови"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Подебљано"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "Одустани"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "Категорије"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "Категорија"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "Ћаскање"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "Затвори"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "Кôд"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "Ступци"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "Прилагођени HTML"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "Покажи као падајуће"
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "Превуци датотеке за отпремање"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "Уреди"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Угнежђивања"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "Галерија"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "Заглавље"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "Заглавља"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "Слика"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Искошено"
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "Ставка је додата."
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "Последњи чланци"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "Веза"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "Списак"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "Датотеци садржаја"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "Нема нађених чланака."
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "Нема"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "Поредак"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "Пасус"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "Стална веза:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "Облик чланка"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "Обликовано унапред"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "Преглед"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "Цитат"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "Прочитај више"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "Понови"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "Уклони"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "Ресетуј"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "Сачувај нацрт"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "Сачувано"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "Снимање"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "Закажи"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "Изабери"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "Подешавања"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "Покажи број чланака"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "Уобичајен"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "Стање"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Прецртано"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "Табела"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "Ознака"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "Алатке"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "Врати"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Ажурирај"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "Видео запис"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "чланак"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Догодила се непозната грешка."
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "Дугме"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "Затвори подешавања"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "Умножено!"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "Занемари ову напомену"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "Уређивач"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "Издвојена слика"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "Помери надоле"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "Помери нагоре"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "Број ставки"
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "Видљивост чланка"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "Објављен"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "Предај"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "Предај на преглед"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "Шаблон:"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "Боја текста"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "Видљивост"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "Видљив свима."
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "Речи"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Прегледај"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "Додај блок"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "Додај нову категорију"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "Додај новог члана"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "Да ли сте спремни за објављивање?"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "Документ"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "Дуплирај"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "Уреди као HTML"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "Уреди слику"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "Заглавље %d"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "Сазнајте више о ручним одломцима"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "Ниво"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "Више могућности"
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "Нема одабраног блока."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "Нема пронађених блокова."
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "Видљив само управницима веб места и уредницима."
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "Пасуси"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "Надређена категорија"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "Надређени члан"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Заштићен лозинком коју одаберете. Само они са лозинком могу да виде чланак."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "Тражи блок"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Одаберите или отпремите садржај"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "Члан"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "Користите сигурну лозинку"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "Да ли желите да одмах приватно објавите овај чланак?"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "Напишите одломак (необавезно)"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "Додај ступац после"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "Додај ступац пре"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "Додај ред после"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "Додај ред пре"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "Покушај опоравак"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "Умножи грешку"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "Умножи текст чланка"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "Обриши ступац"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "Обриши ред"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "Нови ступац"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "Кратки кôд"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "Догодила се неочекивана грешка са уређивачем."
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "Напишите кôд…"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "Напишите текст обликован унапред…"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "А \t Ш"
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "Блок је направљен."
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "Блок је обрисан."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "Блок је ажуриран."
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "Претвори у нумерисани списак"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "Претвори у неуређени списак"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "Прикажи датум чланка"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "Овде унесите URL за угнежђивање…"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "Увуци ставку списка"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "Поређај по"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "Извуци ставку списка"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "Растављач"
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "Користи URL"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "Напишите натпис…"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "Напишите списак…"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "Овде напишите кратки кôд…"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Ш \t А"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Имате несачуване измене. Уколико наставите, оне ће бити изгубљене."
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d ревизија"
+msgstr[1] "%d ревизије"
+msgstr[2] "%d ревизија"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "Додајте текст…"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Додатна подешавања су сада доступна у бочној траци подешавања уређивача блока"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Да ли сте сигурни да желите да обришете овај блок за вишекратну употребу?\n"
+"\n"
+"Биће трајно уклоњен са свих чланака и страна које га користе."
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "Претвори у блокове"
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "Претвори у редован блок"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "Угнежђени садржај са %s"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "Угнежђивање…"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "Пронађи изворни"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "Ставка је уклоњена."
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "Предлог:"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Догодила се грешка са овим блоком и не може бити прегледан."
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "Претвори у:"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "блог"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(Празно заглавље)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(Неправилни ниво заглавља)"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Више H1 заглавља нису препоручена)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Ваша тема можда већ користи H1 за наслов чланка)"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "Блок је обрисан обрисан или је недоступан."
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "Умножи везу"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "Стих"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "Напишите заглавље…"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "Напишите поднаслов…"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d резултат је пронађен, користите стрелице за горе и доле за кретање."
+msgstr[1] "%d резултата су пронађена, користите стрелице за горе и доле за кретање."
+msgstr[2] "%d резултата су пронађена, користите стрелице за горе и доле за кретање."
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Да ли сигурно желите да овај чланак више не буде објављен?"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "Структура садржаја"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "Направи лозинку"
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "Обрис документа"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "Одмах"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "Нема резултата."
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "Заштићено лозинком"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "Приватно"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "Јавно"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "Објављује се:"
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "Објављивање…"
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "Померање на отпад није успело"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "Ажурирање…"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "Видљивост:"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "Шта је следеће?"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "Напишите наслов…"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "Пишите…"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "сада иде уживо."
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "нема родитеља"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "нема наслова"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "Блок: %s"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "Класични"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "поезија"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "водоравни-ред"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "текст"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "скорашњи чланци"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "фотографија"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "угнежђивање"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "поднапис"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "наслов"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "фотографије"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "слике"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "видео запис"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "звучни запис"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "музика"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "слика"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "делилац"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "нумерисан списак"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "уређен списак"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "тачкасти списак"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s је уклоњено"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s је додато"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "Уреди видљиво"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Блок %s је једини блок и не може бити померен"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Блокови не могу бити померени надоле зато што су већ на дну"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Блокови не могу бити померени нагоре зато што су већ на врху"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "Блок"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "Садржај уређивача"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "Трака на врху уређивача"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d резултат је пронађен."
+msgstr[1] "%d резултата су пронађена."
+msgstr[2] "%d резултата је пронађено."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "Звучни запис"
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "Очисти"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Обликовање"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "Отпреми"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Виџети"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "Боја: %s"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "Бирач прилагођене боје"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Ова комбинација боја је можда тешка за читање. Пробајте да користите светлију боју позадине и/или тамнију боју текста."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Ова комбинација боја је можда тешка за читање. Пробајте да користите тамнију боју позадине и/или светлију боју текста."
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Штампање од 1440. Ово је додатак у изградњи за нови уређивач блокова у основи."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "Додај наслов"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Тим Гутенберг"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Гутенберг"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "Аутор"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "Дискусија"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "Објави"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "Сачувај"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "Подложак"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "Документација"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "%s раније"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(Без наслова)"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "Одломак"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "Метаподаци"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Изабери категорију"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Показивање"

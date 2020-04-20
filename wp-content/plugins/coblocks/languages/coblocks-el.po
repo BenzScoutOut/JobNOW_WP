@@ -1,0 +1,3459 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:17:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "Αναλογία πλευρών 16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "Αναλογία πλευρών 4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Να επιτρέπεται το στάιλινγκ με γεμίσματα ντεγκραντέ."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Στυλ ντεγκραντέ"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Να επιτρέπεται το στάιλινγκ με προσαρμοσμένα χρώματα."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Επιλογείς προσαρμοσμένων χρωμάτων"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Να επιτρέπονται οι ρυθμίσεις χρώματος σε όλο το πρόγραμμα τροποποίησης."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Ρυθμίσεις χρώματος"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Να επιτρέπονται τα στοιχεία ελέγχου τυπογραφίας σε επίπεδο πλαισίου."
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Στοιχεία ελέγχου τυπογραφίας"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Ρυθμίσεις προγράμματος τροποποίησης"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Ρύθμιση που χρησιμοποιείται για απενεργοποίηση ή ενεργοποίηση των στοιχείων ελέγχου ντεγκραντέ και των προρρυθμίσεων σε όλο τον ιστότοπο."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Ρύθμιση που χρησιμοποιείται για απενεργοποίηση ή ενεργοποίηση των στοιχείων ελέγχου προσαρμοσμένων χρωμάτων σε όλο τον ιστότοπο."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Ρύθμιση που χρησιμοποιείται για απενεργοποίηση ή ενεργοποίηση των στοιχείων ελέγχου όλων των χρωμάτων σε όλο τον ιστότοπο."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Ρύθμιση που χρησιμοποιείται για απενεργοποίηση ή ενεργοποίηση των στοιχείων ελέγχου τυπογραφίας σε όλο τον ιστότοπο."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Τοποθεσία…"
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Ώρα…"
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Γράψτε την περιγραφή της εκδήλωσης…"
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Γράψτε τον τίτλο της εκδήλωσης…"
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Έτος…"
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Μήνας…"
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Ημέρα…"
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Μια εκδήλωση εντός του μπλοκ εκδηλώσεων."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Στοιχείο εκδήλωσης"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Προβολή εκδηλώσεων από την περίοδο (100 εκδηλώσεις το πολύ)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Εκδηλώσεις ανά σελίδα"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Κάντε εναλλαγή για σύνδεση με ένα δημόσιο ημερολόγιο."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Γίνεται προβολή δημόσιου ημερολογίου."
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Καταχωρήστε τη διεύθυνση URL εδώ…"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Λήψη όλων"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "ημερομηνία"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Προσθήκη μιας λίστας εκδηλώσεων ή εμφάνιση εκδηλώσεων από ένα δημόσιο ημερολόγιο."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Εκδηλώσεις"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Εκκαθάριση πολυμέσων"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "οθόνη"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Προέκυψε σφάλμα, ελέγξτε για δικαιώματα ημερολογίου για να βεβαιωθείτε ότι είναι δημόσιο ή δοκιμάστε ξανά αργότερα."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "λογισμικό"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "μεταφόρτωση"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "βελτίωση"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "της μόδας"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "τάσεις"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "καυτό"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "κολέγιο"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "δίπλωμα"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "πτυχίο"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "αποφοίτηση"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "απόφοιτος"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "εκπαίδευση"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "εποχή"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "χειμώνας"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "παγωμένο"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "πάγος"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "κρύο"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "αποστολή"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "καλάθι αγορών"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "μηχανικός"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "προγραμματισμός"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "διακριτικό"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "ομιλία"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "γλώσσα"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "ασφαλές"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "εξασφάλιση"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "βιομετρικό"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "άμυνα"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "βιογραφικό"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "ασφάλεια"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "μαζί"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "ομάδα"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "μικροεφαρμογή"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "πρόσθετο"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "παζλ"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "ηλεκτρονικό εμπόριο"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "εμπόριο"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "κατάστημα"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "ολοκλήρωση αγοράς"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "μετρητά"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "χρήμα"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "λουλούδι"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "κηπουρική"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "όμορφα"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "άρωμα"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "μυρωδιά"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "πέταλα"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "γιορτή"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "πάρτι"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "καρέκλα"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "ριλάξ"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "παγωνιά"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "σαββατοκύριακο"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "γεύση"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "κουτάλι"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "πηρούνι"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "ποτά"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "τρόφιμα"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "ουρανοξύστης"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "πόλη"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "κτίριο"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "εταιρεία"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "επιχείρηση"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "τοποθεσία"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "γη"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "παγκόσμια"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "δημόσιο"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "κόσμος"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "καλοκαίρι"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "νερό"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "ωκεανός"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "εξωτερικός χώρος"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "ύπαιθρος"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "μίνιμαλ"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "τοπίο"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "λόφοι"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "πλαίσιο ελέγχου"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "έλεγχος"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "χάρτης"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "μικροεφαρμογές"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "τετράγωνο"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "κουτιά"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "κουτί"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "κύματα"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "ραδιόφωνο"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "παράδοση"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "αποστολή"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "σχόλιο"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "απάντηση"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "απάντηση"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "γράμμα"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "ανάγνωση"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "Λ.Σ."
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "διανομέας"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "σύνδεση"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "surface"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "γραφείο"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "επιτραπέζιο"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "pc"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "αρέσει"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "αγαπημένο"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "ψήφος"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "βαθμολογία"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "φιλί"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "βαλεντίνος"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "σχήμα"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "αγάπη"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "τυπογραφικά στοιχεία"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "μαρκαδόρος"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "μολύβι"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "γραμματοσειρά"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "γραφή"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "τέχνες"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "μονοκοντυλιά"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "σκίτσο"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "ελληνικά"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "χαρά"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "κέφι"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "χαμόγελο"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "φατσούλα"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "συναίσθημα"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "χαρά"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "δεδομένα"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "κουκκίδες"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "διάγραμμα"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "γράφημα"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "πίτα"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "στατιστικά"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "μαθηματικά"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "στρογγυλό"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "συν"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "εισαγωγή"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "κύκλος"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "πλην"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "προσθήκη"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "πινέλο"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "ρολό"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "χρώματα"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "παλέτα"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "παραγωγός"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "σκηνοθέτης"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "βιντεοσκόπηση"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "συλλογή"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "διάφραγμα"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "φιλμ"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "κάμερα"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "φωτογραφία"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "φωτογράφος"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "φωτό"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "συσκευή"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "υπολογιστής"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "ακουστικά"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "beats"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "ήχος"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "δημιουργικό"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "καλλιτέχνης"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "τραγούδι"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "podcast"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "μικρόφωνο"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "μουσική"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "σχέδιο"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "κατασκευή"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "κύβος"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "κύβοι"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Κάντε αποστολή ενός αρχείου πολυμέσων ή επιλέξτε ένα από τη βιβλιοθήκη πολυμέσων σας"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Προβάλετε εικόνες σε μια μετατοπισμένη συλλογή μοτίβου τοιχοποιίας."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Με μετατόπιση"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Κλείσιμο ραντεβού"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Απόγευμα"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Πρωί"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Ώρα"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Ραντεβού"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Σημειώσεις;"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Όχι"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Ναι"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Θα παρευρεθείτε;"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Συν ένα άτομο"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Επικοινωνία"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Μπορείτε να χρησιμοποιήσετε τις εξής ετικέτες στο πεδίο θέματος: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "όνομα"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Υποβολή φόρμας από [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Γράψτε μια λεζάντα για τη συλλογή…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Περιοχή πολυμέσων"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Προσθέστε τίτλο…"
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Τίτλος μενού…"
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Προσθέστε κουμπί…"
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Γράψτε το κείμενο..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Γράψτε τον τίτλο..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Προσθέστε περιεχόμενο..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Προσθέστε επικεφαλίδα…"
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "συνδέσεις"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Προφίλ κοινωνικών δικτύων"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Εικονίδιο και κείμενο"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Κείμενο"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Κάλυψη"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "κοινωνικά δίκτυα"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Κοινή χρήση"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Κοιλάδα"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Τρίγωνο"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Στρογγυλεμένο"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Βουναλάκι"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Λοξό"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Λοφάκια"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Κυματιστό"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "διαχωριστικό"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Διαχωριστικό σχήματος"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "χαρακτηριστικά"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Υπηρεσίες"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Γράψτε περιγραφή..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Υπηρεσία"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "διατάξεις"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "στήλες"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "γραμμές"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Στοιχείο πίνακα τιμών"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "σύγκριση"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "είσοδος"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Πίνακας τιμών"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "ρυθμιστικό"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Προβολή άρθρων ή μιας εξωτερικής τροφοδοσίας ιστολογίου με μορφή καρουσέλ."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(χωρίς τίτλο)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "Τροφοδοσία RSS"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Οριζόντια"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "τελευταία"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "ιστολόγιο"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "άρθρα"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Προβάλετε τα άρθρα ή μια τροφοδοσία RSS ως στοιβαγμένες ή οριζόντιες κάρτες."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "βίντεο"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "εικόνα"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "οδηγίες"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "χάρτες"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "διεύθυνση"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Χάρτης"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "παράγραφος"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Επισήμανση"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Δευτερεύον κουμπί…"
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Προσθήκη επικεφαλίδας-ήρωα…"
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "κουμπί"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Ήρωας"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Επεξεργασία URL %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Επιστροφή στο %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "κωδικός"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "με κίνηση"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "είσοδος"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Ένα πεδίο κρυφού κειμένου για τη συλλογή επιπλέον δεδομένων."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "hyperlink"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Ένα πεδίο κειμένου για τη συλλογή μιας διεύθυνσης URL."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Ένα πεδίο πλαισίου ελέγχου με πολλές επιλογές, από τις οποίες μπορεί να επιλεχθούν περισσότερες από μία."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "αναπτυσσόμενο μενού"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Ένα αναπτυσσόμενο πεδίο με πολλές επιλογές, από τις οποίες μπορεί να επιλεχθεί μόνο μία.Ένα πεδίο με πολλές επιλογές, από τις οποίες μπορεί να επιλεχθεί μόνο μία."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Πολλές γραμμές κειμένου"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "κείμενο μηνύματος"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "κείμενο"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Περιοχή κειμένου"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "φαξ"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "κινητό"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "κινητό"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "κυψελικό"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "τηλέφωνο"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "Επιλογή"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "επιλέξτε"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "διαλέξτε"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Ασύρματο"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "επώνυμο"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "όνομα"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "mail"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "e-mail"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "έτος"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "μήνας"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "ημέρα"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "ημερολόγιο"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "επικοινωνία"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "σχετικά"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "email"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Φόρμα"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Στοιχείο τροφίμου"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Λίστα"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Πλέγμα"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "μενού"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "εστιατόριο"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Τρόφιμα και ποτά"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Χαρακτηριστικά"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Αυτό είναι ένα μπλοκ χαρακτηριστικών με το οποίο μπορείτε να επισημάνετε τα χαρακτηριστικά."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Προσθήκη χαρακτηριστικού"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Τίτλος χαρακτηριστικού"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Προσθέστε τίτλο χαρακτηριστικού…"
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Χαρακτηριστικό"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Πλήρους πλάτους"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Γραμμή"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Κουκκίδες"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "αποστάτης"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Δυναμικό HR"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Στήλη"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Σε επίπεδα"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Σε παράθεση"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Κολάζ"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "διαμοιρασμός"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Κλικ για τουιτάρισμα"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Συμπερίληψη"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Κάλυψη"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Αυτόματη"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Στοίβαξη σε κινητό"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "κλήση προς ενέργεια"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "σύνδεση"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Σύνδεση συντάκτη…"
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Αποθέστε για αποστολή ως avatar"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "Κατερίνα Παπαδοπούλου"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "προφίλ"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "βιογραφικό"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Συντάκτης"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Προειδοποίηση"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Επιτυχία"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Πληροφορίες"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "μήνυμα"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "προειδοποίηση"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Ειδοποίηση"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Γράψτε τον τίτλο του ακορντεόν..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Στοιχείο ακορντεόν"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "συχνές ερωτήσεις"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "καρτέλες"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Ακορντεόν"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Επάνω κύμα"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Κάτω κύμα"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Κυκλικό"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Πλαίσιο ελέγχου"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Κάρτα πολυμέσων"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "προβολή φωτογραφιών"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Μελιτζανί"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Νυχτερινό"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "Ρετρό"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Ασημί"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Κανονικό"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "σφραγίδα"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "βραβεία"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "μαρτυρίες"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "καταξίωση"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "πελάτες"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Φωτεινό"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "φωτογραφίες"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "συλλογή"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Όλα κεφαλαία"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Πεζά"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Κύριο κουμπί…"
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Έντονη γραφή"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Κανονικό"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Με γέμισμα"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Με περίγραμμα"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "εικονίδια"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Κάντε εναλλαγή για να προβληθεί το πεδίο %s ενσωματωμένο."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Το πεδίο %s προβάλλεται ενσωματωμένο."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "Ενσωμάτωση %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Φωτιά"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Σχολείο"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Χιονονιφάδα"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Αποστολή"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Επίπεδα"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Φωτοβολίδα"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Νέo"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Μετάφραση"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Δακτυλικό αποτύπωμα"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Κομμάτι παζλ"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Πιστωτική κάρτα"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Μαστορέματα"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Λουλούδι"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Κέικ"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Καναπές"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Γεύμα"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Πόλη"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Υδρόγειος"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Κύματα"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Βουνά"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Σημαντήρας"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Κύβοι"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Σήμα"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Αποστολή"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Διανομέας"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Πληκτρολόγιο"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Ρολόι χειρός"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "Πίνακες"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Συσκευές"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Υπολογιστής"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Αστέρι"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Καρδιά"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Μονοκοντυλιά"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Λειτουργίες"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Φατσούλα"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Δημοσκόπηση"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Διάγραμμα διασποράς"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Γράφημα πίτας"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Κύκλος με πλην"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Κύκλος με συν"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Πινέλο"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Ρολό"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Επιλογέας χρωμάτων"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Παλέτα χρωμάτων"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "Φιλμ"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "βίντεο"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "συλλογή"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Κάμερα"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Διάφραγμα"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Ομιλία"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Ένταση ήχου"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Ακουστικά"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "Άλμπουμ"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Ήχος"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Φίλτρο αντίκας"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Πρωτότυπο"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Ποσοστό"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Pixel"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Κρυφό"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Ιστότοπος"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Κάτι δεν πήγε καλά."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Επιλέξτε"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Ανάκτηση εξωτερικής τροφοδοσίας"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Επιλέξτε ένα"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Προέκυψε σφάλμα, που πιθανότατα σημαίνει ότι η τροφοδοσία δεν λειτουργεί. Ξαναπροσπαθήστε αργότερα."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Ένα πεδίο για καταχώρηση ημερομηνιών με ένα εργαλείο επιλογής ημερομηνίας."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Ένα πεδίο για συλλογή μιας επικυρωμένης διεύθυνσης email."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Ένα πεδίο κειμένου για συλλογή ονόματος και επωνύμου."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Ένα πεδίο με πολλές επιλογές, από τις οποίες μπορεί να επιλεχθεί μόνο μία."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Μη έγκυρο κλειδί API ή υπερβολικός αριθμός αιτημάτων"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Επιλογή προκαθορισμένου μεγέθους εικονιδίου"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(χωρίς τίτλο)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Γράψτε την επιλογή…"
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Κατάργηση επιλογής"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Άρθρα ιστολογίου"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Χρήση URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Προσθέστε μια φόρμα επικοινωνίας στη σελίδα σας."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Δημοφιλές"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Οι επιλογές λεπτομερούς στοιχείων ελέγχου είναι ενεργοποιημένες."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Κάντε εναλλαγή για ενεργοποίηση των επιλογών στοιχείων ελέγχου χάρτη."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Χρήση εξωτερικής τροφοδοσίας"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Δεν βρέθηκαν άρθρα. Αρχίστε τη δημοσίευση ή προσθέστε άρθρα από μια τροφοδοσία RSS."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Αποθηκεύτηκε"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Προβολή του στοιχείου ελέγχου χάρτη πλήρους οθόνης."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Κάντε εναλλαγή για προβολή του στοιχείου ελέγχου Street View κάτω δεξιά."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Προβολή του στοιχείου ελέγχου χάρτη Street View."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Θέλετε βοήθεια;"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Απόκτηση κλειδιού"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Προσθέστε ένα κλειδί API για τους Χάρτες Google. Αν ενημερώσετε αυτό το κλειδί API όλοι οι χάρτες σας θα ρυθμιστούν να χρησιμοποιούν το νέο κλειδί."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Κάντε εναλλαγή για προβολή του στοιχείου ελέγχου χάρτη πλήρους οθόνης."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Κάντε εναλλαγή για ενεργοποίηση της μεγέθυνσης και σμίκρυνσης του χάρτη με τα στοιχεία ελέγχου ζουμ."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Προβολή των στοιχείων ελέγχου ζουμ χάρτη."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Κάντε εναλλαγή για ενεργοποίηση της μετάβασης μεταξύ τυπικής προβολής και προβολής δορυφορικού χάρτη."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Η μετάβαση μεταξύ τυπικής προβολής και προβολής δορυφορικού χάρτη είναι ενεργοποιημένη."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Ένα πεδίο αριθμού τηλεφώνου όπου οι χρήστες μπορούν να σας δώσουν έναν αριθμό τηλεφώνου."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Προβολή της ημερομηνίας δημοσίευσης."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Καταχωρήστε μια τοποθεσία ή διεύθυνση για να προστεθεί μια καρφίτσα σε έναν χάρτη Google."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Κάντε αναζήτηση για έναν τόπο ή μια διεύθυνση..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Ύψος χάρτη σε pixel"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Επίπεδο ζουμ"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Τροποποίηση RSS URL"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Εικόνα στα αριστερά"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Εικόνα στα δεξιά"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "Τα URL RSS συνήθως βρίσκονται στον κατάλογο /feed/ ενός ιστότοπου."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Κάντε εναλλαγή για προβολή της ημερομηνίας δημοσίευσης."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Μέγιστος αριθμός λέξεων στο περιεχόμενο"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Κάντε εναλλαγή για προβολή του περιεχομένου άρθρου."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Προβολή του περιεχομένου άρθρου."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Αριθμός άρθρων"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Καρουσέλ άρθρων"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Κύκλος"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Τετράγωνο"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Αυξήστε το ακροατήριό σας με συνδέσεις προς προφίλ σε μέσα κοινωνικής δικτύωσης."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "παλέτα σχέδιο χρώματα καλλιτέχνης πινέλο ρολό δημιουργικό πολυμέσα"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "URL συνδέσμου"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Δεν βρέθηκαν αποτελέσματα."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Radius"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Προσαρμογή"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Εφαρμογή προσαρμοσμένου μεγέθους"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Επαναφορά μεγέθους εικονιδίου"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Προσθέστε ένα στυλιζαρισμένο γραφικό για να επικοινωνήσετε κάτι επιπλέον."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Διαμοιρασμός στο LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Εικονίδια"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Κάντε εναλλαγή για χρήση των επίσημων χρωμάτων κάθε πλατφόρμας μέσων κοινωνικής δικτύωσης."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Τα χρώματα κουμπιού διαμοιρασμού είναι ενεργοποιημένα."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Προσθέστε συνδέσεις διαμοιρασμού σε κοινωνικά δίκτυα για να δηλώσουν άλλοι χρήστες ότι τους αρέσει και να το διαμοιραστούν."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Κατακόρυφη αναστροφή"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Οριζόντια αναστροφή"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Προσθέστε ένα διαχωριστικό σχήματος για να είναι διακριτές στο μάτι οι ενότητες της σελίδας."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Κάντε εναλλαγή για στοίβαξη των κουμπιών σε κινητές συσκευές."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Στοίβαξη των κουμπιών σε κινητές συσκευές"
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Κουμπιά"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Προτρέψτε τους επισκέπτες να αναλάβουν δράση με πολλά κουμπιά, το ένα δίπλα στο άλλο."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Καρουσέλ"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Μικρογραφίες"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Κάντε εναλλαγή για ύψος βάσει ποσοστού επί τοις εκατό."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Το ύψος βάσει ποσοστού επί τοις εκατό ενεργοποιήθηκε."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Κάντε εναλλαγή για προβολή μικρογραφιών."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Προβολή πλοήγησης μέσω μικρογραφιών."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Προβάλετε πολλές εικόνες σε μια πανέμορφη συλλογή με μορφή καρουσέλ."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Αντικαταστήστε αυτό το κείμενο με περιγραφικό κείμενο που συνοδεύει την εικόνα της κάρτας. Στη συνέχεια, προσθέστε κι άλλα μπλοκ σε αυτή την κάρτα, όπως κουμπιά, λίστες ή εικόνες."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Πολυμέσα στα αριστερά"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Πολυμέσα στα δεξιά"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Κάντε εναλλαγή για προσθήκη σκιάς %s."
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Προβολή σκιάς %s."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Κάντε εναλλαγή για προσθήκη σκιάς κάρτας."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Προβολή σκιάς κάρτας."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Προσθέστε μια εικόνα ή ένα βίντεο πλάι-πλάι με μια μετατοπισμένη κάρτα."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Αποθέστε το πολυμέσο για αντικατάσταση"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "πολυμέσα"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Τροποποίηση πολυμέσου"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Τοιχοποιία"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Προσθέστε στρογγυλεμένες γωνίες στα στοιχεία της συλλογής."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Προβάλετε πολλές εικόνες σε μια οργανωμένη συλλογή με μορφή τοιχοποιίας."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Λογότυπα και διακριτικά"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Τροποποίηση λογότυπων"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Ασπρόμαυρο"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Προσθέστε λογότυπα, διακριτικά ή πιστοποιήσεις για αύξηση της αξιοπιστίας."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Λήψη βοήθειας"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Τα κλειδιά μου"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Δημιουργία κλειδιών"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Προσθέστε τον κλειδί ιστότοπου reCAPTCHA και το μυστικό κλειδί σας για προστασία της φόρμας σας από spam."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Θέμα"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Διεύθυνση email"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "Τα %s δεν είναι έγκυρη διεύθυνση email"
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "Τα %s και %s δεν είναι έγκυρες διευθύνσεις email."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "Το %s δεν είναι έγκυρη διεύθυνση email."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Ένα πλαίσιο κειμένου για πιο μακροσκελείς απαντήσεις."
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Προσθέστε κείμενο..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Παράδειγμα θέματος"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Κάντε εναλλαγή για προσθήκη ενός πεδίου για το επώνυμο."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Εμφανίζονται και τα δύο πεδία, για όνομα και επώνυμο."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Το ύψος του δυναμικού στοιχείου διαχωριστικού σε pixel."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Προσθέστε έναν αποστάτη με δυνατότητα αλλαγή μεγέθους μεταξύ άλλων μπλοκ."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Προσθέστε μια φράση για τουιτάρισμα…"
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Όνομα χρήστη Twitter"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Χρώμα κουμπιού"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Ο ευκολότερος τρόπος να διαφημίσετε το ιστολόγιο, τον ιστότοπο και την επιχείρησή σας στο Twitter."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Προσθέστε μια φράση την οποία μπορούν να τουιτάρουν οι αναγνώστες μέσω του Twitter."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "€0,00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Προσθέστε περιγραφή…"
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Καυτερό"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Κάντε εναλλαγή για προβολή της τιμής για αυτό το στοιχείο."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Προβολή της τιμής για αυτό το στοιχείο."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Τιμή"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Κάντε εναλλαγή για προβολή μιας εικόνας για αυτό το στοιχείο."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Προβολή μιας εικόνας για αυτό το στοιχείο."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Εικόνα"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Ένα στοιχείο τροφίμου και ποτού μέσα σε μπλοκ Τρόφιμα και ποτά."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Για βίγκαν"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Για χορτοφάγους/ψαροφάγους"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Χωρίς γλουτένη"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Για χορτοφάγους"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Πιο καυτερό"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Πικάντικο"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Κάντε εναλλαγή για προβολή της τιμής για κάθε στοιχείο."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Προβολή της τιμής για κάθε στοιχείο"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Τιμές"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Κάντε εναλλαγή για προβολή εικόνων για κάθε στοιχείο."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Προβολή εικόνων για κάθε στοιχείο"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Εικόνες"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Προβολή ενός μενού ή τιμοκαταλόγου."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Επιλέξτε τον αριθμό στηλών για αυτή τη γραμμή."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Επιλέξτε μια διάταξη για αυτή τη γραμμή %s στήλης/στηλών."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Γραμμή"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Προσθήκη φόντου στη γραμμή"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "τεσσάρων"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "τριών"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "δύο"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "μίας"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Αλλαγή της διάταξης γραμμών του μπλοκ"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Τέταρτα"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Τρία τρίτα"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Προσθήκη φόντου στη στήλη"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Πλάτος"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Κενό διάστημα γύρω από τον περιέκτη."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Ένα άμεσο θυγατρικό στοιχείο μιας γραμμής."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Προσθέστε ένα δομημένο wrapper για τα στοιχεία στηλών και, στη συνέχεια, προσθέστε τα στοιχεία περιεχομένου που επιθυμείτε στις στήλες."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Πρόγραμμα %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Αλλαγή αριθμού πινάκων τιμών"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Τέσσερις πίνακες τιμών"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Τρεις πίνακες τιμών"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Δύο πίνακες τιμών"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Ένας πίνακας τιμών"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Προσθέστε πίνακες τιμών για να βοηθήσετε τους επισκέπτες να συγκρίνουν προϊόντα και προγράμματα."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Προσθήκη χαρακτηριστικών"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "Πρόγραμμα Α"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Άμεση αγορά"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Ένας πίνακας τιμών που βοηθά τους επισκέπτες να συγκρίνουν προϊόντα και προγράμματα."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Παρέχεται υποστήριξη για τον Internet Explorer με τη φόρτωση ενός JavaScript polyfill σε αυτή τη σελίδα."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Προσθέστε υποστήριξη για τον Internet Explorer με τη φόρτωση ενός JavaScript polyfill."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Οργανώστε το περιεχόμενο μέσα σε συμπτυσσόμενα στοιχεία ακορντεόν."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Κάντε εναλλαγή ώστε αυτό το στοιχείο ακορντεόν να είναι ανοικτό ως προεπιλογή."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Η προεπιλογή είναι το στοιχείο ακορντεόν να είναι ανοικτό."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Προσθέστε συμπτυσσόμενα στοιχεία ακορντεόν στα ακορντεόν."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Προσθέστε έως τρεις στήλες σύντομων σημειώσεων για το προϊόν ή την υπηρεσία σας."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Προσθήκη ως φόντου"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Μια μοναδική θυγατρική στήλη μέσα σε ένα γονικό μπλοκ χαρακτηριστικών."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Μια ειδοποίηση είναι ένα μήνυμα που εμφανίζεται εκτός της ροής τυπικού περιεχομένου. Οι ειδοποιήσεις παρέχουν ανάδραση ανάλογα με το συγκείμενο, συνήθως προτρέποντας τους αναγνώστες να προβούν σε κάποια ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Αυτό είναι ένα μπλοκ ειδοποίησης"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Παρέχετε μηνύματα ανάδρασης ή ειδοποιήσεις ανάλογα με το συγκείμενο."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Τροποποίηση θέσης"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Προσθέστε μια διεύθυνση ή τοποθεσία για να προστεθεί καρφίτσα σε έναν χάρτη Google."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Χάρτης Google"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Κάντε εναλλαγή για προβολή των κουμπιών κλήσης προς ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Προβολή των κουμπιών κλήσης προς ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Στήλες"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Στυλ"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Προσθέστε έως τέσσερις στήλες υπηρεσιών για προβολή."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Κάντε εναλλαγή για προβολή ενός κουμπιού κλήσης προς ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Προβολή του κουμπιού κλήσης προς ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Ένα στοιχείο μίας μόνο υπηρεσίας εντός ενός μπλοκ υπηρεσιών."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Σκιά"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Συγκεντρώστε εικόνες σε μια πανέμορφη συλλογή με μορφή κολάζ."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Γράψτε μια βιογραφία που εμπνέει αντικειμενικότητα και κύρος στους αναγνώστες σας…"
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Γράψτε το όνομα συντάκτη…"
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Τροποποίηση avatar"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Με στόχο την έκφραση, όχι τον εντυπωσιασμό. Ένας δημιουργός που φτιάχνει τον κόσμο όπως τον θέλω."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Προσθέστε μια βιογραφία συντάκτη για να εμπνεύσετε αξιοπιστία και κύρος."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "εικόνα %1$d από %2$d στη συλλογή"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Στοίβαξη"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Προβολή φωτογραφιών"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Λεζάντες"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Κάντε εναλλαγή για ενεργοποίηση της προβολής φωτογραφιών."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Η προβολή φωτογραφιών ενεργοποιήθηκε."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Κάντε εναλλαγή για προβολή των λεζαντών πολυμέσων."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Προβολή λεζαντών για κάθε στοιχείο πολυμέσων."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Κάντε εναλλαγή για να συμπληρωθεί ο διαθέσιμος χώρος της συλλογής εξ ολοκλήρου με εικόνες πλήρους πλάτους."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Οι εικόνες πλήρους πλάτους είναι ενεργοποιημένες."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Προβάλετε πολλές εικόνες σε συλλογή στοιβαγμένες σε μία μόνο στήλη."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Γίνεται φόρτωση Gist"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Προσθέστε Gist URL από το GitHub…"
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Μετα-δεδομένα gist"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Αρχείο gist"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Gist URL"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Κάντε εναλλαγή για προβολή των μετα-δεδομένων του gist."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Γίνεται προβολή μετα-δεδομένων gist."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Κάντε ενσωμάτωση GitHub gists προσθέτοντας έναν σύνδεσμο gist."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Προβολή αυτού του gist στο GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Κάντε αναζήτηση για gif"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Κάντε αναζήτηση για το τέλειο gif στο Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Αυτό το gif έχει κενό χαρακτηριστικό alt"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Αφαίρεση gif"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Αφήστε το κενό αν η εικόνα είναι απλά διακοσμητική."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Περιγράψτε τον σκοπό της εικόνας"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Διαλέξτε ένα οποιοδήποτε gif."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Κάντε εναλλαγή για κατάργηση κάθε κάτω περιθωρίου."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Κάντε εναλλαγή για επαναφορά του κάτω περιθωρίου."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Κάντε εναλλαγή για κατάργηση κάθε επάνω περιθωρίου."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Κάντε εναλλαγή για επαναφορά του επάνω περιθωρίου."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Κάντε εναλλαγή για στοίβαξη των στοιχείων το ένα επάνω στο άλλο σε μικρότερα πλαίσια προβολής."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Η προσαρμοζόμενη στις κινητές συσκευές σχεδίαση είναι ενεργοποιημένη."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Κάντε εναλλαγή για προβολή του κουμπιού σε πλήρες πλάτος."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Προβολή σε πλήρες πλάτος."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Επαναφορά επιλογών περικοπής εικόνας"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Περιστροφή δεξιόστροφα"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Περιστροφή αριστερόστροφα"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Κράτηση θέσης εικόνας ρυθμίσεων περικοπής"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Δέκα δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Εννέα δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Οκτώ δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Επτά δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Έξι δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Πέντε δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Τέσσερα δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Τρία δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Δύο δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Ένα δευτερόλεπτο"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Δυνατότητα μεταφοράς"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Αυτόματη αναπαραγωγή"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Κάντε εναλλαγή για κύλιση χωρίς σταθερές διαφάνειες."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Κύλιση χωρίς ενεργοποιημένες σταθερές διαφάνειες."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Κάντε εναλλαγή για παύση της αυτόματης αναπαραγωγής όταν γίνεται κατάδειξη."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Παύση της αυτόματης αναπαραγωγής όταν γίνεται κατάδειξη."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Ευθυγράμμιση διαφανειών στο κέντρο."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Ευθυγράμμιση διαφανειών προς τα αριστερά."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Κάντε εναλλαγή για προβολή κουκκίδων πλοήγησης."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Προβολή κουκκίδων πλοήγησης."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Κάντε εναλλαγή για προβολή βελών πλοήγησης μεταξύ των διαφανειών."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Προβολή βελών πλοήγησης."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Κάντε εναλλαγή για ενεργοποίηση της λειτουργίας μεταφοράς."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Η μεταφορά και στιγμιαία μετακίνηση έχουν ενεργοποιηθεί."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Αυτόματη προώθηση στην επόμενη διαφάνεια."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Προώθηση μετά από %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "δευτερόλεπτο"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "δευτερόλεπτα"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Επιλογέας προσαρμοσμένων χρωμάτων"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Προσαρμοσμένο URL"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Κάντε μεταφορά εικόνων, μεταφόρτωση νέων ή επιλογή αρχείων από τη βιβλιοθήκη σας."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Συλλογή τύπου: %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Γράψτε μια λεζάντα..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Πολύ μεγάλο"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Μεταμόρφωση"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Βάρος"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Αλλαγή τυπογραφικών στοιχείων"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Εφαρμογή φίλτρου"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Κεφαλαία"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Επικεφαλίδα %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Προσθέστε επισημασμένο κείμενο…"
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Προσθέστε ένα εφέ επισήμανσης σε κείμενο παραγράφου για να τραβήξετε την προσοχή και να επισημάνετε κάποια σημαντική αφήγηση."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Τραβήξτε την προσοχή σε σημαντική αφήγηση και επισημάνετέ την."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Περίοδος"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Αλλαγή διάταξης"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Πλάτος περιεχομένου σε pixel"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Ύψος σε pixel"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Κενό διάστημα εντός του περιέκτη."
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Προσθήκη φόντου στην επικεφαλίδα-ήρωα"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Προσθήκη περιεχομένου-ήρωα, που συνήθως είναι ένας χώρος εισαγωγής μιας σελίδας που συνοδεύεται από μια ή δύο κλήσεις προς ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Ένας χώρος εισαγωγής μιας σελίδας που συνοδεύεται από μικρή ποσότητα κειμένου και μια κλήση προς ενέργεια."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Τεράστιο"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Μεσαίο"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Μικρό"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Κανένα"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Αφαίρεση φόντου"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Κάντε εναλλαγή για συνεχή αναπαραγωγή του βίντεο."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Συνεχής αναπαραγωγή του βίντεο φόντου."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Εναλλαγή για σίγαση του βίντεο."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Σίγαση του βίντεο φόντου."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Εμφάνιση"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Θέση"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Επανάληψη"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Γέμισμα"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Γίνεται αποθήκευση"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Αποθέστε την εικόνα για αντικατάσταση"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Ύψος"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Κάντε εναλλαγή για ενεργοποίηση της λειτουργίας πλήρους οθόνης."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Έχει ενεργοποιηθεί η λειτουργία πλήρους οθόνης."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Πλήρης οθόνη"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Προσθήκη ετικέτας..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "%s για κινητό"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Κενό"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Προηγμένες"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Προηγμένες ρυθμίσεις για: %s"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Αριστερά"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Κάτω"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Δεξιά"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Επάνω"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Συγχρονισμός"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Κατάργηση συγχρονισμού"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Απενεργοποίηση προηγμένων ρυθμίσεων για: %s"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Επιλογή μονάδων"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Περιθώριο"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Διαμοιρασμός στο Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Διαμοιρασμός στο Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Διαμοιρασμός στο Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Διαμοιρασμός μέσω Email"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Διαμοιρασμός στο LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Διαμοιρασμός στο Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Διαμοιρασμός στο Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Διαμοιρασμός στο Facebook"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Αξιολογήστε το CoBlocks στο WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Αφήστε μια κριτική"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Κλειδί API Χαρτών Google για απεικόνιση χάρτη"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Το μήνυμά σας στάλθηκε:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Επώνυμο"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Όνομα"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Ονοματεπώνυμο"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Μυστικό κλειδί Google reCAPTCHA για προστασία φόρμας από spam"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Κλειδί ιστότοπου Google reCAPTCHA για προστασία φόρμας από spam"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "Το CoBlocks είναι μια οικογένεια επαγγελματικών <strong>μπλοκ περιεχομένου κατασκευής σελίδων</strong> για το πρόγραμμα επεξεργασίας μπλοκ WordPress Gutenberg. Τα μπλοκ μας είναι ιδιαίτερα εστιασμένα στο να δίνουν την δυνατότητα στους σχεδιαστές να κατασκευάζουν πανέμορφες και πλούσιες σελίδες στο WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

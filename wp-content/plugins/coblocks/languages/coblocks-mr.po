@@ -1,0 +1,3323 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Marathi
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:21:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: mr\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "स्थान…"
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "वेळ..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "इव्हेंट वर्णन लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "इव्हेंट शीर्षक लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "वर्ष..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "महिना..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "दिवस…"
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "इव्हेंट ब्लॉकमधील एक इव्हेंट."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "इव्हेंट आयटम"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "कालावधीमधील इव्हेंट्स दर्शवा (कमाल 100 इव्हेंट्स)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "प्रति पृष्ठ इव्हेंट्स"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "सार्वजनिक दिनदर्शिकेशी लिंक साधण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "सार्वजनिक दिनदर्शिका दर्शवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "येथे URL प्रविष्ट करा..."
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "सर्व आणा"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "तारीख"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "सार्वजनिक दिनदर्शिकेवरून इव्हेंटची यादी जोडा किंवा इव्हेंट प्रदर्शित करा."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "उपक्रम"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "मीडिया साफ करा"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "मॉनिटर"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "एक त्रुटी आली आहे, दिनदर्शिका विशेषाधिकारांसाठी हे सार्वजनिक असल्याचे सुनिश्चित करण्यासाठी तपासा किंवा नंतर पुन्हा प्रयत्न करा."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "सॉफ्टवेअर"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "अपलोड"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "सुधारणा"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "ट्रेंडी"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "ट्रेंडिंग"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "गरम"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "महाविद्यालय"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "डिप्लोमा"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "पदवी"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "पदव्युत्तर"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "पदवीधर"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "शिक्षण"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "हंगाम"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "हिवाळा"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "गोठवणारे"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "बर्फ"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "थंड"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "शिप"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "कार्ट"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "अभियंता"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "विकसित"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "बॅज"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "भाषण"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "भाषा"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "सुरक्षित"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "सुरक्षित"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "बायोमेट्रिक"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "संरक्षण"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "बायो"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "सुरक्षा"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "एकत्र"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "कार्यसंघ"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "विजेट"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "प्लगईन"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "कोडे"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "ईवाणिज्य"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "वाणिज्य"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "दुकान"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "चेकआउट"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "रोख"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "पैसे"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "फूल"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "बागकाम"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "चांगले"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "गंध"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "सुगंध"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "पाकळी"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "उत्सव"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "पार्टी"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "खुर्ची"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "आरामदायक"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "थंडगार"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "आठवडा"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "चव"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "चमचा"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "काटा"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "पेय"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "अन्न"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "गगनचुंबी"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "शहर"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "इमारत"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "महानगरपालिका"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "व्यवसाय"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "स्थान"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "पृथ्वी"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "जागतिक"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "सार्वजनिक"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "जग"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "उन्हाळा"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "पाणी"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "महासागर"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "बाहेर"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "बाहेरील"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "किमान"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "लँडस्केप"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "डोंगराच्या आकाराचे"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "चेकबॉक्स"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "तपासणे"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "नकाशा"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "विजेट"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "चौकोन"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "बॉक्सेस"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "बॉक्स"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "नागमोडी"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "रेडिओ"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "वायफाय"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "वितरण"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "पाठवा"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "टिप्पणी"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "आता प्रतिसाद द्या"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "प्रत्युत्तर द्या"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "पत्र"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "वाचणे"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "हब"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "कनेक्ट"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "पृष्ठभाग"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "कार्यालय"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "डेस्क"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "आवडणे"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "आवडणारे"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "मत"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "दर"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "चुंबन"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "व्हॅलेन्टाइन"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "आकार"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "प्रेम"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "टाइपोग्राफी"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "मार्कर"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "पेन्सिल"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "फॉन्ट"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "टाईप"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "कला"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "डूडल"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "चित्रकला"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "ग्रीक"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "आनंद"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "गंमतीदार"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "हास्य"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "इमोटिकॉन"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "भावना"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "आनंदी"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "डेटा"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "ठिपके"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "आलेख"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "चार्ट"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "पाई"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "आकडेवारी"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "गणित"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "गोलाकार"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "अधिक"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "समाविष्ट करण"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "वर्तुळ"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "वजा"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "जोडा"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "पेंटब्रश"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "रंग"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "रंग"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "रंगछटा"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "निर्माता"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "निर्माता"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "व्हिडीओग्राफी"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "संकलन"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "छिद्र"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "चित्रपट"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "कॅमेरा"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "फोटोग्राफी"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "छायाचित्रकार"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "फोटो"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "डिव्हाइस"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "संगणक"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "हेडफोन"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "बोस"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "बीट्स"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "ऑडीओ"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "सृजनशील"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "कलाकार"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "गाणे"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "पॉडकास्ट"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "माइक्रोफोन"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "संगीत"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "डिझाइन"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "गटनबर्ग"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "निर्माण करणे"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "ब्लॉक"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "ब्लॉक्स"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "एक मीडिया फाईल अपलोड करा किंवा आपल्या मीडिया लायब्ररीतून एक निवडा"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "ऑफसेट ब्रीक नमुना गॅलरीमध्ये इमेज प्रदर्शित करा."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "ऑफसेट"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "नियोजित भेट बुक करा"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "दुपार"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "सकाळ"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "वेळ"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "नियोजित भेट"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "नोंदी?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "नाही"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "होय"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "आपण उपस्थित रहाल का?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "आणखी एक"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "संपर्क"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "संपर्क"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "आपण विषय क्षेत्रात खालील टॅग्स वापरू शकता: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "नाव"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "[%1$s] कडून फॉर्म सबमिट करत आहे"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "गॅलरी कॅप्षन लिहा…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "मीडिया क्षेत्र"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "शीर्षक जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "मेनू शीर्षक..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "बटण जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "मजकूर लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "शीर्षक लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "सामग्री जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "शीर्षलेख जोडा..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "लिंक्स"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "सामाजिक प्रोफाईल्स"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "आयकॉन आणि मजकूर"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "मजकूर"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "लपविणे"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "सामाजिक"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "सामायिक करा"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "टोकदार"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "त्रिकोण"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "गोलाकार"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "उतरते"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "कोनाच्या आकाराचे"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "डोंगराच्या आकाराचे"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "नागमोडी"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "विभाजक"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "आकार विभाजक"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "वैशिष्ट्ये"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "सेवा"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "वर्णन लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "सेवा"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "लेआउट्स"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "स्तंभ"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "पंक्ती"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "किंमत सारणी आयटम"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "तुलना"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "लँडिंग"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "किंमत सारणी"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "स्लाइडर"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "पोस्ट प्रकाशित करा किंवा बाह्य ब्लॉग फीड फिरता पट्टा म्हणून वापरा."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(शीर्षक नाही)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS फीड"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "क्षैतिज"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "नवीनतम"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "ब्लॉग"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "पोस्ट्स"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "स्टॅक केलेल्या किंवा क्षैतिज कार्ड म्हणून पोस्ट किंवा RSS फीड प्रदर्शित करा."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "पोस्ट"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "व्हिडीओ"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "इमेज"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "दिशानिर्देश"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "नकाशे"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "अ‍ॅड्रेस"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "नकाशा"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "परिच्छेद"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "हायलाइट"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "दुय्यम बटण..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "हिरो शीर्षक जोडा..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "बटण"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "हिरो"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "%s URL एडीट करा"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "%s वर परत या"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "कोड"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "गिस्ट"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "अ‍ॅनिमेटेड"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "इनपुट"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "अतरिक्त डेटा संकलित करण्‍यासाठी लपविलेला मजकूर फील्ड."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "URL संकलित करण्‍यासाठी एक मजकूर फील्ड."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "एकाधिक पर्यायांसह चेकबॉक्स फील्ड जिथे एकाधिक निवडी केल्या जाऊ शकतात."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "ड्रॉपडाउन"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "बहूपर्यायांसह फील्ड जेथे फक्त एक निवड होऊ शकते."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "अनेक ओळीचा मजकूर"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "मेसेज मजकूर"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "मजकूर"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "मजकूरक्षेत्र"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "फॅक्स"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "मोबाइल"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "सेल"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "सेल्युलर"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "टेलिफोन"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "पर्याय"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "निवडा"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "निवडा"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "रेडिओ"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "आडनाव"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "नाव"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "मेल"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "ई-मेल"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "वर्ष"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "महिना"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "दिवस"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "दिनदर्शिका"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "संपर्क"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "विषयी"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "ईमेल"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "फॉर्म"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "खाद्यपदार्थ"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "सूची"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "ग्रिड"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "मेनु"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "रेस्टॉरंट"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "खाद्यपदार्थ आणि पेय"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "वैशिष्ट्ये"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "हा वैशिष्ट्य ब्लॉक आहे तो आपण वैशिष्ट्ये हायलाइट करण्यासाठी वापरू शकता."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "वैशिष्ट्य सामग्री जोडा"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "वैशिष्ट्य शीर्षक"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "वैशिष्ट्य शीर्षक जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "वैशिष्ट्य"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "पूर्ण रुंदी"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "रेषा"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "बिंदू"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "स्पेसर"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "डायनॅमिक एचआर"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "स्तंभ"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "स्तरित"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "टाइल केलेले"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "कोलाज"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "सामायिक करा"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "ट्वीटवर क्लिक करा"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "समाविष्ट करा"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "कव्‍हर"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "स्वयं"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "मोबाइलवरील स्टॅक"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "कॉल टु अ‍ॅक्शन"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "लिंक"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "लेखक लिंक..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "अवतार म्हणून अपलोड करण्यासाठी ड्रॉप करा"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "जेन डो"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "प्रोफाईल"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "जीवनचरित्र"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "लेखक"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "चुक"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "चेतावणी"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "यशस्वी"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "माहिती"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "मेसेज"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "सूचना"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "सतर्कता"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "अ‍ॅॅकोर्डियन आयटम शीर्षक लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "एकॉर्डियन आयटम"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "टॅब"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "एकॉर्डियन"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "शीर्ष वेव्ह"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "तळ वेव्ह"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "परिपत्रक"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "चेकबॉक्स"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "मीडिया कार्ड"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "लाइटबॉक्स"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "वांगे"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "रात्र"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "मागे"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "चांदी"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "मानक"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "शिक्का"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "पुरस्कार"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "प्रशंसापत्रे"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "पुरावा"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "क्लाएंट्स"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "प्रकाश"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "गडद"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "फोटो"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "गॅलरी"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "मोठे अक्षर लिहीणे"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "लोअरकेस"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "प्राथमिक बटण..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "ठळक"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "सामान्य"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "भरलेले"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "बाह्यरेखा"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "आयकॉन्स"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "आयकॉन"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "%s इनलाइन प्रदर्शित करण्‍यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "%s इनलाइन प्रदर्शित करत आहे."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "इनलाइन %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "अद्यतनित करा"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "आग"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "शाळा"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "बर्फाचा पातळ तुकडा"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "शिपिंग"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "थर"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "फ्लेअर"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "नवा"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "भाषांतर करा"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "बोटांचे ठसे"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "विस्तार"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "क्रेडिट कार्ड"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "निर्माण करणे"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "फूल"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "केक"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "कोच"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "डाइनिंग"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "शहर"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "पृथ्वीचा गोल"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "नागमोडी"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "डोंगर"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "मार्कर"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "ब्लॉक्स"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "सिग्नल"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "पाठवा"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "प्रत्युत्तर द्या"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "हब"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "कीबोर्ड"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "पहा"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "टॅबलेट"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "लॅपटॉप"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "उपकरणे"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "डेस्कटॉप"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "चांदणी"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "हृद्य"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "डूडल"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "कार्ये"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "इमोटिकॉन"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "मतदान"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "स्कॅटर प्लॉट"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "विभाजित वर्तुळाकृती"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "वर्तुळातील ऋण चिन्ह"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "वर्तुळ जोडा"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "ब्रश"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "रंग"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "रंग निवडक"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "रंगीत लेन्स"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "चित्रपट"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "व्हिडीओ"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "गॅलरी"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "कॅमेरा"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "छिद्र"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "आवाज"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "घनफळ"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "हेडसेट"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "अल्बम"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "ऑडीओ"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "व्हिंटेज फिल्टर"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "मूळ"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "टक्केवारी"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "पिक्सेल"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "लपविलेले"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "वेबसाइट"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "काहीतरी चूक झाली."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "निवडा"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "बाह्य फीड पुनर्प्राप्त करा"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "तारीख"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "फोन"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "अधिक वाचा"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "एक निवडा"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "चुक आली, ज्‍याचा खासकरून अर्थ फीड खाली असणे असा होतो. नंतर पुन्हा प्रयत्न करा."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "तारीख निवडकर्त्यासह तारीख निवडण्याची विनंती करण्यासाठी फील्ड."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "वैध ईमेल अ‍ॅड्रेस संकलित करण्यासाठी फिल्ड."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "प्रथम नाव आणि आडनावे संकलित करण्यासाठी मजकूर फील्ड."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "बहूपर्यायांसह फील्ड जेथे फक्त एक निवड होऊ शकते."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "अवैध API Key किंवा बर्‍याच विनंत्या"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "चिन्ह आकार प्रीसेट निवडा"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(शीर्षक नाही)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "पर्याय लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "पर्याय काढा"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "ब्लॉग पोस्ट"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "URL वापरा"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "तुमच्या पृष्ठावर संपर्क फॉर्म जोडा."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "लोकप्रिय"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "छान नियंत्रण पर्याय सक्षम केले आहेत."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "नकाशा नियंत्रण पर्यायांना सक्षम करण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "बाह्य फीड वापरा"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "कोणत्याही पोस्ट आढळल्या नाहीत. RSS फीड वरून प्रकाशित करणे सुरू करा किंवा पोस्ट जोडा."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "जतन केले"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "पूर्णस्क्रीन नकाशा नियंत्रण दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "तळापासून उजवीकडील मार्ग दृश्‍य नियंत्रण दाखवण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "मार्ग दृश्‍य नियंत्रण दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "मदतीची आवश्यकता आहे का?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Key मिळवा"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Google Maps API Key जोडा. ही API Key अद्यतनित केल्याने नवीन वापरण्यासाठी तुमचे सर्व नकाशे सेट होतील."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "पूर्णस्क्रीन नकाशा नियंत्रण दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "झूम नियंत्रणांसह झूम इन आणि झूम आउट सक्षम करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "नकाशा झूम नियंत्रणे दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "मानक आणि उपग्रह नकाशांमधील स्विचिंग सक्षम करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "मानक आणि उपग्रह नकाशे दृश्यांमधील स्विचिंग सक्षम केले आहे."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "भेटकर्त्यांना तुम्हाला फोन नंबर देण्याची अनुमती देण्यासाठी फोन नंबर."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "प्रकाशित ताऱीख दर्शवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Google map वर पिन टाकण्यासाठी एक स्थान किंवा अ‍ॅड्रेस प्रविष्ट करा."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "रद्द करा"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "स्थान किंवा अ‍ॅड्रेस शोधा..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "नकाशाची उंची पिक्सेल्स मध्ये"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "झूम पातळी"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "RSS URL एडीट करा"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "डावीकडील इमेज"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "उजवीकडील इमेज"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS URLs सामान्यतः /feed/साईटची निर्देशिकेवर स्थित असतात."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "प्रकाशित तारीख दर्शवण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "सामग्रीतील कमाल शब्द"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "पोस्ट सामग्री दर्शवण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "पोस्ट सामग्री दर्शवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "पोस्टची संख्या"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "पोस्ट फिरता पट्टा"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "वर्तुळ"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "चौकोन"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "सोशल मीडिया प्रोफाईलशी लिंक असलेला तुमचा प्रेक्षकवर्ग वाढवा."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "पॅलेट डिझाइन रंग कलाकार रंग सर्जनशील मीडिया"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "लिंक URL"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "कोणतेही परिणाम आढळले नाहीत."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "त्रिज्या"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "सानुकूल"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "सानुकूल आकार लागू करा"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "आयकॉन आकार रीसेट करा"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "काहीतरी अधिक संप्रेषण करण्यासाठी एक शैलीकृत ग्राफिक चिन्ह जोडा."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "LinkedIn वर सामायिक करा"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "आयकॉन्स"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "प्रत्येक सामाजिक मीडिया प्लॅटफॉर्मवरुन अधिकृत रंग वापरण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "सामायिक करा बटण रंग सक्षम केले आहेत."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "आपल्याला पसंती आणि सामायिकीकरणे मिळविण्यात मदत करण्यासाठी सामाजिक सामायिकीकरण लिंक जोडा."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "अनुलंबरित्या फ्लिप करा"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "क्षैतिजरित्या फ्लिप करा"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "पृष्ठ विभाग दृश्यमानपणे वेगळे करण्यासाठी आकार विभाजक जोडा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "मोबाइलवर बटणे स्टॅक करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "मोबाइलवरील बटणे स्टॅक करत आहे..."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "बटणे"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "एकाधिक बटणांसह अभ्यागतांना कृती करण्यास प्रवृत्त करा."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "फिरता पट्टा"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "लघुप्रतिमा"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "उंचीनुसार टक्‍केवारी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "टक्केवारीनुसार उंची सक्रिय केली."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "लघुप्रतिमा दर्शवण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "लघुप्रतिमा नॅव्हिगेशन दर्शवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "चांगल्या फिरता पट्टा गॅलरीमध्ये एकाधिक इमेज प्रदर्शित करा."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "कार्ड इमेजसह जाण्यासाठी हा मजकूर वर्णनात्मक प्रतीने बदला. नंतर ह्या कार्डमध्ये अधिक ब्लॉक्स जोडा, जसे की बटणे, सारण्या किंवा इमेज."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "डावीकडील मीडिया"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "उजवीकडील मीडिया"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "%s सावली जोडण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "%s सावली दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "कार्डची सावली जोडण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "कार्डची सावली दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "ऑफसेट कार्डसह इमेज किंवा व्हिडीओ जोडा."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "मीडिया पुनर्स्थित करण्यासाठी ड्रॉप करा"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "मिडीया"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "मीडिया एडीट करा"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "रचना"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "गॅलरी आयटमला गोल कोपरे जोडा."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "रचना केलेल्या मॅसनरी गॅलरीमध्ये एकाधिक इमेज प्रदर्शित करा."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "लोगो आणि बिल्ले"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "लोगो एडीट करा"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "कृष्णधवल"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "लोगो, बिल्ले किंवा विश्वासार्हता निर्माण करण्यासाठी प्रमाणपत्रे जोडा."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "काढून टाका"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "जतन करा"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "मदत मिळवा"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "माझ्या Key"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Key व्युत्पन्न करा"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "आपला फॉर्म स्पॅमपासून संरक्षित करण्यासाठी आपली reCAPTCHA साईट आणि गोपनीय Key जोडा."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "विषय"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "ईमेल अ‍ॅड्रेस"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "‌‌%s वैध ईमेल अ‍ॅड्रेस नाहीत."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s आणि %s वैध ईमेल अ‍ॅड्रेस नाहीत."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s ईमेल अ‍ॅड्रेस वैध नाही."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "विस्तारित प्रतिसादासाठी मजकूर बॉक्स"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "मजकूर जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "विषयाचे उदाहरण"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "आडनाव फील्ड जोडण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "नाव आणि आडनाव फील्ड दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "पिक्सेल्स मधील डायनॅमिक विभाजक घटकासाठी उंची."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "इतर ब्लॉक्समध्ये आकार बदलणारा स्पेसर जोडा."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "ट्वीट करण्यासाठी कोट जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "वापरकर्त्याचे नाव"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Twitter वापरकर्त्याचे नाव"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "बटण रंग"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "तुमचा ब्लॉग, वेबसाइट आणि Twitter वरील व्यवसायाचा प्रचार करण्याचा आणि जाहिरात करण्याचा सोपा मार्ग."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Twitter द्वारे ट्वीट करताना वाचकांसाठी कोट जोडा."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "$0.00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "वर्णन जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "गरम"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "ह्या आयटमसाठी किंमत दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "ह्या आयटमसाठी किंमत दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "किंमत"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "ह्या आयटमसाठी इमेज दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "ह्या आयटमसाठी इमेज दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "इमेज"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "खाद्यपदार्थ आणि पेय ब्लॉकमधील खाद्यपदार्थ आणि पेय."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "वेगन"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "पेस्कॅटेरियन"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "ग्लूटेन मुक्त"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "शाकाहारी"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "अगदी मसालेदार"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "मसालेदार"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "प्रत्येक आयटमसाठी किंमत दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "प्रत्येक आयटमची किंमत दाखवत आहे"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "किंमती"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "प्रत्येक आयटमसाठी इमेज दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "प्रत्येक आयटमसाठी इमेज दाखवत आहे"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "इमेज"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "आपला मेनु किंवा किंमत सूची प्रदर्शित करा."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "या ह्या पंक्तीसाठी स्तंभांची संख्या निवडा."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "या %s स्तंभ पंक्तीसाठी आता लेआउट निवडा."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "पंक्ती"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "पंक्तीवर पार्श्वभूमी जोडा"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "चार"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "तीन"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "दोन"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "एक"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "पंक्ती ब्लॉक लेआउट बदला"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "तिमाह्या"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "तृतीयांश"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "स्तंभावर पार्श्वभूमी जोडा"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "रुंदी"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "कंटेनर भोवतीची जागा."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "लगतची उपपंक्ती."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "स्तंभ ब्लॉक्ससाठी संरचित रॅपर जोडा, त्यानंतर स्तंभांमध्ये आपल्याला आवडणारे सामग्री ब्लॉक जोडा."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "योजना %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "किंमत सारणी गणना बदला"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "चार किंमत सारणी"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "तीन किंमत सारणी"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "दोन किंमत सारणी"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "एक किंमत सारणी"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "उत्पादने आणि योजनांची तुलना करण्यासाठी भेटकर्त्यांना मदत म्हणून किंमत सारणी जोडा."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "वैशिष्ट्ये जोडा"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "योजना A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "आता खरेदी करा"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "उत्पादने आणि योजनांची तुलना करण्यात भेटकर्त्यांना मदत होण्यासाठी किंमत सारणी."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "JavaScript polyfill ह्या पृष्ठावर लोड करून इंटरनेट एक्सप्लोररला सपोर्ट करा."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "JavaScript polyfill लोड करून इंटरनेट एक्सप्लोररसाठी सपोर्ट जोडा."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "संकुचित करण्यायोग्य एकॉर्डियन आयटममध्ये सामग्री आयोजित करा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "डीफाॅल्टनुसार उघडले गेलेले हे एकॉर्डियन आयटम सेट करण्यासाठी टॉगल करा"
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "एकॉर्डियन आयटम डीफाॅल्टनुसार उघडले गेले."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "संकुचित करण्यायोग्य एकॉर्डियन आयटम एकॉर्डियनला जोडा."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "आपले उत्पादन किंवा सेवांसाठी लहान नोंदी असलेले तीन स्तंभ जोडा."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "पार्श्वभूमी म्हणून जोडा"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "पालक वैशिष्ट्ये ब्लॉकमधील एकल मुलाचा स्तंभ."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "सतर्कता एक मेसेज आहे जो ठराविक सामग्रीच्या प्रवाहाबाहेर प्रदर्शित होतो.. सतर्कता संदर्भ अभिप्राय प्रदान करतात सामान्यतः वाचकांना कृती करण्यास सांगतात."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "हे सतर्कता अवरोधन आहे"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "संदर्भ अभिप्राय मेसेज किंवा सूचना प्रदान करा."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "स्थान एडीट करा"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Google map वर पिन टाकण्यासाठी एक अ‍ॅड्रेस किंवा स्‍थान प्रविष्ट करा."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google Map"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "कॉल टू अ‍ॅॅक्शन बटण दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "कॉल टू अ‍ॅक्शन बटणे दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "स्तंभ"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "शैली"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "प्रदर्शित करण्यासाठी सेवांचे चार स्तंभ जोडा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "कॉल टू अ‍ॅक्शन बटण दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "कॉल टू अ‍ॅक्शन बटण दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "सेवा ब्लॉकमधील एकच सेवा आयटम."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "सावली"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "सुंदर कोलाज गॅलरी स्वरूपात इमेज एकत्र करा."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "जीवनचरित्र लिहा जाच्यातून तुमच्या वाचकांना उद्दिष्ट क्रेडेबिलिटी आणि ऑथोरिटी याचा पुरेपूर बोध होईल…"
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "लेखकाचे नाव लिहा…"
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "अवतार एडीट करा"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "छाप पाडण्यासाठी नव्हे तर व्यक्त होण्यासाठी आहे. मी जसे इच्छितो तसे लिहिणारा"
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "विश्वासार्हता आणि अधिकार निर्माण करण्यासाठी लेखक चरित्र जोडा."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "गॅलरीमध्ये %2$d पैकी%1$d इमेज"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "रचलेला"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "लाइटबॉक्स"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "कॅप्षन"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "इमेज लाइटबॉक्स सक्षम करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "इमेज लइटबॉक्स सक्षम केला आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "मीडिया कॅप्षन दाखवण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "प्रत्येक मीडिया आयटमसाठी कॅप्षन दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "उपलब्ध असलेले गॅलरी क्षेत्र पूर्णपणे पूर्ण रूंदी इमेजसह भरण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "पूर्ण रूंदी इमेज सक्षम आहेत."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "गिस्ट लोड होत आहे"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "GitHub गिस्ट URL जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "गिस्ट मेटा"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "गिस्ट फाईल"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "गिस्ट URL"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "गिस्ट मेटा डेटा दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "गिस्ट मेटा डेटा दाखवत आहे"
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "गिस्ट लिंक जोडून GitHub gists एम्बेड करा."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "हे गिस्ट GitHub वर पहा"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "gifs साठी शोधा"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Giphy वर त्यासाठीची योग्य gif शोधा"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "ह्या gif मध्ये alt गुणधर्म आहेत"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "gif काढा"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "इमेज संपूर्णपणे सजावट केलेली असल्यास रिक्त सोडा."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "इमेजचा उद्देश स्पष्ट करा"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "gif निवडा, कोणतीही gif"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "कोणतेही खालील मार्जिंन काढण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "पुन्हा खालील मार्जिन जोडण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "कोणतेही शीर्ष मार्जिंन काढण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "पुन्हा टॉप मार्जिन जोडण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "लहान व्ह्यूपोर्टवर एकमेकांवरील घटकांवर स्टॅक करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "प्रतिसाद सक्षम केला आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "बटण पूर्णरूंदी सारखे प्रदर्शित होण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "पूर्णरूंदी सारखे प्रदर्शित करत आहे."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "इमेज क्रॉप करणे पर्याय रीसेट करा"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "घड्याळाच्या दिशेने फिरवा"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "घड्याळाच्या उलट दिशेने फिरवा"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "क्रॉप करा सेटिंग्ज इमेज प्लेसहोल्डर"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "दहा सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "नऊ सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "आठ सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "सात सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "सहा सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "पाच सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "चार सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "तीन सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "दोन सेकंद"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "एक सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "ड्रॅग करण्यास सक्षम"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "स्वयंप्ले"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "निश्चित स्लाइडशिवाय स्क्रोल करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "निश्चित स्लाइडशिवाय स्क्रोलिंग सक्षम केले."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "होव्हर केल्यानंतर स्वयंप्लेला विराम देण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "होव्हर करताना स्वयंप्ले करण्याला विराम देत आहे."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "मध्यभागी स्लाइड संरेखित करीत आहे."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "स्लाइड्स डावीकडे संरेखित करीत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "डॉट नेव्हिगेशन दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "डॉट नेव्हिगेशन दर्शवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "स्लाइड नेव्हिगेशन बाण दाखवण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "स्लाइड नेव्हिगेशन बाण दाखवत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "ड्रॅग कार्यक्षमता सक्षम करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "ड्रॅग करणे आणि फ्लिक करणे सक्षम केली."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "पुढील स्लाइड स्वयंचलितपणे प्रगत करा."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "%1$d %2$s नंतर पुढे जाईल."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "सेकंद"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "सेकंद"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "डीफाॅल्ट"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "सानुकूल रंग निवडक"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "सानुकूल URL"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "इमेज ड्रॅग करा, नवा अपलोड करा किंवा आपल्या ग्रंथालयातून फायली निवडा."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "%s गॅलरी"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "कॅप्षन लिहा..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "अति मोठे"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "आकारमान"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "रुपांतरण"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "वजन"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "फॉन्ट"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "मुद्रणशैली बदला"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "फिल्टर लागू करा"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "अपरकेस"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "शीर्षक %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "हायलाइट केलेला मजकूर जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "लक्ष वेधण्यासाठी आणि महत्त्वाच्या कथांवर जोर देण्यासाठी परिच्छेदाच्या मजकूरावर हायलाइट प्रभाव जोडा."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "लक्ष वेधून घ्या आणि महत्त्वाच्या कथेवर जोर द्या."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "कालावधी"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "लेआउट बदला"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "सामग्रीची रूंदी पिक्सेल्समध्ये"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "पिक्सेल्स मध्ये उंची"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "कंटेनरच्या आतील जागा"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "हीरोवर पार्श्वभूमी जोडा"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "कॉल टू अ‍ॅक्शन किंवा दोघांसह विशिष्टरित्या पृष्‍ठाचा परिचयात्मक भाग असलेली हिरो सामग्री जोडा."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "पृष्ठाचे प्रास्तविक क्षेत्र हे लहान मजकूर आणि कॉल टू अॅक्शन सह आहे."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "खूप मोठे"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "मोठे"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "मध्यम"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "लहान"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "काहीही नाही"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "पार्श्वभूमी काढून टाका"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "व्हिडीओ लूप करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "पार्श्वभूमीचा व्हिडीओ लूप करत आहे."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "व्हिडीओ नि:शब्द करण्यासाठी टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "पार्श्वभूमीचा व्हिडीओ नि:शब्द करा."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "प्रदर्शित करा"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "स्थिती"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "पुनरावृत्ती करा"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "पॅ‍डिंग"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "लागू करा"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "जतन करत आहे"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "पुनर्स्थित करण्यासाठी इमेज सोडून द्या"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "उंची"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "पूर्णस्क्रीन मोड सक्षम करण्याकरिता टॉगल करा."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "पूर्णस्क्रीन मोड सक्षम केला आहे."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "पूर्णस्क्रीन"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "लेआउट"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "आवश्यक"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "लेबल जोडा..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "मोबाइल %s"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "प्रगत"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "प्रगत %s सेटिंग्ज"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "डावा"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "तळ"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "उजवा"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "वर"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "संकालन करा"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "संकालन नाही"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "रिसेट करा"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "%s प्रगत सेटिंग्ज बंद करा"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "एकक निवडा"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "समास"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube प्रोफाइल जोडा"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Reddit वर सामायिक करा"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Google वर सामायिक करा"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Tumblr वर सामायिक करा"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "ईमेलद्वारे सामायिक करा"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "LinkedIn वर सामायिक करा"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Pinterest वर सामायिक करा"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Twitter वर सामायिक करा"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Facebook वर सामायिक करा"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "WordPress.org वर CoBlocks चे पुनरावलोकन करा"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "पुनरावलोकन करा"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "नकाशा प्रस्तुत करण्यासाठी Google Map API Key"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "आपला मेसेज पाठवला गेला:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "सबमिट करा"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "मेसेज"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "आडनाव"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "नाव"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "नाव"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "ईमेल"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "फॉर्म स्पॅम सुरक्षेसाठी Google reCaptcha गुप्त Key"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "फॉर्म स्पॅम सुरक्षेसाठी Google reCaptcha साईट Key"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks हे वर्डप्रेस Gutenberg ब्लॉक संपादकासाठी असलेला व्यावसायिक <strong>पृष्ठ निर्माण करणे सामग्री ब्लॉक्सचा</strong> एक संच आहे. आमचे ब्लॉक्स वर्डप्रेसमधील सुंदर समृद्ध पृष्ठे निर्माण करण्यासाठी निर्मात्यांना सक्षम बनवण्यावर अधिक लक्षकेंद्रित करतात."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

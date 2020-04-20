@@ -1,0 +1,2739 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Georgian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-18 07:03:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ka_GE\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/editor/index.js:11
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "სიტყვები"
+
+#: build/block-library/index.js:8
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "შიგთავსი…"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "ბმულად გარდაქმნა"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Try again"
+msgstr "ცადეთ კიდევ"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "რედაქტორის ტიპები"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "ბლოკი (არჩეული)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "დოკუმენტი (არჩეული)"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d სიტყვა"
+
+#: build/block-editor/index.js:49
+msgid "Link Rel"
+msgstr "ურთიერთმდგომარეობა"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "ბმულის CSS-კლასი"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "შექმენით შიგთავსი და შეინახეთ ის თქვენთვის და სხვა ავტორებისატვის ხელმეორედ გამოსაყენებლად. განაახლეთ ბლოკი და ცვლილება მოხდება ყველგან, სადაც ის გამოყენებულია."
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "ჩანაწერის სურათის ჩასწორებისათვის თქვენ გჭირდებათ ამ მედიაფაილის ჩატვირთვის ნებართვა."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "ამ ბლოკის ჩასწორებისას თქვენ გესაჭიროებათ ნებართვა მედიაფაილის ატვირთვაზე."
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(არჩეული ბლოკი)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "ბლოკების ხელსაწყოები"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "მუდმივი ბმული"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "ამ სურათს აქვს ცარიელი alt ატრიბუტი"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "ამ სურათს აქვს ცარიელი alt ატრიბუტი; ფაილის სახელი: %s"
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "ახლის დამატება"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "ყურადღება: ბმული დამატებულია, მაგრამ შესაძლოა შეიცავდეს შეცდომებს. გთხოვთ გადაამოწმოთ."
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s ბლოკი არჩეულია."
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "ესკიზი"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "სრული ზომა"
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "დაწყეთ ტექსტის, ან HTML-კოდის წერა"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "ტექსტის, ან HTML-კოდის წერა"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "ბლოკის ხატულა"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "დაიწყეთ წერა, ან დააჭირეთ კლავიშზე (/) ბლოკის ასარჩევად"
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "ცარიელი ბლოკი; დაიწყეთ წერა, ან დააჭირეთ კლავიშზე (/) ბლოკის არჩევისათვის"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "პარაგრაფის ბლოკი"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "გვერდის გაწყვეტა"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "დაჯგუფება მობილურ რეჟიმში"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "გადაათრიეთ სურათი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "ანოტაცია"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "დიდი"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "საშუალო"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "ჩვეულებრივი"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "შეტანა"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "იმპორტი"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "ჩამოტვირთვა"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "ჩაშენებული"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Embed"
+msgstr "ჩაშენებული"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "დიდი"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Rounded"
+msgstr "მომრგვალებული"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "ბმული ჩასწორებულია."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "ბმული წაშილია."
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "მედია"
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "მედია"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "ჩასვით ვიდეო თქვენი მედია-ბიბლიოთეკიდან, ან ატვირთეთ ახალი."
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "გასწორება"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "უზარმაზარი"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "პატარა"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "კლასიკური"
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "ორჯერ გადაამოწმეთ პარამეტრები, სანამ გამოაქვეყნებთ."
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "გადახედვის გენერირება…"
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "სურათის განახლება, ან ჩასწორება"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "გადასვლა ხელსაწყოთა უახლოეს პანელზე."
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "დოკუმენტის ხელსაწყოები"
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "დოკუმენტის და ბლოკის ინსტრუმენტები"
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "ლექსის სტროფების ჩასმა. შესაძლებელია ინტერვალების სპეციალური ფორმატის გამოყენება, ანდა სიმღერის ტექსტის ციტირება."
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "დაამატეთ დაშორება ბლოკებს შორის და მოარგეთ მისი სიმაღლე."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "დამატებითი სამომხმარებლო ელემენტების ჩასმა მალსახმობის საშუალებით."
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "შექმენით შუალედი იდეებსა და სექციებს შორის ჰორიზონტალური გამყოფის მეშვეობით."
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "გამოყავით ვიზუალურად ციტატა. „სხვისი ციტირებით, ჩვენ საკუთარ თავს ვციტირებთ.“ — Julio Cortázar"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "გამოყავით ვიზუალურად ციტატა თქვენი ტექსტიდან."
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "დაიწყეთ თხრობითი ბლოკის შექმნით."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "დაყავით შიგთავსი რამდენიმე გვერდათ."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "დააყენეთ მულტიმედია ელემენტი და შემოსაზღვრეთ ის ტექსტით ლამაზი მაკეტისათვის."
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "ბურთულებიანი, ან დამონრილი სიის შექმნა."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "საიტის ბოლო კომენტარები."
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "დაამატეთ სურათი ვიზუალური განაცხადისათვის."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "დაამატეთ მორგებული HTML კოდი და ნახეთ შედეგი ჩასწორების პროცესში."
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "გამოაცხადეთ ახალი სექციები და მოარგეთ შიგთავსი მომხმაერებელთა დასახმარებლად (აგრეთვე, საძიებო სისტემებისათვის) გაიგონ მისი სტრუქტურა."
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "რამოდენიმე სურათის გაერთიანება გალაერეაში."
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "ბმულის დამატება ჩამოსატვირთ ფაილზე."
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "ვიდეოს, სურათების, ტვიტების, აუდიოს და სხვა შიგთავსის ჩაშენება გარე წყაროებიდან."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "WordPress-ის ჩანაწერის ჩასმა."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "ზომის შეცვლა პატარა მოწყობილობებისათვის"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "ამ ჩაშენებულმა ობიექტმა შესაძლოა ვერ შეინარჩუნოს მხარეთა თანაფარდობა ბრაუზერის ფანჯრის ცვლილებისას."
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "ეს ჩაშენებული ობიექტი შეინარჩუნებს მხარეთა თანაფარდობას ბრაუზერის ფანჯრის ცვლილებისას."
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Animoto ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "Vimeo ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "Flickr შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Spotify შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "SoundCloud შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "Instagram ჩანაწერის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "Facebook ჩანაწერის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "WordPress.tv ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "VideoPress ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "Tumblr სტატიის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "TED ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "Speaker Deck შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "YouTube ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "SmugMug შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "Slideshare შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Scribd შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "Screencast შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "ReverbNation შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Reddit შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "Polldaddy შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Mixcloud შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "ტვიტის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Meetup.com შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Kickstarter შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Issuu შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Imgur შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Hulu შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Dailymotion ვიდეოს ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "CollegeHumor შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Cloudup შიგთავსის ჩაშენება."
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "დაამატეთ სურათი ან ვიდეო ტექსტის გადაფარვით — არაჩვეულებრივია სათაურებისათვის."
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "აჩვენეთ კოდის ფრაგმენტი დაშორებებით და ტაბულაციით."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "WordPress-ის კლასიკური რედაქტორის გამოყენება."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "ყველა კატეგორიის სიის ჩვენება."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "მარტივი აუდიო დამკვრელის ჩაშენება."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "ხედი"
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "მარცხნიდან მარჯვნივ"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "შენახვა დასამტკიცებლად"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "საიტიდან ჩასმა"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "საერთო"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "პარამეტრები"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(ხსნის ახალი ჩანართში)"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "წუთი"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "საათი"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "დრო"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "წელი"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "დღე"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "დეკემბერი"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "ნოემბერი"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "ოქტომბერი"
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "სექტემბერი"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "აგვისტო"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "ივლისი"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "ივნისი"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "მაი"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "აპრ"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "მარტი"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "თებერვალი"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "იანვარი"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "თვე"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "თარიღი"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "%s მისამართი"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "ჩასვით, ან შეიტანეთ URL"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "სტილები"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "ბლოკებში გადასვლის მენიუს გახსნა."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "მუშაობა ყურადღების გაფანტვის გარეშე"
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "ყურადᲦᲔᲑᲐ ერთ კონკრეტულ ბლოკზე"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "წვდომა ყველა ბლოკზე და ხელსაწყოზე ერთ ადგილას"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "გადადით კვირის პირველ (home), ან ბოლო (end) დღეზე."
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Home და End"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "უკან (PgUp), ან წინ (PgDn) გადასვლა ერთი თვით."
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Page Up და Page Down"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "უკან (PgUp), ან წინ (PgDn) გადასვლა ერთი კვირით."
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "ისრები ზემოთ და ქვემოთ"
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "უკან (PgUp), ან წინ (PgDn) გადასვლა ერთი დღით."
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "ისრები მარცხნივ და მარჯვნივ"
+
+#: build/components/index.js:6
+msgid "Select the date in focus."
+msgstr "აირჩიეთ თარიღი."
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "გადაადგილება კლავიატურით"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "დააწკაპუნეთ საჭირო დრეზე მის მოსანიშნად."
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "გამოიყენეთ მარცხენა, ან მარჯვენა ისარი სხვა თვეების მოსანიშნად წარსულში, ან მომავალში."
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "დააწკაპუნეთ მოსანიშნად"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "კალენდრის დახმარება"
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "აირჩიეთ შეფერილობა"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "ფერის ფორმატის შეცვლა"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "ფერის მნიშვნელობა HSL-ფორმატში"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "ფერის მნიშვნელობა RGB-ფორმატში"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "ფერის მნიშვნელობა HEX-ფორმატში"
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "RGB რეჟიმი აქტიურია"
+
+#: build/components/index.js:6
+msgid "Hex color mode active"
+msgstr "Hex რეჟიმი აქტიურია"
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "HSL რეჟიმი აქტიურია"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "გადაადგილეთ ისარი მარცხნივ, ან მარჯვნივ შეფერილობის შესაცვლელად."
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "შეფერილობის მნიშვნელობა გრადუსებში, 0-დან 359-მდე."
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "ალფას მნიშვნელობა, 0-დან (გამჭვირვალე) 1-მდე (გაუმჭვირვალე)."
+
+#: build/block-library/index.js:8
+msgid "Stripes"
+msgstr "ზოლები"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "თქვენი საიტი მხარს არ უჭერს ამ ბლოკს."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "თქვენი საიტი მხარს არ უჭერს \"%s\" ბლოკს. შეგიძლიათ ხელუხლებლად დატოვოთ ეს ბლოკი, ან წაშალოთ."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "თქვენი საიტი მხარს არ უჭერს “%s” ბლოკს. შეგიძლიათ ხელუხლებლად დატოვოთ ეს ბლოკი, გარდაქმნათ HTML-კოდად, ან წაშალოთ."
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "მულტიმედიას არე"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "მედია და ტექსტი"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "მედიის ჩვენება მარჯვნივ"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "მედიის ჩვენება მარცხნივ"
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "გარეკანი"
+
+#: lib/widgets-page.php:58 lib/edit-site-page.php:78
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Medium"
+msgstr "საშუალო"
+
+#: build/block-editor/index.js:49
+msgid "Paste URL or type to search"
+msgstr "ჩასვით მისამართი, ან აკრიფეთ ძებნისათვის"
+
+#: build/editor/index.js:11
+msgid "Terms"
+msgstr "პირობები"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "თქვენი შრომა გამოქვეყნდება მითითებულ თარიღსა და დროს."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "მზად ხართ დაგეგმოთ გამოქვეყნება?"
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "ყოველთვის გამოჩნდეს შემოწმება გამოქვეყნებამდე."
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "კონტროლის აღება"
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "სხვა მომხმარებელი უკვე მუშაობს ამ ჩანაწერზე, რაც ნიშნავს, რომ ვერ შეიტანთ ცვლილებებს, სანამ კონტროლს არ აიღებთ."
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s ამჟამად მუშაობს ამ ჩანაწერზე, რაც იმას ნიშნავს, რომ ცვლილებების შეტანა ვერ ხერხდება, თუ კონტროლის არ აიღებთ."
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "სხვა მომხმარებელი ამჟამად მუშაობს ამ ჩანაწერზე. არ იდარდოთ, თქვენი ცვლილებები ამ ეტაპზე შენახულია."
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s ამჟამად მუშაობს ამ ჩანაწერზე. არ იდარდოთ, თქვენი ცვლილებები ამ ეტაპზე შენახულია."
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "ავატარი"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "მედიას ჩასმა"
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "ჩანაწერი უკვე რედაქტირდება."
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "ვიღაცამ კონტროლი აიღო ამ ჩანაწერზე."
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "ბლოკი შეიცავს მოულოდნელ, ან არასწორ შიგთავსს."
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "ბლოკის გასწორება"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "HTML-ად გარდაქმნა"
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "ამ ბლოკის გამოყენება მხოლოდ ერთხელ შეიძლება."
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "კოდის რედაქტორი"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "დაწერეთ HTML…"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "გადაფარვა"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "ბრჭყალი"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "წერტილი"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "მძიმე"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "კვლავგამოყენებადი წარმატებით დაიმპორტდა!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "არასწორი JSON ფაილი კვლავგამოყენებადი ბლოკისათვის"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "არასწორი JSON ფაილი"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "იმპორტი JSON ფაილიდან"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "%d ბლოკის ტიპის შეცვლა"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "მიმდინარე"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "გარდაქმნის შემდეგ"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d ბლოკი"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "უკუ დახრილი ხაზი"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "სათაური"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "არ არის არქივი, რომ გაჩვენოთ."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "ფაილი ცარიელია."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "უკაცრავად, ამ ტიპის ფაილი არ არის მხარდაჭერილი."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "შესანიშნავი პეიზაჟი"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "შექმნა"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "პანელის დახურვა"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "კლასიკურ ბლოკად გარდაქმნა"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "ეს ბლოკი მოძველდა. მის ნაცვლად გამოიყენეთ ბლოკი „სვეტები“."
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "ტექსტური სვეტები (მოძველებული)"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "სტრიქონების რაოდენობა"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "სვეტების რაოდენობა"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "ეს ბლოკი მოძველდა. მის ნაცვლად გამოიყენეთ ბლოკი „აბზაცი“."
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "ქვესათაური (მოძველებული)"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "ციტატა"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "ბლოკის ტიპის შეცვლა ახალი აბზაცის დამატების შემდეგ."
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "ფილმი"
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "ჭდეები მომხმარებელსა და საძიებო სისტემას ეხმარება გადაადგილდნენ თქვენს საიტზე და მოიძიონ შიგთავსი. დაამატეთ რამდენიმე საკვანძო სიტყვა თქვენს ჩანაწერს."
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "ჭდეების დამატება"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "\"%1$s\" ფორმატის მისადაგება."
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "თქვენს თემაში გამოიყენება ჩანაწერის ფორმატი, შიგთავსის სხვადასხვა ტიპის საჩვენებლად. გამოიყენეთ ჩანაწერის ფორმატი, ამ განსაკუთრებული სტილის სანახავად."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "ჩანაწერის ფორმატის გამოყენება"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "ჩასმა ქვემოთ"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "ჩასმა ზემოთ"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "%1$d ბლოკის გადაადგილება %2$d პოზიციიდან ქვევით ერთი პოზიციით"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "%1$d ბლოკის გადაადგილება %2$d პოზიციიდან ზევით ერთი პოზიციით"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "ახალი ბლოკის ჩასმა მონიშნულ ბლოკ(ებ)ამდე."
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "მონიშნული ბლოკ(ებ)ის ამოღება."
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "მონიშნული ბლოკ(ებ)ის დუბლირება."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "ბლოკის მალსახმობი კლავიშები"
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "არჩეულის გასუფთავება."
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "ყველაფრის მონიშვნა. დააჭირეთ კიდევ ერთხელ, ყველა ბლოკის მონიშვნისათვის."
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "არჩევის მალსახმობი კლავშები"
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "გადასვლა რედაქტორის წინა სექციაში."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "გადასვლა რედაქტორის შემდეგ სექციაში."
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "პარამეტრების გვერდითა ზოლის ჩვენება, ან დამალვა."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "ბოლო გაუქმების გამეორება."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "ბოლო ცვლილებების გაუქმება."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "ცვლილებების შენახვა."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "გლობალური მალსახმობები"
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "ბმულის ამოღება."
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "მონიშნული ტექსტის ბმულად გარდაქმნა."
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "მონიშნული ტექსტის ხაზგასმა."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "მონიშნული ტექსტის დახრა."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "მონიშნული ტექსტის გამუქება."
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "ტექსტის დაფორმატება"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "ახალი ბლოკის ჩასმა მონიშნული ბლოკ(ებ)ის შემდეგ."
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "გმადლობთ, რომ გამოსცადეთ Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "დაგვეხმარეთ შევქმნათ Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "თუ გსურთ გაიგოთ მეტი, თუ როგორ შექმნათ დამატებითი ბლოკები, ან თუ გსურთ დაეხმაროთ პროექტს, გადადით <a href=\"%s\">GitHub რეპოში</a>."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress-ის გუნდი"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "კოდი პოეზიაა"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "შეგიძლიათ შექმნათ ნებისმიერი ბლოკი, სტატიკური, ან დინამიური, დეკორატიული, ან უბრალო. აი ციტირების ბლოკი:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "შესაძლებელია ნებისმიერი ბლოკის გასწორება. ჩაშენებული ბლოკი ასევე სწორდება და ნაგულისხმევად ადაპტიურია:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "ზემოთ მოცემულია გალერეა ორი სურათით. ეს ხერხი უფრო მარტივია ვიზუალურად სასიამოვნო მაკეტების შესაქმნელად. თქვენ ასევე შეგიძლიათ ადვილად გარდაქმნათ გალერეა ცალკეულ სურათად, ბლოკის გადამრთველის საშუალებით."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "რასაკვირველია, სრულმაშტაბიანი სურათი შესაძლოა საკმაოდ დიდი იყოს. მაგრამ ხანდახან ეს ამათ ღირს."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "ხელმისაწვდომობა მნიშვნელოვანია &mdash; არ დაგავიწყდეთ ატრიბუტი alt"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "თუ გააერთიანებთ <strong>შიგთავსისი მიხედვით</strong> და <strong>სრული სიგანის</strong> სწორებებს გალერეებთან, თქვენ შეძლებთ ფრიად მდიდარი მედია-მაკეტის შექმნას:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "მედია"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "შეგიძლიათ შეცვალოთ სვეტების რაოდენობა გალერეებში, გვერდითა ზოლში ბლოკების ინსპექტორში ცოციას გადაცოცებით."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "ბლოკი შეიძლება იყოს ნებისმიერი. მაგალითად, შეგიძლიათ დაამატოთ ციტატა, როგორც თქვენი ტექსტის კომპოზიციის ნაწილი, ან შეგიძლიათ აჩვენოთ გიგანტური სტილიზებული ტექსტი. ეს ყველაფერი ხელმისაწვდომია პარამეტრებში."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "ინფორმაცია ციტატის წყაროს შესახებ წარმოადგენს ცალკეულ ტექსტურ ველს, რომელიც სურათის წარწერის მსგავსია. ამიტომ ციტატის სტრუქტურა უცვლელია, მაშინაც კი, როდესაც ირჩევთ, ცვლით, ან შლით წყაროს. წყაროს ხელახლა დამატება ნებისმიერ დროს შეიძლება."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "მეთ მულენვეგი, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "რედაქტორი ცდილობს გაგაცნოთ სტატიებისა და გვერდების შექმნის ახალი გამოცდილება, რაც საშუალებას მოგცემთ შექმნათ მდიდარი სტატიები ბლოკების საშუალებით — ახლანდელი მალსახმობების, html, ან კოდის ჩასმის სხვადასხვანაირი მაქინაციების მაგივრად."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "გალერეა"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "მეტი"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "მეტი"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ ჩანაწერის გამოქვეყნების განრიგის წაშლა?"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "კვლავგამოყენებადი ბლოკი"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "ვიზუალური ჩასწორება"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "და <em>სიები</em>, როგორც ესენი, რასაკვირველია :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "შაბლონის, ღილაკების, სურათების, გამყოფების და ა.შ. ბლოკები."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "YouTube-ის ვიდეოები, ტვიტები, ან WordPress სტატიების ჩაშენებები."
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "სურათები და ვიდეო"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "ტექსტი და სათაურები"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "სცადეთ, WordPress-ს უკვე შეუძლია დაამატოთ თქვენს ჩანაწერებში ბლოკები, რომლებიც თქვენ არ იცოდით. აი მოკლე სია იმისა, თუ რისი ნახვა შეგიძლიათ ამჟამად:"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "ბლოკების უდიდესი უპირატესობა იმაში მდგომარეობს, რომ თქვენ შეგიძლიათ ერთდოულად ჩაასწოროთ ისინი და ამავდროულად მართოთ შიგთავსი. იმის ნაცვლად, რომ შეცვალოთ ციტატების წყაროების, ან ღილაკის წარწერის ველები, თქვენ შეგიძლიათ პირდაპირ შეცვალოთ შიგთავსი. სცადეთ ჩაასწოროთ შემდეგი ციტატა:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "წარმოიდგინეთ, რომ ყველაფერი, რისი გაკეთებაც შეუძლია WordPress-ს, ხელმისაწვდომია სწრაფად და ერთიანი ადგილიდან. არ არის აუცილებელი HTML-ტეგების გაწერა, ან მალსახმობების რთული სინტაქსის დამახსოვრება, რომლებსაც დაინახავთ რედაქტორის სარკმელში. ღილაკი <code>(+)</code>, რომელსაც დაინახავთ რედაქტორში, საშუალებას მოგცემთ ნახოთ შიგთავსის ხელმისაწვდომი ბლოკები და დაამატოთ ისინი თქვენს სტატიაში. პლაგინებს და თემებს შეუძლიათ დაარეგისტრირონ საკუთარი ბლოკები."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "<em>ჩასმის</em> ხელსაწყო"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "ერთი სურათი ათასი სიტყვის ნაცვლად"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... ისივე როგორც ეს, რომელიც გასწორებულია მარჯვენა კიდეზე."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "მთისა და ზღვის წიგნი"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "მოგესალმებით Gutenberg-ის რედაქტორში"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "შეეცადეთ აირჩიოთ, წაშალოთ, ან ჩაასწოროთ სათაური. ახლა აღარ მოგიწევთ სიფრთხილე სურათის, ან სხვა ტექსტის არჩევისას, რათა არ დაუშვათ შეცდომა."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "თუ თქვენი თემა მხარს უჭერს „სრულ ეკრანზე“ რეჟიმს, თქვენ დაინახავთ ღილაკს „სრულ ეკრანზე“ ხელსაწყოთა ზოლზე. სცადეთ."
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "სათაურები ასევე ცალკე ბლოკებია, რაც გეხმარებათ სტატიის შიგთავსის მოწესრიგებაში."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "ძირითადი ყურადღება ახალ რედაქტორში დათმობილი აქვს სურათების და მულტიმედიას დამუშავებას, მაქსიმალური სიფრთხილით. იმედს ვიტოვებთ, რომ გამონახავთ დროს სურათზე წარწერის გასაკეთებლად, ან სრულ ეკრანზე გადასვლაზე."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "ის, რასაც ახლა კითხულობთ, წარმოადგენს <strong>აბზაცს</strong>. ის ყველაზე მთავარი ბლოკია. აბზაცს აქვს მართვის საკუთარი ელემენტები, რომელთა გადაადგილება თავისუფლად შეიძლება…"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "ახალი რედაქტორის მიზანია — გახადოს შიგთავსის დამატება WordPress-ში მარტივი და სასიამოვნო. ეს ჩანაწერი შედგება <em>შიგთავსის ფრაგმენტებისგან</em>, რაც ძალიან ჰგავს LEGO-ს აგურებს, რომლებიც შეგიძლიათ რაგინდარად გამოიყენოთ. გადაადგილეთ მაუსის მიმთითებელი და თქვენ შეამჩნევთ, რომ სხვადასხვა ბლოკები აინთება კონტურებით და ისრებით. დააჭირეთ ისრებზე, რათა სწრაფად გადაადგილოთ ბლოკები და ნუ იფიქრებთ იმაზე, რომ შესაძლოა დაკარგოთ შიგთავსი კოპირებისა და ჩასმის პროცესში."
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "ობიეტის სათაური."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "ობიექტის უნიკალური იდენტიფიკატორი."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "ბლოკი დასახელების გარეშე"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "კვლავგამოყენებადი"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "HTML კოდის შენახვა"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "URL-ს ჩასწორება"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "პასუხი არ არის დასაშვები JSON გამოხმაურება."
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "დადუმებული"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "ბოლო კომენტარები"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "ავტო"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "წინასწარი ჩატვირთვა"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "მხარდაჭერა"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s კომენტარი %2$s ჩანაწერზე"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "აირჩიეთ ჩანაწერი"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "აირჩიეთ კვირა"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "აირჩიეთ დღე"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "აირჩიეთ თვე"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "აირჩიეთ წელი"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "არქივები"
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "გამოქვეყნების რედაქტორი"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "ბოლო კომენტარები"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "საიტის ჩანაწერების ყოველთვიური არქივის ჩვენება."
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "არ არის კომენტარი, რომ გაჩვენოთ."
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "დიდი"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "ფაილი"
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "სვეტი"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "გამეორება"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "ავტო-დაკვრა"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "დიალოგური სარკმელის დახურვა"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "ძალიან მუქი ნაცრისფერი"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "მოციფრო-ნაცრისფერი"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "ღია ნაცრისფერი"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "კაშკაშა ლურჯი"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "ფერკმთალი ლურჯი"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "კაშკაშა მწვანე"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "ღია მწვანე"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "ქარვისფერი"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "ფორთოხლისფერი"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "კაშკაშა წითელი"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "ფერკმთალი ვარდისფერი"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "ხელმისაწვდომი ბლოკის ტიპები"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "ბლოკის ამოღება"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "გამოქვეყნების პანელის გახსნა"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "წერტილები"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "ფართო ხაზი"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "დოკუმენტი"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "URL-ს კოპირება"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "დაწერეთ ფაილის სახელი…"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "ერთი სვეტი სვეტების ბლოკში."
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "კონტური"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "უკაცრავად, ამ ტიპის ფაილი არ არის ნებადართული უსაფრთხოების მიზნით."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "რჩევების გამორთვა"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "გასაგებია"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "შემდეგი რჩევა"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "სურათის ამოღება"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "როდესაც მზად იქნებით, უბრალოდ გადააგზავნეთ სამუშაო დასამტკიცებლად და რედაქტორი შეძლებს მის მოწონებას."
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "მზად ხართ გადააგზავნოთ დასამტკიცებლად?"
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ობიექტის მშობელის ID."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "ფაილის ზომა აღემატება ამ საიტზე მაქსიმალურად დაშვებულ ზომას."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "შეცდომა ფაილის %s ატვირთვისას მედია ბიბლიოთეკაში."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "ავტოშენახვის ნახვა"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "ამ ჩანაწერისათვის არსებობს უფრო გვიანდელი ვერსია, ვიდრე ქვემოთ მოცემული."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "ავტოშენახვა"
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "ხელსაწყოთა ზოლზე მიმაგრება"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "ხელსაწყოთა ზოლიდან მოხსნა"
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "ცხრილის ჩასმა — იდეალურია გრაფიკებისა და მონაცემებისათვის."
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "ცხრილის უჯრედები ფიქსირებული სიგანით"
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "დაამატეთ ტექსტი, რომელიც შეესაბამება თქვენს დაშორებასა და ჩანართებს, ასევე ანიჭებს სტილს."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "საიტის ბოლო ჩანაწერები."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "ბლოკის დამატება, რომელიც აჩვენებს სხვა საიტებს, როგორიცაა Twitter, Instagram ან YouTube."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "დაამატეთ ბლოკი, რომელიც აჩვენებს შიგთავსს რამოდენიმე სვეტში, ხოლო შემდეგ ამ ბლოკში დაამატეთ სხვა ბლოკები შიგთავსით, რომლებიც თქვენ გსურთ."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "ბლოკის ჩატვირთვის შეცდომა: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "უცნობი შეცდომა"
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "სახელი:"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "ელემენტის წაშლა"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "ამოღება: %s"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "მუდმივი ბმულის კოპირება"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "მუდმივი ბმული დაკოპირდა"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "სიმაღლე პიქსელებში"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "დაშორება"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "გახადეთ საწყისი ასო-ნიშანი დიდი."
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "საწყისი დიდი ასო-ნიშანის ჩვენება."
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s — %3$s)"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "ფერის კოდი: %s"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "დამმუშავებელი ჩაშენება"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "დაგეგმილი…"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "ბმულის გაუქმება"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "გვერდის გაყოფა"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "სურათის ზომა"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "სიმაღლე"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "სიგანე"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "მედია ბიბლიოთეკა"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "გადასვლა არჩეულ ბლოკზე"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "ჩანაწერის მუდმივი ბმულის ჩასწორება"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "ბლოკის პარამეტრების ჩვენება"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "ბლოკის პარამეტრების დამალვა"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "ბლოკის პარამეტრები დახურულია"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "პლაგინის დახურვა"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "რედაქტორის პარამეტრები"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "გვერდებად დანომვრა"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "შემდეგი გვერდი"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "ესკიზები არ მოიჭრება."
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "ესკიზები მოიჭრება გასწორებისათვის."
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "დამატებით"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "ელემენტის დამატება"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "დაგეგმილი"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "დანამატები"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "სტანდარტული ზომა"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "შაბლონის ჩამოყრა"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "ცვლილების გარეშე დატოვება"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "შიგთავსი არ შეესაბამება შაბლონს, რომელიც მინიჭებული აქვს ამ ტიპის ჩანაწერს."
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "შაბლონის ჩამოყრამ შესაძლოა გამოიწვიოს შიგთავსის დაკარგვა, განვაგრძოთ?"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "დოკუმენტის სტატისტიკა"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "დაგეგმილია და გამოქვეყნდება"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "დაგეგმვა…"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "არჩეულია კოდის რედაქტორი"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "არჩეულია ვიზუალური რედაქტორი"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "გადახედვა"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "თავსართები"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "საჯარო"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "პირადი"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "მშობელი კატეგორია"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "ტეგი"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "ესკიზის შენახვა"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "ხილვადობა:"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "გამოქვეყნებული"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "განრიგში"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "განახლება"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "დასამტკიცებლად გაგზავნა"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "მუდმივი ბმული:"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "შემოთავაზებები:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "ჩანაწერის ფორმატი"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "ჩეტი"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "სტატუსი"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "სტანდარტული"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "შენიშვნა"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "დალაგება"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "შენახულია"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "ჩადგმები"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "ბლოკი"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "გაუქმება"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "აღდგენა"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "დუბლირება"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "ქვემოთ ჩამოტანა"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "ზემოთ ამოტანა"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "წაშლა"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "დაკოპირდა!"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "ხილვადობა"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "ბლოკი"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "დოკუმენტი"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "ხელსაწყოები"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "რედაქტორი"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "პარამეტრები"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "გაფრთხილების გაქრობა"
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "ელემენტი დამატებულია."
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "გადაათრიეთ ფაილები აქ"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "მოხდა უცნობი შეცდომა."
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(უსათაურო)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL-მისამართი"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "გაგზავნა"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "დახურვა"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "ბმული"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "ხაზგადასმული"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "დახრილი"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "მუქი"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "ყველა"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "კატეგორია"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "დახარისხება"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "მონიშვნა"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "ვიდეო"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "ცხრილი"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "მალსახმობი"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "ციტატა"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "დაფორმატებული"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "პარაგრაფი"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "დაწვრილებით"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "დანომრილი სია"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "სია"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "ჩანაწერები ვერ მოიძებნა."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "სურათი"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "გადახედვა"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "მორგებული HTML"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "სათაური"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "ფოტოები"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "არც ერთი"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "მედია-ფაილი"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "დანართის გვერდი"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "გალერეა"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "ვიდეო"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "სვეტები"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "კოდი"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "კატეგორიები"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "მისადაგება"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "ტექსტის ფერი"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "ფონის ფერი"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "რედაქტირება"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s ამოღებულია"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s დამატებულია"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "ბლოკი წაშლილია."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "ბლოკი განახლდა."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "ბლოკი შეიქმნა."
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "სანაგვეში გადატანა ჩაიშალა"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "თქვენ გაქვთ ცვლილებები, რომლებიც ჯერ არ არის შენახული. თუ განაგრძობთ, ისინი დაიკარგება."
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "დოკუმენტის სტრუქურა"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "აბზაცები"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "სიტყვა"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "შიგთავსის სტრუქტურა"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "ᲓᲐᲪᲣᲚᲘᲐ ᲞᲐᲠᲝᲚᲘᲗ, ᲠᲝᲛᲔᲚᲡᲐᲪ ᲗᲥᲕᲔᲜ ᲐᲘᲠᲩᲔᲕᲗ. ᲩᲐᲜᲐᲬᲔᲠᲘᲡ ᲜᲐᲮᲕᲐ ᲛᲮᲝᲚᲝᲓ ᲛᲐᲗ ᲨᲔᲣᲫᲚᲘᲐᲗ, ᲕᲘᲡᲐᲪ ᲐᲥᲕს პაროლი."
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "ჩანს მხოლოდ სატის ადმინისტრატორისათვის და რედაქტორისათვის."
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "ჩანს ყველასათვის."
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "ჩანაწერის ხილვადობა"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "გსურთ ამ ჩანაწერის პირადად გამოქვეყნება?"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "გამოიყენეთ საიმედო პაროლი"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "პაროლის შექმნა"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "მშობელი ტერმინი"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "ახალი ტერმინის დამატება"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "ახალი კატეგორიის დამატება"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "ტერმინი"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ ჩანაწერის გამოქვეყნების გაუქმება?"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "დაუყოვნებლივ"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "შენახვა"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "გამოქვეყნებულია:"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "მზად ხართ გამოქვეყნებისათვის?"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "ბმულის კოპირება"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "შემდეგ რა ხდება?"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "გამოქვეყნებულია."
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "განახლება…"
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "გამოქვეყნება…"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d რევიზია"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "გაიგეთ მეტი ნაწყვეტების შესახებ"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "ნაწყვეტის დაწერა (არასავალდებულო)"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "შაბლონი:"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "მშობლის გარეშე"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "სათაურის გარეშე"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "ბლოკი ვერ მოიძებნა."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d შედეგია ნაპოვნი."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "ბლოკის ძებნა"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "ბლოკის დამატება"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "შეცდომის ტექსტის კოპირება"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "ჩანაწერის ტექსტის კოპირება"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "აღდგენის მცდელობა"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "მოხდა მოულოდნელი შეცდომა."
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(არ არის რეკომედებული ერთზე მეტი H1 ტეგის გამოყენება)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(თქვენს თემას უკვე შეუძლია H1 ტეგის გამოყენება ჩანაწერის სათაურისათვის)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(სათაურის არასწორი დონე)"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(სათაურის გარეშე)"
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "ჩვეულებრივ ბლოკად გარდაქმნა"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "დამატებითი პარამეტრები"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "ვიზუალაურად ჩასწორება"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "ბლოკები ვერ გადაადგილდება ქვემოთ, ვინაიდან ისინი უკვე სულ ბოლოშია"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "ბლოკები ვერ გადაადგილდება ზემოთ, ვინაიდან ისინი უკვე სულ თავშია"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "%s ბლოკი ერთადერთი ბლოკია, შესაბამისად ის ვერ გადაადგილდება"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "HTML-ში ჩასწორება"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "ბლოკებად გარდაქმნა"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "ბლოკი: %s"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "ეს ბლოკი შეიცავს შეცდომას და შეუძლებელია მისი ნახვა."
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "ბლოკი არ არის არჩეული."
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "გარდაქმნა:"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "საწყისის მოძებნა"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "დამატებითი პარამეტრები ხელმისაწვდომია პარამტერების გვერდითა ზოლში"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "პარამეტრების დახურვა"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "შიგთავსის რედაქტორი"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "ხელსაწყოთა ზოლი"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "ჩამოყრა"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "ელემენტი წაშლილია."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "შედეგის გარეშე."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "ნაპოვნია %d შედეგი. გადასაადგილებლად გამოიყენეთ ისარი ზემოთ, ან ქვემოთ."
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "ელემენტების რაოდენობა"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "ჰ \t ა"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "ა \t ჰ"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "მედიის არჩევა, ან ატვირთვა"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "დაწერეთ…"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "პოეზია"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "ლექსი"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "ახალი სვეტი"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "სვეტის წაშლა"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "სვეტის ჩასმა მარჯვნივ"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "სვეტის ჩასმა მარცხნივ"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "სტრქონის წაშლა"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "სტრიქონის ჩასმა ქვემოთ"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "სტრიქონის ჩასმა ზემოთ"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "დაწერეთ ქვესათაური…"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "დაწერეთ მალსახმობი აქ…"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "გამყოფი"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "ჰორიზონტალური-ხაზი"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "გამყოფი"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "დაწერეთ ციტატა…"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "დაწერეთ ციტატა…"
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "ამონარიდი"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "დაწერეთ დაფორმატებული ტექსტი…"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "ტექსტი"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "სიის შედგენა…"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "დანომრილი სია"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "ბურთულებიანი სია"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "სიის ელემენტებზე დაშორების დამატება"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "სიის ელემენტებზე უკუსააბზაცო შეწევის დამატება"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "დანომრილ სიად გარდაქმნა"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "ბურთულებიან სიად გარდაქმნა"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "ბოლო ჩანაწერები"
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "უახლესი ჩანაწერები"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "ჩანაწერის თარიღის ჩვენება"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "ფოტო"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "ჩაშენებული"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "ქვესათაური"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "სათაური"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "დაწერეთ სათაური…"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "სათაური %d"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "დონე"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "სურათები"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "კლასიკური"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "აუდიო"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "მუსიკა"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "სურათი"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "ბლოგი"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "ჩანაწერი"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "ჩაშენებული შიგთავსი, წყარო: %s"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "მიუთითეთ URL ჩასაშენებლად…"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "ჩაშენება…"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "დაწერეთ სათაური…"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "სურათის ჩასწორება"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "დაწერეთ კოდი…"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "დაამატე ტექსტი…"
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "ღილაკი"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "ბლოკი წაშლილია, ან მიუწვდომელია."
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "დაწერეთ მინაწერი…"
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "პაროლით დაცული"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"დარწმუნებული ხართ, რომ გსურთ კვლავგამოყენებადი ბლოკის წაშლა?\n"
+"\n"
+"თქვენი ქმედება გამოიწვევს მის წაშლას ყველა ჩანაწერიდან."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "აუდიო"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "ატვირთვა"
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "გასუფთავება"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "ვიჯეტები"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "დაფორმატება"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "ამ ფერთა შეხამებამ შესაძლოა ძნელად წასაკითხი გახადოს ტექსტი. სცადეთ უფრო კაშკაშა ფერი ფონისათვის ან/და ტექსტის უფრო მუქი ფერი."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "ამ ფერთა შეხამებამ შესაძლოა ძნელად წასაკითხი გახადოს ტექსტი. სცადეთ უფრო კაშკაშა ფერი ტექსტისათვის ან/და ფონის უფრო მუქი ფერი."
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "მორგებული ფერის არჩევა"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "ფერი: %s"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "ვბეჭდავთ 1440 წლიდან. ეს არის ბირთვში ბლოკების რედაქტორის პლაგინის შექმნის პროცესი."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "სათაურის დამატება"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Team"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "დემო"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "ავტორი"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "იარლიყი"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "დისკუსია"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "ციტატა"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "გამოქვეყნება"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "მეტა-მონაცემები"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "დამახსოვრება"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "%s-ის წინ"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "დოკუმენტაცია"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(უსათაურო)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "კატეგორიის არჩევა"

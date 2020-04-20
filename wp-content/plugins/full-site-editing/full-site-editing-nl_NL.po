@@ -1,0 +1,1088 @@
+# Translation of Plugins - Full Site Editing - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Full Site Editing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-18 00:55:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Full Site Editing - Stable (latest release)\n"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:106
+msgid "Here's a detailed guide."
+msgstr "Hier vind je een gedetailleerde handleiding."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:105
+msgid "https://support.wordpress.com/wordpress-editor/"
+msgstr "https://support.wordpress.com/wordpress-editor/"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:104
+msgid "New to the WordPress editor? Want to learn more about using it? "
+msgstr "Net begonnen met de WordPress-editor? Wil je meer informatie over hoe je deze gebruikt? "
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:100
+msgid "Learn how to use the WordPress editor"
+msgstr "Bekijk meer informatie over hoe je de WordPress-editor gebruikt"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:53
+#: wpcom-block-editor-nux/src/wpcom-nux.js:59
+msgid "Welcome to the WordPress editor"
+msgstr "Welkom bij de WordPress-editor"
+
+#: event-countdown-block/blocks/src/index.js:16
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to your favorite next thing, and celebrate with fireworks when the time is right!"
+msgstr "Tel af tot je favoriete volgende evenement en vier het met vuurwerk wanneer de tijd is aangebroken!"
+
+#: event-countdown-block/blocks/src/view.js:64
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown seconds remaining"
+msgid "seconds"
+msgstr "seconden"
+
+#: event-countdown-block/blocks/src/view.js:60
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown minutes remaining"
+msgid "minutes"
+msgstr "minuten"
+
+#: event-countdown-block/blocks/src/view.js:56
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown hours remaining"
+msgid "hours"
+msgstr "uren"
+
+#: event-countdown-block/blocks/src/view.js:51
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown days remaining"
+msgid "days"
+msgstr "dagen"
+
+#: event-countdown-block/blocks/src/edit.js:48
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Date:"
+msgstr "Datum:"
+
+#: event-countdown-block/blocks/src/edit.js:36
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Title:"
+msgstr "Titel:"
+
+#: starter-page-templates/page-template-modal/components/block-iframe-preview.js:212
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Preview"
+msgstr "Voorbeeld bekijken"
+
+#: jetpack-timeline/blocks/src/timeline.js:23
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Create a timeline of events."
+msgstr "Maak een tijdbalk met gebeurtenissen."
+
+#: jetpack-timeline/blocks/src/timeline.js:22
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline"
+msgstr "Tijdbalk"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:17
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "An entry on the timeline"
+msgstr "Een item op de tijdbalk"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:16
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline Entry"
+msgstr "Tijdbalk-item"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/images.js:40
+msgid "inserter"
+msgstr "invoeger"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:86
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "Alle blokken die live voor je beschikbaar zijn in de blokbibliotheek. Je vindt ze overal waar je het pictogram <InserterIconImage /> ziet."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:81
+msgid "Get to know the block library"
+msgstr "Leer de blokbibliotheek gebruiken"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:73
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "Elk blok bevat zijn eigen set bedieningsmogelijkheden voor het wijzigen van dingen als de kleur, breedte en uitlijning. Deze worden automatisch getoond en verborgen wanneer je een blok hebt geselecteerd."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:70
+msgid "Make each block your own"
+msgstr "Pas elk blok aan je eigen voorkeuren aan"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:63
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "In de WordPress-editor, wordt elke paragraaf, afbeelding of video weergegeven als een 'blok' met content."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:54
+msgid "Get started"
+msgstr "Aan de slag"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Subtitle"
+msgstr "Ondertitel weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Begin typing post title, click autocomplete result to select."
+msgstr "Begin met het invoeren van je berichttitel en klik op Automatisch aanvullen van resultaten om er een te selecteren."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Choose Specific Posts"
+msgstr "Kies specifieke berichten"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Team Pages"
+msgstr "Team-pagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Services Pages"
+msgstr "Services-pagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Product Pages"
+msgstr "Productpagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Portfolio Pages"
+msgstr "Portfoliopagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Menu Pages"
+msgstr "Menupagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Event Pages"
+msgstr "Gebeurtenispagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Contact Pages"
+msgstr "Contactpagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blog Pages"
+msgstr "Blogpagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "About Pages"
+msgstr "Over pagina's"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blank"
+msgstr "Leeg"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Home Pages"
+msgstr "Startpagina's"
+
+#: jetpack-timeline/blocks/src/timeline.js:67
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Winter"
+msgstr "Winter"
+
+#: jetpack-timeline/blocks/src/timeline.js:56
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Fall"
+msgstr "Herfst"
+
+#: jetpack-timeline/blocks/src/timeline.js:45
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Summer"
+msgstr "Zomer"
+
+#: jetpack-timeline/blocks/src/timeline.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Spring"
+msgstr "Lente"
+
+#: jetpack-timeline/blocks/src/block-appender.js:35
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Add New Entry"
+msgstr "Nieuwe invoer toevoegen"
+
+#: event-countdown-block/blocks/src/view.js:67
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "until"
+msgstr "tot"
+
+#: event-countdown-block/blocks/src/edit.js:42
+#: event-countdown-block/blocks/src/edit.js:44
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Title"
+msgstr "Titel evenement"
+
+#: event-countdown-block/blocks/src/edit.js:28
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to an event. Set a title and pick a time and date."
+msgstr "Aftellen naar een evenement. Stel een titel in en kies een tijd en datum."
+
+#: event-countdown-block/blocks/src/edit.js:27
+#: event-countdown-block/blocks/src/index.js:15
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Countdown"
+msgstr "Aftellen naar evenement"
+
+#: event-countdown-block/blocks/src/edit.js:20
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Choose Date"
+msgstr "Selecteer een datum"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Excluded Tags"
+msgstr "Uitgesloten tags"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Advanced Filters"
+msgstr "Geavanceerde filters weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Hide Advanced Filters"
+msgstr "Geavanceerde filters verbergen"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:134
+#: blog-posts-block/dist/editor.js:6
+msgid "Load more posts"
+msgstr "Meer berichten laden"
+
+#: posts-list-block/blocks/posts-list/index.js:74
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "An improved version of this block is available. Update for a better, more natural way to manage your blog post listings. There may be small visual changes."
+msgstr "Er is een verbeterde versie van dit blok beschikbaar. Voer een update uit voor een betere, natuurlijkere manier om de vermeldingen van je blogbericht te beheren. Er kunnen kleine visuele wijzigingen plaatsvinden."
+
+#: posts-list-block/blocks/posts-list/index.js:67
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Update Block"
+msgstr "Blok bijwerken"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sorry, no posts were found."
+msgstr "Sorry, er zijn geen berichten gevonden."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Write header…"
+msgstr "Titel schrijven…"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Uncropped"
+msgstr "Niet-bijgesneden"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Square Image Shape"
+msgstr "Vierkante afbeeldingsvorm"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "portrait Image Shape"
+msgstr "Rechtopstaande afbeeldingsvorm"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Landscape Image Shape"
+msgstr "Liggende afbeeldingsvorm"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media behind"
+msgstr "Media erachter weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on right"
+msgstr "Media er rechts van weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on left"
+msgstr "Media er links van weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on top"
+msgstr "Media erboven weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Grid View"
+msgstr "Rasterweergave"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "List View"
+msgstr "Lijstweergave"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author Avatar"
+msgstr "Auteursavatar weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author"
+msgstr "Auteur weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Category"
+msgstr "Categorie weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Date"
+msgstr "Datum weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Meta Settings"
+msgstr "Meta-instellingen voor berichten"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Type Scale"
+msgstr "Type schaal"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Excerpt"
+msgstr "Samenvatting weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Control Settings"
+msgstr "Beheerinstellingen voor berichten"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sets a minimum height for the block, using a percentage of the screen's current height."
+msgstr "Stelt een minimale hoogte voor het blok in waarbij een percentage van de huidige schermhoogte wordt gebruikt."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Minimum height"
+msgstr "Minimale hoogte"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Size"
+msgstr "Grootte van uitgelichte afbeelding"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Stack on mobile"
+msgstr "Stapelen op mobiel"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image Caption"
+msgstr "Tekst bij uitgelichte afbeelding weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image"
+msgstr "Uitgelichte afbeelding weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Settings"
+msgstr "Instellingen van uitgelichte afbeelding"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show \"More\" Button"
+msgstr "Knop 'Meer' weergeven"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Columns"
+msgstr "Kolommen"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Display Settings"
+msgstr "Weergave-instellingen"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "XL"
+msgstr "XL"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Extra Large"
+msgstr "Extra large"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "L"
+msgstr "L"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Large"
+msgstr "Groot"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "M"
+msgstr "M"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "S"
+msgstr "S"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Small"
+msgstr "Klein"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Tags"
+msgstr "Tags"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Categories"
+msgstr "Categorieën"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Authors"
+msgstr "Auteurs"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no name)"
+msgstr "(geen naam)"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no title)"
+msgstr "(geen titel)"
+
+#: blog-posts-block/editor.js:33 blog-posts-block/dist/editor.js:6
+msgid "Blog Posts"
+msgstr "Blogberichten"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:52
+msgctxt "block style"
+msgid "Borders"
+msgstr "Kaders"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:51
+msgctxt "block style"
+msgid "Default"
+msgstr "Standaard"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:49
+msgid "A block for displaying homepage posts."
+msgstr "Een blok om homepageberichten weer te geven."
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:47
+msgid "latest"
+msgstr "nieuwste"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:46
+msgid "articles"
+msgstr "artikelen"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:45
+msgid "posts"
+msgstr "berichten"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:29
+msgid "Homepage Posts"
+msgstr "Homepageberichten"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:230
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid " and "
+msgstr " en "
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:212
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid "by"
+msgstr "door"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:142
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "Er is iets fout gegaan. Vernieuw de pagina en/of probeer het opnieuw."
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:139
+msgid "Loading..."
+msgstr "Laden..."
+
+#: dotcom-fse/plugins/close-button-override/index.js:92
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Parts"
+msgstr "Sjabloononderdelen"
+
+#: blog-posts-block/dist/editor.js:6
+#: dotcom-fse/plugins/close-button-override/index.js:90
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Posts"
+msgstr "Berichten"
+
+#: dotcom-fse/plugins/close-button-override/index.js:88
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Pages"
+msgstr "Pagina's"
+
+#: dotcom-fse/blocks/site-credit/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "WordPress.com Credit"
+msgstr "WordPress.com-inhoud"
+
+#: dotcom-fse/blocks/site-credit/edit.js:72 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Footer credit loading…"
+msgstr "Inhoud van voettekst wordt geladen ..."
+
+#: dotcom-fse/class-full-site-editing.php:265
+#: starter-page-templates/index.js:59
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Page Layout"
+msgstr "Pagina-indeling"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Use %s layout"
+msgstr "Gebruik de %s-indeling"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Adding layout…"
+msgstr "Indeling wordt toegevoegd …"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Close Layout Selector"
+msgstr "Indelingkiezer sluiten"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select Page Layout"
+msgstr "Pagina-indeling selecteren"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Layout"
+msgstr "Lay-out"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Changing the page's layout will remove any customizations or edits you have already made."
+msgstr "Door de pagina-indeling te wijzigen worden aanpassingen of bewerkingen die al zijn doorgevoerd, verwijderd."
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Overwrite Page Content?"
+msgstr "Pagina-inhoud overschrijven?"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Change Layout"
+msgstr "Indeling aanpassen"
+
+#: starter-page-templates/page-template-modal/components/template-selector-preview.js:21
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select a layout to preview."
+msgstr "Selecteer een indeling om een voorbeeld te bekijken:"
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "WordPress-pictogram"
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "Mogelijk gemaakt door WordPress"
+
+#: dotcom-fse/class-full-site-editing.php:624
+msgid "WordPress Footer Credit"
+msgstr "WordPress-inhoud voettekst"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+msgid "Footer"
+msgstr "Voettekst"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+msgid "Header"
+msgstr "Koptekst"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:108
+msgid "Font Selection"
+msgstr "Lettertypeselectie"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:98
+#: global-styles/src/global-styles-sidebar.js:131
+msgid "You have unsaved changes."
+msgstr "Je hebt wijzigingen die niet zijn opgeslagen."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:94
+msgid "Any change you make here will apply to the entire website."
+msgstr "Wijzigingen die je hier aanbrengt, worden op de gehele website toegepast."
+
+#. translators: %s: Name of site.
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:92
+msgid "You are customizing %s."
+msgstr "Je bent %s aan het personaliseren."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:81
+#: global-styles/src/global-styles-sidebar.js:86
+msgid "Global Styles"
+msgstr "Algemene stijlen"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:47
+msgid "Reset"
+msgstr "Resetten"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:27
+msgid "custom font selection"
+msgstr "aangepaste lettertypeselectie"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:40
+msgid "Base Font"
+msgstr "Standaard lettertype"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:33
+msgid "Heading Font"
+msgstr "Lettertype titel"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:46
+msgid "font pairings"
+msgstr "lettertype koppelingen"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:17
+msgid "Font Pairings"
+msgstr "Lettertype koppelingen"
+
+#. translators: %s: feature name (i.e. font pairings, etc)
+#: global-styles/dist/global-styles.js:6 global-styles/src/no-support.js:9
+msgid "Your active theme doesn't support %s."
+msgstr "Je actieve thema ondersteunt geen %s."
+
+#: dotcom-fse/blocks/template/edit.js:180 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Loading editor for: %s"
+msgstr "De editor wordt geladen voor: %s"
+
+#: blog-posts-block/dist/editor.js:6 dotcom-fse/blocks/site-title/edit.js:71
+#: dotcom-fse/blocks/site-description/edit.js:79
+#: dotcom-fse/blocks/navigation-menu/edit.js:68 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:39
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-description/edit.js:74
+#: dotcom-fse/blocks/navigation-menu/edit.js:63 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: blog-posts-block/dist/editor.js:6
+#: jetpack-timeline/blocks/src/timeline-item.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-title/edit.js:65
+#: dotcom-fse/blocks/site-description/edit.js:68
+#: dotcom-fse/blocks/navigation-menu/edit.js:57 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Color Settings"
+msgstr "Kleureninstellingen"
+
+#: dotcom-fse/blocks/site-title/edit.js:61
+#: dotcom-fse/blocks/site-description/edit.js:64
+#: dotcom-fse/blocks/navigation-menu/edit.js:53 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Settings"
+msgstr "Tekstinstellingen"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Go back"
+msgstr "Terugkeren"
+
+#: dotcom-fse/plugins/template-update-notice/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Updates to this template will affect all pages on your site."
+msgstr "Wijzigingen aan deze sjabloon worden toegepast op alle pagina's op je site."
+
+#: dotcom-fse/blocks/site-title/edit.js:89 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Title"
+msgstr "Een sitetitel toevoegen"
+
+#: dotcom-fse/blocks/site-description/edit.js:107
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Description"
+msgstr "Een sitebeschrijving toevoegen"
+
+#: dotcom-fse/blocks/post-content/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "The page content."
+msgstr "De pagina-inhoud."
+
+#: dotcom-fse/blocks/post-content/index.js:18 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Content"
+msgstr "Inhoud"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "ingeklapt"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "uitgeklapt"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "Menu"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:399
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "Contact"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:387
+msgctxt "Default page title"
+msgid "About"
+msgstr "Over"
+
+#: dotcom-fse/class-full-site-editing.php:575
+msgid "Template Types cannon be deleted."
+msgstr "Sjabloontypen kunnen niet worden verwijderd."
+
+#: dotcom-fse/class-full-site-editing.php:537
+msgid "Templates cannot be moved to drafts."
+msgstr "Sjablonen kunnen niet naar concepten worden verplaatst."
+
+#: dotcom-fse/class-full-site-editing.php:523
+msgid "Templates cannot be deleted."
+msgstr "Sjablonen kunnen niet worden verwijderd."
+
+#. translators: %s: "Back to Post", "Back to Page", "Back to Template", etc.
+#: dotcom-fse/class-full-site-editing.php:271
+msgid "Back to %s"
+msgstr "Terug naar %s"
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:76
+msgid "Invalid parent type."
+msgstr "Ongeldig bovenliggend type."
+
+#: dotcom-fse/lib/site-options/use-site-options.js:57
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Error loading site %s"
+msgstr "Fout bij laden site %s"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:54
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to load site %s"
+msgstr "Kan site %s niet laden"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:96
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to save site %s"
+msgstr "Kan site %s niet opslaan"
+
+#: dotcom-fse/blocks/site-title/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Your site title."
+msgstr "Jouw site-titel."
+
+#: dotcom-fse/blocks/site-title/edit.js:78
+#: dotcom-fse/blocks/site-title/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Title"
+msgstr "Site-titel"
+
+#: dotcom-fse/blocks/site-title/edit.js:119
+#: dotcom-fse/blocks/site-credit/edit.js:69 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site title loading…"
+msgstr "Site-titel wordt geladen..."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:55
+msgid "Publish"
+msgstr "Publiceren"
+
+#: dotcom-fse/blocks/template/edit.js:191 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: dotcom-fse/blocks/site-description/index.js:16
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description, also known as the tagline."
+msgstr "Sitebeschrijving, ook wel bekend als de slogan."
+
+#: dotcom-fse/blocks/site-description/edit.js:94
+#: dotcom-fse/blocks/site-description/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Description"
+msgstr "Sitebeschrijving"
+
+#: dotcom-fse/blocks/site-description/edit.js:138
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description loading…"
+msgstr "Sitebeschrijving wordt geladen..."
+
+#: dotcom-fse/blocks/navigation-menu/index.js:23
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Visual placeholder for site-wide navigation and menus."
+msgstr "Visuele placeholder voor sitebrede navigatie en menu's."
+
+#: dotcom-fse/blocks/navigation-menu/index.js:22
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Navigation Menu"
+msgstr "Navigatiemenu"
+
+#: starter-page-templates/class-starter-page-templates.php:149
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "Geen sjablonen beschikbaar. Modaalvenster weergeven met sjabloonselectie overgeslagen."
+
+#: starter-page-templates/class-starter-page-templates.php:140
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "Geen gegevens ontvangen van de verticale API. Modaalvenster weergeven met sjabloonselectie overgeslagen."
+
+#: dotcom-fse/blocks/template/index.js:21 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Display a Template Part."
+msgstr "Geef een sjabloononderdeel weer."
+
+#: dotcom-fse/blocks/template/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Part"
+msgstr "Sjabloononderdeel"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:10
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default vertical name"
+msgid "Business"
+msgstr "Business"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:9
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default company name"
+msgid "Your Company Name"
+msgstr "Je bedrijfsnaam"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:8
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default phone number"
+msgid "555-555-5555"
+msgstr "+316 12345678"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:7
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default address"
+msgid "123 Main St"
+msgstr "Dorpsstraat 123"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:516
+msgid "Back to template part types"
+msgstr "Terug naar typen sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:515
+msgid "No template part types found."
+msgstr "Geen typen sjabloononderdelen gevonden."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:514
+msgid "Search Template Part Types"
+msgstr "Typen sjabloononderdelen zoeken"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:513
+msgid "Parent Template Part Type:"
+msgstr "Bovenliggend type sjabloononderdeel:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:512
+msgid "Parent Template Part Type"
+msgstr "Bovenliggend type sjabloononderdeel"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:511
+msgid "New Template Part Type"
+msgstr "Nieuw type sjabloononderdeel"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:510
+msgid "Add New Template Part Type"
+msgstr "Nieuw type sjabloononderdeel toevoegen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:509
+msgid "Update Template Part Type"
+msgstr "Type sjabloononderdeel bijwerken"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:508
+msgid "View Template Part Type"
+msgstr "Type sjabloononderdeel weergeven"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:507
+msgid "Edit Template Part Type"
+msgstr "Type sjabloononderdeel bewerken"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:506
+msgid "All Template Part Types"
+msgstr "Alle typen sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:505
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Typen sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:504
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Type sjabloononderdeel"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Typen sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:465
+msgid "Template part updated."
+msgstr "Sjabloononderdeel bijgewerkt."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:464
+msgid "Template part scheduled."
+msgstr "Sjabloononderdeel ingepland."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:463
+msgid "Template part reverted to draft."
+msgstr "Sjabloononderdeel teruggezet op concept."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:462
+msgid "Template part published privately."
+msgstr "Sjabloononderdeel privé gepubliceerd."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:461
+msgid "Template part published."
+msgstr "Sjabloononderdeel gepubliceerd."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:460
+msgid "Template parts list"
+msgstr "Lijst met sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:459
+msgid "Template parts list navigation"
+msgstr "Navigatie in lijst met sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:458
+msgid "Filter template parts list"
+msgstr "Lijst met sjabloononderdelen filteren"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:457
+msgid "No template parts found in Trash."
+msgstr "Geen sjabloononderdelen gevonden in prullenbak."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:456
+msgid "No template parts found."
+msgstr "Geen sjabloononderdelen gevonden."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Search Template Parts"
+msgstr "Sjabloononderdelen zoeken"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "All Template Parts"
+msgstr "Alle sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "View Template Part"
+msgstr "Sjabloononderdeel weergeven"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Edit Template Part"
+msgstr "Sjabloononderdeel bewerken"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "New Template Part"
+msgstr "Nieuw sjabloononderdeel"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Add New Template Part"
+msgstr "Nieuw sjabloononderdeel toevoegen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Sjabloononderdeel"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Sjabloononderdeel"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Sjabloononderdelen"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgctxt "Template"
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: posts-list-block/blocks/posts-list/index.js:97
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts"
+msgstr "Aantal berichten"
+
+#: posts-list-block/blocks/posts-list/index.js:86
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts to show"
+msgstr "Aantal weer te geven berichten"
+
+#: posts-list-block/blocks/posts-list/index.js:82
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Your recent blog posts will be displayed here."
+msgstr "Je recente blogberichten worden hier weergegeven."
+
+#: posts-list-block/blocks/posts-list/index.js:34
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Displays your latest Blog Posts."
+msgstr "Geeft je nieuwste blogberichten weer."
+
+#: posts-list-block/blocks/posts-list/index.js:33
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Blog Posts Listing"
+msgstr "Vermelding blogberichten"
+
+#: posts-list-block/class-posts-list-block.php:157
+msgid "Read more"
+msgstr "Meer informatie"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:154
+msgid "Continue reading %s"
+msgstr "%s verder lezen"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "Bewerken"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "door"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Aanbevolen"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Alle berichten weergeven"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Is jouw eerste bericht klaar voor publicatie? <a href=\"%1$s\">Ga hier aan de slag</a>."
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "Er zijn momenteel geen berichten om weer te geven."
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "Verbetert de workflow voor het aanmaken van pagina's binnen de blok-editor."
+
+#. Plugin Name of the plugin
+msgid "Full Site Editing"
+msgstr "Bewerking volledige site"

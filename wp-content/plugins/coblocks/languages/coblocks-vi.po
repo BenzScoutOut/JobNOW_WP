@@ -1,0 +1,3447 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:14:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "Tỉ lệ khung ảnh 16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "Tỉ lệ khung ảnh 4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Cho phép tạo kiểu với đổ màu chuyển tiếp."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Kiểu chuyển màu"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Cho phép tạo kiểu với màu sắc tùy chỉnh."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Bộ chọn màu tùy chỉnh"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Cho phép cài đặt màu sắc trong suốt trình soạn thảo."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Cài đặt màu sắc"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Cho phép bộ điều khiển nghệ thuật ghép chữ in ở mức chặn."
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Bộ điều khiển nghệ thuật ghép chữ in"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Cài đặt trình soạn thảo"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Cài đặt sử dụng để tắt hay bật các bộ điều khiển và cài đặt trước chuyển màu xuyên suốt trang web."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Cài đặt sử dụng để tắt hay bật các bộ điều khiển màu tùy chỉnh xuyên suốt trang web."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Cài đặt sử dụng để tắt hay bật tất cả bộ điều khiển màu xuyên suốt trang web."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Cài đặt sử dụng để tắt hay bật các bộ điều khiển nghệ thuật ghép chữ in xuyên suốt trang web."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Địa điểm…"
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Thời gian…"
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Viết mô tả sự kiện…"
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Viết tiêu đề sự kiện…"
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Năm…"
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Tháng…"
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Ngày…"
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Một sự kiện trong khối nhiều sự kiện."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Item sự kiện"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Hiển thị sự kiện theo khoảng thời gian (tối đa 100 sự kiện)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Các sự kiện theo trang"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Bật tắt để liên kết lịch chung."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Hiển thị lịch chung."
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Nhập URL ở đây…"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Hiển thị tất cả"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "ngày"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Thêm một danh sách các sự kiện hay hiển thị các sự kiện từ lịch chung."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Sự kiện"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Xóa Truyền thông"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "màn hình"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Có lỗi xảy ra, bạn hãy xem qua ưu tiên lịch để đảm bảo đây là thông tin chung hay thử lại sau."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "phần mềm"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "tải lên"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "cải thiện"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "hợp xu hướng"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "thịnh hành"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "hấp dẫn"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "đại học"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "văn bằng"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "bằng cấp"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "lễ tốt nghiệp"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "tốt nghiệp"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "giáo dục"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "mùa"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "mùa đông"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "đông lạnh"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "đá"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "lạnh"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "giao hàng"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "giỏ"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "kỹ sư"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "phát triển"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "phù hiệu"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "giọng nói"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "ngôn ngữ"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "bảo mật"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "an toàn"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "sinh trắc học"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "phòng thủ"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "tiểu sử"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "tính bảo mật"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "cùng nhau"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "Nhóm"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "widget"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "plugin"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "trò chơi đố"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "thương mại điện tử"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "thương mại"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "mua hàng"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "thanh toán"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "tiền mặt"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "tiền"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "hoa"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "làm vườn"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "đẹp"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "ngửi"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "mùi hương"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "cánh hoa"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "lễ kỷ niệm"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "bữa tiệc"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "ghế"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "thư giãn"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "mát"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "cuối tuần"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "mùi vị"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "thìa"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "nĩa"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "đồ uống"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "ẩm thực"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "tòa nhà chọc trời"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "thị trấn"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "tòa nhà"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "tập đoàn"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "doanh nghiệp"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "địa điểm"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "trái đất"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "toàn cầu"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "công khai"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "thế giới"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "mùa hè"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "nước"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "đại dương"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "bên ngoài"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "ngoài trời"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "tối thiểu"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "cảnh quan"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "hình đồi"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "checkbox"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "kiểm tra"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "bản đồ"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "widget"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "hình vuông"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "hộp"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "hộp"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "hình sóng"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "nút radio"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "chuyển giao"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "gửi"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "bình luận"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "phản hồi"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "trả lời"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "thư"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "đọc"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "cổng thiết bị"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "kết nối"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "máy tính Mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "bề mặt"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "văn phòng"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "để bàn"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "thích"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "yêu thích"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "bầu chọn"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "phí"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "hôn"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "valentine"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "hình dạng"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "tình yêu"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "nghệ thuật ghép chữ in"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "dấu"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "bút chì"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "font"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "đánh máy"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "nghệ thuật"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "hình vẽ tay"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "vẽ"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "tiếng Hy Lạp"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "vui"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "vui"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "cười"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "biểu tượng cảm xúc"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "cảm xúc"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "hạnh phúc"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "dữ liệu"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "dấm chấm"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "đồ thị"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "bảng"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "bánh"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "thống kê"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "toán"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "tròn"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "cộng thêm"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "chèn"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "hình tròn"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "trừ"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "thêm"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "vẽ"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "màu sắc"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "bảng màu"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "nhà sản xuất"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "đạo diễn"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "quay video"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "bộ sưu tập"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "khẩu độ"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "phim"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "máy ảnh"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "nhiếp ảnh"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "nhiếp ảnh gia"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "ảnh"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "thiết bị"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "máy tính"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "tai nghe"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "nhịp đập"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "âm thanh"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "sáng tạo"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "nghệ sĩ"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "bài hát"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "podcast"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "micrô"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "âm nhạc"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "thiết kế"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "dựng"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "khối"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "khối"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Tải lên một tập tin truyền thông hoặc chọn từ thư viện media của bạn"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Hiển thị hình theo kiểu xếp gạch lệch trong album ảnh."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Lệch"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Đặt lịch hẹn"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Buổi chiều"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Buổi sáng"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Thời gian"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Lịch hẹn"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Ghi chú?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Không"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Có"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Bạn sẽ tham dự chứ?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Một khách khác"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "RSVP"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Liên hệ chúng tôi"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Bạn có thể sử dụng các thẻ sau trong trường chủ đề: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "tên"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Gửi mẫu từ [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Viết chú thích cho album ảnh…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Vùng truyền thông"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Thêm tiêu đề..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Tiêu đề menu..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Thêm nút..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Viết văn bản..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Viết tiêu đề..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Thêm nội dung..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Thêm đề mục..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "các liên kết"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Hồ sơ mạng Xã hội"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Icon & Văn bản"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Văn bản"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "mạng xã hội"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Nhọn"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Tam giác"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Tròn"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Nghiêng"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Góc cạnh"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Hình đồi"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Gợn sóng"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "dấu tách"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Bộ chia Hình dạng"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "các tính năng"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Các dịch vụ"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Viết mô tả..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Dịch vụ"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "bố cục"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "cột"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "các hàng"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Mục của Bảng giá"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "so sánh"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "đích"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Bảng giá"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "thanh trượt"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Hiển thị bài viết hoặc một nguồn cấp tin blog bên ngoài theo dạng ảnh trượt xoay vòng."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(không có tiêu đề)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "Nguồn cấp RSS"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Ngang"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "mới nhất"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "blog"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "bài viết"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Hiển thị bài viết hoặc một nguồn cấp RSS theo các thẻ xếp chồng hoặc nằm ngang."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Bài đăng"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "video"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "ảnh"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "hướng"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "bản đồ"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "địa chỉ"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Bản đồ"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "đoạn văn"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Tô sáng"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Nút phụ..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Thêm đề mục chính..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "nút"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Nội dung chính"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Chỉnh sửa URL %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Quay lại %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "mã"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "động"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Ảnh Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "đầu vào"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Một trường văn bản bị ẩn để thu thập dữ liệu bổ sung."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "siêu liên kết"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Một trường văn bản để thu thập một URL."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Một trường checkbox có thể chọn nhiều tùy chọn cùng một lúc."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "danh sách thả xuống"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Một trường có nhiều tùy chọn nhưng chỉ được chọn một."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Văn bản nhiều dòng"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "văn bản thư"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "văn bản"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Vùng văn bản"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "fax"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "di động"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "ô"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "mạng điện thoại"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "điện thoại"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "tùy chọn"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "chọn"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "chọn"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Nút Radio"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "họ"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "tên"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "mail"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "e-mail"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "năm"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "tháng"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "ngày"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "lịch"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "liên hệ"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "Giới thiệu về"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "email"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Mẫu"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Món ăn"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Danh sách"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Lưới"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "menu"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "nhà hàng"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Thực phẩm & Nước uống"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Các tính năng"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Đây là khối tính năng mà bạn có thể sử dụng để làm nổi bật các tính năng."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Thêm nội dung của tính năng"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Tiêu đề của tính năng"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Thêm tiêu đề cho tính năng..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Tính năng"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Tràn viền"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Dòng"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Dấu chấm"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "ký tự cách"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "HR Động"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Cột"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Xếp lớp"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Xếp cạnh nhau"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Hình xếp nghệ thuật"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "Twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "chia sẻ"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Nhấp để Đăng"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Chứa"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Trang bìa"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Tự động"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Xếp chồng trên di động"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "kêu gọi thao tác"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "cta"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "liên kết"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Liên kết tác giả..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Thả để tải lên ảnh đại diện"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "hồ sơ"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "tiểu sử"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Tác giả"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Lỗi"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Thông báo"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Thành công"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Thông tin"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "tin nhắn"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "chú ý"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Cảnh báo"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Viết tiêu đề item nội dung có thể thu gọn..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Mục nội dung có thể thu gọn"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "faq"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "thẻ"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Nội dung có thể thu gọn"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Hình sóng bên trên"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Hình sóng bên dưới"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Vòng tròn"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Hộp kiểm"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Thẻ truyền thông"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "hiệu ứng lighbox"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Tím cà"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Đêm"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "Cổ điển"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Bạc"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Thông thường"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "đóng dấu"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "giải thưởng"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "cảm nhận của khách hàng"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "bằng chứng"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "ứng dụng khách"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Sáng"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Tối"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "các ảnh"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "album ảnh"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Viết hoa"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Chữ thường"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Nút chính..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "In đậm"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Bình thường"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Lấp đầy"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Có viền"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "các biểu tượng"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Bật để hiển thị nội tuyến %s."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Hiển thị nội tuyến %s."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "Nội tuyến %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Cập nhật"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Lửa"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Trường học"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Bông tuyết"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Giao hàng"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Lớp"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Lóe sáng"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Mới"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Dịch"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Vân tay"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Phần mở rộng"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Thẻ tín dụng"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Dựng"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Hoa"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Bánh ngọt"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Sofa"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Ăn tối"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Thành phố"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Hình cầu"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Hình sóng"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Núi"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Dấu"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Khối"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Tín hiệu"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Gửi"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Trả lời"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Cổng thiết bị"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Bàn phím"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Theo dõi"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "Bảng biểu"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "Máy tính xách tay"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Thiết bị"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Máy tính"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Đánh dấu sao"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Trái tim"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Hình vẽ tay"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Chức năng"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Biểu tượng cảm xúc"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Thăm dò ý kiến"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Biểu đồ phân tán"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Biểu đồ hình tròn"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Hình tròn có dấu trừ"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Thêm hình tròn"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Chổi vẽ"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Vẽ"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Bộ chọn màu"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Ống kính màu"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "Phim"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "video"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "thư viện"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Máy ảnh"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Khẩu độ"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Giọng nói"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Âm lượng"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Tai nghe"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Âm thanh"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Bộ lọc Cổ điển"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Gốc"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Tỷ lệ phần trăm"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Pixel"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Bị ẩn"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Trang web"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Đã có sự cố xảy ra."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Chọn"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Lấy lại một nguồn cấp tin bên ngoài"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Ngày"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Đọc tiếp"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Hãy chọn một"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Có lỗi xảy ra, điều này có thể là do nguồn cấp không hoạt động. Vui lòng thử lại sau."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Một trường để nhập ngày với một bộ chọn ngày."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Một trường để thu thập địa chỉ email đã được xác thực."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Một trường văn bản để thu thập tên và họ."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Một trường với nhiều tùy chọn nhưng chỉ được chọn một cái duy nhất."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Khóa API không hợp lệ hoặc có quá nhiều yêu cầu"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Chọn cài đặt lại kích thước biểu tượng"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(không có tiêu đề)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Viết tùy chọn..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Xóa tùy chọn"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Bài đăng blog"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Sử dụng URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Thêm một liên hệ vào trang của bạn."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Nổi tiếng"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Đã bật các tùy chọn kiểm soát hoàn toàn."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Bật để kích hoạt các tùy chọn kiểm soát bản đồ."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Sử dụng nguồn cấp tin bên ngoài"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Không tìm thấy bài viết. Bắt đầu đăng hoặc thêm bài viết từ một nguồn cấp tin RSS."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Đã lưu"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Đang hiển thị kiểm soát bản đồ toàn màn hình."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Bật để hiển thị kiểm soát dạng xem đường phố ở phía dưới bên phải."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Đang hiển thị kiểm soát bản đồ theo dạng xem đường phố."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Bạn cần hỗ trợ?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Lấy một khóa"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Thêm một khóa API của Bản đồ Google. Cập nhật khóa API này thì tất cả bản đồ của bạn sẽ chuyển sang khóa mới."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Bật để hiển thị kiểm soát bản đồ toàn màn hình."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Bật để phóng to và thu nhỏ trên bản đồ với kiểm soát thu phóng."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Hiển thị kiểm soát thu phóng bản đồ."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Bật để kích hoạt chuyển đổi giữa dạng xem tiêu chuẩn và vệ tinh."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Đã bật chuyển đổi giữa dạng xem tiêu chuẩn và vệ tinh."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Một số điện thoại cho phép khách truy cập cho bạn một số điện thoại."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Hiển thị ngày đăng bài."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Nhập một địa điểm hay địa chỉ để thả ghim trên bản đồ Google."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Hủy"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Tìm kiếm một nơi hay địa chỉ…"
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Chiều cao của bản đồ tính theo pixel"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Mức độ phóng to"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Chỉnh sửa RSS URL"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Ảnh ở bên trái"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Ảnh ở bên phải"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS URLs thường nằm trong thư mục /feed/ của một trang web."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Bật để hiển thị ngày đăng bài."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Số từ tối đa trong nội dung"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Bật để hiển thị nội dung bài viết."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Hiển thị nội dung bài viết."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Số lượng bài viết"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Bài viết dạng ảnh trượt xoay vòng"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Hình tròn"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Hình vuông"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Tăng lượng độc giả của bạn bằng các liên kết đến hồ sơ mạng xã hội."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "bảng màu thiết kế màu nghệ sĩ vẽ sáng tạo truyền thông"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "URL của liên kết"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Không tìm thấy kết quả nào."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Bán kính"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Áp dụng kích thước tùy chỉnh"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Cài đặt lại kích thước biểu tượng"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Thêm một biểu tượng đồ họa cách điệu để truyền tải nhiều ý nghĩa hơn."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Chia sẻ trên LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Các biểu tượng"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Bật để sử dụng màu chính thức của các nền tảng mạng xã hội."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Đã bật chia sẻ màu của nút."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Thêm các liên kết chia sẻ mạng xã hội để giúp bạn được thích và chia sẻ."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Lật theo chiều dọc"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Lật theo chiều ngang"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Thêm một bộ chia hình dạng để phân biệt các phần của trang."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Bật để xếp chồng các nút trên di động."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Chuyển sang chế độ xếp chồng trên di động."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Nút"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Nhắc nhở khách truy cập thao tác với nhiều nút song song."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Ảnh trượt xoay vòng"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Ảnh thu nhỏ"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Bật chiều cao theo tỷ lệ phần trăm."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Đã kích hoạt chiều cao theo tỷ lệ phần trăm."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Bật để hiển thị ảnh thu nhỏ."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Đang điều hướng ảnh thu nhỏ."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Hiển thị nhiều ảnh trong một album ảnh trượt xoay vòng cuốn hút."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Thay thế văn bản này bằng bản sao có mô tả phù hợp với ảnh của thẻ. Sau đó thêm các khối như nút, danh sách hay ảnh cho thẻ này."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Truyền thông phía bên trái"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Truyền thông phía bên phải"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Bật để thêm bóng cho %s"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Hiển thị bóng %s."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Bật để thêm bóng của thẻ."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Hiển thị bóng của thẻ."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Thêm một ảnh hoặc video song song với thẻ."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Thả để thay thế truyền thông"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "truyền thông"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Chỉnh sửa truyền thông"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Ô xen kẽ"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Thêm các góc tròn cho các item của album ảnh."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Hiển thị nhiều ảnh trong album ảnh được xếp theo ô xen kẽ."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Logo & Phù hiệu"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Chỉnh sửa logo"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Đen & Trắng"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Thêm logo, huy hiệu hoặc chứng nhận để gây dựng lòng tin."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Xóa"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Lưu"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Nhận trợ giúp"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Khóa của tôi"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Tạo các khóa"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Thêm trang web reCapcha của bạn và các khóa bí mật để bảo vệ biểu mẫu của bạn khỏi thư rác."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "reCapcha của Google"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s không phải là địa chỉ email hợp lệ."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s và %skhông phải là các địa chỉ email hợp lệ."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s không phải là một địa chỉ email hợp lệ."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Một ô văn bản cho những phản hồi dài hơn."
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Thêm văn bản…"
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Chủ đề ví dụ"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Bật để thêm một trường họ."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Hiển thị cả trường họ và trường tên."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Chiều cao cho phần tử dấu tách linh động tính theo pixel."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Thêm một ký tự cách có thể thay đổi kích cỡ ở giữa các khối khác."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Thêm một câu trích dẫn cho bài đăng..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Tên người dùng"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Tên người dùng Twitter"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Màu nút"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Cách dễ nhất để quảng bá và quảng cáo cho blog, trang web và doanh nghiệp của bạn trên Twitter."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Thêm một câu trích dẫn để độc giả đăng qua Twitter."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "$0.00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Thêm mô tả..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Hấp dẫn"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Bật để hiển thị giá cho item này."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Hiển thị giá cho item này."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Giá"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Bật để hiển thị một ảnh cho item này."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Hiển thị một hình ảnh cho item này."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Ảnh"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Một item thức ăn và đồ uống trong khối Thức ăn và Nước uống."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Ăn chay"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Người ăn bán chay"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Không chứa gluten"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Người ăn chay"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Cay hơn"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Cay"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Bật để hiển thị giá cho từng item."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Hiển thị giá cho từng item"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Giá cả"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Bật để hiển thị ảnh cho từng item."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Hiển thị ảnh cho từng item"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Ảnh"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Hiển thị một menu hay bảng giá."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Chọn số cột cho hàng này."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Chọn một bố cục cho hàng cột %s này."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Hàng"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Thêm phông nền cho hàng"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "bốn"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "ba"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "hai"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "một"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Thay đổi bố cục hàng ngang của khối"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Quý"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Phần ba"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Thêm phông nền cho cột"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Khoảng cách chung quanh vùng chứa."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Một hàng phụ tức thì của dòng."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Thêm một trình bao bọc có cấu trúc cho các khối của cột, sau đó thêm khối nội dung bạn muốn cho các cột."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Gói %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Thay đổi số bảng giá"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Bốn bảng giá"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Ba bảng giá"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Hai bảng giá"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Một bảng giá"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Thêm các bảng giá để giúp khách truy cập so sánh các sản phẩm và các gói."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Thêm tính năng"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "Gói A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Mua ngay"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Một bảng giá để giúp khách truy cập so sánh các sản phẩm và các gói."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Hỗ trợ Internet Explorer bằng cách tải một đoạn mã của JavaScript trên trang này."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Thêm hỗ trợ cho Internet Explorer bằng cách tải một đoạn mã của JavaScript."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Sắp xếp nội dung bên trong các item nội dung có thể thu gọn."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Bật để cài đặt item nội dung có thể thu gọn này mở theo mặc định."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Item nội dung có thể thu gọn được mở theo mặc định."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Thêm các item nội dung có thể thu gọn vào hiệu ứng nội dung có thể thu gọn."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Thêm đến ba cột ghi chú nhỏ cho sản phẩm hoặc dịch vụ của bạn."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Thêm như phông nền"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Thêm một cột con trong khối tính năng chính."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Cảnh báo là một tin nhắn hiển thị bên ngoài nội dung chính. Các cảnh báo đưa ra các phản hồi theo tình huống, chủ yếu yêu cầu người đọc thực hiện các thao tác."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Đây là một khối cảnh báo"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Cung cấp thông báo phản hồi hoặc chú ý theo tình huống."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Chỉnh sửa Địa điểm"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Thêm một địa điểm hoặc địa chỉ để thả ghim trên bản đồ Google."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Bản đồ Google"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Bật để hiển thị các nút kêu gọi thao tác."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Hiển thị các nút kêu gọi thao tác."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Các cột"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Phong cách"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Thêm hơn bốn cột dịch vụ để hiển thị."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Bật để hiển thị nút kêu gọi thao tác."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Hiển thị nút kêu gọi thao tác."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Một item dịch vụ trong một khối các dịch vụ."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Hiệu ứng bóng"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Tổng hợp ảnh vào một album ảnh ghép đẹp mắt."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Viết một tiểu sử thể hiện mức độ tin cậy và mô tả khách quan cho người đọc của bạn..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Viết tên tác giả..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Chỉnh sửa ảnh đại diện"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Sinh ra để chia sẻ, không phải gây ấn tượng. Người khởi tạo ra thế giới mà tôi muốn."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Thêm tiểu sử tác giả để xây dựng uy tín và thẩm quyển."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "ảnh %1$d trong số %2$d trong album ảnh"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Xếp chồng"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Hiệu ứng lightbox"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Chú thích"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Đang bật ảnh toàn độ rộng."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Hiệu ứng ảnh lightbox đang được kích hoạt."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Bật để hiển thị chú thích truyền thông."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Đang hiển thị chú thích cho mỗi item truyền thông."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Bật để lấp đầy hoàn toàn các vùng album ảnh còn trống bằng các ảnh tràn viền."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Đang bật ảnh tràn viền."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Hiển thị nhiều ảnh trong album ảnh xếp chồng một cột."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Đang tải Gist"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Thêm URL cho Gist của GitHub..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Meta của Gist"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Tập tin Gist"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "URL của Gist"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Bật để hiển thị dữ liệu meta của Gist."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Đang hiển thị dữ liệu meta của Gist."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Nhúng Gist của GitHub bằng cách thêm một liên kết Gist"
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Xem Gist này trên GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Tìm kiếm các ảnh GIF"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Tìm kiếm ảnh GIF hoàn hảo này trên Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Ảnh GIF này có thuộc tính ALT trống"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Xóa ảnh GIF"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Hãy để trống nếu ảnh chỉ là để trang trí."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Miêu tả mục đích của ảnh"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Hãy chọn một ảnh GIF, bất kỳ ảnh nào."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Bật để xóa lề dưới."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Tắt để thêm lại lề dưới."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Bật để xóa lề trên."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Tắt để thêm lại lề trên."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Bật để xếp chồng các phần tử lên nhau trên các khung nhìn nhỏ hơn."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Đã bật chế độ phản hồi."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Bật để hiển thị nút theo toàn bộ chiều rộng."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Đang hiển thị toàn bộ chiều rộng."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Cài đặt lại tùy chỉnh cắt ảnh"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Xoay theo chiều kim đồng hồ"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Xoay ngược chiều kim đồng hồ"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Cài đặt cắt hình ảnh trình giữ chỗ"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Mười giây"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Chín giây"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Tám giây"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Bảy giây"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Sáu giây"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Năm giây"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Bốn giây"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Ba giây"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Hai giây"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Một giây"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Có thể kéo được"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Phát tự động"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Bật để cuộn không cần thanh trượt cố định."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Cuộn không cần thanh trượt cố định đang bật."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Bật để dừng tự động phát khi hover."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Dừng tự động phát khi hover."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Căn chỉnh thanh trượt vào giữa."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Căn chỉnh thanh trượt sang trái."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Bật để hiển thị điều hướng dấu chấm."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Đang hiển thị điều hướng dấu chấm."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Bật để hiển thị các mũi tên điều hướng trượt."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Đang hiển thị các mũi tên điều hướng trượt."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Bật để kích hoạt chức năng kéo."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Chức năng kéo và di chuyển đã được bật."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Tự động phát sang bản chiếu tiếp theo."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Tiếp tục sau %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "giây"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "giây"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Mặc định"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Tủy chỉnh bộ chọn màu"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "URL tùy chỉnh"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Kéo ảnh, tải lên các ảnh mới hay chọn tập tin từ thư viện của bạn."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Album ảnh %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Viết chú thích…"
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Cực lớn"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Kích cỡ"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Chuyển đổi"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Trọng lượng"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Phông chữ"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Thay đổi nghệ thuật chữ in"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Áp dụng bộ lọc"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Chữ in hoa"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Đề mục %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Thêm văn bản được tô màu..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Thêm hiệu ứng tô màu vào đoạn văn bản để thu hút sự chú ý và nhấn mạnh vào nội dung quan trọng."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Thu hút sự chú ý và nhấn mạnh vào nội dung quan trọng."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Giai đoạn"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Thay đổi bố cục"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Chiều rộng của nội dung tính theo pixel"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Chiều cao tính bằng pixel"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Không gian bên trong của vùng chứa."
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Thêm phông nền cho trang chính"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Thêm nội dung chính mà thường là phần giới thiệu của trang, kèm theo là một hay hai kêu gọi thao tác."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Một đoạn giới thiệu của trang kèm theo một đoạn văn bản nhỏ và kêu gọi thao tác."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Rất lớn"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Lớn"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Trung bình"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Nhỏ"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Không có"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Xóa nền"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Bật để lặp video."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Đang tắt tiếng cho video nền."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Bật chế độ tắt tiếng video."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Tắt tiếng cho video nền."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Hiển thị"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Vị trí"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Phần đệm"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Đang lưu"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Thả ảnh để thay thế"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Chiều cao"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Bật để bật chế độ toàn màn hình."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Đã bật chế độ toàn màn hình."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Toàn màn hình"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Bố cục"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Được yêu cầu"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Thêm nhãn…"
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "%s của di động"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Máng ngăn"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Các cài đặt %s nâng cao"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Bên trái"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Cuối trang"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Bên phải"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Đầu trang"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Đồng bộ hóa"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Không đồng bộ hóa"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Cài đặt lại"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Tắt các cài đặt %s nâng cao"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Chọn các đơn vị"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Lề"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Chia sẻ trên Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Chia sẻ trên Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Chia sẻ trên Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Chia sẻ qua Email"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Chia sẻ trên LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Chia sẻ trên Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Chia sẻ trên Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Chia sẻ trên Facebook"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Đánh giá CoBlocks trên WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Để lại một đánh giá"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Khóa API của bản đồ Google để kết xuất đồ họa bản đồ"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Tin nhắn của bạn đã được gửi:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Gửi đi"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Họ"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Tên"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Tên"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Khóa bí mật reCaptcha của Google để bảo vệ chống lại thư rác với mẫu"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Khóa trang web reCaptcha của Google để bảo vệ chống lại thư rác với mẫu"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks là bộ <strong>khối nội dung giúp xây dựng trang</strong> cho trình biên tập khối WordPress Gutenberg. Các khối của chúng tôi cực kỳ tập trung vào việc giúp người dùng xây dựng các trang phong phú và thu hút trong WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

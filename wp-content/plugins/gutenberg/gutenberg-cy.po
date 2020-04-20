@@ -1,0 +1,5742 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Welsh
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-27 12:18:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cy_GB\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/index.js:8
+msgid "Post Comments"
+msgstr "Cofnodi Sylwadau"
+
+#: build/block-library/index.js:8
+msgid "No comments."
+msgstr "Dim sylwadau."
+
+#: build/block-library/index.js:8
+msgid "Contact"
+msgstr "Cysylltiad"
+
+#: build/block-library/index.js:8
+msgid "About"
+msgstr "Ynghylch"
+
+#: build/block-library/index.js:8
+msgid "Home"
+msgstr "Cartref"
+
+#: build/block-library/index.js:8
+msgid "25 / 50 / 25"
+msgstr "25 / 50 / 25"
+
+#: build/block-library/index.js:8
+msgid "33 / 33 / 33"
+msgstr "33 / 33 / 33"
+
+#: build/block-library/index.js:8
+msgid "70 / 30"
+msgstr "70 / 30"
+
+#: build/block-library/index.js:8
+msgid "30 / 70"
+msgstr "30 / 70"
+
+#: build/block-library/index.js:8
+msgid "50 / 50"
+msgstr "50 / 50"
+
+#: build/block-editor/index.js:49
+msgid "Current media URL:"
+msgstr "URL cyfryngau cyfredol:"
+
+#: build/block-editor/index.js:49
+msgid "Block variations"
+msgstr "Amrywiadau bloc"
+
+#: build/edit-post/index.js:6
+msgid "Preview in new tab"
+msgstr "Rhagolwg mewn tab newydd"
+
+#: lib/class-wp-rest-menu-items-controller.php:960
+msgid "Sort collection by object attribute."
+msgstr "Trefnu'r casgliad yn ôl priodweddau'r gwrthrychau."
+
+#: lib/class-wp-rest-menu-items-controller.php:953
+msgid "Order sort attribute ascending or descending."
+msgstr "Trefnu priodweddau i fyny neu i lawr."
+
+#: lib/class-wp-rest-menu-items-controller.php:948
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Cyfyngu set canlyniadau i gofnodion gyda gwerth penodol menu_order."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:914
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "NeilltuirY termau neulltiwyd i'r gwrthrych yn nhacsonomeg %s."
+
+#: lib/class-wp-rest-menu-items-controller.php:902
+msgid "Whether the menu item represents an object that no longer exists ."
+msgstr "P'un a yw'r eitem ar y ddewislen yn cynrychioli gwrthrych nad yw'n bodoli mwyach."
+
+#: lib/class-wp-rest-menu-items-controller.php:888
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "Y berthynas XFN sy'n cael ei fynegi yn nolen yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:881
+msgid "The URL to which this menu item points."
+msgstr "Yr URL y mae'r eitem ddewislen hon yn pwyntio ato."
+
+#: lib/class-wp-rest-menu-items-controller.php:874
+msgid "The singular label used to describe this type of menu item."
+msgstr "Y label unigol sy'n cael ei ddefnyddio i ddisgrifio'r math hwn o eitem ar y ddewislen."
+
+#: lib/class-wp-rest-menu-items-controller.php:864
+msgid "The target attribute of the link element for this menu item."
+msgstr "Priodoledd targed yr elfen gyswllt yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:856
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories ."
+msgstr "ID DB y gwrthrych gwreiddiol y mae'r eitem ddewislen hon yn ei gynrychioli, e. e. ID ar gyfer cofnodion a term_id ar gyfer categorïau."
+
+#: lib/class-wp-rest-menu-items-controller.php:850
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "Y math o wrthrych a gynrychiolwyd yn wreiddiol, megis \"categori,\" \"cofnod\", neu \"atodiad.\""
+
+#: lib/class-wp-rest-menu-items-controller.php:843
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any . 0 otherwise . "
+msgstr "ID DB y nav_menu_item sy'n rhiant dewislen yr eitem hon, os o gwbl. 0 fel arall. "
+
+#: lib/class-wp-rest-menu-items-controller.php:834
+msgid "The description of this menu item."
+msgstr "Y disgrifiad o'r eitem hon ar y ddewislen."
+
+#: lib/class-wp-rest-menu-items-controller.php:820
+msgid "Class names for the link element of this menu item."
+msgstr "Enwau dosbarth ar gyfer elfen gyswllt yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:811
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "Testun ar gyfer priodoledd teitl yr elfen gyswllt ar gyfer yr eitem ddewislen hon."
+
+#: lib/class-wp-rest-menu-items-controller.php:795
+msgid "A named status for the object."
+msgstr "Statws ag enw ar gyfer y gwrthrych."
+
+#: lib/class-wp-rest-menu-items-controller.php:787
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "Y teulu o wrthrychau a gynrychiolwyd yn wreiddiol, megis \"post_type\" neu \"tacsonomeg\"."
+
+#: lib/class-wp-rest-menu-items-controller.php:780
+msgid "Name of type."
+msgstr "Enw'r math."
+
+#: lib/class-wp-rest-menu-items-controller.php:762
+msgid "HTML title for the object, transformed for display."
+msgstr "Teitl HTML ar gyfer y gwrthrych, wedi ei drosi i'w ddangos."
+
+#: lib/class-wp-rest-menu-items-controller.php:757
+msgid "Title for the object, as it exists in the database."
+msgstr "Teitl ar gyfer y gwrthrych, fel y mae'n bodoli yn y gronfa ddata."
+
+#: lib/class-wp-rest-menu-items-controller.php:718
+msgid "Get linked object."
+msgstr "Cael gwrthrych cysylltiedig."
+
+#: lib/class-wp-rest-menu-items-controller.php:510
+msgid "Invalid URL."
+msgstr "URL annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:468
+#: lib/class-wp-rest-menu-items-controller.php:471
+msgid "Invalid menu item parent."
+msgstr "Rhiant eitem dewislen annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:460
+msgid "Invalid menu position."
+msgstr "Safle dewislen annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:436
+msgid "Invalid menu ID."
+msgstr "ID dewislen annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:428
+msgid "URL require if menu item of type custom."
+msgstr "URL yn ofynnol os yw eitem dewislen o fath cyfaddas."
+
+#: lib/class-wp-rest-menu-items-controller.php:425
+msgid "Title require if menu item of type custom."
+msgstr "Angen teitl os yw eitem dewislen o fath cyfaddas."
+
+#: lib/class-wp-rest-menu-items-controller.php:418
+msgid "Invalid post type."
+msgstr "Math cofnod annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:407
+msgid "Invalid post  ID."
+msgstr "ID cofnod annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:271
+msgid "The post cannot be deleted."
+msgstr "Nid oes modd dileu'r cofnod."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:263
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "Nid yw eitmu dewislen cefnogi sbwriel. Gosod '%s' i'w ddileu."
+
+#: lib/class-wp-rest-menu-items-controller.php:97
+msgid "Cannot create existing post."
+msgstr "Methu creu'r cofnod presennol."
+
+#: lib/class-wp-rest-menu-items-controller.php:83
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "Mae'n ddrwg gennym, nid oes modd i chi weld yr eitemau dewislen hyn, oni bai bod gennych fynediad at ganiatâd i'w golygu. "
+
+#: lib/class-wp-rest-menu-items-controller.php:81
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i olygu cofnodion yn yr math yma o gofnod."
+
+#: lib/class-wp-rest-menu-items-controller.php:65
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "Ymddiheuriadau, nid oes modd i chi weld yr eitemau dewislen hyn, oni bai bod gennych fynediad at ganiatâd i'w olygu. "
+
+#: lib/class-wp-rest-menus-controller.php:480
+msgid "The locations assigned to the menu."
+msgstr "Y lleoliadau a neilltuwyd i'r ddewislen."
+
+#: lib/class-wp-rest-menus-controller.php:452
+msgid "Menu location does not exist."
+msgstr "Nid yw lleoliad y ddewislen yn bodoli."
+
+#: lib/class-wp-rest-menus-controller.php:409
+msgid "The term cannot be deleted."
+msgstr "Nid oes modd dileu'r term."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:399
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Nid yw telerau'n cefnogi rhoi yn y sbwriel. Gosod '%s' i'w ddileu."
+
+#: lib/class-wp-rest-menus-controller.php:223
+#: lib/class-wp-rest-menus-controller.php:330
+msgid "Parent term does not exist."
+msgstr "Nid yw'r term rhiant yn bodoli."
+
+#: lib/class-wp-rest-menus-controller.php:217
+#: lib/class-wp-rest-menus-controller.php:324
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Methu gosod rhiant y term, nid yw'r tacsonomeg yn hierarchaidd."
+
+#: lib/class-wp-rest-menus-controller.php:130
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "Ymddiheuriadau, nid oes modd i chi neilltuo'r lleoliad ddarparwyd."
+
+#: lib/class-wp-rest-menus-controller.php:60
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "Ymddiheuriadau, nid oes modd i chi weld ddewislen hon, oni bai bod gennych fynediad at ganiatâd i'w olygu. "
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Ymddiheuriadau, nid oes modd i chi olygu'r term hwn."
+
+#: lib/class-wp-rest-menus-controller.php:40
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "Ymddiheuriadau, nid oes modd i chi weld dewislenni hyn, oni bai bod gennych fynediad at ganiatâd i'w golygu. "
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i olygu termau yn y tacsonomeg hwn."
+
+#. translators: 1: Pattern name.
+#: lib/class-wp-patterns-registry.php:54
+msgid "Pattern \"%1$s\" not found."
+msgstr "Heb ganfod patrwm \"%1$s\"."
+
+#: lib/class-wp-patterns-registry.php:35
+msgid "Pattern name must be a string."
+msgstr "Rhaid i enw'r patrwm fod yn llinyn."
+
+#: lib/class-wp-rest-menu-locations-controller.php:206
+msgid "The ID of the assigned menu."
+msgstr "ID y ddewislen a neilltuwyd."
+
+#: lib/class-wp-rest-menu-locations-controller.php:200
+msgid "The description of the menu location."
+msgstr "Y disgrifiad o leoliad y ddewislen."
+
+#: lib/class-wp-rest-menu-locations-controller.php:194
+msgid "The name of the menu location."
+msgstr "Enw lleoliad y ddewislen."
+
+#: lib/class-wp-rest-menus-controller.php:137
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+msgid "Invalid menu location."
+msgstr "Lleoliad dewislen annilys."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i weld lleoliadau dewislenni."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "Dynodwr alffaniwmerig ar gyfer lleoliad y ddewislen."
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d left to position %3$d"
+msgstr "Symud bloc %1$s o safle %2$d i'r chwith i safle %3$d"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Symud %1$s bloc safle %2$d i lawr  i safle %3$d"
+
+#: build/block-editor/index.js:49
+msgid "Pattern \"%s\" inserted."
+msgstr "Mewnosodwyd patrwm \" %s\"."
+
+#: build/block-library/index.js:8
+msgid "Images size"
+msgstr "Maint delweddau"
+
+#: build/core-data/index.js:1
+msgid "User"
+msgstr "Defnyddwyr"
+
+#: build/core-data/index.js:1
+msgid "Widget area"
+msgstr "Ardal teclynnau"
+
+#: build/core-data/index.js:1
+msgid "Post Type"
+msgstr "Math o Gofnod"
+
+#: build/core-data/index.js:1
+msgid "Site"
+msgstr "Gwefan"
+
+#: build/edit-post/index.js:6
+msgid "Block Patterns"
+msgstr "Patrymau Bloc"
+
+#. translators: %s: Social Link service name
+#: build/block-library/blocks/social-link.php:21
+msgid "Link to %s"
+msgstr "Cysylltu â %s"
+
+#: build/components/index.js:6
+msgid "Radial Gradient"
+msgstr "Graddiant Radial"
+
+#: build/components/index.js:6
+msgid "Linear Gradient"
+msgstr "Graddiant Llinol"
+
+#: build/components/index.js:6
+msgid "Type"
+msgstr "Math"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved left"
+msgstr "Mae bloc %1$s  ar ddechrau'r cynnwys ac nid oes modd ei symud i'r chwith"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved up"
+msgstr "Mae bloc %1$s  ar ddechrau'r cynnwys ac nid oes modd ei symud i fyny"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved left"
+msgstr "Mae bloc %1$s  ar ddiwedd y cynnwys ac nid oes modd ei symud i'r chwith"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved down"
+msgstr "Mae bloc %1$s ar ddiwedd y cynnwys ac nid oes modd ei symud i lawr"
+
+#: build/block-editor/index.js:49
+msgid "Creating"
+msgstr "Yn creu"
+
+#: build/block-editor/index.js:49
+msgid "An unknown error occurred during creation. Please try again."
+msgstr "Digwyddodd gwall anhysbys yn ystod y creu. TCeisiwch eto."
+
+#: build/block-editor/index.js:49
+msgid "New page: <mark>%s</mark>"
+msgstr "Tudalen newydd: <mark>%s</mark>"
+
+#: build/block-editor/index.js:49
+msgid "Change a block's type by pressing the block icon on the toolbar."
+msgstr "Newidiwch y math o floc trwy bwyso'r eicon bloc ar y bar offer."
+
+#: build/block-editor/index.js:49
+msgid "Drag files into the editor to automatically insert media blocks."
+msgstr "Llusgwch ffeiliau i'r golygydd i fewnosod blociau cyfryngau yn awtomatig."
+
+#: build/block-editor/index.js:49
+msgid "Outdent a list by pressing <kbd>backspace</kbd> at the beginning of a line"
+msgstr "Creu alloliad rhestr trwy wasgu <kbd>backspace</kbd> ar ddechrau llinell"
+
+#: build/block-editor/index.js:49
+msgid "Indent a list by pressing <kbd>space</kbd> at the beginning of a line."
+msgstr "Creu mewnoliad rhestr trwy wasgu <kbd>lle</kbd> ar ddechrau llinell."
+
+#: build/block-editor/index.js:49
+msgid "Solid"
+msgstr "Solet"
+
+#: build/edit-post/index.js:6
+msgid "Open document settings"
+msgstr "Agor gosodiadau dogfennau"
+
+#: build/edit-post/index.js:6
+msgid "Open block settings"
+msgstr "Agor gosodiadau bloc"
+
+#: build/edit-post/index.js:6
+msgid "Desktop"
+msgstr "Bwrdd Gwaith"
+
+#: build/edit-post/index.js:6
+msgid "Mobile"
+msgstr "Symudol"
+
+#: build/edit-post/index.js:6
+msgid "Tablet"
+msgstr "Tabled"
+
+#: build/block-library/index.js:8
+msgid "Post Tags"
+msgstr "Tagiau Cofnod"
+
+#: build/block-library/index.js:8
+msgid "No tags."
+msgstr "Dim tagiau."
+
+#: build/block-library/index.js:8
+msgid "Post Featured Image"
+msgstr "Delwedd Nodwedd Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Read more…"
+msgstr "Darllen rhagor…"
+
+#: build/block-library/index.js:8
+msgid "Show link on new line"
+msgstr "Dangos dolen ar linell newydd"
+
+#: build/block-library/index.js:8
+msgid "Max words"
+msgstr "Uchafswm nifer o eiriau"
+
+#: build/block-library/index.js:8
+msgid "Post Excerpt Settings"
+msgstr "Gosodiadau Detholiad Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Date Format"
+msgstr "Fformat Dyddiad"
+
+#: build/block-library/index.js:8
+msgid "Format settings"
+msgstr "Gosodiadau fformat"
+
+#: build/block-library/index.js:8
+msgid "Change Date"
+msgstr "Dyddiad Newid"
+
+#: build/block-library/index.js:8
+msgid "Post Comments Form"
+msgstr "Ffurflen Sylwadau Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Post Comments Count"
+msgstr "Cyfrif Sylwadau Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Display an icon linking to a social media profile or website."
+msgstr "Dangos eicon sy'n cysylltu â phroffil arbennig neu wefan cyfryngau cymdeithasol."
+
+#: build/block-library/index.js:8
+msgid "Social Icon"
+msgstr "Eicon Cymdeithasol"
+
+#: build/block-library/index.js:8
+msgctxt "block keywords"
+msgid "links"
+msgstr "dolenni"
+
+#: build/block-library/index.js:8
+msgid "Display icons linking to your social media profiles or websites."
+msgstr "Dangos eiconau sy'n cysylltu â'ch proffiliau neu wefannau cyfryngau cymdeithasol."
+
+#: build/block-library/index.js:8
+msgid "Social Icons"
+msgstr "Eiconau Cymdeithasol"
+
+#: build/block-library/index.js:8
+msgid "Select poster image"
+msgstr "Dewis ddelwedd poster"
+
+#: build/block-library/index.js:8
+msgid "Image alignment"
+msgstr "Aliniad delwedd"
+
+#: build/block-library/index.js:8
+msgid "Display featured image"
+msgstr "Dangos y ddelwedd nodwedd"
+
+#: build/block-library/index.js:8
+msgid "Featured image settings"
+msgstr "Gosodiadau'r ddelwedd nodwedd"
+
+#: build/block-library/index.js:8
+msgid "Post content"
+msgstr "Cynnwys cofnod"
+
+#: build/block-library/index.js:8
+msgid "Show submenu indicator icons"
+msgstr "Dangos eiconau dangosydd isddewislen"
+
+#: build/block-library/index.js:8
+msgid "Background color"
+msgstr "Lliw cefndir"
+
+#: build/block-library/index.js:8
+msgid "Media file"
+msgstr "Ffeil cyfrwng"
+
+#: build/block-library/index.js:8
+msgid "Text color"
+msgstr "Lliw testun"
+
+#: build/block-library/index.js:8
+msgid "Change heading level"
+msgstr "Newid lefel pennawd"
+
+#: build/block-library/index.js:8
+msgid "Embed a TikTok video."
+msgstr "Mewnblannu fideo TikTok."
+
+#: build/block-library/index.js:8
+msgid "survey"
+msgstr "arolwg"
+
+#: build/block-library/index.js:8
+msgid "social"
+msgstr "cymdeithasol"
+
+#: build/edit-site/index.js:1
+msgid "Edit Page Template"
+msgstr "Golygu Templed Tudalen"
+
+#: build/edit-site/index.js:1
+msgid "Update Design"
+msgstr "Diweddaru Dylunio"
+
+#: build/edit-site/index.js:1
+msgid "New"
+msgstr "Newydd"
+
+#: build/edit-site/index.js:1
+msgid "Switch Template"
+msgstr "Newid Templed"
+
+#: build/edit-site/index.js:1
+msgid "loading…"
+msgstr "yn llwytho…"
+
+#: build/edit-site/index.js:1
+msgid "Customized"
+msgstr "Cyfaddaswyd"
+
+#: build/edit-site/index.js:1
+msgid "template-slug"
+msgstr "templed-bonyn"
+
+#: build/edit-site/index.js:1
+msgid "Add Template"
+msgstr "Ychwanegu Templed"
+
+#: build/edit-site/index.js:1
+msgid "Template already exists, edit it instead."
+msgstr "Mae'r templed eisoes yn bodoli, ei olygu yn lle."
+
+#: lib/global-styles.php:309
+msgid "Global Styles"
+msgstr "Arddulliau Cyffredinol"
+
+#: lib/template-loader.php:231
+msgid "Empty template."
+msgstr "Templed gwag."
+
+#: lib/template-loader.php:219
+msgid "No matching template found."
+msgstr "Heb ganfod templedi tebyg."
+
+#: build/block-library/index.js:8
+msgid "Display settings"
+msgstr "Gosodiadau'r dangosydd"
+
+#: build/block-editor/index.js:49
+msgid "Choose variation"
+msgstr "Dewis amrywiad"
+
+#: build/components/index.js:6
+msgid "Angle"
+msgstr "Ongl"
+
+#: build/blocks/index.js:2
+msgid "%s Block"
+msgstr "%s Bloc"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. %2$s"
+msgstr "%1$s Bloc. %2$s"
+
+#: build/blocks/index.js:2
+msgid "%s Block. Column %d"
+msgstr "%s Bloc. Colofn %d"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. Column %2$d. %3$s"
+msgstr "%1$s Bloc. Colofn %2$d. %3$s"
+
+#: build/blocks/index.js:2
+msgid "%s Block. Row %d"
+msgstr "%s Bloc. Rhes %d"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. Row %2$d. %3$s"
+msgstr "%1$s Bloc. Rhes %2$d. %3$s"
+
+#: build/block-library/index.js:8
+msgid "Post Excerpt"
+msgstr "Cyfran Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Post Date"
+msgstr "Dyddiad Cofnod"
+
+#: build/block-library/index.js:8
+msgid "No Date"
+msgstr "Dim Dyddiad"
+
+#: build/block-library/index.js:8
+msgid "Post Author"
+msgstr "Awdur Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Choose"
+msgstr "Dewis"
+
+#: build/block-library/index.js:8
+msgid "twentytwenty"
+msgstr "twentytwenty"
+
+#: build/block-library/index.js:8
+msgid "Theme"
+msgstr "Thema"
+
+#: build/block-library/index.js:8
+msgid "Choose a template part by slug and theme, or create a new one."
+msgstr "Dewiswch rhan o dempled rhan yn ôl bonyn a thema, neu greu un newydd."
+
+#: build/block-library/index.js:8 build/edit-site/index.js:1
+msgid "Error adding template."
+msgstr "Gwall wrth ychwanegu templed."
+
+#: build/block-library/index.js:8
+msgid "Footer label"
+msgstr "Label troedyn"
+
+#: build/block-library/index.js:8
+msgid "Header label"
+msgstr "Label pennawd"
+
+#: build/block-library/index.js:8
+msgid "Unsupported"
+msgstr "Ddim yn cael eu cynnal"
+
+#: build/block-library/index.js:8
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Bydd y disgrifiad yn cael ei ddangos yn y ddewislen os yw'r thema gyfredol yn ei gefnogi."
+
+#: build/block-library/index.js:8
+msgid "Level %1$s. %2$s"
+msgstr "Lefel %1$s. %2$s"
+
+#: build/block-library/index.js:8
+msgid "Level %s. Empty."
+msgstr "Lefel %s. Gwag."
+
+#: build/block-library/index.js:8
+msgid "Empty"
+msgstr "Gwag"
+
+#: build/block-editor/index.js:49
+msgid "Search results for \"%s\""
+msgstr "Canlyniadau chwilio '%s'"
+
+#: build/block-editor/index.js:49
+msgid "Recently updated"
+msgstr "Diweddarwyd yn ddiweddar"
+
+#: build/block-editor/index.js:49
+msgid "Multiple selected blocks"
+msgstr "Blociau dewiswyd lluosog"
+
+#. translators: %s: The author.
+#: build/block-library/blocks/post-author.php:19 build/block-library/index.js:8
+msgid "By %s"
+msgstr "Gan %s"
+
+#: build/edit-site/index.js:1
+msgid "Inspector"
+msgstr "Arolygydd"
+
+#: build/block-library/index.js:8
+msgid "Briefly describe the link to help screen reader users."
+msgstr "Disgrifiwch y ddolen yn fyr i helpu defnyddwyr darllenwyr sgrin."
+
+#: build/block-library/index.js:8
+msgid "Link label"
+msgstr "Label dolen"
+
+#: build/block-library/index.js:8
+msgid "%s label"
+msgstr "Label %s"
+
+#: build/block-library/index.js:8
+msgid "poem"
+msgstr "cerdd"
+
+#: build/block-library/index.js:8
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#: build/block-library/index.js:8
+msgid ""
+"EXT. XANADU - FAINT DAWN - 1940 (MINIATURE)\n"
+"Window, very small in the distance, illuminated.\n"
+"All around this is an almost totally black screen. Now, as the camera moves slowly towards the window which is almost a postage stamp in the frame, other forms appear;"
+msgstr ""
+"EXT. XANADU - FAINT DAWN - 1940 (MINIATURE)\n"
+"Window, very small in the distance, illuminated.\n"
+"All around this is an almost totally black screen. Now, as the camera moves slowly towards the window which is almost a postage stamp in the frame, other forms appear;"
+
+#: build/block-library/index.js:8
+msgid "Full post"
+msgstr "Cofnod llawn"
+
+#: build/block-library/index.js:8
+msgid "Show:"
+msgstr "Dangos:"
+
+#: build/block-library/index.js:8
+msgid "Create from all top-level pages"
+msgstr "Creu o'r holl dudalennau lefel uchaf"
+
+#: build/block-library/index.js:8
+msgid "Suspendisse commodo neque lacus, a dictum orci interdum et."
+msgstr "Suspendisse commodo neque lacus, a dictum orci interdum et."
+
+#: build/block-library/index.js:8
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et eros eu felis."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et eros eu felis."
+
+#: build/block-library/index.js:8
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "Anogwch ymwelwyr i weithredu gyda grŵp o ddolenni ar ffurf botwm."
+
+#: build/block-library/index.js:8
+msgid "Buttons"
+msgstr "Botymau"
+
+#: build/block-library/index.js:8
+msgid "Background"
+msgstr "Cefndir"
+
+#: build/block-library/index.js:8
+msgid "Background & Text Color"
+msgstr "Lliw Cefndir a Thestun"
+
+#: build/block-editor/index.js:49
+msgid "Image size"
+msgstr "Maint delweddau"
+
+#: build/block-editor/index.js:49
+msgid "Remove multiple selected blocks."
+msgstr "Tynnwch nifer o flociau dethol."
+
+#: build/block-editor/index.js:49
+msgid "(%s: gradient %s)"
+msgstr "(%s: graddiant %s)"
+
+#: build/block-editor/index.js:49
+msgid "(%s: color %s)"
+msgstr "(%s: lliw %s)"
+
+#: build/block-editor/index.js:49
+msgid "(Gradient: %s)"
+msgstr "(Graddiant: %s)"
+
+#: build/block-editor/index.js:49
+msgid "(Color: %s)"
+msgstr "(Lliw: %s)"
+
+#: build/edit-post/index.js:6
+msgid "Here's a detailed guide."
+msgstr "Dyma ganllaw manwl."
+
+#: build/edit-post/index.js:6
+msgid "New to the block editor? Want to learn more about using it? "
+msgstr "Newydd i'r golygydd bloc? Am ddysgu mwy am ei ddefnyddio? "
+
+#: build/edit-post/index.js:6
+msgid "Learn how to use the block editor"
+msgstr "Dysgwch sut i ddefnyddio'r golygydd bloc"
+
+#: build/edit-post/index.js:6
+msgid "Help"
+msgstr "Cymorth"
+
+#: build/edit-post/index.js:6
+msgid "https://wordpress.org/support/article/wordpress-editor/"
+msgstr "https://wordpress.org/support/article/wordpress-editor/"
+
+#: build/block-directory/index.js:1
+msgid "%s block icon"
+msgstr "eicon bloc %s"
+
+#: build/editor/index.js:11
+msgid "Submit for Review…"
+msgstr "Cyflwyno ar gyfer Adolygiad…"
+
+#: build/editor/index.js:11
+msgid "Update…"
+msgstr "Diweddaru…"
+
+#: build/editor/index.js:11
+msgid "Select items to save."
+msgstr "Dewis eitemau i'w cadw."
+
+#: build/editor/index.js:11
+msgid "What do you want to save?"
+msgstr "Beth ydych chi am ei gadw?"
+
+#: build/editor/index.js:11
+msgid "Untitled"
+msgstr "Dideitl"
+
+#: lib/experiments-page.php:120
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "Mae'r golygydd bloc yn cynnwys nodweddion arbrofol y mae modd eu defnyddio wrth iddyn nhw gael eu datblygu. Dewiswch y rhai yr hoffech eu galluogi. Mae'r nodweddion hyn yn debygol o newid, felly ceisiwch osgoi eu defnyddio wrth gynhyrchu."
+
+#: lib/experiments-page.php:72
+msgid "Enable Full Site Editing (Warning: this will replace your theme and cause potentially irreversible changes to your site. We recommend using this only in a development environment.)"
+msgstr "Galluogwch Golygu Gwefan Lawn (Rhybudd: bydd hyn yn disodli'ch thema ac yn achosi newidiadau a allai fod yn anghildroadwy i'ch gwefan. Rydym yn argymell defnyddio hwn mewn amgylchedd datblygu yn unig.)"
+
+#: gutenberg.php:61 gutenberg.php:62
+msgid "Site Editor (beta)"
+msgstr "Golygydd Gwefan (beta)"
+
+#: build/components/index.js:6
+msgid "Next"
+msgstr "Nesaf"
+
+#: build/components/index.js:6
+msgid "Previous"
+msgstr "Blaenorol"
+
+#: build/components/index.js:6
+msgid "Finish"
+msgstr "Gorffen"
+
+#: build/components/index.js:6
+msgid "Page %1$d of %2$d"
+msgstr "Tudalen  %1$d o %2$d"
+
+#: build/components/index.js:6
+msgid "Guide controls"
+msgstr "Rheolaethau canllaw"
+
+#: build/components/index.js:6
+msgid "Remove Control Point"
+msgstr "Tynnu'r Pwynt Rheoli"
+
+#: build/components/index.js:6
+msgid "Use your left or right arrow keys or drag and drop with the mouse to change the gradient position. Press the button to change the color or remove the control point."
+msgstr "Defnyddiwch eich bysellau saeth chwith neu dde neu llusgo a gollwng gyda'r llygoden i newid safle'r graddiant. Pwyswch y botwm i newid y lliw neu dynnu'r pwynt rheoli."
+
+#: build/components/index.js:6
+msgid "Gradient control point at position %1$s with color code %2$s."
+msgstr "Pwynt rheoli graddiant yn safle %1$s gyda chod lliw %2$s."
+
+#: build/components/index.js:6
+msgid "Preset size"
+msgstr "Rhagosod maint"
+
+#: build/block-editor/index.js:49
+msgid "Tools offer different interactions for block selection & editing. To select, press Escape, to go back to editing, press Enter."
+msgstr "Mae Offer yn cynnig rhyngweithiadau gwahanol ar gyfer dewis a golygu bloc. I ddewis, pwyswch Escape, i fynd yn ôl i olygu, pwyswch Enter."
+
+#: build/block-editor/index.js:49
+msgid "Open Media Library"
+msgstr "Agor Llyfrgell Cyfrwng"
+
+#: build/block-editor/index.js:49
+msgid "The media file has been replaced"
+msgstr "Mae'r ffeil cyfryngau wedi'i amnewid"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Replace"
+msgstr "Amnewid"
+
+#: build/block-editor/index.js:49
+msgid "You are currently in edit mode. To return to the navigation mode, press Escape."
+msgstr "Ar hyn o bryd, rydych yn y modd golygu. I ddychwelyd i'r modd llywio, pwyswch Escape."
+
+#: build/block-editor/index.js:49
+msgid "You are currently in navigation mode. Navigate blocks using the Tab key. To exit navigation mode and edit the selected block, press Enter."
+msgstr "Ar hyn o bryd,l rydych yn y modd llywio. Llywiwch flociau gan ddefnyddio'r fysell Tab. I adael y modd llywio a golygu'r bloc a ddewiswyd, pwyswch Enter."
+
+#: build/api-fetch/index.js:1
+msgid "You are probably offline."
+msgstr "Mae'n debyg eich bod all-lein."
+
+#: build/block-library/index.js:8
+msgid "Justify items right"
+msgstr "Unioni eitemau i'r dde"
+
+#: build/block-library/index.js:8
+msgid "Justify items center"
+msgstr "Unioni eitemau i'r canol"
+
+#: build/block-library/index.js:8
+msgid "Justify items left"
+msgstr "Unioni eitemau i'r chwith"
+
+#: build/block-library/index.js:8
+msgid "Change items justification"
+msgstr "Newid unioni eitemau"
+
+#: build/block-library/index.js:8
+msgid ""
+"// A \"block\" is the abstract term used\n"
+"// to describe units of markup that\n"
+"// when composed together, form the\n"
+"// content or layout of a page.\n"
+"registerBlockType( name, settings );"
+msgstr ""
+"// \"bloc\" yw'r term haniaethol sy'n cael ei ddefnyddio\n"
+"// i ddisgrifio'r unedau marcio hynny\n"
+"// wrth gyfansoddi gyda'i gilydd, sy'n ffurfio'r\n"
+"// cynnwys neu gynllun tudalen.\n"
+"registerBlockType (enw, gosodiadau);"
+
+#: build/block-library/index.js:8
+msgid "ADD MEDIA"
+msgstr "YCHWANEGU CYFRWNG"
+
+#: build/edit-post/index.js:6
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "Mae'r holl flociau sydd ar gael i chi yn byw yn y llyfrgell bloc. Fe ddewch o hyd iddo ble bynnag y gwelwch yr <InserterIconImage /> eicon."
+
+#: build/edit-post/index.js:6
+msgid "Get to know the block library"
+msgstr "Dod i adnabod y llyfrgell bloc"
+
+#: build/edit-post/index.js:6
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "Mae gan bob bloc ei set ei hun o reolaethau ar gyfer newid pethau fel lliw, lled ac aliniad. Bydd y rhain yn ymddangos ac yn cuddio yn awtomatig pan fydd bloc wedi'i ddewis gennych."
+
+#: build/edit-post/index.js:6
+msgid "Make each block your own"
+msgstr "Gwnewch bob bloc eich un chi"
+
+#: build/edit-post/index.js:6
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "Yn y golygydd WordPress, mae pob paragraff, delwedd, neu fideo yn cael ei gyflwyno fel “bloc” penodol o gynnwys."
+
+#: build/edit-post/index.js:6
+msgid "Welcome to the block editor"
+msgstr "Croeso i'r golygydd bloc"
+
+#: build/edit-post/index.js:6
+msgid "Get started"
+msgstr "Cychwyn arni"
+
+#: build/edit-post/index.js:6
+msgid "inserter"
+msgstr "mewnosodwr"
+
+#: build/edit-post/index.js:6
+msgid "Welcome Guide"
+msgstr "Canllaw Croeso"
+
+#: lib/experiments-page.php:83
+msgid "Enable Full Site Editing demo templates"
+msgstr "Galluogi templedi arddangos Golygu Gwefan Lawn"
+
+#: lib/experiments-page.php:78
+msgid "Full Site Editing Demo Templates"
+msgstr "Templedi Demo Golygu Gwefan Lawn"
+
+#: build/block-library/index.js:8
+msgid "Post Title"
+msgstr "Teitlau Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Add nofollow to link"
+msgstr "Ychwanegu nofollow i'r ddolen"
+
+#: build/block-library/index.js:8
+msgid "Add submenu"
+msgstr "Ychwanegu is ddewislen"
+
+#: build/block-library/index.js:8
+msgid "Add link…"
+msgstr "Ychwanegu dolen…"
+
+#: build/block-library/index.js:8
+msgid "Dark"
+msgstr "Tywyll"
+
+#: build/block-library/index.js:8
+msgid "Light"
+msgstr "Golau"
+
+#: build/block-library/index.js:8
+msgid "recording"
+msgstr "recordio"
+
+#: build/block-library/index.js:8
+msgid "podcast"
+msgstr "podlediad"
+
+#: build/block-library/index.js:8
+msgid "sound"
+msgstr "sain"
+
+#: lib/class-wp-rest-widget-forms.php:53
+msgid "Array of instance changes"
+msgstr "Amrywiaeth o newidiadau enghraifft"
+
+#: lib/class-wp-rest-widget-forms.php:48
+msgid "Current widget instance"
+msgstr "Enghraifft teclyn cyfredol"
+
+#: lib/template-parts.php:40
+msgid "Template parts to include in your templates."
+msgstr "Darmau o dempledi i'w cynnwys yn eich templedi."
+
+#: lib/template-parts.php:35
+msgid "Template parts list"
+msgstr "Rhestr darnau templed"
+
+#: lib/template-parts.php:34
+msgid "Template parts list navigation"
+msgstr "Llywio rhestr darnau templedi"
+
+#: lib/template-parts.php:33
+msgid "Filter template parts list"
+msgstr "Hidlo rhestr darnau templed"
+
+#: lib/template-parts.php:32
+msgid "Uploaded to this template part"
+msgstr "Llwythwyd i fyny i'r darn templed"
+
+#: lib/template-parts.php:31
+msgid "Insert into template part"
+msgstr "Mewnosod i ddarn o dempled"
+
+#: lib/template-parts.php:30
+msgid "Template part archives"
+msgstr "Archif darnau templed"
+
+#: lib/template-parts.php:29
+msgid "No template parts found in Trash."
+msgstr "Heb ddarganfod unrhyw ddarnau templed yn y Sbwriel."
+
+#: lib/template-parts.php:28
+msgid "No template parts found."
+msgstr "Heb ddarngandfod darnau o dempledi."
+
+#: lib/template-parts.php:27
+msgid "Parent Template Part:"
+msgstr "Darn o Dempled Rhiant:"
+
+#: lib/template-parts.php:26
+msgid "Search Template Parts"
+msgstr "Chwilio am Ddarnau Templedi"
+
+#: lib/template-parts.php:25
+msgid "All Template Parts"
+msgstr "Pob Ddarn Templed"
+
+#: lib/template-parts.php:24
+msgid "View Template Part"
+msgstr "Gweld Darnau Templed"
+
+#: lib/template-parts.php:23
+msgid "Edit Template Part"
+msgstr "Golygu Darn Templed"
+
+#: lib/template-parts.php:22
+msgid "New Template Part"
+msgstr "Darn Templed Newydd"
+
+#: lib/template-parts.php:21
+msgid "Add New Template Part"
+msgstr "Ychwanegu Darn Templed Newydd"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Ychwanegu"
+
+#: lib/template-parts.php:19
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "Darnau Templed"
+
+#: lib/template-parts.php:18 build/block-library/index.js:8
+msgid "Template Part"
+msgstr "Darn Templed"
+
+#: lib/template-parts.php:17 build/edit-site/index.js:1
+msgid "Template Parts"
+msgstr "Darnau Templed"
+
+#: build/block-library/index.js:8
+msgid ""
+"WHAT was he doing, the great god Pan,\n"
+"\tDown in the reeds by the river?\n"
+"Spreading ruin and scattering ban,\n"
+"Splashing and paddling with hoofs of a goat,\n"
+"And breaking the golden lilies afloat\n"
+"    With the dragon-fly on the river."
+msgstr ""
+"WHAT was he doing, the great god Pan,\n"
+"\tDown in the reeds by the river?\n"
+"Spreading ruin and scattering ban,\n"
+"Splashing and paddling with hoofs of a goat,\n"
+"And breaking the golden lilies afloat\n"
+"    With the dragon-fly on the river."
+
+#: build/block-library/index.js:8
+msgid "Navigation"
+msgstr "Llywio"
+
+#: build/block-library/index.js:8
+msgid "Loading Navigation…"
+msgstr "Llwytho Llywio…"
+
+#: build/block-library/index.js:8
+msgid "Navigation Structure"
+msgstr "Strwythur Llywio"
+
+#: build/block-library/index.js:8
+msgid "Create empty"
+msgstr "Creu gwag"
+
+#: build/block-library/index.js:8
+msgid "Create a Navigation from all existing pages, or create an empty one."
+msgstr "Creu Llywio o'r holl dudalennau sy'n bodoli, neu greu un wag."
+
+#: build/block-library/index.js:8
+msgid "Navigation Link"
+msgstr "Dolen Llywio"
+
+#: build/block-library/index.js:8
+msgid "(Note: many devices and browsers do not display this text.)"
+msgstr "(Sylwch: nid yw llawer o ddyfeisiau a phorwyr yn dangos y testun hwn.)"
+
+#: build/block-library/index.js:8
+msgid "Describe the role of this image on the page."
+msgstr "Disgrifiwch rôl y ddelwedd hon ar y dudalen."
+
+#: build/block-editor/index.js:49
+msgid "Toggle between using the same value for all screen sizes or using a unique value per screen size."
+msgstr "Toglo rhwng defnyddio'r un gwerth ar gyfer pob maint sgrin neu ddefnyddio gwerth unigryw fesul maint sgrin."
+
+#: build/block-editor/index.js:49
+msgid "Use the same %s on all screensizes."
+msgstr "Defnyddiwch yr un %s ar bob maint sgrin."
+
+#: build/block-editor/index.js:49
+msgid "Large screens"
+msgstr "Sgriniau mawr"
+
+#: build/block-editor/index.js:49
+msgid "Medium screens"
+msgstr "Sgriniau canolig"
+
+#: build/block-editor/index.js:49
+msgid "Small screens"
+msgstr "Sgriniau bach"
+
+#: build/block-editor/index.js:49
+msgctxt "Text labelling a interface as controlling a given layout property (eg: margin) for a given screen size."
+msgid "Controls the %1$s property for %2$s viewports."
+msgstr "Mae'n rheoli priodwedd %1$s ar gyfer pyrth gwylio %2$s."
+
+#: build/block-editor/index.js:49
+msgid "Currently selected"
+msgstr "Wedi'i ddewis ar hyn o bryd"
+
+#: build/block-editor/index.js:49
+msgid "Search or type url"
+msgstr "Chwilio neu deipio URL"
+
+#: build/block-editor/index.js:49
+msgid "Press ENTER to add this link"
+msgstr "Pwyswch ENTER i ychwanegu'r ddolen hon"
+
+#: build/block-editor/index.js:49
+msgid "Currently selected link settings"
+msgstr "Gosodiadau cyswllt a ddewiswyd ar hyn o bryd"
+
+#: build/block-editor/index.js:49
+msgctxt "Generic label for block inserter button"
+msgid "Add block"
+msgstr "Ychwanegu bloc"
+
+#: build/block-editor/index.js:49
+msgctxt "directly add the only allowed block"
+msgid "Add %s"
+msgstr "Ychwanegu %s"
+
+#: build/block-editor/index.js:49
+msgid "%s block added"
+msgstr "Ychwanegwyd %s bloc"
+
+#: build/components/index.js:6
+msgid "Extra Large"
+msgstr "Mawr Iawn"
+
+#: build/block-editor/index.js:49
+msgid "Block breadcrumb"
+msgstr "Rhwystro briwsion"
+
+#: build/block-editor/index.js:49
+msgid "Editor footer"
+msgstr "Troedyn y golygydd"
+
+#: build/block-library/index.js:8
+msgid "Site Title"
+msgstr "Teitl y Wefan"
+
+#: build/block-library/index.js:8
+msgid "Open Colors Selector"
+msgstr "Agor y Dewisydd Lliwiau"
+
+#: lib/templates.php:35
+msgid "Templates list"
+msgstr "Rhestr templedi"
+
+#: lib/templates.php:34
+msgid "Templates list navigation"
+msgstr "Llywio'r rhestr templedi"
+
+#: lib/templates.php:33
+msgid "Filter templates list"
+msgstr "Hidlo rhestr templedi"
+
+#: lib/templates.php:32
+msgid "Uploaded to this template"
+msgstr "Llwythwyd i fyny i'r templed hwn"
+
+#: lib/templates.php:31
+msgid "Insert into template"
+msgstr "Mewnosod i'r templed"
+
+#: lib/templates.php:30
+msgid "Template archives"
+msgstr "Archif templedi"
+
+#: lib/templates.php:29
+msgid "No templates found in Trash."
+msgstr "Heb ganfod templedi yn y Sbwriel."
+
+#: lib/templates.php:28
+msgid "No templates found."
+msgstr "Heb ganfod templedi."
+
+#: lib/templates.php:27
+msgid "Parent Template:"
+msgstr "Templed Rhiant:"
+
+#: lib/templates.php:26
+msgid "Search Templates"
+msgstr "Chwilio Templedi"
+
+#: lib/templates.php:25
+msgid "All Templates"
+msgstr "Pob Templed"
+
+#: lib/templates.php:24
+msgid "View Template"
+msgstr "Gweld y Templed"
+
+#: lib/templates.php:23
+msgid "Edit Template"
+msgstr "Golygu Templed"
+
+#: lib/templates.php:22
+msgid "New Template"
+msgstr "Templed Newydd"
+
+#: lib/templates.php:21
+msgid "Add New Template"
+msgstr "Ychwanegu Templed Newydd"
+
+#: lib/templates.php:20
+msgctxt "Template"
+msgid "Add New"
+msgstr "Ychwanegu"
+
+#: lib/templates.php:19
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "Templedi"
+
+#: lib/templates.php:18
+msgid "Template"
+msgstr "Templed"
+
+#: lib/template-loader.php:260
+msgid "No matching template found"
+msgstr "Heb ganfod templedi sy'n cydweddu"
+
+#: build/components/index.js:6
+msgid "Gradient: %s"
+msgstr "Graddiant: %s"
+
+#: build/edit-post/index.js:6
+msgid "All content copied."
+msgstr "Copïwyd yr holl gynnwys."
+
+#: build/api-fetch/index.js:1
+msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
+msgstr "Methodd llwytho'r cyfryngau. Os mai llun neu ddelwedd fawr yw hon, gwnewch hi'n llai a rhoi cynnig arall arni."
+
+#: build/block-editor/index.js:49
+msgid "Gradient"
+msgstr "Graddiant"
+
+#: build/block-editor/index.js:49
+msgid "Gradient Presets"
+msgstr "Rhagosodiadau Graddiant"
+
+#: build/block-editor/index.js:49
+msgid "No Preview Available."
+msgstr "Dim Rhagolwg ar Gael."
+
+#: build/block-editor/index.js:49
+msgid "Midnight"
+msgstr "Canol Nos"
+
+#: build/block-editor/index.js:49
+msgid "Electric grass"
+msgstr "Glaswellt trydanol"
+
+#: build/block-editor/index.js:49
+msgid "Pale ocean"
+msgstr "Cefnfor gwelw"
+
+#: build/block-editor/index.js:49
+msgid "Luminous dusk"
+msgstr "Cyfnos llewychol"
+
+#: build/block-editor/index.js:49
+msgid "Blush bordeaux"
+msgstr "Bordeaux ysgafn"
+
+#: build/block-editor/index.js:49
+msgid "Blush light purple"
+msgstr "Porffor golau ysgafn"
+
+#: build/block-editor/index.js:49
+msgid "Cool to warm spectrum"
+msgstr "Sbectrwm oer i gynnes"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray to cyan bluish gray"
+msgstr "Llwyd ysgafn iawn i lwyd cyan glas"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange to vivid red"
+msgstr "Oren llachar llewychol i goch llachar"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "Ambr byw llewychol i oren llachar llewychol"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan to vivid green cyan"
+msgstr "Cyan gwyrdd golau i gyan gwyrdd llachar"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue to vivid purple"
+msgstr "Glas cyan llachar i borffor llachar"
+
+#: build/components/index.js:6
+msgid "Gradient code: %s"
+msgstr "Cod graddiant: %s"
+
+#: build/editor/index.js:11
+msgid "https://wordpress.org/support/article/excerpt/"
+msgstr "https://wordpress.org/support/article/excerpt/"
+
+#: build/block-library/index.js:8
+msgid "December 6, 2018"
+msgstr "Rhagfyr 6, 2018"
+
+#: build/block-library/index.js:8
+msgid "February 21, 2019"
+msgstr "Chwefror 21, 2019"
+
+#: build/block-library/index.js:8
+msgid "May 7, 2019"
+msgstr "Mai 7, 2019"
+
+#: build/block-library/index.js:8
+msgid "Release Date"
+msgstr "Dyddiad rhyddhau"
+
+#: build/block-library/index.js:8
+msgid "Jazz Musician"
+msgstr "Cerddor Jazz"
+
+#: build/block-library/index.js:8
+msgid "Version"
+msgstr "Fersiwn"
+
+#: build/block-library/index.js:8
+msgid "Six."
+msgstr "Chwech."
+
+#: build/block-library/index.js:8
+msgid "Five."
+msgstr "Pump."
+
+#: build/block-library/index.js:8
+msgid "Four."
+msgstr "Pedwar."
+
+#: build/block-library/index.js:8
+msgid "Three."
+msgstr "Tri."
+
+#: build/block-library/index.js:8
+msgid "Two."
+msgstr "Dau."
+
+#: build/block-library/index.js:8
+msgid "One."
+msgstr "Un."
+
+#: build/block-library/index.js:8
+msgid "One of the hardest things to do in technology is disrupt yourself."
+msgstr "Un o'r pethau anoddaf i'w wneud mewn technoleg yw tarfu eich hun."
+
+#: build/block-library/index.js:8
+msgid "— Kobayashi Issa (一茶)"
+msgstr "— Kobayashi Issa (一茶)"
+
+#: build/block-library/index.js:8
+msgid "The wren<br>Earns his living<br>Noiselessly."
+msgstr "Mae'r dryw <br>Yn ennill ei fywoliaeth<br>Yn dawel."
+
+#: build/block-library/index.js:8
+msgid "Welcome to the wonderful world of blocks…"
+msgstr "Croeso i fyd rhyfeddol y blociau…"
+
+#: build/block-library/index.js:8
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Patrol Eira</strong>"
+
+#: build/block-library/index.js:8
+msgid "Dimensions"
+msgstr "Dimensiynau"
+
+#: build/block-library/index.js:8
+msgid "Minimum height in pixels"
+msgstr "Uchafswm uchder mewn picseli"
+
+#: build/block-library/index.js:8
+msgid "Nam risus massa, ullamcorper consectetur eros fermentum, porta aliquet ligula. Sed vel mauris nec enim."
+msgstr "Nam risus massa, ullamcorper consectetur eros fermentum, porta aliquet ligula. Sed vel mauris nec enim."
+
+#: build/block-library/index.js:8
+msgid "Etiam et egestas lorem. Vivamus sagittis sit amet dolor quis lobortis. Integer sed fermentum arcu, id vulputate lacus. Etiam fermentum sem eu quam hendrerit."
+msgstr "Etiam et egestas lorem. Vivamus sagittis sit amet dolor quis lobortis. Integer sed fermentum arcu, id vulputate lacus. Etiam fermentum sem eu quam hendrerit."
+
+#: build/block-library/index.js:8
+msgid "Call to Action"
+msgstr "Galwad i Weithredu"
+
+#: build/block-library/index.js:8
+msgid "In quoting others, we cite ourselves."
+msgstr "Wrth ddyfynnu eraill, rydym yn dyfynnu ein hunain."
+
+#: build/block-library/index.js:8
+msgid "cite"
+msgstr "dyfynnu"
+
+#: build/block-library/index.js:8
+msgid "Mont Blanc appears—still, snowy, and serene."
+msgstr "Mae Mont Blanc yn ymddangos - yn llonydd, yn eiraog ac yn ddistaw."
+
+#: build/block-library/index.js:8
+msgid "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing."
+msgstr "Ym mhentref La Mancha, nad oes gen i awydd i dwyn ei enw i gof, bu'n byw ddim yn hir yn ôl un o'r boneddigion hynny sy'n cadw gwaywffon yn y rac gwaywffon, hen fwcl, hac heb lawer o fraster, a milgi. ar gyfer cwrsio."
+
+#: build/block-editor/index.js:49
+msgid "Block navigation"
+msgstr "Llywio bloc"
+
+#: lib/experiments-page.php:67
+msgid "Full Site Editing"
+msgstr "Golygu Gwefan Lawn"
+
+#: lib/templates.php:40
+msgid "Templates to include in your theme."
+msgstr "Templedi i'w cynnwys yn eich thema."
+
+#: lib/templates.php:17 build/edit-site/index.js:1
+msgid "Templates"
+msgstr "Templedi"
+
+#: build/edit-post/index.js:6
+msgid "Pre-publish checks"
+msgstr "Gwiriadau cyn-gyhoeddi"
+
+#: build/block-directory/index.js:1
+msgid "Please contact your site administrator to install new blocks."
+msgstr "Cysylltwch â'ch gweinyddwr gwefan i osod blociau newydd."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. Please contact your site administrator to install new blocks."
+msgstr "Heb ganfod blociau yn eich llyfrgell. Cysylltwch â'ch gweinyddwr gwefan i osod blociau newydd."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library."
+msgstr "Heb ganfod blociau yn eich llyfrgell."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. These blocks can be downloaded and installed:"
+msgstr "Heb ganfod blociau yn eich llyfrgell. Mae modd llwytho blociau i lawr a gosod y blociau hyn:"
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. We did find %d block available for download."
+msgid_plural "No blocks found in your library. We did find %d blocks available for download."
+msgstr[0] "Heb ganfod blociau yn eich llyfrgell. Rydym wedi canfod %d bloc ar gael i'w lwytho i lawr."
+msgstr[1] "Heb ganfod blociau yn eich llyfrgell. Rydym wedi canfod %d bloc ar gael i'w llwytho i lawr."
+msgstr[2] "Heb ganfod blociau yn eich llyfrgell. Rydym wedi canfod %d bloc ar gael i'w llwytho i lawr."
+msgstr[3] "Heb ganfod blociau yn eich llyfrgell. Rydym wedi canfod %d bloc ar gael i'w llwytho i lawr."
+
+#: build/block-directory/index.js:1
+msgid "Block previews can’t load."
+msgstr "Nid yw rhagolygon bloc yn gallu llwytho."
+
+#: build/block-directory/index.js:1
+msgid "Retry"
+msgstr "Ceisio eto"
+
+#: build/block-directory/index.js:1
+msgid "Block previews can't install."
+msgstr "Nid yw rhagolygon bloc yn gallu gosod."
+
+#: build/block-directory/index.js:1
+msgid "Updated %s"
+msgstr "Diweddarwyd %s"
+
+#: build/block-directory/index.js:1
+msgid "%d active installation"
+msgid_plural "%d active installations"
+msgstr[0] "%d gosodiad gweithredol"
+msgstr[1] "%d gosodiad gweithredol"
+msgstr[2] "%d gosodiad gweithredol"
+msgstr[3] "%d gosodiad gweithredol"
+
+#: build/block-directory/index.js:1
+msgid "This author has %d block, with an average rating of %d."
+msgid_plural "This author has %d blocks, with an average rating of %d."
+msgstr[0] "Mae gan yr awdur hwn %d bloc, gyda sgôr cyfartalog o %d."
+msgstr[1] "Mae gan yr awdur hwn %d bloc, gyda sgôr cyfartalog o %d."
+msgstr[2] "Mae gan yr awdur hwn %d bloc, gyda sgôr cyfartalog o %d."
+msgstr[3] "Mae gan yr awdur hwn %d bloc, gyda sgôr cyfartalog o %d."
+
+#: build/block-directory/index.js:1
+msgid "Authored by %s"
+msgstr "Crëwyd gan %s"
+
+#: build/edit-site/index.js:1
+msgid "Add"
+msgstr "Ychwanegu"
+
+#: build/block-directory/index.js:1
+msgid "%d total rating"
+msgid_plural "%d total ratings"
+msgstr[0] "%d cyfanswm y graddio"
+msgstr[1] "%d cyfanswm y graddio"
+msgstr[2] "%d cyfanswm y graddio"
+msgstr[3] "%d cyfanswm y graddio"
+
+#: build/block-directory/index.js:1
+msgid "%s out of 5 stars"
+msgstr "%s allan o 5 seren"
+
+#: build/block-library/index.js:8
+msgid "Enter address"
+msgstr "Rhowch y cyfeiriad"
+
+#: build/block-library/index.js:8
+msgid "Pill Shape"
+msgstr "Siâp Pilsen"
+
+#: build/block-library/index.js:8
+msgid "Logos Only"
+msgstr "Logos yn Unig"
+
+#: build/block-library/index.js:8
+msgid "Open block navigator"
+msgstr "Agorwch y llywio blociau"
+
+#: build/block-library/index.js:8
+msgid "Attachment page"
+msgstr "Tudalen atodi"
+
+#: build/block-library/index.js:8
+msgid "Fill"
+msgstr "Llanw"
+
+#: build/block-library/index.js:8
+msgid "Link rel"
+msgstr "Cyswllt rel"
+
+#: build/block-library/index.js:8
+msgid "Border radius"
+msgstr "Radiws y border"
+
+#: build/block-library/index.js:8
+msgid "Write gallery caption…"
+msgstr "Ysgrifennu pennawd oriel…"
+
+#: build/editor/index.js:11
+msgid "Restore the backup"
+msgstr "Adfer y copi wrth gefn"
+
+#: build/editor/index.js:11
+msgid "The backup of this post in your browser is different from the version below."
+msgstr "Mae'r copi wrth gefn o'r cofnod yn eich porwr yn wahanol i'r fersiwn isod."
+
+#: lib/experiments-page.php:61
+msgid "Enable block directory search"
+msgstr "Galluogi chwilio'r cyfeiriadur bloc"
+
+#: lib/experiments-page.php:56
+msgid "Block Directory"
+msgstr "Cyfeiriadur Bloc"
+
+#: lib/class-wp-rest-block-directory-controller.php:145
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Methu cysylltu á'r system ffeiliau. Cadarnhewch eich manylion."
+
+#: lib/class-wp-rest-block-directory-controller.php:80
+msgid "Sorry, you are not allowed to install blocks."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i osod blociau."
+
+#: build/edit-post/index.js:6
+msgid "%1$d block is disabled."
+msgid_plural "%1$d blocks are disabled."
+msgstr[0] "Mae %1$d bloc wedi ei analluogi."
+msgstr[1] "Mae %1$d bloc wedi eu hanalluogi."
+msgstr[2] "Mae %1$d bloc wedi eu hanalluogi."
+msgstr[3] "Mae %1$d bloc wedi eu hanalluogi."
+
+#: build/block-library/index.js:8
+msgid "Reverse list numbering"
+msgstr "Gwrthdroi rhifo'r rhestr"
+
+#: build/block-library/index.js:8
+msgid "Start value"
+msgstr "Gwerth cychwynnol"
+
+#: build/block-library/index.js:8
+msgid "Ordered list settings"
+msgstr "Gosodiadau trefnu rhestr"
+
+#: build/block-library/index.js:8
+msgid "Clear Media"
+msgstr "Clirio'r Cyfryngau"
+
+#: build/block-editor/index.js:49
+msgid "Default Style"
+msgstr "Arddull Rhagosodedig"
+
+#: build/block-editor/index.js:49
+msgid "Not set"
+msgstr "Heb ei osod"
+
+#: build/block-editor/index.js:49
+msgid "While writing, you can press <kbd>/</kbd> to quickly insert new blocks."
+msgstr "Wrth ysgrifennu, gallwch bwyso <kbd>/</kbd> i fewnosod blociau newydd yn gyflym."
+
+#: lib/class-wp-rest-widget-areas-controller.php:118
+msgid "Version of the content block format used by the object."
+msgstr "Fersiwn y fformat bloc cynnwys sy'n cael ei ddefnyddio gan y gwrthrych."
+
+#: lib/class-wp-rest-widget-areas-controller.php:112
+msgid "HTML content for the object, transformed for display."
+msgstr "Cynnwys HTML ar gyfer y gwrthrych, wedi ei drosi i'w ddangos."
+
+#: lib/class-wp-rest-widget-areas-controller.php:107
+msgid "Content for the object, as it exists in the database."
+msgstr "Cynnwys ar gyfer y gwrthrych, fel y mae'n bodoli yn y gronfa ddata."
+
+#: lib/class-wp-rest-widget-areas-controller.php:98
+msgid "The content for the object."
+msgstr "Cynnwys ar gyfer y gwrthrych."
+
+#: build/block-library/index.js:8
+msgid "Change column alignment"
+msgstr "Newid aliniad colofn"
+
+#: build/block-library/index.js:8
+msgid "Align Column Right"
+msgstr "Alinio Colofn i'r Dde"
+
+#: build/block-library/index.js:8
+msgid "Align Column Center"
+msgstr "Alinio Colofn  i'r Canol"
+
+#: build/block-library/index.js:8
+msgid "Align Column Left"
+msgstr "Alinio Colofn  i'r Chwith"
+
+#: build/block-library/index.js:8
+msgid "Color"
+msgstr "Lliw"
+
+#: build/block-editor/index.js:49
+msgid "Vivid purple"
+msgstr "Porffor cryf"
+
+#: build/edit-post/index.js:6
+msgid "Disable & Reload"
+msgstr "Analluogi ac Ail-lwytho"
+
+#: build/edit-post/index.js:6
+msgid "Enable & Reload"
+msgstr "Galluogi ac Ail-lwytho"
+
+#: build/edit-post/index.js:6
+msgid "A page reload is required for this change. Make sure your content is saved before reloading."
+msgstr "Mae angen ail-lwytho tudalen ar gyfer y newid hwn. Sicrhewch fod eich cynnwys yn cael ei gadw cyn ei ail-lwytho."
+
+#: build/edit-post/index.js:6
+msgid "Display these keyboard shortcuts."
+msgstr "Dangos cymorth llwybrau byr y bysellfwrdd."
+
+#: gutenberg.php:86
+msgid "Experiments Settings"
+msgstr "Gosodiadau Arbrofion"
+
+#: lib/experiments-page.php:50
+msgid "Enable Widgets screen and Legacy Widgets block"
+msgstr "Galluogi Sgrin Teclynnau a'r Hen Floc Teclyn"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "Gosodiadau arbrofol"
+
+#: lib/class-wp-block-styles-registry.php:44
+msgid "Block name name must be a string."
+msgstr "Rhaid i enw'r bloc fod yn llinyn."
+
+#: build/components/index.js:6
+msgid "Custom"
+msgstr "Cyfaddasu"
+
+#: build/editor/index.js:11
+msgid "Draft"
+msgstr "Drafft"
+
+#. translators: 1: block name, 2: block style name
+#: lib/class-wp-block-styles-registry.php:76
+msgid "Block \"%1$s\" does not contain a style named \"%2$s.\"."
+msgstr "Nid yw bloc \"%1$s\" yn cynnwys arddull o'r enw \"%2$s.\"."
+
+#: build/block-editor/index.js:49
+msgid "Learn more about anchors"
+msgstr "Dysgu rhagor am angorau"
+
+#: build/block-editor/index.js:49
+msgid "Enter a word or two — without spaces — to make a unique web address just for this heading, called an “anchor.” Then, you’ll be able to link directly to this section of your page."
+msgstr "Rhowch air neu ddau - heb ofodau - i wneud cyfeiriad gwe unigryw ar gyfer y pennawd hwn, o'r enw “angor.” Yna, byddwch yn gallu cysylltu'n uniongyrchol â'r rhan hon o'ch tudalen."
+
+#: lib/customizer.php:61
+msgid "Widget Blocks (Experimental)"
+msgstr "Blociau Teclyn (Arbrofol)"
+
+#: build/block-editor/index.js:49
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr "Llwythwch ffeil fideo i fyny, dewiswch un o'ch llyfrgell gyfryngau, neu ychwanegwch un gydag URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr "Llwythwch ffeil ddelwedd i fyny, dewiswch un o'ch llyfrgell gyfryngau, neu ychwanegwch un gydag URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr "Llwythwch ffeil sain i fyny, dewiswch un o'ch llyfrgell gyfryngau, neu ychwanegwch un gydag URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload a media file or pick one from your media library."
+msgstr "Llwythwch ffeil cyfryngau i fyny neu dewiswch un o'ch llyfrgell gyfryngau."
+
+#: build/block-editor/index.js:49
+msgid "Skip"
+msgstr "Hepgor"
+
+#: build/block-editor/index.js:49
+msgid "Select a variation to start with."
+msgstr "Dewiswch amrywiad i ddechrau."
+
+#: build/block-library/index.js:8
+msgid "Add a page, link, or another item to your navigation."
+msgstr "Ychwanegwch dudalen, dolen, neu eitem arall at eich llywio."
+
+#: build/block-library/index.js:8
+msgid "What's this?"
+msgstr "Beth yw hwn?"
+
+#: build/block-library/index.js:8
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:8
+msgid "Don't let search engines follow this link."
+msgstr "Peidiwch â gadael i beiriannau chwilio ddilyn y ddolen hon."
+
+#: build/block-library/index.js:8
+msgid "Title attribute"
+msgstr "Priodwedd teitl"
+
+#: build/block-library/index.js:8
+msgid "SEO settings"
+msgstr "Gosodiadau SEO"
+
+#: build/block-library/index.js:8
+msgid "Description"
+msgstr "Disgrifiad"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Open in new tab"
+msgstr "Agor mewn tab newydd"
+
+#: build/block-editor/index.js:49
+msgid "Move right"
+msgstr "Symud i'r dde"
+
+#: build/block-editor/index.js:49
+msgid "Move left"
+msgstr "Symud i'r chwith"
+
+#: build/block-library/index.js:8
+msgid "links"
+msgstr "dolenni"
+
+#: build/block-library/index.js:8
+msgid "navigation"
+msgstr "llywio"
+
+#: build/block-library/index.js:8
+msgid "menu"
+msgstr "dewislen"
+
+#: build/block-library/index.js:8
+msgid "Add a navigation block to your site."
+msgstr "Ychwanegwch floc llywio i'ch gwefan."
+
+#: build/block-library/index.js:8
+msgid "Upload a file or pick one from your media library."
+msgstr "Llwythwch ffeil neu dewiswch un o'ch llyfrgell gyfryngau."
+
+#: build/block-library/index.js:8
+msgid "Learn more about embeds"
+msgstr "Dysgu mwy am fewnblannu"
+
+#: build/block-library/index.js:8
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-library/index.js:8
+msgid "Paste a link to the content you want to display on your site."
+msgstr "Gludwch ddolen i'r cynnwys rydych chi am ei arddangos ar eich gwefan."
+
+#: build/block-library/index.js:8
+msgid "Upload an image or video file, or pick one from your media library."
+msgstr "Llwythwch ddelwedd neu ffeil fideo i fyny, neu dewiswch un o'ch llyfrgell gyfryngau."
+
+#: build/block-library/index.js:8
+msgid "Three columns; wide center column"
+msgstr "Tair colofn; colofn ganol llydan"
+
+#: build/block-library/index.js:8
+msgid "Three columns; equal split"
+msgstr "Tair colofn; rhaniad cyfartal"
+
+#: build/block-library/index.js:8
+msgid "Two columns; two-thirds, one-third split"
+msgstr "Dwy golofn; dwy ran o dair, rhaniad un rhan o dair"
+
+#: build/block-library/index.js:8
+msgid "Two columns; one-third, two-thirds split"
+msgstr "Dwy golofn; rhaniad un rhan o dair, dwy ran o dair"
+
+#: build/block-library/index.js:8
+msgid "Two columns; equal split"
+msgstr "Dwy golofn; rhaniad cyfartal"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:37
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Nid oes gan eich gwefan unrhyw %s, felly nid oes dim i'w ddangos yma ar hyn o bryd."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "More tools & options"
+msgstr "Mwy o offer a dewisiadau"
+
+#: build/block-library/index.js:8
+msgid "Create Table"
+msgstr "Creu Tabl"
+
+#: build/block-library/index.js:8
+msgid "Insert a table for sharing data."
+msgstr "Mewnosod tabl ar gyfer rhannu data."
+
+#: build/editor/index.js:11
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Dad-grwpio"
+
+#: build/editor/index.js:11
+msgctxt "verb"
+msgid "Group"
+msgstr "Grŵp"
+
+#: build/components/index.js:6
+msgid "Separate with commas or the Enter key."
+msgstr "Gwahanu gyda dyfynodau neu fysell Enter."
+
+#: build/components/index.js:6
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Gwahanu gyda dyfynodau, bylchau, neu'r fysell Enter."
+
+#: build/block-editor/index.js:49
+msgid "Separate multiple classes with spaces."
+msgstr "Gwahanu ddosbarthiadau niferus gyda bylchau."
+
+#: build/block-library/index.js:8
+msgid "Move image forward"
+msgstr "Symud delwedd ymlaen"
+
+#: build/block-library/index.js:8
+msgid "Move image backward"
+msgstr "Symud delwedd nôl"
+
+#: lib/class-wp-rest-widget-areas-controller.php:201
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "Ymddiheuriadau, nid oes hawl gennych i olygu barau ochr."
+
+#: lib/class-wp-rest-widget-areas-controller.php:146
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "Ymddiheuriadau, nid oes hawl gennych i ddarllen barau ochr."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "ID y bar ochr."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:342
+msgid "Displays a set of blocks"
+msgstr "Yn dangos set o flociau"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:338
+#: lib/class-experimental-wp-widget-blocks-manager.php:350
+msgid "Blocks Area"
+msgstr "Ardal Blociau"
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "Bloc wedi'i lunio'n wag."
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Cod Mewnlin"
+
+#: build/block-library/index.js:8
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Sylwer: Gall awto chwarae fideos achosi problemau defnyddioldeb i rai ymwelwyr."
+
+#: build/block-library/index.js:8
+msgid "Footer section"
+msgstr "Adran troedyn"
+
+#: build/block-library/index.js:8
+msgid "Header section"
+msgstr "Adran pennyn"
+
+#: build/block-library/index.js:8
+msgid "Sorting and filtering"
+msgstr "Didoli a hidlo"
+
+#: build/block-library/index.js:8
+msgid "Post meta settings"
+msgstr "Gosodiadau meta cofnod"
+
+#: build/block-library/index.js:8
+msgid "Post Content"
+msgstr "Cynnwys Cofnod"
+
+#: build/block-library/index.js:8
+msgid "Post content settings"
+msgstr "Gosodiadau cynnwys cofnod"
+
+#: build/block-library/index.js:8
+msgid "Percentage width"
+msgstr "Lled canran"
+
+#: build/block-library/index.js:8
+msgid "Column settings"
+msgstr "Gosodiadau colofnau"
+
+#: build/block-library/index.js:8
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Sylwer: Gall awto chwarae fideos achosi problemau defnyddioldeb i rai ymwelwyr."
+
+#: lib/widgets.php:207
+msgid "Block area updated."
+msgstr "Diweddarwyd yr ardal bloc."
+
+#: lib/widgets.php:206
+msgid "Block area scheduled."
+msgstr "Ardal bloc wedi'i amserlennu."
+
+#: lib/widgets.php:203
+msgid "Block area published."
+msgstr "Ardal bloc wedi'i chyhoeddi."
+
+#: lib/widgets.php:202
+msgid "Block areas list"
+msgstr "Rhestr ardaloedd bloc"
+
+#: lib/widgets.php:201
+msgid "Block areas list navigation"
+msgstr "Llywio rhestr ardaloedd bloc"
+
+#: lib/widgets.php:200
+msgid "Filter block areas list"
+msgstr "Hidlo rhestr ardaloedd bloc"
+
+#: lib/widgets.php:198
+msgid "No block area found."
+msgstr "Heb ddarganfod ardal bloc."
+
+#: lib/widgets.php:197
+msgid "Search Block Areas"
+msgstr "Chwilio Ardaloedd Bloc"
+
+#: lib/widgets.php:196
+msgid "All Block Areas"
+msgstr "Pob Ardal Bloc"
+
+#: lib/widgets.php:195
+msgid "View Block Area"
+msgstr "Gweld Ardal Bloc"
+
+#: lib/widgets.php:194
+msgid "Edit Block Area"
+msgstr "Golygu Ardal Bloc"
+
+#: lib/widgets.php:193
+msgid "New Block Area"
+msgstr "Ardal Bloc Newydd"
+
+#: lib/widgets.php:192
+msgid "Add New Block Area"
+msgstr "Ychwanegu Ardal Bloc Newydd"
+
+#: lib/widgets.php:189
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Ardaloedd Bloc"
+
+#: lib/widgets.php:188
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Ardal Bloc (Arbrofol)"
+
+#: lib/widgets.php:187
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Ardal Bloc (Arbrofol)"
+
+#: lib/widgets.php:185
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Math o gofnod cyfaddas arbrofol a fydd yn storio ardaloedd bloc y cyfeirir atynt yn ôl themâu."
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Cynnwys teclyn sgrin"
+
+#: build/block-library/index.js:8
+msgid "header"
+msgstr "troedyn"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(arbrofol)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Meysydd Bloc"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read."
+msgstr "Efallai y bydd y cyfuniad lliw hwn yn anodd i bobl ei ddarllen."
+
+#: build/block-library/index.js:8
+msgid "There is no poster image currently selected"
+msgstr "Nid oes delwedd poster wedi'i dewis ar hyn o bryd"
+
+#: build/block-library/index.js:8
+msgid "The current poster image url is %s"
+msgstr "URL y ddelwedd poster cyfredol yw %s"
+
+#: build/block-library/index.js:8
+msgid "section"
+msgstr "adran"
+
+#: build/block-library/index.js:8
+msgid "row"
+msgstr "rhes"
+
+#: build/block-library/index.js:8
+msgid "wrapper"
+msgstr "amlapiwr"
+
+#: build/block-library/index.js:8
+msgid "container"
+msgstr "cynhwysydd"
+
+#: build/block-library/index.js:8
+msgid "A block that groups other blocks."
+msgstr "Bloc sy'n grwpio blociau eraill."
+
+#: build/block-library/index.js:8
+msgid "Group"
+msgstr "Grŵp"
+
+#: build/block-library/index.js:8
+msgid "Crop image to fill entire column"
+msgstr "Tocio delweddau i lanw'r golofn gyfan"
+
+#: build/block-library/index.js:8
+msgid "Play inline"
+msgstr "Chwarae mewnlin"
+
+#: build/block-library/index.js:8
+msgid "Leave empty if the image is purely decorative."
+msgstr "Gadael yn wag os yw'r ddelwedd ar gyfer addurno'n unig."
+
+#: build/block-library/index.js:8
+msgid "Describe the purpose of the image"
+msgstr "Disgrifiwch bwrpas y ddelwedd"
+
+#: build/block-editor/index.js:49
+msgid "Add a block"
+msgstr "Ychwanegu blog"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "Newid aliniad fertigol"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "Alinio'r Gwaelod yn Fertigol"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "Alinio'r Canol yn Fertigol"
+
+#: build/editor/index.js:11
+msgid "Replace Image"
+msgstr "Amnewid Delwedd"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "Alinio'r Brig yn Fertigol"
+
+#: build/block-library/index.js:8
+msgid "Display a legacy widget."
+msgstr "Dangos hen declynDangos hen declyn."
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget (Experimental)"
+msgstr "Hen Declyn (Arbrofol)"
+
+#: build/block-library/index.js:8
+msgid "Change widget"
+msgstr "Newid teclyn"
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget"
+msgstr "Hen Declyn"
+
+#: build/block-library/index.js:8
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Nid oes gennych ganiatâd i ddefnyddio teclynnau ar y wefan hon."
+
+#: build/block-library/index.js:8
+msgid "Select a legacy widget to display:"
+msgstr "Dewis hen declyn i'w dangos:"
+
+#: build/block-library/index.js:8
+msgid "There are no widgets available."
+msgstr "Nid oes teclynnau ar gael."
+
+#: build/block-editor/index.js:49
+msgid "Change block type or style"
+msgstr "Newid math neu arddull y bloc"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Gofod"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/block-editor/index.js:49
+msgid "More rich text controls"
+msgstr "Rhagor o reolaethau testun cyfoethog"
+
+#: build/editor/index.js:11
+msgid "Search Terms"
+msgstr "Chwilio'r Termau"
+
+#: build/editor/index.js:11
+msgid "Exit the Editor"
+msgstr "Gadael y Golygydd"
+
+#: build/edit-post/index.js:6
+msgid "Block Manager"
+msgstr "Rheolwr Bloc"
+
+#: lib/class-wp-rest-widget-forms.php:42
+msgid "Class name of the widget."
+msgstr "Enw'r dosbarth y teclyn."
+
+#: lib/class-wp-rest-widget-forms.php:81
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Ymddiheuriadau, nid oes gennych hawl i gael mynediad at declynnau ar y wefan hon."
+
+#: gutenberg.php:51 gutenberg.php:52
+msgid "Widgets (beta)"
+msgstr "Teclynnau (beta)"
+
+#: build/block-library/index.js:8
+msgid "link"
+msgstr "dolen"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Nid oes modd cael rhagolwg o gynnwys wedi'i fewnblannu gan %s yn y golygydd."
+
+#: build/components/index.js:6
+msgid "Custom color"
+msgstr "Lliw cyfaddas"
+
+#: build/block-library/index.js:8
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Annog ymwelwyr i weithredu gyda dolen fel  botwm."
+
+#: build/block-library/blocks/rss.php:58
+msgid "by"
+msgstr "gan"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Digwyddodd gwall, sydd fel arfer yn golygu nad yw'r llif yn weithredol ar hyn o bryd. Ceisia eto'n hwyrach ymlaen."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Gwall RSS:"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgctxt "block style"
+msgid "Default"
+msgstr "Rhagosodiad"
+
+#: build/editor/index.js:11
+msgid "Stick to the top of the blog"
+msgstr "Glynu i frig y blog"
+
+#: build/edit-post/index.js:6
+msgid "Read about permalinks"
+msgstr "Darllen am ddolenni parhaol"
+
+#: build/edit-post/index.js:6
+msgid "The last part of the URL."
+msgstr "Rhan olaf yr URL."
+
+#: build/edit-post/index.js:6
+msgid "URL Slug"
+msgstr "Bonyn URL"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode deactivated"
+msgstr "Wedi diffodd y modd sgrin lawn"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode activated"
+msgstr "Modd sgrin llawn wedi'i weithredu"
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode deactivated"
+msgstr "Wedi diffodd y modd flacholau"
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode activated"
+msgstr "Y modd Fflacholau wedi ei weithredu"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar deactivated"
+msgstr "Bar offer brig  wedi'i ddadweithredu"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar activated"
+msgstr "Bar offer brig  wedi'i weithredu"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Back"
+msgstr "Nôl"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature activated"
+msgstr "Nodwedd wedi'i weithredu"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature deactivated"
+msgstr "Nodwedd wedi'i anweithredu"
+
+#: build/components/index.js:6
+msgid "Vertical pos."
+msgstr "Safle fertigol."
+
+#: build/components/index.js:6
+msgid "Horizontal pos."
+msgstr "Safle llorweddol."
+
+#: build/block-library/index.js:8
+msgid "A cloud of your most used tags."
+msgstr "Cwmwl o'r tagiau amlycaf."
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud"
+msgstr "Cwmwl Tagiau"
+
+#: build/block-library/index.js:8 build/core-data/index.js:1
+msgid "Taxonomy"
+msgstr "Tacsonomi"
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud settings"
+msgstr "Gosodiadau Cwmwl Tagiau"
+
+#: build/block-library/index.js:8
+msgid "- Select -"
+msgstr "- Dewis -"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Default"
+msgstr "Rhagosodedig"
+
+#: build/block-library/index.js:8
+msgid "find"
+msgstr "canfod"
+
+#: build/block-library/index.js:8
+msgid "Help visitors find your content."
+msgstr "Helpwch ymwelwyr i ddod o hyd i'ch cynnwys."
+
+#: build/block-library/blocks/search.php:32
+#: build/block-library/blocks/search.php:83
+#: build/block-library/blocks/search.php:91 build/block-library/index.js:8
+msgid "Search"
+msgstr "Chwilio"
+
+#: build/block-library/index.js:8
+msgid "Add button text…"
+msgstr "Ychwanegu testun botwm…"
+
+#: build/block-library/index.js:8
+msgid "Button text"
+msgstr "Testun botwm"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder…"
+msgstr "Deiliad lle dewisol…"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder text"
+msgstr "Testun deiliaid lle dewisol"
+
+#: build/block-library/index.js:8
+msgid "Add label…"
+msgstr "Ychwanegu label…"
+
+#: build/block-library/index.js:8
+msgid "Label text"
+msgstr "Testun label"
+
+#: build/block-library/index.js:8
+msgid "feed"
+msgstr "llif"
+
+#: build/block-library/index.js:8
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:8
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Dangos gofnodion o unrhyw lif RSS neu Atom."
+
+#: build/block-library/index.js:8
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:8
+msgid "Max number of words in excerpt"
+msgstr "Uchafswm nifer o eiriau yn y darn"
+
+#: build/block-library/index.js:8
+msgid "Display excerpt"
+msgstr "Dangos darn"
+
+#: build/block-library/index.js:8
+msgid "Display date"
+msgstr "Dangos y dyddiad"
+
+#: build/block-library/index.js:8
+msgid "Display author"
+msgstr "Dangos yr awdur"
+
+#: build/block-library/index.js:8
+msgid "RSS settings"
+msgstr "Gosodiadau RSS"
+
+#: build/block-library/index.js:8
+msgid "Edit RSS URL"
+msgstr "Golygu URL RSS"
+
+#: build/block-library/index.js:8
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Bydd y cynnwys cyn y bloc hwn yn cael ei ddangos yn y darn ar eich tudalen archif."
+
+#: build/block-library/index.js:8
+msgid "Hide the excerpt on the full content page"
+msgstr "Cuddio'r darn ar y dudalen cynnwys llawn"
+
+#: build/block-library/index.js:8
+msgid "The excerpt is visible."
+msgstr "Mae'r ddarn yn weladwy."
+
+#: build/block-library/index.js:8
+msgid "The excerpt is hidden."
+msgstr "Mae'r darn yn guddiedig."
+
+#: build/block-library/index.js:8
+msgid "image %1$d of %2$d in gallery"
+msgstr "delwedd %1$d o %2$d yn yr oriel"
+
+#: build/block-library/index.js:8
+msgid "Sorry, this content could not be embedded."
+msgstr "Ymddiheuriadau, nid oes modd mewnblannu'r cynnwys hwnnw."
+
+#: build/block-library/index.js:8
+msgid "Embed Amazon Kindle content."
+msgstr "Mewnblannu cynnwys Amazon Kindle."
+
+#: build/block-library/index.js:8
+msgid "ebook"
+msgstr "eLyfr"
+
+#: build/block-library/index.js:8
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Mewnblannu cynnwys Crowdsignal (Polldaddy gynt)."
+
+#: build/block-library/index.js:8
+msgid "Focal point picker"
+msgstr "Dewisydd pwynt ffocal"
+
+#: build/block-library/index.js:8
+msgid "archive"
+msgstr "archif"
+
+#: build/block-library/index.js:8
+msgid "posts"
+msgstr "cofnodion"
+
+#: build/block-library/index.js:8
+msgid "A calendar of your site’s posts."
+msgstr "Calendr o gofnodion eich gwefan."
+
+#: build/block-library/index.js:8
+msgid "Calendar"
+msgstr "Calendr"
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Tanlinellu"
+
+#: build/block-editor/index.js:49
+msgid "Attempt Block Recovery"
+msgstr "Ceisio Adfer Bloc"
+
+#: build/editor/index.js:11
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: build/block-library/index.js:8
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Cynnwys…"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Trosi i ddolen"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Try again"
+msgstr "Ceisio eto"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Awgrymiadau'r golygydd"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "Bloc (wedi ei ddewis)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "Dogfen (wedi ei dewis)"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d gair"
+msgstr[1] "%d air"
+msgstr[2] "%d gair"
+msgstr[3] "%d gair"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar"
+msgstr "Bar offer uchaf"
+
+#: build/block-editor/index.js:49
+msgid "Link Rel"
+msgstr "Perthynas y Ddolen"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "Dosbarth CSS y Ddolen"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Crëwch gynnwys, ei gadw ar eich cyfer chi a chyfrannwr eraill i'w ail ddefnyddio ar eich gwefan. Diweddarwch y bloc, a bydd y newidiadau'n digwydd lle bynnag mae'n cael ei ddefnyddio."
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "I olygu'r ddelwedd nodwedd, mae angen caniatâd arnoch i lwytho'r cyfryngau i fyny."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "I olygu'r bloc hwn, mae angen caniatâd arnoch i lwytho cyfrwng i fyny."
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(bloc dewiswyd)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "Offer bloc"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "Dolen Barhaol"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "Mae gan y ddelwedd hon briodwedd alt gwag"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Mae gan y ddelwedd hon briodwedd alt gwag; ei enw ffeil yw %s"
+
+#: lib/widgets.php:205
+msgid "Block area reverted to draft."
+msgstr "Ardal bloc wedi ei droi'n ôl i ddrafft."
+
+#: lib/widgets.php:204
+msgid "Block area published privately."
+msgstr "Ardal bloc wedi'i chyhoeddi'n breifat."
+
+#: lib/widgets.php:199
+msgid "No block areas found in Trash."
+msgstr "Dim ardal bloc yn y Sbwriel."
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "Ychwanegu"
+
+#: lib/widgets.php:190
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Ardal Bloc"
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Dolen wedi ei mewnosod."
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Rhybudd: mae'r ddolen wedi ei fewnosod ond gall god â gwallau. Rhowch brawf arno."
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s bloc wedi'i ddewis."
+msgstr[1] "%s bloc wedi'u dewis."
+msgstr[2] "%s bloc wedi'u dewis."
+msgstr[3] "%s bloc wedi'u dewis."
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "Llun bach"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "Maint Llawn"
+
+#: build/block-editor/index.js:49
+msgid "Link selected."
+msgstr "Dolen wedi ei dewis."
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "Dechrau ysgrifennu gyda thestun neu HTML"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "Teipio testun neu HTML"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "Eicon bloc"
+
+#: build/block-editor/index.js:49
+msgid "Align text right"
+msgstr "Alinio testun i'r dde"
+
+#: build/block-editor/index.js:49
+msgid "Align text center"
+msgstr "Alinio testun i'r canol"
+
+#: build/block-editor/index.js:49
+msgid "Align text left"
+msgstr "Alinio testun i'r chwith"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "Dechrau ysgrifennu neu deipio / i ddewis bloc"
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Bloc gwag; dechrau ysgrifennu neu deipio blaen slaes i ddewis bloc"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "Bloc paragraff"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "Toriad Tudalen"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "Stacio ar symudol"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Llusgwch ddelweddau, llwytho rhai newydd neu ddewis ffeiliau o'ch llyfrgell."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Anodiadau"
+
+#: build/block-editor/index.js:49
+msgctxt "blocks"
+msgid "Most used"
+msgstr "Defnyddiwyd amlaf"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Datrys"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Anferth"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "Mawr"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Canolig"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "Bach"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Arferol"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Mewnforio"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "Llwytho i lawr"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "Mewnblannu"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Embed"
+msgstr "Mewnblannu"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "Clasurol"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "Mawr"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Rounded"
+msgstr "Crwn"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Cyswllt wedi'i olygu."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Cyswllt wedii dynnu."
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "cyfrwng"
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "Gwiriwch eich gosodiadau cyn cyhoeddi."
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "Wrthi'n creu rhagolwg…"
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "Golygu neu ddiweddaru'r ddelwedd"
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "Cyfrwng"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "Ewch i'r bar offer agosaf."
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "Offer dogfennau"
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "Offer dogfennau a blociau"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Mewnblannu fideo o'ch llyfrgell cyfryngau neu lwytho un newydd."
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Mewnosod barddoniaeth. Defnyddiwch fformatau manwl arbennig. Neu dyfynnu geiriau cân."
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "Ychwanegu gofod gwyn rhwng blociau a chyfaddasu ei uchder."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Mewnosod elfennau cyfaddas ychwanegol gyda chod byr o WordPress."
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Creu toriad rhwng syniadau neu adrannau gyda gwahanydd llorweddol."
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Rhoi pwyslais gweledol ar destun wedi'i ddyfynnu. &quot;Wrth ddyfynnu eraill, rydym yn dyfynnu ein hunain.&quot; - Julio Cortázar"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Rhoi pwyslais gweledol arbennig i ddyfyniad o'ch testun."
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "Dechrau â'r bloc adeiladu o bob naratif."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "Rhannu eich cynnwys i brofiad aml-dudalen."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Gosod cyfryngau a geiriau ochr yn ochr â'i gilydd am gynllun cyfoethocach."
+
+#: build/block-library/index.js:8
+msgid "Media & Text settings"
+msgstr "Gosodiadau Cyfryngau a Thestun"
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "Creu rhestr bwled neu rifo."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "Dangos rhestr o'ch sylwadau mwyaf diweddar."
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "Mewnosod delwedd i wneud datganiad gweledol."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Ychwanegu cod HTML arferol a'i ragweld wrth olygu."
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Yn cyflwyno adrannau newydd a threfnu cynnwys i helpu ymwelwyr (a pheiriannau chwilio) i ddeall strwythur eich cynnwys."
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "Dangos delweddau lluosog mewn oriel gyfoethog."
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "Ychwanegu dolen at ffeil y mae modd ei llwytho i lawr."
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Mewnblannu fideos, delweddau, trydariadau, sain, a chynnwys arall o ffynonellau allanol."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "Newid maint ar gyfer dyfeisiau llai"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Efallai na fydd y mewnblannu hwn yn cadw ei gymhareb agwedd pan fydd y porwr wedi'i newid."
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Bydd y mewnblaniad yn cadw ei gymhareb agwedd pan fydd y porwr wedi newid maint."
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Mewnblannu fideo Animoto."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "Mewnblannu fideo Vimeo."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "Mewnblannu cynnwys Flikr."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Mewnblannu cynnwys Spotify."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "Mewnblannu cynnwys SoundCloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "Mewnblannu cofnod WordPress."
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "Mewnblannu cofnod Instagram."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "Mewnblannu cofnod Facebook."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "Mewnblannu fideo WordPress.tv."
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "Mewnblannu fideo VideoPress."
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "Mewnblannu cofnod Tumblr."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "Mewnblannu fideo TED."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "Mewnblannu cynnwys Speaker Deck."
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "Mewnblannu fideo YouTube."
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "Mewnblannu cynnwys SmugMug."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "Mewnblannu cynnwys Slideshare."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Mewnblannu cynnwys Scribd."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "Mewnblannu cynnwys Screencast."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "Mewnblannu cynnwys ReverNation."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Mewnblannu trywydd Reddit."
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "Mewnblannu cynnwys Polldaddy."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Mewnblannu cynnwys Mixcloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "Mewnblannu trydariad."
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Mewnblannu cynnwys Meetup.com."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Mewnblannu cynnwys Kickstarter."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Mewnblannu cynnwys Issuu."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Mewnblannu cynnwys Imgur."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Mewnblannu cynnwys Hulu."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Mewnblannu fideo Dailymotion."
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "Mewnblannu cynnwys CollegeHumor."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Mewnblannu cynnwys Cloudup."
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Ychwanegu delwedd neu fideo gyda gorchudd testun - gwych i benawdau."
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Dangos darnau cod sy'n parchu'ch bylchu a'ch tabiau."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "Defnyddiwch y golygydd WordPress clasurol."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "Dangos rhestr o bob categori."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "Mewnblannu chwaraewr sain syml."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "Golwg"
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Chwith i'r dde"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "Cadw fel Dan Ystyriaeth"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "%s cyfeiriad"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "Gludo neu deipio URL"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "Mewnosod o URL"
+
+#: build/block-library/index.js:8
+msgid "Block Navigator"
+msgstr "Llywiwr Bloc"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "Arddulliau"
+
+#: build/edit-post/index.js:6
+msgid "Advanced panels"
+msgstr "Paneli uwch"
+
+#: build/edit-post/index.js:6
+msgid "Document panels"
+msgstr "Paneli dogfennau"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "Cyffredinol"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "Agorwch y ddewislen llywio blociau ."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "Gweithio heb darfu"
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "Canolbwyntio ar un bloc ar y tro"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "Mynediad i bob offer bloc a dogfen mewn un lle"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "Dewisiadau"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(yn agor mewn tab newydd)"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "Munud"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "Awr"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "Amser"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "Blwyddyn"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "Diwrnod"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "Rhagfyr"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "Tachwedd"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "Hydref"
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "Medi"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "Awst"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "Gorffennaf"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "Mehefin"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "Mai"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "Ebrill"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "Mawrth"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "Chwefror"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "Ionawr"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "Mis"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "Dyddiad"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Ewch i ddiwrnod cyntaf (cartref) neu ddiwethaf (diwedd) yr wythnos."
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Cartref/Diwedd"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Cartref a Diwedd"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Symud nôl (PgUp) neu ymlaen (PgDn) un mis."
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Page Up a Page Down"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Symud nôl (i fyny) ac ymlaen (i lawr) un wythnos."
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "Saethau i fyny ac i lawr"
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Symud nôl (chwith) ac ymlaen (dde) un diwrnod."
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "Saethau Chwith a De"
+
+#: build/components/index.js:6
+msgid "Select the date in focus."
+msgstr "Dewiswch y dyddiad yn y ffocws."
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "Llywio gyda bysellfwrdd"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "Clicio'r diwrnod dewis i'w ddewis."
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Clicio'r saethau dde a chwith i ddewis misoedd eraill yn y gorffennol neu'r dyfodol."
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "Clicio i Ddewis"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "Cymorth Calendr"
+
+#: build/components/index.js:6
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Defnyddiwch eich bysellau saeth i newid y lliw sylfaen. Symud i fyny i oleuo'r lliw, i lawr i dywyllu, i'r chwith i gynyddu dirlawnder, ac i'r dde i leihau dirlawnder."
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "Dewis cysgod"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "Newid fformat lliw"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "Gwerth lliw yw HSL"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "Gwerth lliw yw RGB"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "Gwerth lliw mewn hecsadegol"
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "Dull RGB yn weithredol"
+
+#: build/components/index.js:6
+msgid "Hex color mode active"
+msgstr "Modd lliw hecs yn weithredol"
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "Modd arlliw/dirlawnder/goleuni yn weithredol"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "Symud y saeth i'r chwith neu'r dde i newid golwg."
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Gwerth arlliw mewn graddau, o 0 i 359."
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Gwerth Alpha, o 0 (tryloyw) i 1 (yn hollol didraidd)."
+
+#: build/block-library/index.js:8
+msgid "Stripes"
+msgstr "Streipiau"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "Nid yw eich gwefan yn cynnwys cefnogaeth i'r bloc hwn."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Nid yw eich gwefan yn cynnwys cefnogaeth ar gyfer y bloc \"%s\". Gallwch adael y bloc hwn yn llwyr neu ei dynnu'n llwyr."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Nid yw eich gwefan yn cynnwys cefnogaeth ar gyfer y bloc \"%s\". Gallwch adael y bloc hwn yn gyfan, trosi ei gynnwys i bloc HTML Cyfaddas, neu ei dynnu'n llwyr."
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "Ardal Cyfryngau"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "Cyfryngau a Thestun"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "Dangos y cyfryngau ar y dde"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "Dangos y cyfryngau ar y chwith"
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "Clawr"
+
+#: build/block-library/index.js:8
+msgid "Border settings"
+msgstr "Gosodiadau border"
+
+#: lib/widgets-page.php:58 lib/edit-site-page.php:78
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Medium"
+msgstr "Canolig"
+
+#: build/block-editor/index.js:49
+msgid "Paste URL or type to search"
+msgstr "Gludwch URL neu deipio i chwilio"
+
+#: build/editor/index.js:11
+msgid "Terms"
+msgstr "Amodau"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "Bydd eich gwaith yn cael ei gyhoeddi ar y dyddiad a'r amser penodol."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "Ydych chi'n barod i amserlennu?"
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "Dangos gwiriadau cyn cyhoeddi bob tro."
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "Cymryd Drosodd"
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Mae defnyddiwr arall yn gweithio ar y cofnod hwn ar hyn o bryd, sy'n golygu nad oes modd i chi wneud newidiadau, oni bai eich bod yn cymryd drosodd."
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Mae %s yn gweithio ar y cofnod hwn ar hyn o bryd, sy'n golygu nad oes modd i chi wneud newidiadau, oni bai eich bod yn cymryd drosodd."
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Mae gan ddefnyddiwr arall reolaeth olygyddol o'r cofnod hwn. Peidiwch â phoeni, mae eich newidiadau hyd yma wedi eu cadw."
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Mae gan %s reolaeth olygyddol o'r cofnod hwn. Peidiwch â phoeni, mae eich newidiadau hyd yma wedi eu cadw."
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "Afatar"
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "Mae'r cofnod hwn eisoes wedi ei olygu."
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "Mae rhywun arall wedi cymryd drosodd y cofnod hwn."
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "Mae'r bloc hwn yn cynnwys cynnwys annisgwyl neu annilys."
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "Datrys Bloc"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "Trosi i HTML"
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "Dim ond unwaith mae modd defnyddio'r bloc hwn."
+
+#: build/edit-post/index.js:6
+msgid "Exit code editor"
+msgstr "Gadael y golygydd cod"
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "Cod Golygu"
+
+#: build/block-library/index.js:8
+msgid "Solid color"
+msgstr "Lliw solet"
+
+#: build/block-library/index.js:8
+msgid "Main color"
+msgstr "Prif liw"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "Ysgrifennu HTML…"
+
+#: build/block-library/index.js:8
+msgid "Media settings"
+msgstr "Gosodiadau cyfrwng"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "Troshaen"
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "Mewnosod Cyfrwng"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "…Y bloc ailddefnyddiadwy wedi ei fewnforio'n llwyddiannus!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "FFeil JSON Bloc Ailddefnyddiadwy annilys"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Ffeil JSON annilys"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Mewnforio o JSON"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Ôldic"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Atalnod llawn"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Atalnod"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Newid y math o %d bloc"
+msgstr[1] "Newid y math o %d bloc"
+msgstr[2] "Newid y math o %d bloc"
+msgstr[3] "Newid y math o %d bloc"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "Cyfredol"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "Ar ôl Trosi"
+
+#: build/block-editor/index.js:49
+msgid "Change alignment"
+msgstr "Newidiwch yr aliniad"
+
+#: build/block-editor/index.js:49
+msgid "Change text alignment"
+msgstr "Newidiwch yr aliniad testun"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d bloc"
+msgstr[1] "%d bloc"
+msgstr[2] "%d bloc"
+msgstr[3] "%d bloc"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "Blaen slaes"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Dim archifau i'w dangos."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Mae'r ffeil yn wag."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Ymddiheuriadau, nid yw'r math yna o ffeil yn cael ei chynnal yma."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Manage all reusable blocks"
+msgstr "Rheoli pob bloc ailddefnyddiadwy"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "Teitl"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode"
+msgstr "Modd sgrin llawn"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Tirwedd hardd"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "Cau'r panel"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "Trosi i Floc Clasurol"
+
+#: build/block-library/index.js:8
+msgid "Poster image"
+msgstr "Delwedd poster"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Mae'r bloc hwn yn anghymeradwy. Defnyddiwch y bloc Colofnau yn lle hynny."
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "Colofnau Testun (anghymeradwy)"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "Creu"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "Cyfrif Rhesi"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "Cyfrif Colofnau"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Mae'r bloc hwn yn anghymeradwy. Defnyddiwch y bloc Paragraff yn lle hynny."
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "Is-bennawd (anghymeradwy)"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "dyfyniad bloc"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "Newid y math bloc ar ôl ychwanegu paragraff newydd."
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode"
+msgstr "Modd amlygu"
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Mae tagiau yn helpu defnyddwyr a pheiriannau chwilio i lywio'ch gwefan a dod o hyd i'ch cynnwys. Ychwanegwch ychydig o eiriau allweddol i ddisgrifio'ch cynnwys."
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "Ychwanegu tagiau"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "Gosod y fformat \"%1$s\"."
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Mae'ch thema yn defnyddio fformat cofnod i dynnu sylw at wahanol fathau o gynnwys, fel delweddau neu fideos. Gosodwch fformat cofnod i weld yr arddull arbennig hwn."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "Defnyddiwch fformat cofnod"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "Mewnosod Ar Ôl"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "Mewnosod Cyn"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Symud %1$d bloc safle %2$d i lawr fesul un lle"
+msgstr[1] "Symud %1$d bloc safle %2$d i lawr fesul un lle"
+msgstr[2] "Symud %1$d bloc safle %2$d i lawr fesul un lle"
+msgstr[3] "Symud %1$d bloc safle %2$d i lawr fesul un lle"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Symud %1$d bloc safle %2$d i fyny fesul un lle"
+msgstr[1] "Symud %1$d bloc safle %2$d i fyny fesul un lle"
+msgstr[2] "Symud %1$d bloc safle %2$d i fyny fesul un lle"
+msgstr[3] "Symud %1$d bloc safle %2$d i fyny fesul un lle"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d right to position %3$d"
+msgstr "Symudwch floc %1$s o safle %2$d i'r dde i safle %3$d"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Symud bloc %1$s o safle %2$d i fyny i safle %3$d"
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "ffilm"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "Mewnosod bloc newydd cyn y bloc (au) a ddewiswyd."
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "Tynnwch y bloc(iau) a ddewiswyd."
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "Dyblygu'r bloc(iau) a ddewiswyd."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "Rhwystro llwybrau byr"
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "Clirio'r dewis."
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Dewiswch yr holl destun wrth deipio. Cliciwch eto i ddewis pob bloc."
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "Llwybrau byr dewis"
+
+#: build/edit-post/index.js:6
+msgid "Switch between visual editor and code editor."
+msgstr "Newid rhwng golygydd gweledol a'r golygydd codau."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "Ewch i'r rhan flaenorol o'r olygydd."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "Ewch i'r rhan nesaf y golygydd."
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "Dangos neu guddio gosodiadau'r bar ochr."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "Ail-wneud y dadwneud diwethaf."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "Dadwneud y newidiadau diwethaf."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "Cadw eich newidiadau."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "Llwybrau byr eang"
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "Tynnwch ddolen."
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "Trosi'r testun a ddewiswyd i mewn i ddolen."
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "Tanlinellwch y testun a ddewiswyd."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "Gwnewch y testun a ddewiswyd yn italig."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "Gwnewch y testun a ddewiswyd yndrwm."
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "Fformatio testun"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "Mewnosod bloc newydd ar ôl y bloci(au) a ddewiswyd."
+
+#: build/edit-post/index.js:6
+msgid "Keyboard shortcuts"
+msgstr "Llwybrau byr bysellfwrdd"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Diolch am brofi Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Helpwch i adeiladu Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Os ydych chi eisiau dysgu mwy am sut i adeiladu blociau ychwanegol, neu os oes gennych ddiddordeb mewn helpu gyda'r prosiect, ewch i'r <a href=\"%s\">storfa GitHub</a> ."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Cymuned WordPress"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Barddoniaeth yw Cod"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Gallwch adeiladu unrhyw floc fel yr hoffech chi, yn sefydlog neu'n ddeinamig, addurnol neu blaen. Dyma floc dangos dyfyniad:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Gallwch osod unrhyw floc i gyd-fynd â'r aliniadau hyn. Mae'r bloc mewnblannu hefyd yn gallu gwneud hynny ac yn ymatebol hefyd:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Mae'r uchod yn oriel gyda dim ond dwy ddelwedd. Mae'n ffordd haws o greu cynlluniau sy'n apelio'n weledol, heb orfod delio â rhai sy'n arnofio. Gallwch hefyd drawsnewid yr oriel yn ôl i ddelweddau unigol yn hawdd, trwy ddefnyddio'r bloc newid."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Gall y ddelwedd lawn-eang fod yn eithaf mawr. Ond ar adegau mae'r ddelwedd yn drawiadol iawn."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Mae hygyrchedd yn bwysig - peidiwch ag anghofio priodwedd delwedd"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Os ydych chi'n cyfuno'r aliniadau newydd <strong>llydan</strong> a <strong>llydan llawn</strong> ag orielau, gallwch greu cynllun cyfrwng cyfoethog, yn gyflym iawn:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Cyfrwng Cyfoethog"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Gallwch newid y nifer o golofnau yn eich orielau trwy lusgo llithrydd yn yr arolygydd bloc yn y bar ochr."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Gall blociau fod yn unrhyw beth sydd eu hangen arnoch. Er enghraifft, efallai yr hoffech chi ychwanegu dyfyniad tawel fel rhan o gyfansoddiad eich testun, neu efallai y byddai'n well gennych ddangos un arddull fawr. Mae'r holl opsiynau hyn ar gael yn y mewnosodwr."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Mae'r wybodaeth sy'n cyfateb i ffynhonnell y dyfyniad yn faes testun ar wahân, sy'n debyg i benawdau dan ddelweddau, felly mae strwythur y dyfyniad wedi'i ddiogelu hyd yn oed os ydych yn dewis, yn addasu, neu'n tynnu'r ffynhonnell. Mae bob amser yn hawdd ei roi yn ôl."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Bydd y golygydd yn ceisio creu tudalen newydd a phrofiad ôl-adeiladu sy'n gwneud ysgrifennu cofnodion cyfoethog yn hawdd, ac mae ganddo 'flociau' i wneud yn hawdd yr hyn, r hyn o bryd, sy'n cymryd codau byr,, HTML cyfaddas, neu ddarganfod mewnblaniad  “mystery meat”."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Mantais mawr blociau yw y gallwch eu golygu yn eu lle a thrin eich cynnwys yn uniongyrchol. Yn lle cael meysydd ar gyfer golygu pethau fel ffynhonnell dyfyniad, neu destun botwm, gallwch newid y cynnwys yn uniongyrchol. Ceisiwch olygu'r dyfyniad canlynol:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Golygu Gweledol"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A <em>Rhestrau</em> fel hyn, wrth gwrs :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blociau cynllun, fel Botymau, Delweddau Trawiadol, Gwahanwyr, ac ati."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Mewnblaniadau, fel YouTube, Trydariadau, neu gofnodion WordPress eraill."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Orielau"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Delweddau a Fideos"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Penawdau Testun"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Rhowch cynnig arno, fe allwch ddarganfod pethau y gall WordPress eu hychwanegu at eich cofnod nad oeddech chi'n gwybod amdanyn nhw. Dyma restr fer o'r hyn y gallwch chi ei gael yno ar hyn o bryd:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Dychmygwch fod popeth y gall WordPress ei wneud ar gael i chi yn gyflym ac yn yr un lle ar y rhyngwyneb. Nid oes angen gweithio allan tagiau HTML, dosbarthiadau, na chofio cystrawen cymhlethdod codau byr. Dyna'r syniad y tu ôl i'r mewnosodwr — y botwm <code>(+)</code> byddwch yn ei weld o gwmpas y golygydd—sy'n eich galluogi i bori drwy'r holl flociau cynnwys sydd ar gael a'u hychwanegu i'ch cofnod. Gall ychwanegion a themâu gofrestru eu hunain, gan agor pob math o bosibiliadau ar gyfer golygu a chyhoeddi cyfoethog."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Y Teclyn <em>Mewnosod</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Ceisiwch ddewis a dileu neu olygu'r pennawd, nawr does dim angen i chi fod yn ofalus ynglŷn â dewis y ddelwedd neu destun arall trwy gamgymeriad a difetha'r cyflwyniad."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Os yw'ch thema yn ei gefnogi, fe welwch y botwm \"eang\" ar y bar offer delwedd. Rhowch gynnig arni."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Mae delio â delweddau a chyfryngau gyda'r gofal mwyaf yn brif ffocws y golygydd newydd. Gobeithio y byddwch yn cael ychwanegu capsiynau neu fynd yn lled llawn â'ch lluniau yn llawer haws a chadarn nag o'r blaen."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Mae Darlun yn Werth Mil o Eiriau"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Mae penawdau hefyd yn flociau ar wahân, sy'n helpu gydag amlinell a threfniadaeth eich cynnwys."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... fel yr un yma, sydd wedi'i alinio i'r dde."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Mae'r hyn rydych yn ei ddarllen nawr yw <strong>floc testun</strong>, y bloc mwyaf sylfaenol oll. Mae gan y bloc testun ei reolaethau ei hun i'w symud yn rhydd o gwmpas y cofnod..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Nod y golygydd newydd hwn yw ychwanegu cynnwys cyfoethog i WordPress mewn ffordd syml a hwylus. Mae'r cofnod cyfan hwn yn cynnwys <em>darnau o gynnwys</em> - ychydig yn debyg i frics LOGO - y gallwch eu symud o gwmpas a rhyngweithio â nhw. Symudwch eich cyrchwr o gwmpas a byddwch yn sylwi ar y gwahanol flociau yn goleuo gydag amlinelliadau a saethau. Cliciwch y saethau i ailosod y blociau'n gyflym, heb ofni colli pethau yn y broses o gopïo a gludo."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Mynyddoedd a Gweisg Argraffu"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Croeso i Olygydd Gutenberg"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "Rhagor"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Rhagor"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Ydych chi'n siŵr eich bod am ddadamserlennu'r cofnod hwn?"
+
+#: build/block-library/index.js:8
+msgid "Alt text (alternative text)"
+msgstr "Testun amgen (testun amgen)"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "Bloc Ailddefnyddiadwy"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "Y teitl ar gyfer y gwrthrych."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "Dynodwr unigryw ar gyfer y gwrthrych."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "Bloc Ail Ddefnyddiadwy Dideitl"
+
+#: build/components/index.js:6
+msgid "Small"
+msgstr "Bach"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "Ail Ddefnyddiadwy"
+
+#: build/editor/index.js:11
+msgid "Remove from Reusable blocks"
+msgstr "Tynnu o'r blociau ailddefnyddiadwy"
+
+#: build/editor/index.js:11
+msgid "Add to Reusable blocks"
+msgstr "Ychwanegu at y blociau ailddefnyddiadwy"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "Cadw fel HTML"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "Golygu URL"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Color settings"
+msgstr "Gosodiadau lliw"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Nid yw'r ymateb yn ymateb dilys JSON."
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "Cyhoeddi golygydd"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "Wedi'i Fudo"
+
+#: build/block-library/index.js:8
+msgid "Video settings"
+msgstr "Gosodiadau fideo"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "sylwadau diweddar"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "Sylwadau Diweddaraf"
+
+#: build/block-library/index.js:8
+msgid "Display avatar"
+msgstr "Dangos Afatar"
+
+#: build/block-library/index.js:8
+msgid "Latest comments settings"
+msgstr "Gosodiadau sylwadau diweddaraf"
+
+#: build/block-library/index.js:8
+msgid "Number of comments"
+msgstr "Nifer y sylwadau"
+
+#: build/block-library/index.js:8
+msgid "Background opacity"
+msgstr "Didreiddedd cefndir"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "Awto"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "Rhaglwytho"
+
+#: build/block-library/index.js:8
+msgid "Audio settings"
+msgstr "Gosodiadau sain"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "Dangos archif misol o'ch cofnodion."
+
+#: build/block-library/index.js:8
+msgid "Archives settings"
+msgstr "Gosodiadau archifau"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "Cymorth"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Dim sylwadau i'w dangos."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s ar %2$s"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Dewis Cofnod"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Dewis Wythnos"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Dewis Diwrnod"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Dewis Mis"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Dewis Blwyddyn"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "Archif"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "Llwyd tywyll iawn"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "Llwyd las wyrdd"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "Llwyd golau iawn"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "Glas wyrdd cryf"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "Glas wyrdd gwan"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "Gwyrdd glaswyrdd cryf"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "Gwyrdd glaswyrdd cryf"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "Ambr cryf llewyrchol"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "Oren cryf llewyrchol"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "Coch llachar"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "Pinc gwan"
+
+#: build/format-library/index.js:1
+msgid "Inline image"
+msgstr "Delwedd fewnlin"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "Mathau bloc sydd ar gael"
+
+#: build/block-editor/index.js:49
+msgid "Transform to"
+msgstr "Trawsnewid i"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "Dileu Bloc"
+msgstr[1] "Dileu Blociau"
+msgstr[2] "Dileu Blociau"
+msgstr[3] "Dileu Blociau"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "Agor panel cyhoeddi"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "Dotiau"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "Llinell Llydan"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "Mawr"
+
+#: build/block-library/index.js:8
+msgid "Show download button"
+msgstr "Dangos botwm llwytho i lawr"
+
+#: build/block-library/index.js:8
+msgid "Download button settings"
+msgstr "Gosodiadau botwm llwytho i lawr"
+
+#: build/block-library/index.js:8
+msgid "Link to"
+msgstr "Dolen i"
+
+#: build/block-library/index.js:8
+msgid "Text link settings"
+msgstr "Gosodiadau cyswllt testun"
+
+#: build/block-library/index.js:8
+msgid "download"
+msgstr "llwytho i lawr"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "dogfen"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "Copïo URL"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "Ysgrifennwch enw'r ffeil…"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Ffeil"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "Un golofn o fewn bloc colofnau."
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "Colofn"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "Amlinell"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "Cylchu"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "Awtochwarae"
+
+#: build/block-library/index.js:8
+msgid "Playback controls"
+msgstr "Rheolyddion chwarae"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "Cau'r deialog"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Nid yw'r math hon o ffeil yn cael ei chaniatáu am resymau diogelwch."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Analluogi awgrymiadau"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Iawn, rwy'n deall"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Gweld yr awgrym nesaf"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Pan fyddwch chi'n barod, cyflwynwch eich gwaith i'w hadolygu, a bydd Golygydd yn gallu ei gymeradwyo ar eich rhan."
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "Ydych chi'n barod i'w gyflwyno ar gyfer ei adolygu?"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "Tynnu'r ddelwedd"
+
+#: lib/class-wp-rest-menu-items-controller.php:399
+msgid "Invalid term ID."
+msgstr "ID term annilys."
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ID rhiant y gwrthrych."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Gwall wrth lwytho ffeil %s i lyfrgell y cyfryngau."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Mae'r ffeil yn rhy fawr ar gyfer y wefan hon."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "Edrychwch ar yr awtogadw"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Mae fersiwn awtogadw o'r cofnod hwn sy'n fwy diweddar na'r fersiwn isod."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "Awtogadw"
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "Rhowch URL yma…"
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "Pinio i'r bar offer"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "Dadbinio o'r bar offer"
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Mewnosod tabl - yn berffaith ar gyfer rhannu siartiau a data."
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "Celloedd tabl lled sefydlog"
+
+#: build/block-library/index.js:8
+msgid "Table settings"
+msgstr "Gosodiadau tablau"
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Ychwanegwch destun sy'n parchu eich gofod a'ch tabiau, a hefyd yn caniatáu ei addurno."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "Dangoswch restr o'ch cofnodion diweddaraf."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Ychwanegwch floc sy'n dangos cynnwys sy'n cael ei dynnu o wefannau eraill, fel Twitter, Instagram neu YouTube."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Ychwanegwch floc sy'n dangos cynnwys mewn nifer lluosog o golofnau, yna ychwanegwch pa flociau bynnag yr hoffech chi."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Gwall wrth lwytho bloc: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Gwall anhysbys"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Mewnblannwch Reolwr"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Tynnu %s"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "Copïo'r ddolen barhaol"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "Dolen barhaol wedi ei gopïo"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "Uchder mewn picseli"
+
+#: build/block-library/index.js:8
+msgid "Spacer settings"
+msgstr "Gosodiadau bylchwr"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "Bylchwr"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "Toglo i ddangos llythyren cychwynnol mawr."
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "Yn dangos llythyren cychwynnol mawr."
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "Enw:"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s o%3$s)"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "Tynnu eitem"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "Cod lliw: %s"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "Ewch i'r bloc dewiswyd"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "Amserlenwyd…"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "Golygu dolen barhaol cofnod"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "Dangos Gosodiadau Bloc"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "Cuddio Gosodiadau Bloc"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "Lleoliadau bloc wedi cau"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "Ychwanegwch ategyn"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "Gosodiadau golygydd"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Link settings"
+msgstr "Gosodiadau dolen"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Datgysylltu"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "Toriad tudalen"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "tudaleniad"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "tudalen nesaf"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "Maint Delwedd"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "Uchder"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "Lled"
+
+#: build/block-editor/index.js:49
+msgid "Image dimensions"
+msgstr "Dimensiynau delwedd"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "Nid yw lluniau bach wedi eu tocio."
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "Mae lluniau bach wedi eu tocio i'w halinio."
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "Llyfrgell Cyfrwng"
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "Uwch"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "Ychwanegu eitem"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "Ailosod y templed"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "Cadwch fel ag y mae"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Nid yw cynnwys eich cofnod yn cydweddu'r templed a neilltuwyd i'ch math o gofnod."
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Gall ailosod y templed arwain at golli cynnwys, ydych chi am barhau?"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "Ystadegau Dogfen"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "wedi'i amserlennu. Bydd yn mynd yn fyw ar"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "Amserlenwyd"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "Amserlennu…"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "Golygydd cod wedi'i ddewis"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "Golygydd gweledol wedi'i ddewis"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "Ategion"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "Maint Cyfaddas"
+
+#: build/blocks/index.js:2
+msgid "Layout elements"
+msgstr "Elfennau'r cynllun"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s wedi'i ddileu"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s wedi'i ychwanegu"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Rhagolwg"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "Bloc wedi'i ddileu."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "Bloc wedi'i ddiweddaru."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "Bloc wedi'i greu."
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "Methodd gosod yn y sbwriel"
+
+#: build/editor/index.js:11
+msgid "Updating failed."
+msgstr "Methodd y diweddaru."
+
+#: build/editor/index.js:11
+msgid "Scheduling failed."
+msgstr "Methodd yr amserlennu."
+
+#: build/editor/index.js:11
+msgid "Publishing failed."
+msgstr "Methodd y cyhoeddi."
+
+#: build/edit-post/index.js:6
+msgid "View post"
+msgstr "Darllen y cofnod"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Mae gennych newidiadau heb eu cadw. Os byddwch yn bwrw ymlaen, byddan nhw'n cael eu colli."
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "Amlinelliad o'r Ddogfen"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "Paragraffau"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "Penawdau"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "Geiriau"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "Strwythur cynnwys"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "Cyhoeddus"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Wedi'i warchod gyda chyfrinair rydych chi'n ei ddewis. Dim ond y rhai sydd â'r cyfrinair all weld y cofnod hwn."
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "Diogelu gyda Chyfrinair"
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "Dim ond gweladwy i weinyddwyr a golygyddion."
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "Preifat"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "Yn weladwy i bawb."
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "Gwelededd Cofnod"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "Hoffech chi gyhoeddi'r cofnod yn breifat nawr?"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "Defnyddiwch gyfrinair diogel"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "Creu cyfrinair"
+
+#: build/editor/index.js:11
+msgid "Move to Trash"
+msgstr "Symud i'r Sbwriel"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "Term Rhiant"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "Categori Rhiant"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "Ychwanegwch derm newydd"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "Ychwanegu categori newydd"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "Term"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "Tag"
+
+#: build/editor/index.js:11
+msgid "Add new Term"
+msgstr "Ychwanegu term newydd"
+
+#: build/editor/index.js:11
+msgid "Add new tag"
+msgstr "Ychwanegu tag newydd"
+
+#: build/editor/index.js:11
+msgid "Switch to draft"
+msgstr "Newid i'r drafft"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Ydych chi'n siŵr eich bod am ddatgyhoeddi'r cofnod hwn?"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "Ar unwaith"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "Cadw Drafft"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "Cadw"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "Cyhoeddi:"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "Gwelededd:"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "Ydych chi'n barod i'w gyhoeddi?"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "Copïo Dolen"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "Beth sydd nesaf?"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "nawr yn fyw."
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "Cyhoeddwyd"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "Amserlennu"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Diweddaru"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "Cyflwyno ar gyfer Adolygiad"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "Diweddaru…"
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "Cyhoeddi…"
+
+#: build/editor/index.js:11
+msgid "Allow pingbacks & trackbacks"
+msgstr "Caniatáu hysbysiad cydnabod a chyfeirio"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "Dolen Barhaol:"
+
+#: build/editor/index.js:11
+msgid "Pending review"
+msgstr "Dan ystyriaeth"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d Adolygiad"
+msgstr[1] "%d Adolygiad"
+msgstr[2] "%d Adolygiad"
+msgstr[3] "%d Adolygiad"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "Awgrym:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "Fformat Cofnod"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "Sgwrs"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "Statws"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "Safonol"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "Neilleb"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "Delwedd nodwedd"
+
+#: build/editor/index.js:11
+msgid "Set featured image"
+msgstr "Gosod delwedd nodwedd"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "Dysgwch fwy am ddyfyniadau llaw"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "Ysgrifennwch ddyfyniad (dewisol)"
+
+#: build/editor/index.js:11
+msgid "Allow comments"
+msgstr "Caniatáu sylwadau"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "Templed:"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "dim rhiant"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "dim teitl"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "Trefn"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "Heb ganfod blociau."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d canlyniad wedi ei ganfod."
+msgstr[1] "%d canlyniad wedi eu canfod."
+msgstr[2] "%d canlyniad wedi eu canfod."
+msgstr[3] "%d canlyniad wedi eu canfod."
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "Cadwyd"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Mewnblannu"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "Blociau"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "Chwiliwch am floc"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "Ychwanegu bloc"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "Gwall Copïo"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "Copi Testun Cofnod"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "Ceisiwch Adfer"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "Mae'r golygydd wedi canfod gwall annisgwyl."
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "Dadwneud"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "Ail-wneud"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Nid ydym yn argymell penawdau H1 lluosog)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Efallai y bydd eich thema eisoes yn defnyddio H1 ar gyfer teitl y cofnod)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(Lefel pennawd anghywir)"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(Pennawd gwag)"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Ydych chi'n siŵr eich bod am ddileu'r Bloc Ailddefnyddiadwy?\n"
+"\n"
+"Caiff ei dynnu'n barhaol o'r holl gofnodion a thudalennau sy'n ei ddefnyddio."
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "Trosi i Floc Arferol"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "Rhagor o ddewisiadau"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "Golygu'n weledol"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "Dyblygu"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Nid oes modd symud blociau i lawr gan eu bod eisoes ar y gwaelod"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Nid oes modd symud blociau i fyny gan eu bod eisoes ar y brig"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved right"
+msgstr "Mae bloc %1$s  ar ddechrau'r cynnwys ac nid oes modd ei symud i'r dde"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved right"
+msgstr "Mae bloc %1$s ar ddiwedd y cynnwys ac nid oes modd ei symud i'r dde"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Bloc %s yw'r unig floc, ac nid oes modd ei symud"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "Symud i lawr"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "Symud i fyny"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "Golygu fel HTML"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "Trosi i Flociau"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "Bloc: %s"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Mae'r bloc hwn wedi canfod gwall ac nid oes modd ei ragweld."
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "Heb ddewis bloc."
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "Trawsffurfio i:"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "Tynnu"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "Canfod y gwreiddiol"
+
+#: build/edit-post/index.js:6
+msgid "Copy all content"
+msgstr "Copïo'r holl gynnwys"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "Wedi'i gopïo!"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Mae gosodiadau ychwanegol ar gael nawr yn bar ochr gosodiadau bloc y Golygydd"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "Gwelededd"
+
+#: build/edit-post/index.js:6
+msgid "Status & visibility"
+msgstr "Statws a gwelededd"
+
+#: build/edit-post/index.js:6
+msgid "Page attributes"
+msgstr "Priodoleddau tudalen"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "Bloc"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "Dogfen"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "Cau gosodiadau"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "Cynnwys golygydd"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "Offer"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "Golygydd"
+
+#: build/edit-post/index.js:6
+msgid "Code editor"
+msgstr "Golygydd cod"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor"
+msgstr "Golygydd gweledol"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "Bar uchaf y golygydd"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "Gosodiadau"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "Ailosod"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "Diystyru'r rhybudd yma"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "Eitem wedi ei dynnu."
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "Ychwanegu eitem."
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "Gollwng ffeiliau i'w llwytho i fyny"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Digwyddodd gwall anhysbys."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "Dim canlyniadau."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "Wedi canfod %d canlyniad. Defnyddiwch y bysellau saeth i fyny ac i lawr i lywio."
+msgstr[1] "Wedi canfod %d canlyniad. Defnyddiwch y bysellau saeth i fyny ac i lawr i lywio."
+msgstr[2] "Wedi canfod %d canlyniad. Defnyddiwch y bysellau saeth i fyny ac i lawr i lywio."
+msgstr[3] "Wedi canfod %d canlyniad. Defnyddiwch y bysellau saeth i fyny ac i lawr i lywio."
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(dim teitl)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "Cyflwyno"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "Cau"
+
+#: build/block-editor/index.js:49
+msgid "Insert link"
+msgstr "Mewnosod dolen"
+
+#: build/block-editor/index.js:49
+msgid "Edit link"
+msgstr "Golygu dolen"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "Dolen"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Llinell Drwodd"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Italig"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Trwm"
+
+#: build/block-editor/index.js:49
+msgid "Remove link"
+msgstr "Tynnu dolen"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "Nifer yr eitemau"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "Popeth"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "Categori"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:6
+msgid "Oldest to newest"
+msgstr "Hynaf i'r diweddaraf"
+
+#: build/components/index.js:6
+msgid "Newest to oldest"
+msgstr "Diweddaraf i'r hynaf"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "Yn ôl trefn"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "Dewis"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Dewis neu Lwytho Cyfryngau"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "Fideo"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "Ysgrifennu…"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "barddoniaeth"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "Pennill"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "Colofn Newydd"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "Dileu Colofn"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "Ychwanegu Colofn Ar Ôl"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "Ychwanegu Colofn Cyn"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "Dileu Rhes"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "Ychwanegu Rhes Ar Ôl"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "Ychwanegu Rhes Ar Cyn"
+
+#: build/block-library/index.js:8
+msgid "Edit table"
+msgstr "Golygu tabl"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "Tabl"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "Ysgrifennu is-bennawd…"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "Ysgrifennu cod byr yma…"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "Cod byr"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "rhannwr"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "llinell lorweddol"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "Ymwahanydd"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "Dyfyniad"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "Ysgrifennu dyfyniad…"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "Ysgrifennu dyfyniad…"
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "Dyfyniad"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "Ysgrifennwch destun wedi'i ragfformatio…"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "Rhagffomatedig"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "testun"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "Paragraff"
+
+#: build/components/index.js:6
+msgid "Font size"
+msgstr "Maint ffont"
+
+#: build/block-library/index.js:8
+msgid "Drop cap"
+msgstr "Gollwng prif lythyren"
+
+#: build/block-library/index.js:8
+msgid "Text settings"
+msgstr "Gosodiadau testun"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "Darllen mwy"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "Rhestr ysgrifennu…"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "rhestr rifedig"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "rhestr drefnus"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "rhestr bwled"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "Eitem rhestr mewnoli"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "Eitem rhestr alloli"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "Trosi i restr wedi ei drefnu"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "Trosi i restr heb ei drefnu"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "Rhestr"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "cofnodion diweddar"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "Heb ganfod unrhyw gofnodion."
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "Cofnodion Diweddaraf"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "Dangos dyddiad cofnod"
+
+#: build/block-library/index.js:8
+msgid "Grid view"
+msgstr "Golwg grid"
+
+#: build/block-library/index.js:8
+msgid "List view"
+msgstr "Golwg rhestr"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "ffoto"
+
+#: build/block-library/index.js:8
+msgid "Image settings"
+msgstr "Gosodiadau delweddau"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "Delwedd"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "Rhagolwg"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "mewnblannu"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "HTML Cyfaddas"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "isdeitl"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "teitl"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "Pennyn"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "Ysgrifennu pennawd…"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "Pennawd %d"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "Lefel"
+
+#: build/block-library/index.js:8
+msgid "Heading settings"
+msgstr "Gosodiadau penawdau"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "ffotos"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "delweddau"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "Dim"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "Ffeil Cyfrwng"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "Tudalen Atodi"
+
+#: build/block-library/index.js:8
+msgid "Crop images"
+msgstr "Tocio delweddau"
+
+#: build/block-library/index.js:8
+msgid "Gallery settings"
+msgstr "Gosodiadau'r Oriel"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "Oriel"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "Clasurol"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "fideo"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "sain"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "cerddoriaeth"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "delwedd"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "cofnod"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "Cynnwys wedi'i fewnblannu o %s"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "Rhowch URL i'w fewnblannu yma…"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "Mewnblannu…"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "Ysgrifennwch deitl…"
+
+#: build/block-library/index.js:8
+msgid "Fixed background"
+msgstr "Cefndir sefydlog"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "Golygu delwedd"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "Colofnau"
+
+#: gutenberg.php:87
+msgid "Experiments"
+msgstr "Arbrofion"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "Cod"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "Ysgrifennwch god…"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "Categorïau"
+
+#: build/block-library/index.js:8
+msgid "Show hierarchy"
+msgstr "Dangos yr hierarchaeth"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "Dangos nifer y cofnodion"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "Dangos fel cwymplen"
+
+#: build/block-library/index.js:8
+msgid "Categories settings"
+msgstr "Gosodiadau categorïau"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "Ychwanegu testun…"
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "Botwm"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "Gweithredu"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "Lliw'r Testun"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "Lliw'r Cefndir"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "Mae'r bloc wedi'i ddileu neu nid yw ar gael."
+
+#: build/blocks/index.js:2
+msgid "Reusable blocks"
+msgstr "Blociau ailddefnyddiadwy"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "Diddymu"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "Golygu"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "Ysgrifennwch bennawd…"
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "Defnyddio URL"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "Sain"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "Llwytho i fyny"
+
+#: build/block-editor/index.js:49
+msgid "Additional CSS class(es)"
+msgstr "Dosbarth(iadau) CSS ychwanegol"
+
+#: build/block-editor/index.js:49
+msgid "HTML anchor"
+msgstr "Angor HTML"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Efallai y bydd y cyfuniad lliw hwn yn anodd i bobl ei ddarllen. Ceisiwch ddefnyddio lliw cefndir mwy disglair a/neu liw testun tywyllach."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Efallai y bydd y cyfuniad lliw hwn yn anodd i bobl ei ddarllen. Ceisiwch ddefnyddio lliw cefndir tywyllach a/neu liw testun mwy disglair."
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "Clirio"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "Dewisydd lliwiau cyfaddas"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "Lliw: %s"
+
+#: build/block-editor/index.js:49
+msgid "Full width"
+msgstr "Lled llawn"
+
+#: build/block-editor/index.js:49
+msgid "Wide width"
+msgstr "Lled llydan"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Teclynnau"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Fformatio"
+
+#: build/blocks/index.js:2
+msgid "Common blocks"
+msgstr "Blociau cyffredin"
+
+#: build/block-editor/index.js:49
+msgid "Align right"
+msgstr "Alinio i'r dde"
+
+#: build/block-editor/index.js:49
+msgid "Align center"
+msgstr "Alinio i'r canol"
+
+#: build/block-editor/index.js:49
+msgid "Align left"
+msgstr "Alinio i'r chwith"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Argraffu ers 1440. Dyma'r ategyn datblygu ar gyfer y golygydd bloc newydd yn y craidd."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "Ychwanegu teitl"
+
+#: gutenberg.php:116
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Mae modd datblygu Gutenberg yn ei gwneud yn ofynnol i ffeiliau gael eu hadeiladu. Rhedwch <code>npm install</code> i osod y dibyniaethau, <code>npm run build</code> i adeiladu'r ffeiliau neu <code>npm run dev</code> i adeiladu'r ffeiliau a gwylio am newidiadau. Darllenwch y ffeil <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">cyfrannu</a> i gael mwy o wybodaeth."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Tîm Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "Awdur"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "Bonyn"
+
+#: build/core-data/index.js:1
+msgid "Comment"
+msgstr "Sylw"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "Trafodaeth"
+
+#: build/edit-post/index.js:6
+msgid "Custom fields"
+msgstr "Meysydd cyfaddas"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "Dyfyniad"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "Cyhoeddi"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "Metadata"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "Cadw"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "%s yn ôl"
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "Rhaid i enw arddull bloc fod yn llinyn."
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:103
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Mae Gutenberg yn gofyn am WordPress %s neu'n hwyrach i weithio'n iawn. Diweddarwch WordPress cyn gweithredu Gutenberg."
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "Dogfennaeth"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Arddangos"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(Dideitl)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Dewis Categori"

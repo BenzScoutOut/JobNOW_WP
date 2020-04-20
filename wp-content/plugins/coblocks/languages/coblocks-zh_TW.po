@@ -1,0 +1,3395 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:15:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "16:9 長寬比"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "4:3 長寬比"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "允許使用漸層填滿設定樣式。"
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "漸層樣式"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "允許使用自訂色彩設定樣式"
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "自訂色彩選擇工具"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "允許在編輯工具內使用色彩設定。"
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "色彩設定"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "允許使用區塊層級的印刷樣式控制項。"
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "印刷樣式控制項"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "編輯工具設定"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "全站按照設定停用或啟用漸層控制項及預設設定。"
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "全站按照設定停用或啟用自訂色彩控制項。"
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "全站按照設定停用或啟用所有色彩控制項。"
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "全站按照設定停用或啟用印刷樣式控制項。"
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "地區..."
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "時間..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "撰寫事件描述..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "撰寫事件標題..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "年份..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "月份..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "日期..."
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "事件區塊內的事件。"
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "事件項目"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "顯示期間內的事件 (最多 100 項事件)。"
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "每頁的事件數"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "切換此選項即可連結公開行事曆。"
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "正在顯示公開行事曆。"
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "在此輸入網址..."
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "擷取全部"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "日期"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "新增事件清單，或顯示公開行事曆內的事件。"
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "活動"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "清除媒體"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "顯示器"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "系統發生問題，請檢查行事曆權限是否已設為公開，或之後再試一次。"
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "軟體"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "上傳"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "加強"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "流行"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "熱門"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "辣"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "大學"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "文憑"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "學位"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "畢業"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "畢業"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "教育"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "季節"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "冬天"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "冰凍"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "冰"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "寒冷"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "船"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "購物車"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "工程師"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "開發"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "徽章"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "演講"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "語言"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "保安"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "安全"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "生物識別"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "防禦"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "生物"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "安全性"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "相聚"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "團隊"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "小工具"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "外掛"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "拼圖"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "電子商務"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "商務"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "商店"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "結帳"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "現金"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "錢"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "花朵"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "園藝"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "良好"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "味道"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "氣味"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "花瓣"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "慶祝會"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "宴會"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "椅子"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "放鬆"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "冰冷"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "週末"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "品味"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "湯匙"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "叉子"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "飲品"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "食物"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "摩天大樓"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "城鎮"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "建築"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "公司"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "商務"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "地區"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "大地"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "全球"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "公共"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "世界"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "夏天"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "水"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "海洋"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "戶外"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "戶外活動"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "極簡"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "風景"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "山丘"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "核取方塊"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "勾號"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "地圖"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "小工具"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "方形"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "方塊"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "箱子"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "海浪"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "無線電"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "遞送"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "傳送"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "留言"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "回應"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "回覆"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "信件"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "閱讀"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "作業系統"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "中心"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "連線"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "桌子"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "喜歡"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "我的最愛"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "投票"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "等級"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "親吻"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "情人"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "形狀"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "愛"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "印刷樣式"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "標記"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "鉛筆"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "字型"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "類型"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "藝術"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "塗鴉"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "繪圖"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "希臘"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "快樂"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "開心"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "微笑"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "表情符號"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "表情"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "快樂"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "資料"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "點"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "圖表"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "圖表"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "圓餅"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "統計數據"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "數學"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "圓形"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "加號"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "插入"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "圓形"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "減號"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "新增"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "油漆刷"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "油漆"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "色彩"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "調色盤"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "製作人"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "導演"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "攝影"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "收藏"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "光圈"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "影片"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "相機"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "相片"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "攝影師"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "照片"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "裝置"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "電腦"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "耳機"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "節拍"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "音訊"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "創作"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "演出者"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "歌曲"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "廣播"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "麥克風"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "音樂"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "設計"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "古騰堡"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "建置"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "區塊"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "區塊"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "上傳媒體檔案或選取您媒體庫內的內容"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "以位移磚塊樣式圖庫顯示圖片。"
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "位移"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "預約"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "下午"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "早上"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "時間"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "預約"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "有任何附註嗎？"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "否"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "是"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "您會出席嗎？"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "新增"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "邀請回覆"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "聯絡人"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "聯絡人"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "您可以在主旨欄位內使用下列標籤： "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "姓名"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "由 [%1$s] 提出之表單"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "撰寫圖庫說明…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "媒體區"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "新增標題..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "選單標題..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "新增按鈕..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "撰寫文字..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "撰寫標題..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "新增內容..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "新增標題..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "連結"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "社交平台簡介"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "圖示與文字"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "文字"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "遮罩"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "社交"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "分享"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "尖端"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "三角"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "圓形"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "傾斜"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "角度"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "山丘"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "波浪"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "分隔線"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "圖形分割"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "功能"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "服務"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "撰寫描述..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "服務"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "外觀"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "欄"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "列"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "價格表格項目"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "比較"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "登陸"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "價格表格"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "滑桿"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "以浮動切換顯示文章或外部的網誌摘要。"
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(無標題)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS 摘要"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "水平"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "最新"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "網誌"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "文章"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "以堆疊或橫向卡片顯示文章或 RSS 摘要。"
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "文章"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "視訊"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "圖片"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "導向"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "地圖"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "地址"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "地圖"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "段落"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "重點"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "次要按鈕…"
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "新增主圖標題…"
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "按鈕"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "主圖"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "編輯 %s 網址"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "返回 %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "代碼"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "動畫"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "輸入"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "可收集其他資料的隱藏文字欄位。"
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "網址"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "超連結"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "可收集網址的文字欄位。"
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "提供各種選項，並讓使用者得以選擇多項內容的核取方塊欄位。"
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "下拉式選單"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "提供多種選項讓使用者擇一的欄位。"
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "多行文字"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "訊息文字"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "文字"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "文字區域"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "傳真"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "行動裝置"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "儲存格"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "手機"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "電話"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "選項"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "點選"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "選擇"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "無線電"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "姓氏"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "名字"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "郵件"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "年"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "月"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "天"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "行事曆"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "聯絡人"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "關於"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "表格"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "食品項目"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "清單"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "方格"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "選單"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "餐廳"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "餐飲"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "功能"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "您可以透過此功能區塊強調功能。"
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "新增功能內容"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "功能標題"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "新增功能標題..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "功能"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "滿版"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "線"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "點"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "空白區域"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "動態水平尺規"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "欄"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "特大"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "大"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "中"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "小"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "分層"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "並排"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "拼貼"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "分享"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "按一下即可發出"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "包含"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "覆蓋"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "自動"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "在行動裝置上堆疊"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "行動呼籲"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "行動呼籲"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "連結"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "作者連結…"
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "移到此處即可上傳虛擬形象"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "無名氏"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "簡介"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "自傳"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "作者"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "錯誤"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "警告"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "成功"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "資訊"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "訊息"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "通知"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "警告"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "撰寫摺疊式功能表項目標題..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "摺疊式功能表項目"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "常見問題"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "標籤"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "摺疊式功能表"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "頂部波浪"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "底部波浪"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "循環"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "核取方塊"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "媒體卡片"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "燈箱"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "茄紫"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "夜晚"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "復古"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "銀色"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "標準"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "簽章"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "獎項"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "感言"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "證明"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "客戶"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "明亮"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "暗色"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "相片"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "圖庫"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "大寫"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "小寫"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "主要按鈕…"
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "粗體"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "一般"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "填滿"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "空心"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "圖示"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "圖示"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "切換此選項即可顯示 %s 內嵌。"
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "顯示%s內嵌。"
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "內嵌%s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "更新"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "火焰"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "學校"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "雪花"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "運送"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "層次"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "閃光"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "全新"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "翻譯"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "指紋"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "延伸"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "信用卡"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "建置"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "花朵"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "蛋糕"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "沙發"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "餐飲"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "城市"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "地球"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "海浪"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "山"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "標記"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "區塊"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "訊號"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "傳送"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "回覆"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "中心"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "鍵盤"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "觀看"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "平板電腦"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "筆記型電腦"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "裝置"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "桌面"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "星號"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "心型"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "塗鴉"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "功能"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "表情符號"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "投票"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "散佈圖"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "圓形圖"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "減號圓形"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "新增圓形"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "筆刷"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "油漆"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "色彩選擇工具"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "彩色透鏡"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "影片"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "視訊"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "圖庫"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "相機"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "光圈"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "聲音"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "音量"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "耳機"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "相簿"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "音訊"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "復古濾鏡"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "原始"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "百分比"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "像素"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "隱藏"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "網站"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "發生問題。"
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "點選"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "取得外部摘要"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "日期"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "電話"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "瞭解更多"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "選擇其一"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "系統發生錯誤，表示摘要可能故障中。請稍後再試。"
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "要求使用日期挑選工具點選日期欄位。"
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "收集認證 email 地址的欄位。"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "收集名字與姓氏的文字欄位。"
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "提供多種選項讓使用者擇一的欄位。"
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "API 金鑰無效或要求過多"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "選擇圖示大小預設設定"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(無標題)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "撰寫選項…"
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "移除選項"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "網誌文章"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "使用網址"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "在頁面上新增聯絡表單。"
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "流行"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "已啟用微調選項。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "切換此選項即可啟用地圖控制選項。"
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "使用外部摘要"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "系統找不到文章。開始發佈，或透過 RSS 摘要新增文章。"
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "已儲存"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "顯示全螢幕地圖控制。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "切換此選項即可在右下角顯示街景控制。"
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "顯示街景地圖控制。"
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "需要幫助嗎？"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "取得金鑰"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "新增 Google 地圖 API 金鑰。更新此 API 金鑰會將您的所有地圖都設為使用新的金鑰。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "切換此選項即可顯示全螢幕地圖控制。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "切換此選項其可啟用以縮放控制調整地圖縮放的功能。"
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "顯示地圖縮放控制。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "切換此選項即可啟用標準語衛星地圖檢視切換功能。"
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "切換啟用標準與衛星地圖檢視。"
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "讓訪客可以提供電話號碼的電話號碼。"
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "顯示發佈日期。"
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "輸入地區或地址，即可在 Google 地圖上置放圖釘。"
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "取消"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "搜尋地區或地址..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "地圖高度 (像素)"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "縮放比例"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "編輯 RSS 網址"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "在左方顯示圖片"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "在右方顯示圖片"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS 網址一般都位於網站的 /feed/ 目錄內。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "切換即可顯示發佈日期。"
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "內容最大字數"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "切換即可顯示文章內容。"
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "顯示文章內容。"
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "文章數"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "文章浮動切換"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "圓形"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "方形"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "利用社交媒體簡介連結擴大觀眾群。"
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "調色盤設計色彩藝術家油漆創作媒體"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "連結網址"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "找不到結果。"
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "半徑"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "自訂"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "套用自訂大小"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "重設圖示大小"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "新增風格圖像符號，以便傳達更多訊息。"
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "分享到領英"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "領英"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "圖示"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "切換此選項即可使用每個社交媒體平台的官方色彩。"
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "已啟用分享按鈕色彩。"
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "新增社交平台分享連結，幫助您取得更多讚和分享。"
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "垂直翻轉"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "水平翻轉"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "新增圖形分割，以便分割頁面區段。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "切換此選項即可在行動裝置上堆疊按鈕。"
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "在行動裝置上堆疊按鈕。"
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "按鈕"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "一對一引導訪客操作多種按鈕。"
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "浮動切換"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "縮圖"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "切換即可使用以百分比為基礎的高度設定。"
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "已啟用以百分比為基礎的高度設定。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "切換即可顯示縮圖。"
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "顯示縮圖導覽。"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "用美觀的浮動切換圖庫顯示多張圖片。"
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "以說明文案替換此處文字，以便搭配卡片圖片。然後在卡片中新增更多區塊，如按鈕、清單、圖片等。"
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "在左方顯示媒體"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "在右方顯示媒體"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "切換此選項即可新增%s陰影"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "顯示%s陰影"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "切換此選項即可新增卡片陰影。"
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "顯示卡片陰影"
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "新增圖片或視訊並在旁顯示位移卡片。"
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "拖曳至此即可取代媒體"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "媒體"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "編輯媒體"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "磚石排列"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "將圖庫項目設為圓角。"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "用整齊的磚石排列圖庫顯示多張圖片。"
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "標誌及徽章"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "編輯標誌"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "黑白"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "新增標誌、徽章或憑證，以便提高您的公信力。"
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "移除"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "儲存"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "取得說明"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "我的金鑰"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "產生金鑰"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "新增您的 reCAPTCHA 網站及祕密金鑰，以便防止您的表單收到垃圾訊息。"
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "主旨"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "email 地址"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s 並非有效的 email 地址。"
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s 及 %s 並非有效的 email 地址。"
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s 並非有效的 email 地址。"
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "可容納較長回應的文字方塊。"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "新增文字..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "主旨範例"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "切換此選項後即可新增姓氏欄位。"
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "顯示姓氏與名字欄位。"
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "動態分隔元素高度 (像素)"
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "在其他區塊之間插入可調整大小的空白區域。"
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "在推文內新增引言..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "使用者名稱"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Twitter 使用者名稱"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "按鈕色彩"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "在 Twitter 上宣傳網誌、網站及企業最輕鬆的方式。"
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "新增可讓讀者透過 Twitter 發文的引言。"
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "US$0.00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "新增描述..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "辣"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "切換此選項即可顯示此項目的價格。"
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "顯示此項目的價格。"
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "價格"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "切換此選項即可顯示此項目的圖片。"
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "顯示此項目的圖片。"
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "圖片"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "「餐飲」區塊內的餐飲項目。"
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "純素"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "魚素"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "無麩質"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "蔬食"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "較辣"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "辣味"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "切換此選項即可顯示每個項目的價格。"
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "顯示每個項目的價格"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "價格"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "切換此選項即可為每個項目顯示圖片。"
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "為每個項目顯示圖片"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "圖片"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "顯示選單或價目表。"
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "點選此列欄數。"
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "為此 %s 欄的列點選外觀。"
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "列"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "為整列新增背景"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "四"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "三"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "二"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "一"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "變更列區塊外觀"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "四分之一"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "三分之一"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "為整欄新增背景"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "寬度"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "容器周遭空間。"
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "位於下方的子列。"
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "為欄位區塊新增結構包裝函式，再為欄位新增您想插入的內容區塊。"
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "方案 %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "變更價格表格的項目數"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "四個價錢表"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "三個價錢表"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "二個價錢表"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "一個價錢表"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "新增價格表格，以便協助訪客比較產品及方案。"
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "新增功能"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "方案 A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "立即購買"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "可協助訪客比較產品及方案的價格表格。"
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "在此頁面載入 JavaScript polyfill，以便支援 Internet Explorer。"
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "載入 JavaScript polyfill，以便新增 Internet Explorer 支援功能。"
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "使用可收合的摺疊式功能表項目整理內容。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "切換此選項即可將此摺疊式功能表項目設為預設開啟。"
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "摺疊式功能表項目預設為開啟狀態。"
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "在摺疊式功能表內新增可收合的折疊式功能表項目。"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "為您的產品或服務新增最多四欄的簡短附註。"
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "新增為背景"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "在上層功能區塊下的單一子欄。"
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "警示是顯示在一般內容流程之外的訊息。警示會提供詳細的回饋訊息，一般是用來要求讀者進行操作。"
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "這是警示區段"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "詳細提供回饋訊息或通知。"
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "編輯位置"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "新增地址或地區，即可在 Google 地圖上置放圖釘。"
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google 地圖"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "切換此選項即可顯示行動呼籲按鈕。"
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "顯示行動呼籲按鈕。"
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "欄"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "樣式"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "新增欲顯示的服務欄，最多四欄。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "切換此選項即可顯示行動呼籲按鈕。"
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "顯示行動呼籲按鈕。"
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "服務區塊內的單一服務項目。"
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "陰影"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "將圖片整合為美觀的拼貼圖庫。"
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "撰寫自傳，藉此向讀者傳達客觀的公信力及可靠度…"
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "填寫作者名稱…"
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "編輯虛擬形象"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "我的天職是傳達，而不是讓人印象深刻。自己打造理想中的世界。"
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "新增作者自傳，藉此提昇公信力及可靠度。"
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "圖片 %1$d，圖庫內共有 %2$d 張"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "堆疊"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "燈箱"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "標題"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "切換即可啟用圖片燈箱。"
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "已啟用圖片燈箱。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "切換此選項即可顯示媒體標題。"
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "顯示每個媒體項目的標題。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "切換此選項即可以完全滿版的圖片填滿可用圖庫空間。"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "已啟用滿版圖片。"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "在單一欄的堆疊圖庫內顯示多張圖片。"
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "載入 Gist"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "新增 GitHub Gist 網址..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Gist 中繼資料"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Gist 檔案"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Gist 網址"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "切換此選項即可顯示 Gist 中繼資料。"
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "顯示 Gist 中繼資料。"
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "新增 gist 連結即可內嵌 GitHub gist。"
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "前往 GitHub 檢視此 Gist"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "搜尋 gif"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "前往 Giphy 搜尋完美的 gif"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "此 gif 無 alt 屬性"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "移除 GIF"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "如果這個圖片只有裝飾功能，請將其留白。"
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "說明圖片用途"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "任選 gif，什麼 gif 都沒問題。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "切換即可移除所有下邊界。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "切換即可加回下邊界。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "切換即可移除所有上邊界。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "切換即可加回上邊界。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "切換此選項即可在較小的檢視區中互相堆疊元素。"
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "已啟用回應能力。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "切換此選項即可將按鈕以滿版顯示。"
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "顯示為滿版。"
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "重設圖片裁剪選項"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "向右旋轉"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "向左旋轉"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "裁剪設定圖片預留位置"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "10 秒"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "9 秒"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "8 秒"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "7 秒"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "6 秒"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "5 秒"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "4 秒"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "3 秒"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "2 秒"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "1 秒"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "可拖曳"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "自動播放"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "切換後，捲動時將不會固定投影片。"
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "已啟用捲動時不固定投影片。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "切換後，滑鼠停留於此處時將暫停自動播放功能。"
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "滑鼠停留時暫停自動播放。"
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "將投影片靠右對齊。"
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "將投影片靠左對齊。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "切換此選項即可顯示點狀導覽。"
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "顯示點狀導覽。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "切換此選項即可顯示投影片導覽箭頭。"
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "顯示投影片導覽箭頭。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "切換即可啟用拖曳功能。"
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "已啟用拖曳及撥動輸入功能。"
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "自動換到下一張投影片。"
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "%1$d %2$s後換下一張。"
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "秒"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "秒"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "預設"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "自訂色彩選擇工具"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "自訂網址"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "拖曳圖片、上傳新圖片，或點選媒體庫中的檔案。"
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "%s圖庫"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "撰寫標題..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "特大"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "大小"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "變形"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "粗細"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "字型"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "變更印刷樣式"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "套用濾鏡"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "大寫"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "標題 %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "新增重點文字..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "為文字加上強調效果，藉此吸引讀者注意，並強調重要的文字。"
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "吸引讀者注意，並強調重要的文字。"
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "期"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "變更外觀"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "內容寬度 (像素)"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "高度 (像素)"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "容器內部間距。"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "為主圖內容新增背景"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "新增主圖內容，此區域一般用來介紹頁面，通常也會附上些許行動呼籲。"
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "頁面的介紹區域，有少量的文字和行動呼籲。"
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "特大"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "大"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "中"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "小"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "無"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "移除背景"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "切換此選項即可循環播放視訊。"
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "循環播放背景視訊。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "切換此選項即可將視訊設為靜音。"
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "將背景視訊設為靜音。"
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "顯示"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "位置"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "重複"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "間距"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "套用"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "正在儲存"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "拖曳圖片即可取代"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "高度"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "切換此選項即可啟用全螢幕模式。"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "已啟用全螢幕模式。"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "外觀"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "必填"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "新增標籤..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "行動裝置%s"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "裝訂邊"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "進階"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "進階 %s 設定"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "左方"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "底部"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "右方"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "頂端"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "同步"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "非同步"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "重設"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "開啟進階 %s 設定"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "點選單位"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "邊界"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "領英"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "分享到 Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "分享到 Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "分享到 Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "以 email 分享"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "分享到領英"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "分享到 Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "分享到 Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "分享到 Facebook"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "前往 WordPress.org 評論 CoBlocks"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "留下評論"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "地圖轉譯用 Google Map API 金鑰"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "系統已送出您的訊息："
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "提交"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "訊息"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "姓"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "名"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "姓名"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "email"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "防止垃圾表單用 Google reCaptcha 祕密金鑰"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "防止垃圾表單用 Google reCaptcha 網站金鑰"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks 是供 WordPress Gutenberg 區塊編輯工具使用的<strong>頁面建置內容區塊</strong>套件我們提供專門讓創作者使用的區塊，可助您製作美觀而豐富的 WordPress 頁面。"
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

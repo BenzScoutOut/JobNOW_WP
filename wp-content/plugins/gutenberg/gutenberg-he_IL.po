@@ -1,0 +1,2214 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-28 16:40:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "בלוק (נבחר)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "מסמך (נבחר)"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "יצירת תוכן לשימוש חוזר ברחבי האתר. עדכונים לבלוק יחולו אוטומטית בכל מקום בו הוא מופיע. "
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "כדי לערוך את התמונה הראשית , נדרשת הרשאה להעלאת מדיה."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "כדי לערוך את הבלוק הזה, נדרשת הרשאה להעלאת מדיה."
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(הבלוק הנבחר)"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "חסר מאפיין alt לתמונה הזו"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "חסר מאפיין alt לתמונה הזו; שם הקובץ הוא %s"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "לערום בתצוגה לניידים"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "גרירת תמונות, העלאה של תמונות חדשות, או הוספה מספרית המדיה."
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "הטמעה של וידאו מספריית המדיה של האתר, או העלאת וידאו חדש."
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "לציטוט מילים של שירים, הטמעת שירה, או כשיש צורך בריווח מיוחד."
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "ניווט אל סרגל הכלים הקרוב ביותר."
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "מומלץ לבדוק את ההגדרות לפני הפרסום."
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "לערוך או לעדכן את התמונה"
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "יוצר תצוגה מקדימה…"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "לתקן"
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "להוספת רווח בגובה משתנה בין בלוקים."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "הוספת אלמנטים נוספים באמצעות שורטקודים של וורדפרס."
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "הוספת מפריד אופקי כדי להפריד בין רעיונות או חלקים שונים."
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "דגש ויזואלי לציטוטים. ״היכולת לצטט היא תחליף שימושי לשנינות.״  —  ויליאם סומרסט מוהם"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "הוסיפו דגש ויזואלי לציטוט מתוך הטקסט שלכם."
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "הוספת תמונה לדגש חזותי."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "הצגת רשימה של התגובות האחרונת."
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "יצירת רשימה עם תבליטים או רשימה ממוספרת."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "מיקום טקסט ומדיבה צד-אל-צד לתצוגה מרהיבה."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "הפרדת התוכן למספר עמודים."
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "הבסיס של כל תוכן."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "הוספת קוד HTML עם תצוגה מקדימה תוך כדי עריכה."
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "הוספת קישור לקובץ הניתן להורדה."
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "הצגת מספר תמונות בגלריה עשירה."
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "ארגון וחלוקת התוכן למקטעים כדי לסייע למבקרים (ולמנועי החיפוש) להבין את מבנה התוכן שלך."
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "הטמעת קטעי וידאו, תמונות, ציוצים, שמע, ותוכן אחר ממקורות חיצוניים."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "הטמעה של וידאו מ-WordPress.tv"
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "הטמעה של וידאו מ-VideoPress"
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "הטמעה של פוסט מטאמבלר."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "הטמעה של וידאו מ-TED."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "הטמעה של וידאו מ-Dailymotion"
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "הטמעה של וידאו מ-Animoto."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "הטמעה של תוכן מ-Speaker Deck."
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "הטמעה של תוכן מ-SmugMug."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "הטמעה של תוכן מ-Slideshare."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "הטמעה של תוכן מ-Scribd."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "הטמעה של תוכן מ-Screencast."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "הטמעה של תוכן מ-ReverbNation."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "הטמעה של דיון מ-Reddit."
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "הטמעה של תוכן מ-Polldaddy."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "הטמעה של תוכן מ-Mixcloud."
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "הטמעה של תוכן מ-Meetup.com."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "הטמעה של תוכן מ-Kickstarter."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "הטמעה של תוכן מ-Issuu."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "הטמעה של תוכן מ-Imgur."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "הטמעה של תוכן מ-Hulu."
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "הטמעה של תוכן מ-CollegeHumor."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "הטמעה של תוכן מ-Cloudup."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "הטמעה של וידאו מ-Vimeo."
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "הטמעה של וידאו מ-Youtube."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "הטמעה של תוכן מ-Flicker."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "הטמעה של תוכן מ-Spotify."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "הטמעה של תוכן מ-SoundCloud."
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "הטמעה של פוסט מ-Instagram."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "הטמעה של תוכן מ-Facebook."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "הטמעה של ציוץ מטוויטר."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "גודל משתנה למכשירים קטנים"
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "הוספת תמונה או וידאו ומעליהם טקסט — מצוין עבור כותרות ראשיות."
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "הטמעה זו תשמור על יחס הגובה-רוחב שלה בעת שינוי גודל הדפדפן."
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "יתכן שהטמעה זו לא תשמור על יחס הגובה-רוחב שלה בעת שינוי גודל הדפדפן."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "הצגה של רשימת קטגוריות."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "להשתמש בעורך הקלאסי של WordPress."
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "הצגת מקטעי קוד תוך כדי שמירה על הריווח המקורי."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "הטמעה של נגן אודיו פשוט."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "האתר שלך אינו כולל תמיכה בבלוק זה."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "האתר שלך אינו כולל תמיכה בבלוק \"%s\". ניתן להשאיר את הבלוק כמו שהוא או להסירו לחלוטין."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "האתר שלך אינו כולל תומך בבלוק \"%s\". ניתן להשאיר את הבלוק כמות שהוא, להמיר את תוכנו לבלוק HTML מותאם אישית, או להסירו לחלוטין."
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "לפתוח את תפריט הניווט של הבלוקים."
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "גישה לכל הגדרות הבלוקים והמסמך במקום אחד."
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "התמקדות בבלוק אחד בכל פעם"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "עבודה ללא הסחות דעת"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "להדביק או להקליד כתובת URL"
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "ערך אלפא, מ-0 (שקוף) ל-1 (אטום לחלוטין)."
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "ערך הגוון (Hue) במעלות, בין 0 ל-359."
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "ניתן להזיז את החץ שמאלה או ימינה כדי לשנות גוון."
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "‫Page Up ו-Page Down"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "מעבר אחורה (PgUp) או קדימה (PgDn) בחודש אחד."
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "‫Home ו-End"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "מעבר ליום הראשון (home) או האחרון (end) בשבוע."
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "עזרה עבור לוח השנה"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "הזזה אחורה (למעלה) או קדימה (למטה) בשבוע אחד."
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "אפשר ללחוץ על החצים ימינה או שמאלה כדי לבחור חודשים אחרים בעבר או בעתיד."
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "מעבר יום אחד אחורה (שמאלה) או קדימה (ימינה)."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "האם לקבוע מועד לפרסום?"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "העבודה שלך תפורסם בתאריך ובשעה שצוינו."
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "להציג תמיד את הבדיקות לפני הפרסום."
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "השליטה בעריכת פוסט זה עברה כעת ל-%s. אל דאגה, השינויים שלך עד לרגע זה נשמרו."
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "השליטה בעריכת פוסט זה עברה כעת למשתמש אחר. אל דאגה, השינויים שלך עד לרגע זה נשמרו."
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "המשתמש %s עורך כרגע את הפוסט הזה, מה שאומר שאין באפשרותך לבצע שינויים, אלא אם תבצע/י השתלטות על הפוסט."
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "משתמש אחר עורך כרגע את הפוסט הזה, מה שאומר שאין באפשרותך לבצע שינויים, אלא אם תבצע/י השתלטות על הפוסט."
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "ניתן להשתמש בבלוק זה רק פעם אחת."
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "מישהו אחר השתלט על הפוסט הזה."
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "פוסט זה כבר נמצא במצב עריכה."
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "לתקן בלוק"
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "בלוק זה מכיל תוכן לא צפוי או לא חוקי."
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "נקודה"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "פסיק"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "נוכחי"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "לוכסן"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "בלוק אחד"
+msgstr[1] "%d בלוקים"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "לאחר המרה"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "שינוי הסוג של בלוק אחד"
+msgstr[1] "שינוי הסוג של %d בלוקים"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "גרש (Backtick)"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "יבוא מתוך JSON"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "קובץ JSON לא תקני"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "קובץ JSON של בלוקים לשימוש חוזר פגום"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "בלוק לשימוש חוזר יובא בהצלחה!"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "כותרת"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "מצטערים, סוג הקובץ הזה אינו נתמך כאן."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "הקובץ הזה ריק."
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "אין ארכיון לתצוגה."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "נוף יפה"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "מספר שורות"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "מספר עמודות"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "ציטוט"
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "כותרת משנה (הוצא משימוש)"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "סגור פאנל"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "צור"
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "עמודות טקסט (הוצא משימוש)"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "בלוק זה הוצא משימוש. יש להשתמש בבלוק פיסקה במקום."
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "בלוק זה הוצא משימוש. יש להשתמש בבלוק עמודות במקום."
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "המרה לבלוק קלאסי"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "לשינוי סוג הבלוק לאחר הוספת פסקה חדשה."
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "סרט"
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "עיצוב טקסט"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "הוספה אחרי"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "הוספה לפני"
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "הוספת תגיות"
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "הסר לינק."
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "הסר בלוקים מסומנים."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "שימרו את השינויים."
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "שיכפול הבלוקים המסומנים."
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "ניקוי בחירה."
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "החל פורמט \"%1$s\"."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "השתמש בסוג תוכן"
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "הדגש את הטקסט הנבחר."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "הפוך את הטקסט הנבחר לנטוי."
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "הוסף קו תחתון לטקסט שנבחר."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "בטל את השינויים האחרונים."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "בצע שוב את הפעולה האחרונה."
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "הצג/הסתר סרגל הגדרות צדדי."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "קיצורי דרך עבור בלוקים"
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "קיצור דרך עבור תוכן מסומן"
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "ניווט לחלק הקודם של העורך."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "ניווט לחלק הבא של העורך."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "קיצורי דרך גלובלים"
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "להמיר את הטקסט הנבחר ללינק."
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "בחירת כל הטקסט בזמן ההקלדה. לחצו שוב כדי לבחור את כל הבלוקים."
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "הוספת בלוק חדש לפני הבלוקים הנבחרים."
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "הוספת בלוק חדש לאחר הבלוקים הנבחרים."
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "התבנית שלך עושה שימוש ב״סוגי תוכן״ כדי להדגיש סוגים שונים של תוכן, כמו תמונות או קבצי וידאו. ניתן לבחור סוג תוכן כדי להציג את העיצוב המיוחד."
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "תגיות מסייעות למשתמשים ולמנועי חיפוש לנווט באתר שלך ולמצוא את התוכן שלך. מומלץ להוסיף כמה מילות מפתח כדי לתאר את תוכן הפוסט שלך."
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "‫העבר בלוק אחד מהמיקום %2 מדרגה אחת למטה"
+msgstr[1] "‫‫העבר %1$d בלוקים מהמיקום %2$d מדרגה אחת למטה"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "העבר בלוק אחד מהמיקום %2$d מדרגה אחת למעלה"
+msgstr[1] "‫העבר %1$d בלוקים מהמיקום %2$d מדרגה אחת למעלה"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "מדיה"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "מאט מולנווג, 2017"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "עיזרו לבנות את גוטנברג"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "קוד הוא שירה"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "תודה שבדיקת את גוטנברג."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "קהילת וורדפרס"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "עיצוב ויזואלי"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "גלריות"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "תמונות וסרטים"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "טקסטים וכותרות"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "עוד"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "עוד"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "ו<em>רשימה</em> כמו זו, כמובן :)"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "תמונה שווה אלף מילים"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... כמו זו, המיושרת לימין."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "ברוכים הבאים לעורך גוטנברג"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "האם אתה בטוח שברצונך לבטל את תזמון הפרסום של הפוסט הזה?"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "בלוק לשימוש חוזר"
+
+#: build/components/index.js:6
+msgid "Small"
+msgstr "קטן"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "הכותרת של האובייקט."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "מזהה יחודי לאובייקט."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "בלוק לשימוש חוזר ללא שם"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "שמור כ-HTML"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "לשימוש חוזר"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "עריכת כתובת"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://he.wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "תמיכה"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "אין תגובות להציג."
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "בחירת פוסט"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "בחירת שבוע"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "בחירת יום"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "בחירת חודש"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "בחירת שנה"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "תגובות אחרונות"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "מושתק"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "תגובות אחרונות"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "אוטומטי"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "טען מראש"
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "פרסום של העורך"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s על %2$s"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "ארכיון"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "התשובה שהתקבלה איננה בפורמט JSON תקין."
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "מציג ארכיון חודשי של הפוסטים שלך."
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "נקודות"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "שורה רחבה"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "גדול"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "מסמך"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "קובץ"
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "עמודה"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "הסר בלוק"
+msgstr[1] ""
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "העתק כתובת"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "אפור כהה מאוד"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "ציאן אפור כחלחל"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "אפור בהיר מאוד"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "ציאן ירוק בהיר"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "ורוד בהיר"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "אדום בהיר"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "ציאן כחול בהיר"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "סוגי בלוקים זמינים"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "פתח פאנל פרסום"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "הפעלה אוטומטית"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "סגור תיבת דו-שיח"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "כתבו שם קובץ…"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "מתאר"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "לנגן בלי הפסקה"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "עמודה בודדת בתוך בלוק של מספר עמודות."
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "הסר תמונה"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "הטיפ הבא"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "בטל טיפים"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "הבנתי"
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "מוכן לשלוח סקירה?"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "אם התוכן מוכן, ניתן לשלוח אותו לביקורת, ועורך יוכל לאשר אותו עבורך."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "סוג הקובץ אינו מורשה מטעמי אבטחה."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "שגיאה במהלך העלאת קובץ %s לספריית המדיה."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "שמירה אוטומטית"
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "הכנס כתובת כאן..."
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ה-ID של אובייקט האב."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "להציג את התוכן שנשמר אוטומטית"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "קיימת שמירה אוטומטית של הפוסט הזה, והיא חדשה יותר מהגרסה המוצגת כעת."
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "נעץ לסרגל כלים"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "שחרר נעיצה מסרגל כלים"
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "תאי טבלה ברוחב קבוע"
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "הצג רשימה של הפוסטים האחרונים."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "שגיאה בטעינת בלוק: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "שגיאה לא ידועה"
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "הוספת טבלה — להצגת מידע או תרשימים."
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "הוספת טקסט הכולל כבר רווחים וטאבים, ומאפשר שינויים בעיצוב."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "הוספת בלוק המציג תוכן שנמשך מאתרים אחרים, כמו טוויטר, Instagram או YouTube."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "הוספת בלוק המציג תוכן במספר עמודות - ניתן להוסיף בלוקים שונים לכל עמודה."
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "הסר %s"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "קוד צבע: %s"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "הסר פריט"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "העתק קישור"
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "מציג אות ראשונה גדולה."
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "ליחצו על הכפתור כדי להציג אות ראשונה גדולה."
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "גובה בפיקסלים"
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "שם:"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s מתוך %3$s)"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "מרווח"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "הקישור הועתק"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "תיזמון"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "עריכת הקישור הישיר של הפוסט"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "דילוג לבלוק הנבחר"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "גובה"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "רוחב"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "הדף הבא"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "דפדוף"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "סגירת התוסף"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "הגדרות העורך"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "הגדרות הבלוק נסגרו"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "תמונות מוקטנות לא חתוכות"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "תמונות קטנות ייחתכו לטובת היישור"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "הסתר הגדרות בלוק"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "הצג הגדרות בלוק"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "הסר קישור"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "גודל תמונה"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "ספריית מדיה"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "מעבר דף"
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "אפשרויות נוספות"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "הוספת פריט"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "סטטיסטיקת המסמך"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "עורך קוד נבחר"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "עורך ויזואלי נבחר"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "תוספים"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "גודל מותאם"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "תוזמן. הוא יפורסם באתר ב"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "תוכן הפוסט לא תואם את התבנית של סוג התוכן."
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "מתוזמן לפרסום"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "מתזמן…"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "שמירה ללא שינויים"
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "איפוס התבנית יכול לגרום לאיבוד התוכן, האם להמשיך?"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "איפוס התבנית"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "הבלוק נמחק."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "הבלוק עודכן."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "הבלוק נוצר."
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "המחיקה נכשלה"
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "מתאר המסמך"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s הוסר"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s נוסף"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "פיסקאות"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "כותרות"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "מילים"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "מבנה התוכן"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "ציבורי"
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "מוגן בסיסמה"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "פרטי"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "מונח אב"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "מונח"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "תגית"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "מייד"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "שומר"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "מה הלאה?"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "פורסם"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "תיזמון"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "עדכון"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d גירסה"
+msgstr[1] "%d גירסאות"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "הצעה:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "סוג תוכן"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "צ'אט"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "סטנדרטי"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "תוכן צדדי"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "תמונה ראשית"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "ללא הורה"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "ללא כותרת"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "נשמר"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "בלוקים"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "הוספת בלוק"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "שגיאת העתקה"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(יתכן והתבנית שלך כבר משתמשת ב-H1  עבור כותרת הפוסט)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(רמת כותרת לא נכונה)"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(כותרת ריקה)"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "אפשרויות נוספות"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "בלוק %s הוא הבלוק היחיד ולא ניתן להזיזו"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "בלוק: %s"
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "לא נבחר בלוק."
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "הועתק!"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "ניראות"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "בלוק"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "מסמך"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "תוכן העורך"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "עורך"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "סרגל כלים של העורך"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "הגדרות"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "איפוס"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "הפריט הוסר."
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "אין תוצאות."
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(ללא כותרת)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "סגור"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "קישור"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "קו חוצה"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "נטוי"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "מודגש"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "מספר פריטים"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "קטגוריה"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "בחירה"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "וידאו"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "שירה"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "עמודה חדשה"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "טבלה"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "מפריד"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "קו אופקי"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "מפריד"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "ציטוט"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "טקסט"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "רשימה מספרית"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "רשימה מסודרת"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "רשימה"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "פוסטים אחרונים"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "לא נמצאו פוסטים."
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "כפתור"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "הבלוק נמחק או לא זמין."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "עריכה"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "עריכת תמונה"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "קוד"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "פוסט"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "תוכן מוטמע מ-%s"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "קלאסי"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "וידאו"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "אודיו"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "מוסיקה"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "תמונה"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "בלוג"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "כותרת משנה"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "כותרת"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "כותרת %s"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "רמה"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "צילומים"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "תמונות"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "קובץ מדיה"
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "פוסטים אחרונים"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "הצגת תאריך הפוסט"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "תמונה"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "תמונה"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "הטמעה"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "עמוד הקובץ"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "הצגת מספר פוסטים בכל קטגוריה"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "הכל"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "שלח"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "צבע הטקסט"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "כלים"
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "הפריט התווסף."
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "הגש לאישור"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "סדר"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "קישור ישיר:"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "מצב"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "מעדכן…"
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "מפרסם…"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "לכתוב…"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "ניתן להוסיף כאן שורטקוד…"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "כתיבת ציטטה…"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "כתיבת ציטוט…"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "הופסת רשימה…"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "הוספת תיאור…"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "הוספת קוד…"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "כתיבת כותרת…"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "כתיבת כותרת…"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "מטמיע…"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "הוספת טקסט…"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "מוגן עם סיסמה לבחירה. רק בעלי הסיסמה יוכלו לצפות בפוסט."
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "להמיר לבלוק רגיל"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "רשימת תבליטים"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "הזזה פנימה של הפריט"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "הזזה החוצה של הפריט"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "להמיר לרשימה ממוספרת"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "להמיר לרשימה לא ממוספרת"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "לנסות לשחזר"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "האם לבטל את פרסום הפוסט?"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "הכל מוכן לפרסום?"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "עכשיו זמין באתר"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "מידע נוסף אודות תקצירים"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "לא נמצאו בלוקים."
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "העורך נתקל בשגיאה בלתי צפויה."
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(מומלץ שלא להוסיף יותר מכותרת H1 אחת)"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "לא ניתן להעלות את הבלוקים בגלל שהם כבר בחלק העליון ביותר"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "לא ניתן להוריד את הבלוקים בגלל שהם כבר בתחתית"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "למצוא את המקור"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "זמין לצפייה לכולם."
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "זמין לצפייה רק למנהלי האתר ולעורכים."
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "ישנם שינויים שלא נשמרו והם ילכו לאיבוד."
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "להמיר לבלוקים"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "מומלץ לבחור סיסמה חזקה"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "האם לפרסם עכשיו את הפוסט באופן פרטי?"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "ארעה שגיאה עם הבלוק הזה, ולא ניתן להציג תצוגה מקדימה שלו."
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "להפוך ל:"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "לסגור הגדרות"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "להסתיר הודעה זו"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "ארעה שגיאה לא ידועה."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "נמצאה תוצאה אחת. ניתן להשתמש בחיצים למעלה ולמטה במקלדת כדי לנווט."
+msgstr[1] "נמצאו %d תוצאות. ניתן להשתמש בחיצים למעלה ולמטה במקלדת כדי לנווט."
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "ת ← א"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "א ← ת"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "למיין על פי"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "לבחור או להעלות מדיה"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "למחוק שורה"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "למחוק עמודה"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "פסוק"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "להציג כרשימה נפתחת"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "מעוצב מראש"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "לקרוא עוד"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "הטמעות"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "חיפוש בלוק"
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "ציטוט"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "יצירת סיסמה"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "כתיבת טקסט ללא תבנית"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "כתוב כותרת משנה…"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "פרסום:"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"האם אתה בטוח שברצונך למחוק את הבלוק המשותף?\n"
+"\n"
+"הוא ימחק לצמיתות מכל הפוסטים והדפים בהם הוא מופיע."
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "כותרת"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "כתיבת תקציר (אופצינאלי)"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "אפשרויות נוספות ניתן לראות בסרגל הצדדי של הגדרות הבלוק"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "שכפל"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "HTML מותאם"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "הסר"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "העתק קישור"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "העתק את הטקסט של הפוסט"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "הוספת שורה לפני"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "הוספת עמודה אחרי"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "הוספת עמודה לפני"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "הוספת שורה אחרי"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "מונח חדש"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "קטגוריה חדשה"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "תצוגה:"
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "נראות הפוסט"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "תבנית עמוד:"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "קטגורית אב"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "עריכת HTML"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "עריכה ויזואלית"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "כתובות %s"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "כתובת של התוכן להטמעה…"
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "שימוש בכתובת URL"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "גלרייה"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "העבר למטה"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "העבר למעלה"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "טורים"
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "גרור לכאן קבצים כדי להעלותם לאתר"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "פסקה רגילה"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "כתובת URL"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "ביטול פעולה אחרונה"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "החל"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "ללא"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "בטל"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "שמירת טיוטה"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "בצע שוב"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "נמצאה תוצאה אחת."
+msgstr[1] "נמצאו %d תוצאות."
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "וידג'טים"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "אודיו"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "בוחר צבע"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "צבע: %s"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "עיצוב"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "להעלות"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "יתכן ושילוב הצבעים הזה יקשה על משתמשים לקרוא. נא להשתמש ברקע בהיר יותר ו/או צבע טקסט כהה יותר."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "יתכן ושילוב הצבעים הזה יקשה על משתמשים לקרוא. נא להשתמש ברקע כהה יותר ו/או צבע טקסט בהיר יותר."
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "נקה"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "מדפיסים משנת 1440. תוסף זה נמצא בפיתוח לטובת עורך התוכן החדש של וורדפרס."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "הוספת כותרת"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "לפני %s"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "גוטנברג"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "צוות גוטנברג"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "הדגמה"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "בחירת קטגוריה"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(ללא כותרת)"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "דיון"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "תקציר"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "מזהה לכתובת"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "מאת"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "פרסום"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "שמירה"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "מטה דטה"

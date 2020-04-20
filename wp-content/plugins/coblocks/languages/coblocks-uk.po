@@ -1,0 +1,3503 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-30 08:18:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "tv"
+msgstr "tv"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail style"
+msgstr "Стиль мініатюри"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "Пропорції 16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "Пропорції 4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Дозволити оформлення градієнтною заливкою."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Градієнтні стилі"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Дозволити оформлення власними кольорами."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Засоби вибору власного кольору"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Дозволити налаштування кольорів у редакторі."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Налаштування кольорів"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Дозволити засоби керування типографікою на рівні блоку"
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Засоби керування типографікою"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Налаштування редактора"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Налаштування для вимкнення або ввімкнення засобів і попередніх налаштувань градієнтів на сайті."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Налаштування для вимкнення або ввімкнення засобів вибору власного кольору на сайті."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Налаштування для вимкнення або ввімкнення всіх засобів вибору кольору на сайті."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Налаштування для вимкнення або ввімкнення засобів керування типографікою на сайті."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Розміщення…"
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Час…"
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Введіть опис події…"
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Введіть назву події..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Рік…"
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Місяць…"
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "День…"
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Подія в блоці подій."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Елемент події"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Показувати події за період (до 100 подій)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Подій на сторінку"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Перемкніть для посилання на загальнодоступний календар."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Показ загальнодоступного календаря."
+
+#: dist/coblocks.js:58
+msgid "Events settings"
+msgstr "Налаштування подій"
+
+#: dist/coblocks.js:58
+msgid "Add event"
+msgstr "Додати подію"
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Введіть URL…"
+
+#: dist/coblocks.js:58
+msgid "Edit calendar URL"
+msgstr "Змінити URL календаря"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Витягнути все"
+
+#: dist/coblocks.js:58
+msgid "1 month"
+msgstr "1 місяць"
+
+#: dist/coblocks.js:58
+msgid "2 weeks"
+msgstr "2 тижні"
+
+#: dist/coblocks.js:58
+msgid "1 week"
+msgstr "1 тиждень"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "дата"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Додати список подій або відобразити події з загальнодоступного календаря."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Події"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Очистити мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "монітор"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Сталася помилка. Перевірте дозволи календаря й переконайтеся, що він загальнодоступний, або повторіть спробу пізніше."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "програма"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "передати"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "поліпшити"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "мода"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "тренд"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "Гаряча"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "коледж"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "диплом"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "звання"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "випуск"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "випускник"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "освіта"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "пора року"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "зима"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "мороз"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "лід"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "холод"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "доставка"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "кошик"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "товар"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "інженер"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "розробка"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "емблема"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "мовлення"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "мова"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "безпека"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "сейф"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "біометрія"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "захист"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "біо"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "охорона"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "разом"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "команда"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "віджет"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "плагін"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "загадка"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "електронна торгівля"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "торгівля"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "крамниця"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "оплата"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "каса"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "гроші"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "Квітка"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "сад"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "гарний"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "запах"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "аромат"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "пелюстка"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "свято"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "вечірка"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "стілець"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "відпочинок"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "сніг"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "вихідні"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "смак"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "ложка"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "виделка"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "напій"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "їжа"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "хмарочос"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "місто"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "будівля"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "корпорація"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "бізнес"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "розміщення"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "земля"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "загальний"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "громадський"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "світ"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "літо"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "вода"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "океан"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "назовні"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "надворі"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "мінімум"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "ландшафт"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "Пагорби"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "Прапорець"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "перевірити"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "Мапа"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "віджети"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "Квадрат"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "поля"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "скринька"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "Хвилі"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "Радіо"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "доставити"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "Надіслати"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "коментар"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "відповісти"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "Відповісти"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "лист"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "читати"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "ос"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "Хаб"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "підключення"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "surface"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "офіс"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "стіл"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "пк"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "подобається"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "обране"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "голос"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "оцінка"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "поцілунок"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "валентинка"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "фігура"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "любов"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "типографія"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "Маркер"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "олівець"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "Шрифт"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "друк"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "мистецтво"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "Закарлючка"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "креслення"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "грецька"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "радість"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "розваги"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "посмішка"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "Емотикон"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "емоція"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "щастя"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "дані"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "точки"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "графік"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "діаграма"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "круг"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "статистика"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "математика"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "круглий"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "плюс"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "вставити"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "Коло"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "мінус"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "додати"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "пензель"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "Фарба"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "кольори"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "палітра"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "продюсер"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "режисер"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "відеографіка"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "колекція"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "діафрагма"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "фільм"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "Камера"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "фотографія"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "фотограф"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "фото"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "пристрій"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "комп’ютер"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "навушники"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "ритм"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "Аудіо"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "творчість"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "артист"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "пісня"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "подкаст"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "мікрофон"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "музика"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "дизайн"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "Створюйте"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "блок"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "Блоки"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Передайте файл мультимедіа або виберіть його в бібліотеці мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Відображати зображення в галереї у вигляді цегляної кладки зі зсувом."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Зсув"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Призначити зустріч"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Опівдні"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Ранок"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Час"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Зустріч"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Примітки?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Ні"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Так"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Чи будете ви присутні?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Плюс один"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "Відповідь на запрошення"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Зверніться до нас"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "контакт"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "У полі теми можна використовувати такі теги: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "Ім'я"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Надсилання форми з [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Введіть підпис до галереї..."
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Область медіа"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Додати заголовок..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Заголовок меню..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Додати кнопку..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Напишіть текст..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Напишіть заголовок..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Додайте вміст..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Додайте заголовок..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "посилання"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Облікові записи в соціальних мережах"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Значок і текст"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Текст"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Маскування"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "спільнота"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Поширити"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Загострений"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Трикутник"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Заокруглений"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Похилий"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Під кутом"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Пагорби"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Хвилястий"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "роздільник"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Фігурний роздільник"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "особливості"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Послуги"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Напишіть опис..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Послуга"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "компонування"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "колонки"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "рядки"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Елемент таблиці цін"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "порівняння"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "цільова"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Таблиця цін"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "повзунок"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Відображати дописи або канал зовнішнього блогу у вигляді каруселі."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(без назви)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS-канал"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "По горизонталі"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "останній"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "блог"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "записи"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Відображати дописи або канал RSS у вигляді накладених або горизонтальних карток."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Записи"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "відео"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "зображення"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "маршрути"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "мапи"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "адреса"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Мапа"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "абзац"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Виділення"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Допоміжна кнопка..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Додати заголовок транспаранта..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "кнопка"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Транспарант"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Змінити URL %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Повернутися до %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "код"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "анімоване"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "ввід"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Приховане текстове поле для збирання додаткових даних."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "гіперпосилання"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Текстове поле для введення URL-адреси."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Поле прапорців із кількома варіантами, з яких можна вибрати кілька."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "розкривний список"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Поле з кількома варіантами, з яких можна вибрати лише один."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Багаторядковий текст"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "текст повідомлення"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "текст"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Текстова область"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "факс"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "мобільний"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "клітинка"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "стільниковий"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "телефон"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "Варіант"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "Вибрати"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "Вибрати"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Радіо"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "прізвище"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "ім'я"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "пошта"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "e-mail"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "рік"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "місяць"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "день"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "календар"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "контакт"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "інформація"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "ел. пошта"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Форма"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Страва"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Список"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Таблиця"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "меню"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "ресторан"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Їжа та напої"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Особливості"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Це блок особливості, який можна використовувати для виокремлення особливостей."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Додайте вміст особливості"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Заголовок особливості"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Додайте заголовок особливості..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Особливість"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Повна ширина"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Лінія"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Точка"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "роздільник"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Динамічний HR"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Колонка"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Шари"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Плитка"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Колаж"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "поширення"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Натисніть, щоб зробити твіт"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Вмістити"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Накрити"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Авто"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Стовпчик на мобільному"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "заклик до дії"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "заклик до дії"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "посилання"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Посилання на автора..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Перетягніть, щоб завантажити як аватар"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "Джейн Доу‌‌"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "обліковий запис"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "біографія"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Автор"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Помилка"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Увага"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Успішно"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Інформація"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "повідомлення"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "нотатка"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Сповіщення"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Напишіть заголовок елемента акордеона..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Елемент акордеона"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "ЧаПи"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "вкладки"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Акордеон"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Хвиля вгорі"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Хвиля внизу"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Коло"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Прапорець"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Картка мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "лайтбокс"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Баклажан"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Ніч"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "Ретро"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Сріблистий"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Стандартний"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "печатка"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "нагороди"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "відгуки"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "доказ"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "клієнти"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Легкий"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Темний"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "фотографії"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "галерея"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Великими літерами"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Нижній регістр"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Основна кнопка..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Жирний"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Звичайний"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Заповнення"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Контур"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "значки"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Значок"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Перемкніть для відображення %s у рядку."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Відображення %s у рядку."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "У рядку %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Оновлення"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Вогонь"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Школа"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Сніжинка"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Відвантаження"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Шари"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Спалах"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Новинка"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Перекласти"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Відбиток пальця"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Розширення"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Кредитна картка"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Створюйте"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Квітка"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Торт"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Диван"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Ресторани"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Місто"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Глобус"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Хвилі"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Гори"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Маркер"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Блоки"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Сигнал"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Надіслати"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Відповісти"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Хаб"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Спостерігати"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "Планшет"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "Ноутбук"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Пристрої"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Комп’ютер"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Зірочка"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Серце"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Закарлючка"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Функції"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Емотикон"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Опитування"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Графік розкиду"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Кругова діаграма"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Коло з мінусом"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Додати круг"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Пензель"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Фарба"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Вибір кольору"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Кольоровий об’єктив"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "Фільм"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Відео"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Галерея"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Камера"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Діафрагма"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Голос"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Гучність"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Гарнітура"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "Альбом"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Аудіо"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Вінтажний фільтр"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Першоджерело"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Відсоток"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Піксел"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Приховане"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Щось негаразд."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Вибрати"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Отримати зовнішній канал"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Дата"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Телефон"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Читати далі"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Виберіть один варіант"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Сталася помилка; імовірно, канал не працює. Повторіть спробу пізніше."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Поле для запиту дати з календариком."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Поле для отримання правильної адреси електронної пошти."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Текстове поле для отримання імен і прізвищ."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Поле з кількома варіантами, з яких можна вибрати лише один."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Неправильний ключ API або надто багато запитів"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Вибрати налаштування розміру значка"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(без назви)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Написати варіант..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Видалити варіант"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Публікації в блозі"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Використати URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Додати на сторінку форму звернення."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Популярний"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Увімкнуто параметри точного керування."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Перемкніть, щоб увімкнути параметри керування мапою."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Використати зовнішній канал"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Дописи не знайдено. Почніть публікацію або додайте дописи з RSS-каналу."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Збережено"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Показ елемента керування повноекранним режимом мапи."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Перемкніть, щоб внизу справа відображався елемент керування виглядом з вулиць."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Показ елемента керування виглядом з вулиць."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Потрібна допомога?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Отримати ключ"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Додати ключ Google Maps API. У разі оновлення цього ключа API всі ваші мапи будуть використовувати новий ключ."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Перемкніть, щоб показувати елемент керування повноекранним режимом мапи."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Перемкніть, щоб дозволити збільшення та зменшення масштабу мапи за допомогою елементів керування."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Показ елементів керування масштабом мапи."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Перемкніть, щоб дозволити перемикання між стандартною та супутниковою мапою."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Дозволено перемикання між стандартним і супутниковим поданнями мапи."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Поле, в якому відвідувачі можуть указати номер телефону."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Показ дати публікації."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Введіть розташування або адресу, щоб поставити позначку на мапі Google."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Пошук місця або адреси..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Висота мапи в пікселах"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Масштаб"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Змінити URL RSS"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Зображення ліворуч"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Зображення праворуч"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "URL-адреси RSS звичайно розташовані в директорії /feed/ на сайті."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Перемкнути на показ дати публікації."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Макс. кількість слів у вмісті"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Перемкнути на показ вмісту допису."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Показ вмісту допису."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Кількість дописів"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Карусель дописів"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Коло"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Квадрат"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Збільште вашу аудиторію за допомогою посилань на облікові записи в соціальних мережах."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "палітра дизайн кольори художник малювати творчі мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "URL посилання"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Пошук не дав результатів."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Радіус"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Власний"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Застосувати власний розмір"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Скинути розмір значка"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Додайте стилізований графічний символ, який додатково про щось сповіщає."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Опублікувати в LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Значки"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Перемкніть, щоб використовувати офіційні кольори кожної соціальної мережі"
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Дозволено кольори кнопок поширення."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Додайте посилання в соціальних мережах, щоб отримати більше вподобань і сприяти поширенню."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Перевернути по вертикалі"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Перевернути по горизонталі"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Додайте фігурний роздільник, який допомагає візуально розрізняти розділи сторінки."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Перемкніть, щоб скласти кнопки стовпчиком на мобільному пристрої."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Накладення кнопок стовпчиком на мобільному пристрої."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Запропонуйте відвідувачам можливі дії за допомогою кнопок, розташованих поруч."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Карусель"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Мініатюри"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Перемкнути на висоту у відсотках."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Активовано висоту у відсотках."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Перемкнути на показ мініатюр."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Показ навігації мініатюрами."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Відображення кількох зображень у привабливій галереї, яка діє за принципом каруселі."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Замініть цей текст на опис, який додається до зображення на картці. Потім додайте на цю картку інші блоки, наприклад кнопки, списки або зображення."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Мультимедіа ліворуч"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Мультимедіа праворуч"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Перемкніть, щоб додати тінь %s."
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Показ тіні %s."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Перемкніть, щоб додати тінь картки."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Показ тіні картки."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Додайте зображення або відео за допомогою картки зі зсувом."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Перетягніть, щоб замінити мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "Мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Редагувати мультимедіа"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Кам'яна кладка"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Заокруглення кутів елементів галереї."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Відображення кількох зображень у впорядкованій галереї, яка має вигляд кам’яної кладки."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Логотипи та емблеми"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Редагувати емблеми"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Чорно-білий"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Додайте логотипи, емблеми та сертифікати, щоб зміцнити довіру відвідувачів."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Видалити"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Зберегти"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Отримати довідку"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Мої ключі"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Створити ключі"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Додайте ключ сайту та секретний ключ eCAPTCHA , щоб захистити вашу форму від спаму."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Тема"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Адреса електронної пошти"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s не є правильними адресами електронної пошти."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s і %s не є правильними адресами електронної пошти."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s не є правильною адресою електронної пошти."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Блок тексту для довших відповідей."
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Додати текст..."
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Зразок теми"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Перемкніть, щоб додати поле для прізвища."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Показ полів для імені та для прізвища."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Висота динамічного розділового елемента в пікселах."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Додайте роздільник між іншими блоками з регульованим розміром."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Додати коментар для твіту..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Ім’я користувача Twitter"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Колір кнопки"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Найлегший шлях до просування та рекламування вашого блогу, веб-сайту та бізнесу в Twitter."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Додайте коментар для читачів через Twitter."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "0,00 грн."
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Додати опис..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Гаряча"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Перемкніть, щоб показувати ціну для цього елемента."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Показ ціни для цього елемента."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Ціна"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Перемкніть, щоб показувати зображення для цього елемента."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Показ зображення для цього елемента."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Зображення"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Страва або напій у блоці «Їжа та напої»"
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Веганська"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Пескатаріанська"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Без глютену"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Вегетаріанська"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Гостріша"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Гостра"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Перемкніть, щоб показувати ціну для кожного елемента."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Показ ціни для кожного елемента"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Ціни"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Перемкніть, щоб показувати зображення для кожного елемента."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Показ зображень для кожного елемента"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Зображення"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Відображення меню або прайсу."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Виберіть кількість колонок у цьому рядку."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Виберіть компонування для цього %s-колонкового рядка."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Рядок"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Додати фон для рядка"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "4"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "три"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "2"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "1"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Змінити компонування блоку рядків"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "квартали"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Третини"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Додати фон для колонки"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Ширина"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Проміжок навколо контейнера."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Безпосередній нащадок рядка."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Додайте структуровану обгортку для блоків колонок, потім додайте бажані блоки вмісту для колонок."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "План %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Змінити кількість таблиць цін"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Чотири таблиці цін"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Три таблиці цін"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Дві таблиці цін"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Одна таблиця цін"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Додати таблиці цін, щоб відвідувачі могли порівнювати товари та пакети послуг."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Додайте особливості"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "План A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Придбати зараз"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Таблиця цін, яка допомагає відвідувачам порівнювати товари та пакети послуг."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Щоб забезпечити підтримку для Internet Explorer, завантажте полізаповнення JavaScript на цій сторінці."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Додайте підтримку для Internet Explorer, завантаживши полізаповнення JavaScript."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Систематизуйте вміст у вигляді елементів акордеона, які можуть згортатися й розгортатися."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Перемкніть, щоб цей елемент акордеона за промовчанням відображався у відкритому стані."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "За промовчанням елемент акордеона відкрито."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Додавання до акордеонів елементів, які можуть згортатися."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Додайте одну-три колонки стислих нотаток про ваш товар або послугу."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Додати як фон"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Одинична колонка-нащадок у батьківському блоці особливостей"
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Сповіщення — це повідомлення, яке відображається поза потоком типового вмісту. У сповіщеннях надаються відгуки з урахуванням контексту, в яких читачів звичайно просять виконати певну дію."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Це блок сповіщення"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Надання повідомлень-відгуків або сповіщень з урахуванням контексту."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Змінити розташування"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Додати адресу або розташування або адресу, щоб поставити позначку на мапі Google."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google Map"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Перемкніть, щоб показувати кнопки заклику до дій."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Показ кнопок заклику до дій."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Колонки"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Стилі"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Додайте одну-чотири колонки для відображення послуг."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Перемкніть, щоб показувати кнопку заклику до дії."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Показ кнопки заклику до дії."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Один елемент послуги у блоці послуг."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Тінь"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Зробити із зображень приємний колаж або галерею."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Напишіть біографію, яка підсилює об’єктивну довіру та авторитет у ваших читачів..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Написати ім'я автора..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Змінити аватар"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Виражайте, а не вражайте. Створюйте те, що бажаєте."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Додайте біографію автора, щоб створити довіру та авторитет."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "зображення %1$d з %2$d у галереї"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Стовпчиком"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Підписи"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Перемкнути на лайтбокс для зображень."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Увімкнуто лайтбокс для зображень."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Перемкніть, щоб показувати підписи до мультимедіа."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Показ підписів для кожного мультимедійного елемента."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Перемкніть, щоб заповнити доступну площину галереї повністю повноширинними зображеннями."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Дозволено показ повноширинних зображень."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Відображення кількох зображень в одноколонковій галереї."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Завантаження Gist"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Додайте Add URL-адресу Gist на GitHub..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Метадані Gist"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Файл Gist"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Gist URL"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Перемкніть, щоб показувати метадані Gist."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Показ метаданих Gist."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Вставити Gist-фрагменти з GitHub, додавши посилання на них."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Переглянути цей Gist-фрагмент на GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Пошук gif"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Знайдіть чудовий gif-малюнок на сайті Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Це gif-зображення має пустий атрибут alt"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Видалити gif"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Залиште поле пустим, якщо це лише прикраса."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Опишіть мету цього зображення"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Візьміть будь-яке gif-зображення."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Перемкнути на видалення поля внизу."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Перемкнути на додавання поля внизу."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Перемкнути на видалення поля вгорі."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Перемкнути на додавання поля вгорі."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Перемкніть, щоб у малому полі зору складати елементи стовпчиком."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Увімкнуто чутливість."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Перемкніть, щоб відображати кнопку з повною шириною."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Відображення з повною шириною."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Скинути параметри обтинання зображень"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Повернути за годинниковою стрілкою"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Повернути проти годинникової стрілки"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Заповнювач зображення для налаштувань обтинання"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Десять секунд"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Дев’ять секунд"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Вісім секунд"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Сім секунд"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Шість секунд"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "П’ять секунд"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Чотири секунди"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Три секунди"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Дві секунди"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Одна секунда"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "З перетягуванням"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Автовідтворення"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Перемкнути на прокручування без фіксованих слайдів."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Увімкнуто прокручування без фіксованих слайдів."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Перемкнути на припинення автовідтворення при наведенні"
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Припинення автовідтворення, коли наводять курсор."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Вирівнювання слайдів по центру."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Вирівнювання слайдів з лівого блоку."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Перемкніть, щоб показувати засоби навігації крапками."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Показ навігації крапками."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Перемкніть, щоб показувати стрілки навігації між слайдами."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Показ стрілок навігації між слайдами."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Перемкнути для ввімкнення перетягування."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Увімкнуто перетягування та струшування."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Автоматично переходити до наступного слайда."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Перехід за %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "секунда"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "секунд"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "За промовчанням"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Вибір довільного кольору"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Користувацька URL-адреса"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Перетягніть зображення, завантажте нові або виберіть файли в бібліотеці"
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Галерея - %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Напишіть підпис..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Дуже великий"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Розмір"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Перетворити"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Вага"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Шрифт"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Змінити типографіку"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Застосувати фільтр"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Верхній регістр"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Заголовок %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Додати виділений текст..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Застосувати до абзацу ефект висвітлення, щоб привернути увагу та підкреслити щось важливе."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Привернути увагу та підкреслити щось важливе."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Період"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Змінити компонування"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Ширина вмісту в пікселах"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Висота в пікселах"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Проміжок у контейнері"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Додати фон для транспаранта"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Додайте вміст транспаранта, зазвичай це вступна частина сторінки, яка супроводжується одним чи двома закликами до дії."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Вступна частина сторінки, яка супроводжується невеликим текстом і закликом до дії."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Великий"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Великий"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Середній"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Малий"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Немає"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Видалити фон"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Перемкніть, щоб закільцювати фонове відео."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Закільцювання фонового відео."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Перемкніть, щоб вимкнути звук фонового відео."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Вимкнення звуку фонового відео."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Відображати"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Положення"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Повторити"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Заповнення"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Застосувати"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Збереження"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Перетягніть зображення на заміну"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Висота"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Перемкніть, щоб увімкнути повноекранний режим."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Увімкнуто повноекранний режим."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Повноекранний"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Компонування, розміщення"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Обов'язково"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Додати мітку..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "Мобільний %s"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Корінець"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Додатково"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Додаткові налаштування %s"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Зліва"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Знизу"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Справа"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Вгорі"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Синхронізувати"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Розсинхронізувати"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Скинути"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Увімкнути додаткові налаштування %s"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Виберіть одиниці вимірювання"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Поле"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Опублікувати в Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Опублікувати в Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Поділитися на Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Поділитися через електронну пошту"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Опублікувати в LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Поділитися на Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Поділитися на Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Поділитися на Facebook"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Огляд блоків CoBlocks на WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Залишити відгук"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Ключ Google Map API для відображення мап"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Ваше повідомлення надіслано:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Відправити"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Повідомлення"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Прізвище"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Ім’я"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Ім'я"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Секретний ключ Google reCaptcha для захисту форм від спаму"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Ключ сайту Google reCaptcha для захисту форм від спаму"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks — це набір професійних <strong>блоків вмісту для створення сторінок </strong>, призначених для редактора блоків WordPress Gutenberg. Завдяки нашим блокам хто завгодно може створювати вражаючі сторінки у WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

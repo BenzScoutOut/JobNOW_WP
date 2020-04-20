@@ -1,0 +1,1092 @@
+# Translation of Plugins - Full Site Editing - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Full Site Editing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-31 19:55:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Full Site Editing - Stable (latest release)\n"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:105
+msgid "https://support.wordpress.com/wordpress-editor/"
+msgstr "https://br.support.wordpress.com/wordpress-editor/"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:106
+msgid "Here's a detailed guide."
+msgstr "Veja um guia detalhado."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:104
+msgid "New to the WordPress editor? Want to learn more about using it? "
+msgstr "Novo no editor do WordPress? Deseja saber mais sobre como usá-lo? "
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:100
+msgid "Learn how to use the WordPress editor"
+msgstr "Saiba como usar o editor do WordPress"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:53
+#: wpcom-block-editor-nux/src/wpcom-nux.js:59
+msgid "Welcome to the WordPress editor"
+msgstr "Bem-vindo ao editor do WordPress"
+
+#: event-countdown-block/blocks/src/index.js:16
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to your favorite next thing, and celebrate with fireworks when the time is right!"
+msgstr "Faça a contagem regressiva para suas coisas preferidas e celebre com fogos de artifício quando chegar a hora!"
+
+#: event-countdown-block/blocks/src/view.js:64
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown seconds remaining"
+msgid "seconds"
+msgstr "segundos"
+
+#: event-countdown-block/blocks/src/view.js:60
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown minutes remaining"
+msgid "minutes"
+msgstr "minutos"
+
+#: event-countdown-block/blocks/src/view.js:56
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown hours remaining"
+msgid "hours"
+msgstr "horas"
+
+#: event-countdown-block/blocks/src/view.js:51
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown days remaining"
+msgid "days"
+msgstr "dias"
+
+#: event-countdown-block/blocks/src/edit.js:48
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Date:"
+msgstr "Data:"
+
+#: event-countdown-block/blocks/src/edit.js:36
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Title:"
+msgstr "Título:"
+
+#: starter-page-templates/page-template-modal/components/block-iframe-preview.js:212
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Preview"
+msgstr "Visualizar"
+
+#: jetpack-timeline/blocks/src/timeline.js:23
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Create a timeline of events."
+msgstr "Crie uma linha do tempo de eventos."
+
+#: jetpack-timeline/blocks/src/timeline.js:22
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline"
+msgstr "Linha do tempo"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:17
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "An entry on the timeline"
+msgstr "Uma entrada na linha do tempo"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:16
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline Entry"
+msgstr "Entrada na linha do tempo"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/images.js:40
+msgid "inserter"
+msgstr "inserção"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:73
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "Cada bloco tem seus próprios controles para alterar características como cor, largura e alinhamento. Eles aparecerão e desaparecerão automaticamente quando você selecionar um bloco."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:70
+msgid "Make each block your own"
+msgstr "Torne cada bloco único"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:63
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "No editor do WordPress, cada parágrafo, imagem ou vídeo é um “bloco” de conteúdo distinto."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:54
+msgid "Get started"
+msgstr "Comece agora"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Subtitle"
+msgstr "Mostrar legenda"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Begin typing post title, click autocomplete result to select."
+msgstr "Para começar, insira o título da publicação e clique em completar resultado automaticamente para selecionar."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Choose Specific Posts"
+msgstr "Escolher publicações específicas"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:86
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "Todos os blocos disponíveis para você estão na biblioteca de blocos. Você a verá assim que avistar o ícone <InserterIconImage /> ."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:81
+msgid "Get to know the block library"
+msgstr "Conheça a biblioteca de blocos"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Team Pages"
+msgstr "Páginas das equipes"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Services Pages"
+msgstr "Páginas de serviços"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Product Pages"
+msgstr "Páginas de produtos"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Portfolio Pages"
+msgstr "Páginas de portfólios"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Menu Pages"
+msgstr "Páginas de menus"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Event Pages"
+msgstr "Páginas de eventos"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Contact Pages"
+msgstr "Páginas de contato"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blog Pages"
+msgstr "Páginas de blogs"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "About Pages"
+msgstr "Sobre as Páginas"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blank"
+msgstr "Em branco"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Home Pages"
+msgstr "Páginas iniciais"
+
+#: jetpack-timeline/blocks/src/timeline.js:67
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Winter"
+msgstr "Inverno"
+
+#: jetpack-timeline/blocks/src/timeline.js:56
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Fall"
+msgstr "Outono"
+
+#: jetpack-timeline/blocks/src/timeline.js:45
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Summer"
+msgstr "Verão"
+
+#: jetpack-timeline/blocks/src/timeline.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Spring"
+msgstr "Primavera"
+
+#: jetpack-timeline/blocks/src/block-appender.js:35
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Add New Entry"
+msgstr "Adicionar nova entrada"
+
+#: event-countdown-block/blocks/src/view.js:67
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "until"
+msgstr "até"
+
+#: event-countdown-block/blocks/src/edit.js:42
+#: event-countdown-block/blocks/src/edit.js:44
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Title"
+msgstr "Título do evento"
+
+#: event-countdown-block/blocks/src/edit.js:28
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to an event. Set a title and pick a time and date."
+msgstr "Inicie a contagem regressiva para um evento. Defina o título e escolha a data e a hora."
+
+#: event-countdown-block/blocks/src/edit.js:27
+#: event-countdown-block/blocks/src/index.js:15
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Countdown"
+msgstr "Contagem regressiva para o evento"
+
+#: event-countdown-block/blocks/src/edit.js:20
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Choose Date"
+msgstr "Escolher data"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Excluded Tags"
+msgstr "Tags excluídas"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Advanced Filters"
+msgstr "Mostrar filtros avançados"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Hide Advanced Filters"
+msgstr "Ocultar filtros avançados"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:134
+#: blog-posts-block/dist/editor.js:6
+msgid "Load more posts"
+msgstr "Carregar mais posts"
+
+#: posts-list-block/blocks/posts-list/index.js:74
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "An improved version of this block is available. Update for a better, more natural way to manage your blog post listings. There may be small visual changes."
+msgstr "Há uma versão aprimorada deste bloco. Atualize e obtenha uma forma melhor e mais natural de gerenciar listas de posts do blog. Talvez haja pequenas alterações visuais."
+
+#: posts-list-block/blocks/posts-list/index.js:67
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Update Block"
+msgstr "Atualizar bloco"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sorry, no posts were found."
+msgstr "Nenhum post encontrado."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Write header…"
+msgstr "Escrever cabeçalho…"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Uncropped"
+msgstr "Não cortado"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Square Image Shape"
+msgstr "Imagem no formato quadrado"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "portrait Image Shape"
+msgstr "Imagem no formato retrato"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Landscape Image Shape"
+msgstr "Imagem no formato paisagem"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media behind"
+msgstr "Mostrar mídia atrás"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on right"
+msgstr "Mostrar mídia à direita"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on left"
+msgstr "Mostrar mídia à esquerda"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on top"
+msgstr "Mostrar mídia acima"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Grid View"
+msgstr "Visualização em grade"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "List View"
+msgstr "Visualização em lista"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author Avatar"
+msgstr "Mostrar avatar do autor"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author"
+msgstr "Mostrar autor"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Category"
+msgstr "Mostrar categoria"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Date"
+msgstr "Mostrar data"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Meta Settings"
+msgstr "Configurações de informações do post"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Type Scale"
+msgstr "Escala por tipo"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Excerpt"
+msgstr "Mostrar resumo"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Control Settings"
+msgstr "Configurações de controle do post"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sets a minimum height for the block, using a percentage of the screen's current height."
+msgstr "Define uma altura mínima para o bloco usando uma porcentagem da altura atual da tela."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Minimum height"
+msgstr "Altura mínima"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Size"
+msgstr "Tamanho de imagem destacada"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Stack on mobile"
+msgstr "Mostrar em pilha para celular"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image Caption"
+msgstr "Mostrar legenda de imagem destacada"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image"
+msgstr "Mostrar imagem destacada"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Settings"
+msgstr "Configurações de imagem destacada"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show \"More\" Button"
+msgstr "Mostrar o botão “Mais”"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Columns"
+msgstr "Colunas"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Display Settings"
+msgstr "Exibir configurações"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "XL"
+msgstr "GG"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Extra Large"
+msgstr "Muito grande"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "L"
+msgstr "G"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Large"
+msgstr "Grande"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "M"
+msgstr "M"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Medium"
+msgstr "Médio"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "S"
+msgstr "P"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Small"
+msgstr "Pequeno"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Tags"
+msgstr "Tags"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Categories"
+msgstr "Categorias"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Authors"
+msgstr "Autores"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no name)"
+msgstr "(sem nome)"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no title)"
+msgstr "(sem título)"
+
+#: blog-posts-block/editor.js:33 blog-posts-block/dist/editor.js:6
+msgid "Blog Posts"
+msgstr "Posts de blog"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:52
+msgctxt "block style"
+msgid "Borders"
+msgstr "Margens"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:51
+msgctxt "block style"
+msgid "Default"
+msgstr "Padrão"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:49
+msgid "A block for displaying homepage posts."
+msgstr "Um bloco para exibir posts da página inicial."
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:47
+msgid "latest"
+msgstr "mais recentes"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:46
+msgid "articles"
+msgstr "artigos"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:45
+msgid "posts"
+msgstr "posts"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:29
+msgid "Homepage Posts"
+msgstr "Posts da página inicial"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:230
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid " and "
+msgstr " e "
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:212
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid "by"
+msgstr "por"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:142
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "Ocorreu um erro. Atualize a página e/ou tente novamente."
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:139
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: dotcom-fse/plugins/close-button-override/index.js:92
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Parts"
+msgstr "Partes do modelo"
+
+#: blog-posts-block/dist/editor.js:6
+#: dotcom-fse/plugins/close-button-override/index.js:90
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Posts"
+msgstr "Posts"
+
+#: dotcom-fse/plugins/close-button-override/index.js:88
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Pages"
+msgstr "Páginas"
+
+#: dotcom-fse/blocks/site-credit/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "WordPress.com Credit"
+msgstr "Créditos WordPress.com"
+
+#: dotcom-fse/blocks/site-credit/edit.js:72 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Footer credit loading…"
+msgstr "Carregamento de crédito de rodapé…"
+
+#: dotcom-fse/class-full-site-editing.php:265
+#: starter-page-templates/index.js:59
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Page Layout"
+msgstr "Layout de página"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Use %s layout"
+msgstr "Usar o layout %s"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Adding layout…"
+msgstr "Adicionando layout…"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Close Layout Selector"
+msgstr "Fechar seletor de layout"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select Page Layout"
+msgstr "Selecionar layout de página"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Layout"
+msgstr "Layout"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Changing the page's layout will remove any customizations or edits you have already made."
+msgstr "Alterar o layout da página removerá as personalizações ou edições já feitas."
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Overwrite Page Content?"
+msgstr "Substituir o conteúdo da página?"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Change Layout"
+msgstr "Mudar layout"
+
+#: starter-page-templates/page-template-modal/components/template-selector-preview.js:21
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select a layout to preview."
+msgstr "Selecione um layout para visualizar."
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "Ícone do WordPress"
+
+#: dotcom-fse/class-full-site-editing.php:624
+msgid "WordPress Footer Credit"
+msgstr "Crédito de rodapé do WordPress"
+
+#: dotcom-fse/blocks/site-credit/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "This block tells the world that you're using WordPress.com."
+msgstr "Este bloco diz ao mundo que você está usando o WordPress.com."
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "Orgulhosamente feito com WordPress"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+msgid "Footer"
+msgstr "Rodapé"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:108
+msgid "Font Selection"
+msgstr "Seleção de fontes"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:98
+#: global-styles/src/global-styles-sidebar.js:131
+msgid "You have unsaved changes."
+msgstr "Você possui alterações que não foram salvas."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:94
+msgid "Any change you make here will apply to the entire website."
+msgstr "Qualquer alteração feita aqui será aplicada a todo o site."
+
+#. translators: %s: Name of site.
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:92
+msgid "You are customizing %s."
+msgstr "Você está personalizando %s."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:81
+#: global-styles/src/global-styles-sidebar.js:86
+msgid "Global Styles"
+msgstr "Estilos globais"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:47
+msgid "Reset"
+msgstr "Redefinir"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:27
+msgid "custom font selection"
+msgstr "seleção de fontes personalizada"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:40
+msgid "Base Font"
+msgstr "Fonte base"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:33
+msgid "Heading Font"
+msgstr "Fonte do título"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:46
+msgid "font pairings"
+msgstr "pares de fontes"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:17
+msgid "Font Pairings"
+msgstr "Pares de fontes"
+
+#. translators: %s: feature name (i.e. font pairings, etc)
+#: global-styles/dist/global-styles.js:6 global-styles/src/no-support.js:9
+msgid "Your active theme doesn't support %s."
+msgstr "O tema ativo não é compatível com %s."
+
+#: dotcom-fse/blocks/template/edit.js:180 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Loading editor for: %s"
+msgstr "Carregando editor para: %s"
+
+#: blog-posts-block/dist/editor.js:6 dotcom-fse/blocks/site-title/edit.js:71
+#: dotcom-fse/blocks/site-description/edit.js:79
+#: dotcom-fse/blocks/navigation-menu/edit.js:68 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:39
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-description/edit.js:74
+#: dotcom-fse/blocks/navigation-menu/edit.js:63 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: blog-posts-block/dist/editor.js:6
+#: jetpack-timeline/blocks/src/timeline-item.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-title/edit.js:65
+#: dotcom-fse/blocks/site-description/edit.js:68
+#: dotcom-fse/blocks/navigation-menu/edit.js:57 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Color Settings"
+msgstr "Configurações de cor"
+
+#: dotcom-fse/blocks/site-title/edit.js:61
+#: dotcom-fse/blocks/site-description/edit.js:64
+#: dotcom-fse/blocks/navigation-menu/edit.js:53 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Settings"
+msgstr "Configurações de texto"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Go back"
+msgstr "Voltar"
+
+#: dotcom-fse/blocks/site-title/edit.js:89 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Title"
+msgstr "Adicionar um título ao site"
+
+#: dotcom-fse/blocks/site-description/edit.js:107
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Description"
+msgstr "Adicionar uma descrição ao site"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "oculto"
+
+#: dotcom-fse/plugins/template-update-notice/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Updates to this template will affect all pages on your site."
+msgstr "A atualização para esse modelo afetará todas as páginas do seu site."
+
+#: dotcom-fse/blocks/post-content/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "The page content."
+msgstr "O conteúdo da página."
+
+#: dotcom-fse/blocks/post-content/index.js:18 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Content"
+msgstr "Conteúdo"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "expandido"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "Menu"
+
+#: dotcom-fse/class-full-site-editing.php:537
+msgid "Templates cannot be moved to drafts."
+msgstr "Os modelos não podem ser movidos para o rascunho."
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:76
+msgid "Invalid parent type."
+msgstr "Tipo de matriz inválido."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:399
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "Contato"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:387
+msgctxt "Default page title"
+msgid "About"
+msgstr "Sobre"
+
+#: dotcom-fse/class-full-site-editing.php:575
+msgid "Template Types cannon be deleted."
+msgstr "Tipos de modelos não podem ser excluídos."
+
+#. translators: %s: "Back to Post", "Back to Page", "Back to Template", etc.
+#: dotcom-fse/class-full-site-editing.php:271
+msgid "Back to %s"
+msgstr "Voltar para %s"
+
+#: dotcom-fse/class-full-site-editing.php:523
+msgid "Templates cannot be deleted."
+msgstr "Modelos não podem ser excluídos."
+
+#: dotcom-fse/lib/site-options/use-site-options.js:57
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Error loading site %s"
+msgstr "Erro ao carregar o site %s"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:54
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to load site %s"
+msgstr "Não foi possível carregar o site %s"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:96
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to save site %s"
+msgstr "Não foi possível salvar o site %s"
+
+#: dotcom-fse/blocks/site-title/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Your site title."
+msgstr "O título do seu site."
+
+#: dotcom-fse/blocks/site-title/edit.js:78
+#: dotcom-fse/blocks/site-title/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Title"
+msgstr "Título do site"
+
+#: dotcom-fse/blocks/site-title/edit.js:119
+#: dotcom-fse/blocks/site-credit/edit.js:69 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site title loading…"
+msgstr "Carregando o título do site…"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:55
+msgid "Publish"
+msgstr "Publicar"
+
+#: dotcom-fse/blocks/template/edit.js:191 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: dotcom-fse/blocks/site-description/index.js:16
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description, also known as the tagline."
+msgstr "Descrição do site, também conhecida como tagline."
+
+#: dotcom-fse/blocks/site-description/edit.js:94
+#: dotcom-fse/blocks/site-description/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Description"
+msgstr "Descrição do site"
+
+#: dotcom-fse/blocks/site-description/edit.js:138
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description loading…"
+msgstr "Carregando a descrição do site…"
+
+#: dotcom-fse/blocks/navigation-menu/index.js:23
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Visual placeholder for site-wide navigation and menus."
+msgstr "Espaço reservado visual para a navegação por todo o site e os menus."
+
+#: dotcom-fse/blocks/navigation-menu/index.js:22
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Navigation Menu"
+msgstr "Menu de navegação"
+
+#: starter-page-templates/class-starter-page-templates.php:149
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "Nenhum modelo disponível. Exibição de janela modal com seleção de modelo ignorada."
+
+#: starter-page-templates/class-starter-page-templates.php:140
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "Não há dados recebidos da API vertical. Exibição de janela modal com seleção de modelo ignorada."
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:10
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default vertical name"
+msgid "Business"
+msgstr "Negócios"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:9
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default company name"
+msgid "Your Company Name"
+msgstr "Nome da sua empresa"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:8
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default phone number"
+msgid "555-555-5555"
+msgstr "555-555-5555"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:7
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default address"
+msgid "123 Main St"
+msgstr "123 Main St"
+
+#: dotcom-fse/blocks/template/index.js:21 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Display a Template Part."
+msgstr "Exibir uma parte do modelo."
+
+#: dotcom-fse/blocks/template/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Part"
+msgstr "Parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:516
+msgid "Back to template part types"
+msgstr "Voltar para os tipos de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:515
+msgid "No template part types found."
+msgstr "Nenhum tipo de parte do modelo encontrado."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:514
+msgid "Search Template Part Types"
+msgstr "Buscar tipos de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:513
+msgid "Parent Template Part Type:"
+msgstr "Tipo de parte do modelo primário:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:512
+msgid "Parent Template Part Type"
+msgstr "Tipo de parte do modelo primário"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:511
+msgid "New Template Part Type"
+msgstr "Novo tipo de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:510
+msgid "Add New Template Part Type"
+msgstr "Adicionar novo tipo de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:509
+msgid "Update Template Part Type"
+msgstr "Atualizar tipo de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:508
+msgid "View Template Part Type"
+msgstr "Visualizar tipo de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:507
+msgid "Edit Template Part Type"
+msgstr "Editar tipo de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:506
+msgid "All Template Part Types"
+msgstr "Todos os tipos de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:505
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Tipos de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:504
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Tipo de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Tipos de parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:465
+msgid "Template part updated."
+msgstr "Parte do modelo atualizada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:464
+msgid "Template part scheduled."
+msgstr "Parte do modelo agendada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:463
+msgid "Template part reverted to draft."
+msgstr "Parte do modelo revertida para rascunho."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:462
+msgid "Template part published privately."
+msgstr "Parte do modelo publicada em modo privado."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:461
+msgid "Template part published."
+msgstr "Parte do modelo publicada."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:460
+msgid "Template parts list"
+msgstr "Lista de partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:459
+msgid "Template parts list navigation"
+msgstr "Navegação da lista de partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:458
+msgid "Filter template parts list"
+msgstr "Filtrar lista de partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:457
+msgid "No template parts found in Trash."
+msgstr "Nenhuma parte do modelo encontrada na lixeira."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:456
+msgid "No template parts found."
+msgstr "Nenhuma parte do modelo encontrado."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Search Template Parts"
+msgstr "Buscar partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "All Template Parts"
+msgstr "Todas as partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "View Template Part"
+msgstr "Visualizar partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Edit Template Part"
+msgstr "Editar parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "New Template Part"
+msgstr "Nova parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Add New Template Part"
+msgstr "Adicionar nova parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Partes do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Parte do modelo"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgctxt "Template"
+msgid "Add New"
+msgstr "Adicionar nova"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Partes do modelo"
+
+#: posts-list-block/blocks/posts-list/index.js:97
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts"
+msgstr "Número de posts"
+
+#: posts-list-block/blocks/posts-list/index.js:86
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts to show"
+msgstr "Número de posts a serem exibidos"
+
+#: posts-list-block/blocks/posts-list/index.js:82
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Your recent blog posts will be displayed here."
+msgstr "Os posts recentes no seu blog serão exibidos aqui."
+
+#: posts-list-block/blocks/posts-list/index.js:34
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Displays your latest Blog Posts."
+msgstr "Exibe os posts recentes no seu blog."
+
+#: posts-list-block/blocks/posts-list/index.js:33
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Blog Posts Listing"
+msgstr "Listagem de posts do blog"
+
+#: posts-list-block/class-posts-list-block.php:157
+msgid "Read more"
+msgstr "Leia mais"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:154
+msgid "Continue reading %s"
+msgstr "Continue lendo %s"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "Editar"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "por"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Destaque"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Ver todos os posts"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Preparado para publicar seu primeiro post? <a href=\"%1$s\">Comece aqui</a>."
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "No momento, não há posts para exibir."
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "Aprimora o fluxo de trabalho de criação da sua página no Editor de blocos."
+
+#. Plugin Name of the plugin
+msgid "Full Site Editing"
+msgstr "Edição do site inteiro"

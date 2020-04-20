@@ -1,0 +1,1762 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-06 11:51:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/edit-post/index.js:6
+msgid "Tablet"
+msgstr "Tablet"
+
+#: build/block-library/index.js:8
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+#: build/block-library/index.js:8
+msgid "Text color"
+msgstr "Χρώμα κειμένου"
+
+#: build/block-library/index.js:8
+msgid "Display settings"
+msgstr "Ρυθμίσεις προβολής"
+
+#: build/components/index.js:6
+msgid "Angle"
+msgstr "Γωνία"
+
+#: build/block-library/index.js:8
+msgid "Unsupported"
+msgstr "Δεν υποστηρίζεται"
+
+#: build/block-library/index.js:8
+msgid "No Date"
+msgstr "Χωρίς Ημερομηνία"
+
+#: build/block-library/index.js:8
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#: build/block-library/index.js:8
+msgid "Background & Text Color"
+msgstr "Φόντο & Χρώμα Κειμένου"
+
+#: build/block-editor/index.js:49
+msgid "Image size"
+msgstr "Μέγεθος Εικόνας"
+
+#: build/block-editor/index.js:49
+msgid "Remove multiple selected blocks."
+msgstr "Αφαίρεση πολλαπλά επιλεγμένων μπλοκ."
+
+#: build/edit-post/index.js:6
+msgid "Learn how to use the block editor"
+msgstr "Μάθετε πως να χρησιμοποιείτε τον Διορθωτή Μπλοκ"
+
+#: build/block-library/index.js:8
+msgid "Background"
+msgstr "Φόντο"
+
+#: build/edit-post/index.js:6
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: build/edit-post/index.js:6
+msgid "https://wordpress.org/support/article/wordpress-editor/"
+msgstr "https://wordpress.org/support/article/wordpress-editor/"
+
+#: build/editor/index.js:11
+msgid "Untitled"
+msgstr "Χωρίς τίτλο"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Replace"
+msgstr "Αντικατάσταση"
+
+#: build/block-library/index.js:8
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+#: build/block-library/index.js:8
+msgid "Light"
+msgstr "Ανοιχτό"
+
+#: build/editor/index.js:11
+msgid "https://wordpress.org/support/article/excerpt/"
+msgstr "https://wordpress.org/support/article/excerpt/"
+
+#: build/block-library/index.js:8
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Περιπολία στο χιόνι</strong>"
+
+#: build/block-library/index.js:8
+msgid "December 6, 2018"
+msgstr "Δεκεμβρίος 6, 2018"
+
+#: build/block-library/index.js:8
+msgid "Dimensions"
+msgstr "Διαστάσεις"
+
+#: build/block-library/index.js:8
+msgid "— Kobayashi Issa (一茶)"
+msgstr "— Kobayashi Issa (一茶)"
+
+#: build/block-directory/index.js:1
+msgid "%d active installation"
+msgid_plural "%d active installations"
+msgstr[0] "%d ενεργή εγκατάσταση"
+msgstr[1] "%d ενεργές εγκαταστάσεις"
+
+#: build/block-directory/index.js:1
+msgid "%d total rating"
+msgid_plural "%d total ratings"
+msgstr[0] "%d συνολική αξιολόγηση"
+msgstr[1] "%d συνολικές αξιολογήσεις"
+
+#: build/block-directory/index.js:1
+msgid "%s out of 5 stars"
+msgstr "%s από 5 αστέρια"
+
+#: build/block-library/index.js:8
+msgid "Border radius"
+msgstr "Ακτίνα πλαισίου"
+
+#: build/block-library/index.js:8
+msgid "Fill"
+msgstr "Γέμισμα"
+
+#: lib/class-wp-rest-block-directory-controller.php:145
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Αδύνατη η σύνδεση στο σύστημα αρχείων. Παρακαλώ επιβεβαιώστε τα διαπιστευτήρια σας."
+
+#: build/edit-post/index.js:6
+msgid "%1$d block is disabled."
+msgid_plural "%1$d blocks are disabled."
+msgstr[0] "%1$d μπλοκ είναι απενεργοποιημένο."
+msgstr[1] "%1$d μπλοκς είναι απενεργοποιημένα."
+
+#: build/block-library/index.js:8
+msgid "Change column alignment"
+msgstr "Αλλαγή στοίχισης στήλης"
+
+#: build/block-library/index.js:8
+msgid "Color"
+msgstr "Χρώμα"
+
+#: build/edit-post/index.js:6
+msgid "Enable & Reload"
+msgstr "Eνεργοποίηση & Eπαναφόρτωση"
+
+#: build/block-library/index.js:8
+msgid "Two columns; equal split"
+msgstr "Δύο στήλες, ίση κατανομή"
+
+#: build/block-library/index.js:8
+msgid "Two columns; two-thirds, one-third split"
+msgstr "Δύο στήλες, με πλάτος  δύο τρίτα, ένα τρίτο."
+
+#: build/block-library/index.js:8
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-editor/index.js:49
+msgid "Separate multiple classes with spaces."
+msgstr "Διαχωρίστε πολλαπλές κλάσεις με κενά."
+
+#: build/components/index.js:6
+msgid "Separate with commas or the Enter key."
+msgstr "Διαχωρίστε με κόμματα ή με πάτημα του πλήκτρου Enter."
+
+#: build/components/index.js:6
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Διαχωρίστε με κόμματα, κενό διάστημα ή με πάτημα του πλήκτρου Enter."
+
+#: build/block-library/index.js:8
+msgid "Footer section"
+msgstr "Τμήμα υποσέλιδου"
+
+#: build/block-library/index.js:8
+msgid "Post Content"
+msgstr "Περιεχόμενο Άρθρου"
+
+#: build/block-library/index.js:8
+msgid "Percentage width"
+msgstr "Πλάτος επί τοις εκατό"
+
+#: build/block-library/index.js:8
+msgid "Column settings"
+msgstr "Ρυθμίσεις Στήλης"
+
+#: build/block-library/index.js:8
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Σημείωση: Η αυτόματη αναπαραγωγή ήχου μπορεί να προκαλέσει θέματα χρηστικότητας σε κάποιους επισκέπτες."
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Inline Κώδικας"
+
+#: build/block-library/index.js:8
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Σημείωση: Η αυτόματη αναπαραγωγή βίντεο μπορεί να προκαλέσει θέματα χρηστικότητας σε κάποιους επισκέπτες."
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(πειραματικό)"
+
+#: build/block-library/index.js:8
+msgid "Group"
+msgstr "Group"
+
+#: build/block-library/index.js:8
+msgid "row"
+msgstr "γραμμή"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Περιοχές Πλαισίων"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read."
+msgstr "Αυτός ο συνδυασμός χρωμάτων μπορεί να δυσκολέψει τους ανθρώπους στην ανάγνωση."
+
+#: build/block-library/index.js:8
+msgid "Crop image to fill entire column"
+msgstr "Περικοπή της εικόνας για να γεμίσει ολόκληρη τη στήλη"
+
+#: build/editor/index.js:11
+msgid "Replace Image"
+msgstr "Αντικατάσταση Εικόνας"
+
+#: build/block-library/index.js:8
+msgid "Leave empty if the image is purely decorative."
+msgstr "Αφήστε κενό εάν η εικόνα είναι καθαρά διακοσμητική."
+
+#: build/block-library/index.js:8
+msgid "Describe the purpose of the image"
+msgstr "Περιγράψτε το σκοπό της εικόνας"
+
+#: build/block-editor/index.js:49
+msgid "Add a block"
+msgstr "Προσθέστε ένα πλαίσιο"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "Αλλαγή κάθετης στοίχισης"
+
+#: build/block-editor/index.js:49
+msgid "Change block type or style"
+msgstr "Αλλαγή τύπου ή στυλ μπλοκ"
+
+#: build/block-library/index.js:8
+msgid "Change widget"
+msgstr "Αλλαγή μικροεφαρμογής"
+
+#: build/block-library/index.js:8
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Δεν έχετε δικαιώματα χρήσης μικροεφαρμογών σε αυτόν τον ιστότοπο."
+
+#: build/block-library/index.js:8
+msgid "There are no widgets available."
+msgstr "Δεν υπάρχουν διαθέσιμες μικροεφαρμογές."
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Κενό"
+
+#: build/editor/index.js:11
+msgid "Search Terms"
+msgstr "Όροι αναζήτησης"
+
+#: build/edit-post/index.js:6
+msgid "Block Manager"
+msgstr "Διαχειριστής Mπλοκ"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar activated"
+msgstr "Η άνω γραμμή εργαλείων είναι ενεργοποιημένη"
+
+#: build/block-library/blocks/rss.php:58
+msgid "by"
+msgstr "από"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Παρουσιάστηκε σφάλμα. Το κανάλι ίσως είναι εκτός λειτουργίας. Ξαναδοκιμάστε αργότερα."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Σφάλμα RSS:"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgctxt "block style"
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode deactivated"
+msgstr "Η λειτουργία πλήρους οθόνης είναι απενεργοποιημένη"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode activated"
+msgstr "Η λειτουργία πλήρους οθόνης είναι ενεργοποιημένη"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar deactivated"
+msgstr "Η άνω γραμμή εργαλείων είναι απενεργοποιημένη"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+
+#: build/block-library/index.js:8
+msgid "find"
+msgstr "εύρεση"
+
+#: build/block-library/index.js:8
+msgid "Help visitors find your content."
+msgstr "Βοηθήστε τους επισκέπτες να βρουν το περιεχόμενο σας."
+
+#: build/block-library/blocks/search.php:32
+#: build/block-library/blocks/search.php:83
+#: build/block-library/blocks/search.php:91 build/block-library/index.js:8
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: build/block-library/index.js:8
+msgid "Add button text…"
+msgstr "Προσθήκη κειμένου κουμπιού..."
+
+#: build/block-library/index.js:8
+msgid "Button text"
+msgstr "Κείμενο κουμπιού"
+
+#: build/block-library/index.js:8
+msgid "Add label…"
+msgstr "Προσθήκη ετικέτας..."
+
+#: build/block-library/index.js:8
+msgid "Label text"
+msgstr "Κείμενο ετικέτας"
+
+#: build/block-library/index.js:8
+msgid "RSS"
+msgstr "RSS"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Back"
+msgstr "Επιστροφή"
+
+#: build/block-library/index.js:8
+msgid "Display date"
+msgstr "Εμφάνιση ημερομηνίας"
+
+#: build/block-library/index.js:8
+msgid "Display author"
+msgstr "Εμφάνιση συντάκτη"
+
+#: build/block-library/index.js:8
+msgid "Edit RSS URL"
+msgstr "Επεξεργασία RSS URL "
+
+#: build/block-library/index.js:8
+msgid "The excerpt is hidden."
+msgstr "Το απόσπασμα είναι κρυφό"
+
+#: build/block-library/index.js:8
+msgid "The excerpt is visible."
+msgstr "Το απόσπασμα είναι ορατό."
+
+#: build/block-library/index.js:8
+msgid "Hide the excerpt on the full content page"
+msgstr "Απόκρυψη του αποσπάσματος στη σελίδα πλήρους περιεχομένου"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature activated"
+msgstr "Η λειτουργία ενεργοποιήθηκε"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature deactivated"
+msgstr "Η λειτουργία απενεργοποιήθηκε"
+
+#: build/block-library/index.js:8
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Εμφανίζει καταχωρήσεις από οποιαδήποτε ροή RSS ή Atom."
+
+#: build/block-library/index.js:8
+msgid "Max number of words in excerpt"
+msgstr "Μέγιστος αριθμός λέξεων στο απόσπασμα"
+
+#: build/block-library/index.js:8
+msgid "Display excerpt"
+msgstr "Εμφάνιση αποσπάσματος"
+
+#: build/block-library/index.js:8
+msgid "- Select -"
+msgstr "- Επιλέξτε -"
+
+#: build/block-library/index.js:8
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:8
+msgid "image %1$d of %2$d in gallery"
+msgstr "εικόνα %1$d από %2$d στην συλλογή"
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Υπογράμμιση"
+
+#: build/editor/index.js:11
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "λέξεις"
+
+#: build/block-library/index.js:8
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Περιεχόμενο..."
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Try again"
+msgstr "Προσπαθήστε ξανά"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Μετατροπή σε σύνδεσμο"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Συμβουλές συντάκτη"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "Μπλοκ (επιλεγμένο)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "Έγγραφο (επιλεγμένο)"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d λέξη"
+msgstr[1] "%d λέξεις"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "CSS Κλάση Συνδέσμου"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "Εργαλεία μπλοκ"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "Μόνιμος σύνδεσμος"
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(επιλεγμένο μπλοκ)"
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Προειδοποίηση: έγινε εισαγωγή του συνδέσμου αλλά μπορεί να υπάρχουν σφάλματα. Παρακαλούμε, ελέγξτε τον."
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "Πλήρες Μέγεθος"
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Έγινε εισαγωγή συνδέσμου."
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s μπλοκ επιλέχθηκε."
+msgstr[1] "%s μπλοκς επιλέχθηκαν."
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "Αλλαγή Σελίδας"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "Αρχίστε να γράφετε ή πατήστε / για να επιλέξετε ένα μπλοκ"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Μεσαίο"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "Μικρό"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Τεράστιο"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Κανονικό"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "Λήψη"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "Αλλαγή μεγέθους για μικρότερες συσκευές"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "Διεύθυνση του %s"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "Επικολλήστε ή πληκτρολογήστε το URL"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "Εισαγωγή από URL"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "Επιλογές"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(ανοίγει σε μία νέα καρτέλα)"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "Λεπτά"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "Ώρες"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "Έτος"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "Ημέρα"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "Μήνας"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Home και End"
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Page Up και Page Down"
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "Επάνω και Κάτω Βέλη"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Μεταβείτε στην πρώτη (πλήκτρο home) ή τελευταία (πλήκτρο end) ημέρα μίας εβδομάδας."
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Μετακινηθείτε προς τα πίσω (πλήκτρο PgUp) ή προς τα εμπρός (πλήκτρο PgDn) κατά ένα μήνα."
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Μετακινηθείτε προς τα πίσω (επάνω βέλος) και προς τα εμπρός (κάτω βέλος) κατά μία εβδομάδα."
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Μετακινηθείτε προς τα πίσω (αριστερό βέλος) και προς τα εμπρός (δεξί βέλος) κατά μία ημέρα."
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "Αριστερό και Δεξί Βέλος"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "Αλλαγή μορφής χρώματος"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "Γενικά"
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "RGB μορφή ενεργή"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "Χρόνος"
+
+#: build/components/index.js:6
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Χρησιμοποιήστε τα πλήκτρα με τα βέλη για να αλλάξετε χρώμα. Πατήστε το πάνω για να κάνετε το χρώμα πιο ανοιχτό, το κάτω για να το κάνετε πιο σκούρο, το αριστερά για να μειώσετε το κορεσμό χρώματος, και το δεξιά για να αυξήσετε το κορεσμό χρώματος."
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "Eξώφυλλο"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "Το άρθρο σας θα δημοσιευτεί την καθορισμένη ημερομηνία και ώρα."
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "Avatar"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "Μετατροπή σε HTML"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "Γράψτε HTML..."
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Εισαγωγή από αρχείο JSON"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d Μπλοκ"
+msgstr[1] "%d Μπλοκς"
+
+#: build/block-editor/index.js:49
+msgid "Change alignment"
+msgstr "Αλλαγή στοίχισης"
+
+#: build/block-editor/index.js:49
+msgid "Change text alignment"
+msgstr "Αλλαγή στοίχισης κειμένου"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Αλλαγή τύπου %d μπλοκ"
+msgstr[1] "Αλλαγή τύπου %d μπλοκς"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "Αλλαγή του τύπου μπλοκ μετά την προσθήκη μιας νέας παραγράφου."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "Επανάληψη της τελευταίας αναίρεσης αλλαγών."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "Αναίρεση των τελευταίων αλλαγών."
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Ευχαριστούμε για την δοκιμή του Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Βοηθήστε στην κατασκευή του Gutenberg"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Η κοινότητα του WordPress"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Ο Κώδικας είναι Ποίηση"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Εικόνες &amp; Βίντεο"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Συλλογές Εικόνων"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Κείμενο &amp; Επικεφαλίδες"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "Διατήρηση ως HTML"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "Τροποποίηση URL"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Color settings"
+msgstr "Ρυθμίσεις χρώματος"
+
+#: build/block-library/index.js:8
+msgid "Display avatar"
+msgstr "Εμφάνιση άβαταρ"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "πρόσφατα σχόλια"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "Τελευταία σχόλια"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "Σιωπηλό"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Επιλέξτε εβδομάδα"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Επιλέξτε ημέρα"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Επιλέξτε μήνα"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Επιλέξτε άρθρο"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Χωρίς σχόλια για εμφάνιση."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s στο %2$s"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "Αυτόματο"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: build/block-library/index.js:8
+msgid "Audio settings"
+msgstr "Ρυθμίσεις ήχου"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Επιλέξτε έτος"
+
+#: build/block-library/index.js:8
+msgid "Background opacity"
+msgstr "Αδιαφάνεια Φόντου"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "Ανοιχτό πράσινο κυανό"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "έγγραφο"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Αρχείο"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "Βρόγχος"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "Γράψτε το όνομα αρχείου..."
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "Αφαίρεση εικόνας"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Δείτε την επόμενη συμβουλή"
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "Δείτε την αυτόματη αποθήκευση"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Άγνωστο Σφάλμα"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "Μόνιμος σύνδεσμος αντιγράφηκε"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "Ύψος σε pixels"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Αφαίρεση %s"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "Αντιγραφή μόνιμου συνδέσμου"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "Κωδικός χρώματος: %s"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s of %3$s)"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "Επεξεργασία μόνιμου συνδέσμου"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "Ύψος"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "Πλάτος"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "σελιδοποίηση"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "Συλλογή Πολυμέσων"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "επόμενη σελιδα"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "Μέγεθος εικόνας"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "Οι μικρογραφίες δεν αποκόπηκαν."
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Αποσύνδεση"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "Αλλαγή σελίδας"
+
+#: build/block-editor/index.js:49
+msgid "Image dimensions"
+msgstr "Διαστάσεις Φωτογραφίας"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "Προσθήκη αντικειμένου"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "Στατιστικά Εγγράφου"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "Προγραμματίστηκε"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "Προσαρμοσμένο μέγεθος"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "Επιλέχθηκε ο οπτικός διορθωτής"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "Άστο όπως είναι"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(χωρίς τίτλο)"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "ΠΜ"
+
+#: build/editor/index.js:11
+msgid "Add new tag"
+msgstr "Προσθήκη ετικέτας"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "Προσθήκη νέας κατηγορίας"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "Όλα"
+
+#: build/editor/index.js:11
+msgid "Allow comments"
+msgstr "Να επιτρέπονται τα σχόλια"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "Υποβολή"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "Σελίδα συνημμένων"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "Χρώμα Φόντου"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "Πλαίσια"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Έντονα"
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "Κουμπί"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "Συζήτηση"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "Κλασικό"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "Κωδικός"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "Στήλες"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "Αντιγράφηκε!"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "Προσαρμοσμένη HTML"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "Διαγραφή στήλης"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "Διαγραφή σειράς"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "Απόκρυψη ειδοποίησης"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "Εμφάνιση ημερομηνίας άρθρου"
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "Σύρετε εδώ αρχεία για μεταφόρτωση"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: build/components/index.js:6
+msgid "Font size"
+msgstr "Μέγεθος γραμμάτων"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "Γκαλερί"
+
+#: build/block-library/index.js:8
+msgid "Gallery settings"
+msgstr "Ρυθμίσεις συλλογής"
+
+#: build/block-library/index.js:8
+msgid "Grid view"
+msgstr "Προβολή πλέγματος"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "Επικεφαλίδα"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "Κεφαλίδες"
+
+#: build/block-library/index.js:8
+msgid "Image settings"
+msgstr "Ρυθμίσεις εικόνας"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "Άμεσα"
+
+#: build/block-editor/index.js:49
+msgid "Insert link"
+msgstr "Εισαγωγή συνδέσμου"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Πλάγια"
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "Το στοιχείο προστέθηκε."
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "Πρόσφατα άρθρα"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "Επίπεδο"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "Λίστα"
+
+#: build/block-library/index.js:8
+msgid "List view"
+msgstr "Προβολή λίστας"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "Αρχείο πολυμέσων"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "Περισσότερες επιλογές"
+
+#: build/editor/index.js:11
+msgid "Move to Trash"
+msgstr "Μετακίνηση στον κάδο ανακύκλωσης"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "Κανένα"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "Σειρά"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "Ταξινόμηση ανά"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "ΜΜ"
+
+#: build/edit-post/index.js:6
+msgid "Page attributes"
+msgstr "Χαρακτηριστικά σελίδας"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "Παράγραφος"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "Παράγραφοι"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "Γονική κατηγορία"
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "Έχει συνθηματικό"
+
+#: build/editor/index.js:11
+msgid "Pending review"
+msgstr "Για έλεγχο"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "Μόνιμος σύνδεσμος:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "Μορφή άρθρου"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "Προδιαμορφωμένη"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "Ιδιωτικό"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "Δημόσιο"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "Δημοσίευση:"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "Δημοσιευμένο"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "Παράθεση"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "Επανάληψη"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "Αποθήκευση προχείρου"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "Αποθηκεύτηκε"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "Γίνεται αποθήκευση"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "Προγραμματισμός"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "Επιλογή"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "Διαχωριστικό"
+
+#: build/editor/index.js:11
+msgid "Set featured image"
+msgstr "Καθορισμός χαρακτηριστικής εικόνας "
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "Προβολή αριθμού άρθρων"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "Κανονικό"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: build/edit-post/index.js:6
+msgid "Status & visibility"
+msgstr "Κατάσταση & ορατότητα"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Διπλή διαγράμμιση"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "Υποβολή για έλεγχο"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "Πρόταση:"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "Πίνακας"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "Πρότυπο:"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "Όρος"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "Χρώμα κειμένου"
+
+#: build/block-library/index.js:8
+msgid "Text settings"
+msgstr "Ρυθμίσεις κειμένου"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "Αναίρεση"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Αναβάθμιση"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "Βίντεο"
+
+#: build/edit-post/index.js:6
+msgid "View post"
+msgstr "Προβολή άρθρου"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "Ορατότητα"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor"
+msgstr "Επεξεργαστής WYSIWYG"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "Τι ακολουθεί;"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "Λέξεις"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "Γράψτε παράθεση ..."
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "Γράψτε τον τίτλο ..."
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "ιστολόγιο"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "εικόνα"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "εικόνες"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "χωρίς τίτλο"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "φωτογραφία"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "φωτογραφίες"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "ποίηση"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "άρθρο"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "υπότιτλος"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s προστέθηκε"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s αφαιρέθηκε"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "κείμενο"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "τίτλος"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "video"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "Επικεφαλίδα %d"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "Δημιουργία συνθηματικού"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "Χρήση ασφαλούς συνθηματικού"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "Προσθήκη νέου όρου"
+
+#: build/editor/index.js:11
+msgid "Add new Term"
+msgstr "Προσθήκη Νέου Όρου"
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "Η διαγραφή απέτυχε"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "Διορθωτής"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "Περιεχόμενο διορθωτή"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "Χωρίς αποτελέσματα."
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "Αριθμός αντικειμένων"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Ένα άγνωστο σφάλμα παρουσιάστηκε."
+
+#: build/block-library/index.js:8
+msgid "Fixed background"
+msgstr "Σταθερό υπόβαθρο"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "ήχος"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "μουσική"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "Το πλαίσιο διαγράφηκε."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "Το πλαίσιο δημιουργήθηκε."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "Το πλαίσιο ενημερώθηκε."
+
+#: build/block-library/index.js:8
+msgid "Categories settings"
+msgstr "Ρυθμίσεις Κατηγοριών"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "Προσθήκη κειμένου…"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "Εισαγωγή λεζάντας…"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "Εισαγωγή επικεφαλίδας…"
+
+#: build/block-library/index.js:8
+msgid "Crop images"
+msgstr "Περικοπή Εικόνων"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d αναθεώρηση"
+msgstr[1] "%d αναθεωρήσεις"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d αποτέλεσμα βρέθηκε."
+msgstr[1] "%d αποτελέσματα βρέθηκαν."
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(Κενή επικεφαλίδα)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(Εσφαλμένο επίπεδο επικεφαλίδας)"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Δε συνιστώνται πολλαπλές επικεφαλίδες Η1)"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "To μπλοκ %s είναι το μόνο διαθέσιμο, και δεν μπορεί να μετακινηθεί"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "Δομή περιεχομένου"
+
+#: build/block-editor/index.js:49
+msgid "Edit link"
+msgstr "Επεξεργασία σύνδεσμου"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Embeds"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "Εύρεση πρωτότυπου"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "Εικόνα"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "Δεν βρέθηκαν άρθρα."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "Αναζήτηση για μπλοκ"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "Γράψτε κώδικα..."
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "Γράψτε μια λίστα..."
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "Γράψτε προμορφοποιημένο κείμενο..."
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "Γράψτε το shortcode εδώ…"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "Γράψτε υπότιτλο..."
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "Γράψτε... "
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "διαχωριστής"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "χωρίς γονέα"
+
+#: build/block-editor/index.js:49
+msgid "Align center"
+msgstr "Στοίχιση στο κέντρο"
+
+#: build/block-editor/index.js:49
+msgid "Align left"
+msgstr "Στοίχιση αριστερά"
+
+#: build/block-editor/index.js:49
+msgid "Align right"
+msgstr "Στοίχιση δεξιά"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "Ήχος"
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "Καθαρισμός"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "Χρώμα: %s"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Μορφοποίηση"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "Ανέβασμα"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Μικροεφαρμογές"
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "Προσθήκη τίτλου"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Δοκιμή"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(Χωρίς τίτλο)"
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "Σύντομο όνομα"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "Συντάκτης"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "Συζήτηση"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "Απόσπασμα"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "Μεταδεδομένα"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "%s πριν"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Η Ομάδα του Gutenberg"
+
+#: build/edit-post/index.js:6
+msgid "Custom fields"
+msgstr "Προσαρμοσμένα Πεδία"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Επιλογή Κατηγορίας"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:103
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Το Gutenberg απαιτεί το WordPress %s  ή μεταγενέστερο προκειμένου να λειτουργήσει σωστά. Παρακαλούμε, αναβαθμίστε το WordPress προτού ενεργοποιήσετε τον Gutenberg."

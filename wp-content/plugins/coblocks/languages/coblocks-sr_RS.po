@@ -1,0 +1,3309 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-20 10:13:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "софтвер"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "отпреми"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "побољшати"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "актуелно"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "актуелно"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "врео"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "факултет"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "диплома"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "степен"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "дипломирање"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "дипломац"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "образовање"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "сезона"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "зима"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "смрзнуто"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "лед"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "хладно"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "послати"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "корпа"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "wоо"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "инжењер"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "развити"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "беџ"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "говор"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "језик"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "сигурно"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "сигурно"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "биометрија"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "одбрана"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "биографија"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "безбедност"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "заједно"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "тим"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "виџет"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "додатак"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "слагалица"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "електронска трговина"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "трговина"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "продавница"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "иди на плаћање"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "готовина"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "новац"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "цвет"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "баштованство"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "лепо"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "мирис"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "мирис"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "латица"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "прослава"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "журка"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "столица"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "опуштено"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "опуштено"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "викенд"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "укус"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "кашика"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "виљушка"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "пиће"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "храна"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "небодер"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "град"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "зграда"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "корпорација"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "бизнис"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "локација"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "земља"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "глобално"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "јавно"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "свет"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "лето"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "вода"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "океан"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "изван"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "напољу"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "минимално"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "пејсаж"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "брда"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "поље за потврду"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "провери"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "мапа"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "виџети"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "квадрант"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "поља"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "поље"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "таласи"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "радио"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "бежични интернет"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "достава"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "пошаљи"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "коментар"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "одговор"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "одговори"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "слово"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "прочитај"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "ос"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "хаб"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "повезивање"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "усб "
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "мек"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "surface"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ајпед"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "канцеларија"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "сто"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "PC"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "епл"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "свиђање"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "омиљен"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "гласајте"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "оцени"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "пољубац"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "Валентиново"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "облик"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "љубав"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "типографија"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "маркер"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "оловка"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "фонт"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "врста"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "уметност"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "Жврљотина"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "цртеж"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "грчки"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "радост"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "забава"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "осмех"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "емотикон"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "емоција"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "срећан"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "подаци"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "тачке"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "графикон"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "график"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "пита"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "статистике"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "математика"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "округао"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "плус"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "уметни"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "круг"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "минус"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "додај"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "четкица"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "боја"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "боје"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "палета"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "продуцент"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "режисер"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "видеографија"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "колекција"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "бленда"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "филм"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "фотоапарат"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "фотографија"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "фотограф"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "фотографија"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "уређај"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "компјутер"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "слушалице"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "слушалице"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "звучни запис"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "креативан"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "уметник"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "песма"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "подкаст"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "микрофон"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "музика"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "дизајн"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "Гутенберг"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "гради"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "блок"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "блокови"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Отпремите датотеку садржаја или изаберите једну из своје библиотеке садржаја."
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Прикажи фотографије у поравнатој галерији са цигластим шаблоном. "
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Поравнање"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Закажите Састанак"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "После подне"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "јутро"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Време "
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "термин"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Белешке?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Ne"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Да"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Да ли ћете присуствовати?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Плус један"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "Потврдите долазак"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Контактирајте нас"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "Контакт"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Можете да користите следећа обележја у Предмет пољу:"
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "име"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Пријем образаца из [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Напишите опис галерије…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Простор мултимедијалног садржаја"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Додај наслов..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Назив менија..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Додај дугме..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Унеси текст..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Унеси наслов..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Додај садржај"
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Додај наслов..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "везе"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Друштвени профили"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Иконица и Текст"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Текст"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Маска"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "друштвени"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Подели"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Усмерено"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Троугао"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Заокружено"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Укошено"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Под углом"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Брда"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Таласаст"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "растављач"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Разделник облика"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "особине"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Услуге"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Упиши опис..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Услуге"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "распоред"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "колоне"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "редови"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Картица у табели цена"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "поређење"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "одредиште"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Табела са ценама"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "слајдер"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Прикажи чланке или увезени садржај блога као вртешку. "
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(без наслова)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS довод"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Хоризонтално"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "последње"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "блог"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "чланци"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Прикажи чланке или RSS садржај као поређане или хорзонталне картице. "
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Чланци"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "видео"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "слика"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "правци"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "гугл"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "мапе"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "адреса"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Мапа"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "параграф"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Обележени текст"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Секундарно дугме"
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Додај истакнути наслов"
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "дугме"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Истакнути део "
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Уреди %s URL"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Назад на %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "код"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Џист"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "анимирано"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "унос"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Сакривено текстално поље за унос додатних података. "
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url "
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "хипервеза"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Поље за унос URL адресе.    "
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Поље за штиклирање са више опција у којем може да се одабере само једна ставка."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "падајући"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Падајуће поље са више опција у којем може да се одабере само једна ставка."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "текст са више редова"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "текст поруке"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "текст"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Поље за текст"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "факс"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "мобилни"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "ћелија"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "мобилна"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "телефон"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "oпција"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "изабери"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "одабери "
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Радио"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "презиме"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "име"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "пошта"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "е-пошта"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "година"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "месец"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "дан"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "календар"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "контакт"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "информације"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "е-пошта"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Формулар"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Ставка хране"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Листа"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Мрежа"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "мени"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "ресторан"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Храна и пиће"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Карактеристике"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Ово је блок карактеристика који можете користити да нагласите карактеристике."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Додај садржај карактеристика"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Назив карактеристике"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Додајте назив карактеристике..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Карактеристика"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Пуна ширина"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Линија"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Тачка"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "размакница"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Динамични HR"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Колона"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Слојевито"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Поређано"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Колаж"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "твитер"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "подели"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Притисни да објавиш твит"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Садржи"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Прекривач"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Аутоматски"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Слажи један на други на мобилном"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "позив на акцију \"CTA\""
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "CTA"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "веза"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Веза аутора..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Спустите да уплоадујете као аватар"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "Џејн Дое"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "профил"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "биографија"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Аутор"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Грешка"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Упозорење"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Успех"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Информације"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "порука"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "напомена"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Узбуна"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Додај наслов ставке хармонике..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Ставка хармонике"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "faq"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "језичци"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Хармоника"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Горњи Талас"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Доњи Талас"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Кружни"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Поље за потврду"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Садржај Картица"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "лајтбокс"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Тамно Љубичаста"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Ноћ"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "Ретро"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Сребрно"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Уобичајен"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "печат"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "награде"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "рецензије"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "доказ"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "клијенти"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Светла"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Тамна"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "фотографије"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "галерија"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Прво слово велико"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Малим словима"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Примарно дугме..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Подебљано"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Нормално"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Попуњено"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Контурисано"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "Иконице"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Иконица"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Укључите да бисте приказали %s увучено."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Приказ %s у реду. "
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "У реду %s"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Ажурирај"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Ватра"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Школа"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Пахуљица"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Dostava"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Слојеви"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Бакља"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Ново"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Преведи"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Отисак прста"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Екстензија"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Платна картица"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Гради"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Цвет"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Торта"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Кауч"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Јести"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Град"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Глобус"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Таласи"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Планине"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Маркер"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Блокови"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Сигнал"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Пошаљи"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Одговори"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Хаб"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Тастатура"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Гледај"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "Таблет"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "Лаптоп"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Уређаји"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Десктоп"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Звезда"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Срце"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Дудл"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Функције"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Емотикон"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Гласање"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Графикон разуђености"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Кружни графикон"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Минус круг"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Додај круг"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Четка"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Боја"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Бирач Боја"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Објектив боја"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "Филм"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Видео"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Галерија"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Камера"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Бленда"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Глас"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Јачина звука"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Слушалице"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "Албум"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Аудио"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Ретро филтер"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Изворнa"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Проценти"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Пиксел"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Сакривено"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Веб место"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Нешто је кренуло по злу."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Одабери"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Преузми Спољни довод"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Датум"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Телефон"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Прочитај више"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Изабери једно"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Дошло је до грешке пошто је довод вероватно недоступан. Покушајте касније."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Поље за бирање датума помоћу календара."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Поље за прикупљање потврђене адресе е-поште."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Текстуално поље за прикупљање имена и презимена."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Поље са више опција у којем може да се одабере само једна ставка."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Погрешан API кључ, или има превише захтева."
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Одабери унапред подешену величину иконе"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(нема наслова)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Упиши опцију..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Обриши опцију"
+
+#: dist/coblocks.js:58
+msgid "https://example.com/feed…"
+msgstr "https://example.com/feed…"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Објаве"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Користи URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Додај контакт образац на твоју страницу"
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Популарни"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Омогућене су опције финих контрола."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Укључите да бисте омогућили опције контроле мапе."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Користи Cпољни довод"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Нема пронађених објава. Започните да објављујете чланке или додајте објаве са RSS канала"
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Сачувано"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Приказ целоекранске контроле мапа."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Укључите да бисте приказали контролу приказа улице у доњем десном углу."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Приказ контроле мапе приказа улице."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Потребна помоћ?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Набави кључ"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Додај API кључ Google Мапе. Ажурирај овај API кључ који ће подесити да све твоје мапе користе нови кључ."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr " Искључите целоекрански приказ контроле мапа."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Укључите да бисте омогућили увећавање и смањивање мапе помоћу контроле зума."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Контрола зумирања мапе се приказује."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Укључите да бисте омогућили пребацивање између стандардних и сателитских мапа."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Пребацивање између стандардног и сателитског приказа мапе је омогућено."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Број телефона који омогућава посетиоцима да вам дају број телефона."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Датум објаве се приказује."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Унеси локацију или адресу да би додао маркер на Гугл мапу."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Одустани"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Претражи место или адресу..."
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Висина мапе у пикселима"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Ниво Зума"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Уреди URL RSS-а"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Слика лево"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Слика десно"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS URL-ови се обично налазе у /feed/ директоријуму веб места"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Укључи за приказивање датума објаве."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Највише речи у садржају"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Укључи за приказивање садржаја чланка."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Садржај чланка се приказује."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Број чланака"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Вртешка Чланака"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Круг"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Квадрат"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Развијај своју публику уз помоћ веза ка профилима друштвених мрежа."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "палета дизајн боје уметник боја креативност медија"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "Веза URL"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Нема пронађених резултата."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Радијус"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Прилагођено"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Примени прилагођену величину"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Ресетуј величину иконе"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Додајте стилизовани графички симбол да бисте саопштили додатну информацију."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Подели на Линкедину"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Редит"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Гугл"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "Линкедин"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Иконице"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Упалите званичне боје сваке од друштвених мрежа"
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Боје дугмића за дељење су омогућене."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Додајте везе ка друштвеним мрежама и повећај број свиђања и подела."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Окрени усправно"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Окрени водоравно"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Додајте разделник облика да бисте визуелно разликовали делове странице. "
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Укључи да поређаш дугмад на мобилном"
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Ређај дугмад једно изнад другог на мобилном"
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Дугмад"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Питај посетиоце да предузму радњу са више дугмади која су једна поред других. "
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Вртешка"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Сличице"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Укључи за висину у процентима."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Висина у процентима је активна."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Укључи за приказ сличица."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Навигација помоћу сличица је укључена."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Прикажи више слика у прелепој вртешка галерији."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Замените овај текст описом који одговара слици. Потом додајте још блокова на ову картицу, као на пример дугмад, листе или слике."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Мултимедијални садржај лево"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Мултимедијални садржај десно"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Укључите додавање %s сенке"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Приказ %s сенке"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Прикажите додавање сенке картице."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Приказ сенке картице."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Додај једну слику или видео запис са једним офсет картица бочно"
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Испусти ради замене медијског садржаја"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "садржај"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Уреди садржај"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Зидарство"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Додај заобљене углове на ставке галерије."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Прикажи више слика у организованој зидарској галерији."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Логои и беџеви"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Уреди логое"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Црно Бело"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Додајте логотипове, значке или сертификате да бисте изградили кредибилитет."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Уклони"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Сачувај"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Добијте помоћ"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Моји кључеви"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Генериши кључеве"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Додајте ваш reCAPTCHA кључ сајта и тајни кључ да заштите вашу форму од непожељне поште"
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Наслов"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Адреса е-поште"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s није ваљана адреса е-поште."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s и %s нису ваљане адресе е-поште."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s није ваљана адреса е-поште."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Поље за текст"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Додајте текст…"
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Пример наслова"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Укључи за додавање поља за презиме. "
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Приказ поља за име и презиме."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Висина динамичног раздвајача у пикселима."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Додајте размакницу променљиве величине између других блокова."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Додај цитат у твит..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Корисничко име"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Корисничко име на Твитеру"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Боја дугмета"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Најлакши начин да промовишеш и рекламираш свој блог, веб место, и бизнис на Твитеру."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Додај цитат који читаоци могу да твитују путем Твитера."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "$0.00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Додајте опис..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Врело"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Укључи приказ цене за ову ставку."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Прикажи цену за ову ставку."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Цена"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Укључи за приказ слике за ову ставку."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Приказ слике за ову ставку."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Слика"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Ставка хране и пића унутар блока Храна и Пиће."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Веган"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Пескатаријанац"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Без глутена"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Вегетаријанац"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Зачињеније"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Зачињено"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Укључи приказ цене за сваку ставку."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Приказ цене за сваку ставку"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Цене"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Укључи приказ слика за сваку ставку."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Приказ слика за сваку ставку"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Слике"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Прикажи јеловник или ценовник."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Изаберите број колона за овај ред."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Ред"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Додај позадину реду"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "четири"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "три"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "два"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "један"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Промени распоред редног блока"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Четвртине"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Трећине"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Додај позадину колоне"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Ширина"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Размак око контејнера."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Непосредно дете низа."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Додајте структурирани омот са колонама за блокове, онда додајте блокове које желите у те колоне."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "План %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Промените број картица у табели цена"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Четири табеле са ценама"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Три табеле са ценама"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Две табеле са ценама"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Једна табела са ценама"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Додај ценовне табеле како би помогао посетиоцима да упореде производе и планове. "
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Додај функције"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "План А"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Купи одмах"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Ценовна табела која помаже посетиоцима да упореде производе и планове."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Подршка Internet Explorer-у учитвањем JavaScript полипопуњавања на овој страници. "
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Додај подршку за Internet Explorer учитавањем JavaScript полипопуњавања. "
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Организујте садржај унутар склапајућиш ставки акордиона."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Упалите да би ова ставка акордиона била подразумевано отворена."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Ставка хармонике је подразумевано отворена."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Додај склапајуће ставке хармоникама."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Постави као позадину"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Јединствена подређена колона унутар родитељског блока."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Узбуна је порука које се приказује ван тока типичног садржаја. Узбуне дају контекстуалну повратну информацију, и типично сугеришу читаоцу да изврши акцију."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Ово је блок узбуне"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Пружи контекстуалне поруке и обавештења са повратним информацијама."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Уреди место"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Додајте адресу или локацију да спустите маркер на Google мапу."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Гугл мапа"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Укључи приказ дугмади за позив на акцију."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Приказ дугмади за позив на акцију."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Колоне"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Стилови"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Додај до четири колоне за приказ услуга."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Укључи за приказ дугмета за позив на акцију."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Приказ дугмади за позив на акцију."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Једна ставка услуге унутар блока услуга."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Сенка"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Поређајте слике у прелепу колаж галерију."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Напишите биографију која ће вашим читаоцима илустровати објективну веродостојност и ауторитет..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Упишите име аутора..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Уреди аватар"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Рођен да се искаже, а не да импресионира. Стваралац који ствара свет који желим."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Додај биографију аутора да изградиш кредибилитет и ауторитет."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "слика %1$d од %2$d у галерији"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Наслагана"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Описи слика"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Укључите за омогућавање лајтбокса за слике."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Лајтбокс за слике је укључен"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Укључи за приказ описа садржаја."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Прикажи описе за сваку ставку садржаја."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Укључите за попуну доступног површине галерије са сликама потпуно пуне ширине."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Слике у пуној ширини су омогућене."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Учитавање џиста"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Додај GitHub Gist URL..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Џист мета"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Џист фајл"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Џист URL"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Укључите за приказ џист мета података"
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Приказ џист мета података "
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Угради GitHub џист линк."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Полгедајте џист на GitHub-u"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Претражите gif-ове"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Претражи Giphy за савршеним gifом"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Овај gif има празан alt атрибут"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Уклони гиф"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Остави празно ако је слика чисто декоративна."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Описати сврху слике"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Изаберите gif, било који gif."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Укључите да уклоните било коју доњу маргину."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Укључите да вратите доњу маргину."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Укључите да уклоните било коју горњу маргину."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Укључите да вратите горњу маргину."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Померите да би поређате елементе на врху појединачно на мањим екранима"
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Респонзивност је укључена."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Укључите да бисте приказали дугме пуном ширином."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Приказује у пуној ширини."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Врати на подразумевана подешавања опсецања слике"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Окрени у смеру казаљке на сату"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Окрени супротно од смера казаљке на сату"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Подешавање одсецања слике привременог текста"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Десет секунди"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Девет секунди"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Осам секунди"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Седам секунди"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Шест секунди"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Пет секунди"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Четири секунде"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Три секунде"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Две секунде"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Једна секунда"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Могуће је превући"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Аутоматско пуштање"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Укључи скроловање без фиксираних слајдова."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Листање без сређеног слајда одобреног."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Укључите за паузирање аутоматског пуштања при прелажењу мишем"
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Паузирање аутоматског пуштања приликом прелажења."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Центрирај слајдове."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Поравнај слајдове лево."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Укључи тачке ѕа навигацију."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Приказују се тачке ѕа навигацију."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Укључи да би се приказале стрелице навигације."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Приказ навигационих стрелица је укључен."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Укључи опцију превлачења мишем."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Вучење мишем је укључено."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Аутоматски пређи на следећи слајд"
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Промени након %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "секунда"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "секунди"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Подразумевано"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Бирач прилагођене боје"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Прилагођени URL"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Превуците слике, отпремите нове или изаберите датотеке из своје библиотеке."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "%s Галерија"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Напишите натпис…"
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Веома велико"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Величина"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Трансформација"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Дебљина"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Фонт"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Промени типографију"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Примени филтере"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Великим словима"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Заглавље %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Додавање истакнутог текста..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Додавање истакнутог текста у пасус c циљем привлачења пажње и наглашавања важног наратива."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Привуци пажњу и нагласи важан наратив."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Период"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Промени распоред"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Ширина садржаја у пикселима"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Висина у пикселима"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Простор унутар контејнера"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Додај позадину у истакнуту секцију"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Додај истакнути садржај, који је обично уводни део странице праћен са једним или два позива на акцију."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Уводна секција стране праћема малом количином текста и позивом на акцију."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Огромна"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Велика"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Средња"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Мала"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Ниједан"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Уклони позадину"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Укључи за аутоматско понављање видеа."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Циклично пуштање позадинског видеа"
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Притисните за видео без звука."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Искључивање звука позадинског видеа"
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Величина позадине"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Позиција"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Понављање"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Постава"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Примени"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Снимање"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Превуци заменску слику"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Висина"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Померити како би се активирао целоекрански режим."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Режим приказа преко целог екрана је укључен"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Цео екран"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Распоред"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Обавезно"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Додајте натпис..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "%s на мобилном уређају"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Размак"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Напредно"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Напредна подешавања за %s"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Лево"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Дно"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Десно"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Врх"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Синхронизујте "
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Десинхронизовати"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Ресетуј"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Укључите напредна %s подешавања"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Одабрати Јединице"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Маргина"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Фејсбук"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Поделите на Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Поделите на Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Поделите на Тамблеру"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Поделите путем е-поште"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Поделите на Linkedin"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Поделите на Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Поделите на Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Подели на Фејсбуку"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Оставите рецензију за CoBlocks на WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Оставите рецензију"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Google Map API кључ ѕа приказ мапе"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Ваша порука је послата:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Пошаљи"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Порука"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Презиме"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Име"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Пуно име"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "Електронска пошта"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Google reCaptcha тајни кључ ѕа заштиту од непожељних порука"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Google reCaptcha кључ сајта ѕа заштиту од непожељних порука"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "Коблокс је колекција професионалних <strong>блокова садржаја ѕа прављење страница</strong> у уређивачу блокова Гутенберг. Наши блокови су јако фокусирани на охрабривање креатора да граде прелепе стране у Вордпресу."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "Коблокс"

@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-28 01:32:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "カラム数を変更すると、レイアウトがリセットされ、コンテンツが削除されることがあります。"
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "Layout Grid ブロック内で使用されるカラム。"
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>雪のシーン</strong>"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "ブロックをグローバルグリッドに揃えます。レスポンシブブレークポイントに対応しています。"
+
+#: index.js:6
+msgid "Huge"
+msgstr "特大"
+
+#: index.js:6
+msgid "Large"
+msgstr "大"
+
+#: index.js:6
+msgid "Medium"
+msgstr "普通"
+
+#: index.js:6
+msgid "Small"
+msgstr "小"
+
+#: index.js:6
+msgid "No padding"
+msgstr "パディングなし"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "このカラムのパディングを選択 :"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "カラムパディング"
+
+#: index.js:6
+msgid "Background"
+msgstr "背景"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "カラムの色"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "投稿をプレビューすると、現在選択されているブレークポイントではなく、ブラウザーのブレークポイントが表示されます。"
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "レスポンシブブレークポイント"
+
+#: index.js:6
+msgid "Layout"
+msgstr "レイアウト"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "使用するレイアウトを選択 :"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "レイアウトを選択"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "デスクトップのレイアウトの表示"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "タブレットのレイアウトの表示"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "モバイルのレイアウトの表示"
+
+#: index.js:6
+msgid "Span"
+msgstr "スパン"
+
+#: index.js:6
+msgid "Offset"
+msgstr "オフセット"
+
+#: index.js:6
+msgid "Column"
+msgstr "カラム"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "モバイル"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "タブレット"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4カラム"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3カラム"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2カラム"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1カラム"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "ブロックをグローバルグリッドに揃えます"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "Layout Grid"

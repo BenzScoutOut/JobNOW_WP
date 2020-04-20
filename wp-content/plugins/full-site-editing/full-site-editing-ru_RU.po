@@ -1,0 +1,1092 @@
+# Translation of Plugins - Full Site Editing - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Full Site Editing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-19 01:54:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Full Site Editing - Stable (latest release)\n"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:106
+msgid "Here's a detailed guide."
+msgstr "Вот подробное руководство."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:105
+msgid "https://support.wordpress.com/wordpress-editor/"
+msgstr "https://support.wordpress.com/wordpress-editor/"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:104
+msgid "New to the WordPress editor? Want to learn more about using it? "
+msgstr "Еще не пользовались редактором WordPress? Хотите узнать о том, как им пользоваться? "
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:100
+msgid "Learn how to use the WordPress editor"
+msgstr "Узнайте, как пользоваться редактором WordPress"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:53
+#: wpcom-block-editor-nux/src/wpcom-nux.js:59
+msgid "Welcome to the WordPress editor"
+msgstr "Вас приветствует редактор WordPress"
+
+#: event-countdown-block/blocks/src/index.js:16
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to your favorite next thing, and celebrate with fireworks when the time is right!"
+msgstr "Включите обратный отсчет до важного события и отпразднуйте вместе с нами, когда оно произойдет."
+
+#: event-countdown-block/blocks/src/view.js:64
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown seconds remaining"
+msgid "seconds"
+msgstr "сек."
+
+#: event-countdown-block/blocks/src/view.js:60
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown minutes remaining"
+msgid "minutes"
+msgstr "мин."
+
+#: event-countdown-block/blocks/src/view.js:56
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown hours remaining"
+msgid "hours"
+msgstr "ч."
+
+#: event-countdown-block/blocks/src/view.js:51
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown days remaining"
+msgid "days"
+msgstr "дн."
+
+#: event-countdown-block/blocks/src/edit.js:48
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Date:"
+msgstr "Дата:"
+
+#: event-countdown-block/blocks/src/edit.js:36
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: starter-page-templates/page-template-modal/components/block-iframe-preview.js:212
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: jetpack-timeline/blocks/src/timeline.js:23
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Create a timeline of events."
+msgstr "Создать хронологию событий."
+
+#: jetpack-timeline/blocks/src/timeline.js:22
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline"
+msgstr "Хронология"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:17
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "An entry on the timeline"
+msgstr "Пункт хронологии"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:16
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline Entry"
+msgstr "Пункт хронологии"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/images.js:40
+msgid "inserter"
+msgstr "вставка"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:86
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "Все доступные вам блоки находятся в библиотеке блоков. Перейти в нее можно с любой страницы, где отображается <InserterIconImage /> значок."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:81
+msgid "Get to know the block library"
+msgstr "Информация о библиотеке блоков"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:73
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "У каждого блока свои элементы управления для изменения таких характеристик, как цвет, ширина и выравнивание. Будет автоматически показываться и скрываться при выборе блока."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:70
+msgid "Make each block your own"
+msgstr "Настройте каждый блок по своему вкусу"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:63
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "В редакторе WordPress каждый абзац, изображение или видео представлены в виде отдельного блока."
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:54
+msgid "Get started"
+msgstr "Начало работы"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Subtitle"
+msgstr "Отображать подзаголовок"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Begin typing post title, click autocomplete result to select."
+msgstr "Начните вводить заголовок и щелкните вариант автозаполнения, чтобы выбрать."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Choose Specific Posts"
+msgstr "Выберите конкретные публикации"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Team Pages"
+msgstr "Страницы команды"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Services Pages"
+msgstr "Страницы услуг"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Product Pages"
+msgstr "Страницы продуктов"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Portfolio Pages"
+msgstr "Страницы портфолио"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Menu Pages"
+msgstr "Страницы меню"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Event Pages"
+msgstr "Страницы событий"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Contact Pages"
+msgstr "Страницы контактов"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blog Pages"
+msgstr "Страницы блога"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "About Pages"
+msgstr "О страницах"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blank"
+msgstr "Пустая"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Home Pages"
+msgstr "Домашние страницы"
+
+#: jetpack-timeline/blocks/src/timeline.js:67
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Winter"
+msgstr "Зима"
+
+#: jetpack-timeline/blocks/src/timeline.js:56
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Fall"
+msgstr "Осень"
+
+#: jetpack-timeline/blocks/src/timeline.js:45
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Summer"
+msgstr "Лето"
+
+#: jetpack-timeline/blocks/src/timeline.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Spring"
+msgstr "Весна"
+
+#: jetpack-timeline/blocks/src/block-appender.js:35
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Add New Entry"
+msgstr "Добавить новую запись"
+
+#: event-countdown-block/blocks/src/view.js:67
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "until"
+msgstr "до"
+
+#: event-countdown-block/blocks/src/edit.js:42
+#: event-countdown-block/blocks/src/edit.js:44
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Title"
+msgstr "Название события"
+
+#: event-countdown-block/blocks/src/edit.js:28
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to an event. Set a title and pick a time and date."
+msgstr "Отсчёт времени до события. Установите название и выберите время и дату."
+
+#: event-countdown-block/blocks/src/edit.js:27
+#: event-countdown-block/blocks/src/index.js:15
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Countdown"
+msgstr "Отсчёт времени до события"
+
+#: event-countdown-block/blocks/src/edit.js:20
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Choose Date"
+msgstr "Выбрать дату"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Excluded Tags"
+msgstr "Исключённые теги"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Advanced Filters"
+msgstr "Показать расширенные фильтры"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Hide Advanced Filters"
+msgstr "Скрыть расширенные фильтры"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:134
+#: blog-posts-block/dist/editor.js:6
+msgid "Load more posts"
+msgstr "Загрузить другие записи"
+
+#: posts-list-block/blocks/posts-list/index.js:74
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "An improved version of this block is available. Update for a better, more natural way to manage your blog post listings. There may be small visual changes."
+msgstr "Доступна улучшенная версия этого блока. Попробуйте новые, более гибкие инструменты управления записями в блоге. Вы можете заметить небольшие изменения в форматировании страницы."
+
+#: posts-list-block/blocks/posts-list/index.js:67
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Update Block"
+msgstr "Обновить блок"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sorry, no posts were found."
+msgstr "К сожалению, записи не найдены."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Write header…"
+msgstr "Написать заголовок…"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Uncropped"
+msgstr "Без обрезки"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Square Image Shape"
+msgstr "Форма изображения: равносторонняя"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "portrait Image Shape"
+msgstr "Форма изображения: портретная"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Landscape Image Shape"
+msgstr "Форма изображения: альбомная"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media behind"
+msgstr "Показать медиа сзади"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on right"
+msgstr "Показать медиа справа"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on left"
+msgstr "Показать медиа слева"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on top"
+msgstr "Показать медиа сверху"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Grid View"
+msgstr "В виде сетки"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "List View"
+msgstr "В виде списка"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author Avatar"
+msgstr "Показывать фотографию автора"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author"
+msgstr "Показывать автора"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Category"
+msgstr "Показывать категории"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Date"
+msgstr "Показывать дату"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Meta Settings"
+msgstr "Настройки метаданных записей"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Type Scale"
+msgstr "Размер шрифта"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Excerpt"
+msgstr "Показывать цитату"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Control Settings"
+msgstr "Настройки управления записями"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sets a minimum height for the block, using a percentage of the screen's current height."
+msgstr "Устанавливает минимальную высоту блока. Высчитывается в процентах от высоты экрана."
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Minimum height"
+msgstr "Минимальная высота"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Size"
+msgstr "Размер избранного изображения"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Stack on mobile"
+msgstr "Группировать друг над другом на мобильных устройствах"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image Caption"
+msgstr "Показать подпись к избранному изображению"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image"
+msgstr "Показать избранное изображение"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Settings"
+msgstr "Настройки избранного изображения"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show \"More\" Button"
+msgstr "Показывать кнопку «Еще»"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Columns"
+msgstr "Столбцы"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Display Settings"
+msgstr "Настройки отображения"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "XL"
+msgstr "XL"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "L"
+msgstr "L"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Large"
+msgstr "Большой"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "M"
+msgstr "М"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Medium"
+msgstr "Среднее"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "S"
+msgstr "С"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Small"
+msgstr "Маленький"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Tags"
+msgstr "Метки"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Categories"
+msgstr "Категории"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Authors"
+msgstr "Авторы"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no name)"
+msgstr "(без названия)"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no title)"
+msgstr "(без заголовка)"
+
+#: blog-posts-block/editor.js:33 blog-posts-block/dist/editor.js:6
+msgid "Blog Posts"
+msgstr "Записи в блоге"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:52
+msgctxt "block style"
+msgid "Borders"
+msgstr "Границы"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:51
+msgctxt "block style"
+msgid "Default"
+msgstr "По умолчанию"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:49
+msgid "A block for displaying homepage posts."
+msgstr "Блок для отображения записей на главной странице."
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:47
+msgid "latest"
+msgstr "новые"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:46
+msgid "articles"
+msgstr "статьи"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:45
+msgid "posts"
+msgstr "записи"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:29
+msgid "Homepage Posts"
+msgstr "Записи на главной странице"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:230
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid " and "
+msgstr " и "
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:212
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid "by"
+msgstr "Автор"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:142
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "Произошла ошибка. Обновите страницу и повторите попытку."
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:139
+msgid "Loading..."
+msgstr "Загрузка…"
+
+#: dotcom-fse/plugins/close-button-override/index.js:92
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Parts"
+msgstr "Части шаблона"
+
+#: blog-posts-block/dist/editor.js:6
+#: dotcom-fse/plugins/close-button-override/index.js:90
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Posts"
+msgstr "Записи"
+
+#: dotcom-fse/plugins/close-button-override/index.js:88
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Pages"
+msgstr "Страницы"
+
+#: dotcom-fse/blocks/site-credit/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "This block tells the world that you're using WordPress.com."
+msgstr "Этот блок рассказывает всем, что вы используете WordPress.com."
+
+#: dotcom-fse/blocks/site-credit/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "WordPress.com Credit"
+msgstr "Список разработчиков WordPress.com"
+
+#: dotcom-fse/blocks/site-credit/edit.js:72 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Footer credit loading…"
+msgstr "Загрузка ссылок внизу страницы…"
+
+#: dotcom-fse/class-full-site-editing.php:265
+#: starter-page-templates/index.js:59
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Page Layout"
+msgstr "Макет страницы"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Use %s layout"
+msgstr "Используйте макет %s"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Adding layout…"
+msgstr "Добавление макета…"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Close Layout Selector"
+msgstr "Закрыть окно выбора макета"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select Page Layout"
+msgstr "Выбор макета страницы"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Layout"
+msgstr "Макет"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Cancel"
+msgstr "Отмена"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Changing the page's layout will remove any customizations or edits you have already made."
+msgstr "Изменение макета страницы приведет к удалению всех изменений и настроек."
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Overwrite Page Content?"
+msgstr "Заменить содержимое страницы?"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Change Layout"
+msgstr "Изменение макета"
+
+#: starter-page-templates/page-template-modal/components/template-selector-preview.js:21
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select a layout to preview."
+msgstr "Выберите макет для предварительного просмотра."
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "Значок WordPress"
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "Сайт работает на WordPress"
+
+#: dotcom-fse/class-full-site-editing.php:624
+msgid "WordPress Footer Credit"
+msgstr "Ссылка WordPress внизу страницы"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+msgid "Footer"
+msgstr "Нижняя часть"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+msgid "Header"
+msgstr "Заголовок"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:108
+msgid "Font Selection"
+msgstr "Выбор шрифтов"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:98
+#: global-styles/src/global-styles-sidebar.js:131
+msgid "You have unsaved changes."
+msgstr "У вас есть несохранённые изменения."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:94
+msgid "Any change you make here will apply to the entire website."
+msgstr "Любые внесенные здесь изменения будут применены ко всему веб-сайту."
+
+#. translators: %s: Name of site.
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:92
+msgid "You are customizing %s."
+msgstr "Вы настраиваете %s."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:81
+#: global-styles/src/global-styles-sidebar.js:86
+msgid "Global Styles"
+msgstr "Глобальные стили"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:47
+msgid "Reset"
+msgstr "Сброс"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:27
+msgid "custom font selection"
+msgstr "выбор пользовательских шрифтов"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:40
+msgid "Base Font"
+msgstr "Базовый шрифт"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:33
+msgid "Heading Font"
+msgstr "Шрифт заголовков"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:46
+msgid "font pairings"
+msgstr "пары шрифтов"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:17
+msgid "Font Pairings"
+msgstr "Пары шрифтов"
+
+#. translators: %s: feature name (i.e. font pairings, etc)
+#: global-styles/dist/global-styles.js:6 global-styles/src/no-support.js:9
+msgid "Your active theme doesn't support %s."
+msgstr "Ваша активная тема не поддерживает %s."
+
+#: dotcom-fse/blocks/template/edit.js:180 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Loading editor for: %s"
+msgstr "Загрузка редактора для: %s"
+
+#: blog-posts-block/dist/editor.js:6 dotcom-fse/blocks/site-title/edit.js:71
+#: dotcom-fse/blocks/site-description/edit.js:79
+#: dotcom-fse/blocks/navigation-menu/edit.js:68 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:39
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-description/edit.js:74
+#: dotcom-fse/blocks/navigation-menu/edit.js:63 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: blog-posts-block/dist/editor.js:6
+#: jetpack-timeline/blocks/src/timeline-item.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-title/edit.js:65
+#: dotcom-fse/blocks/site-description/edit.js:68
+#: dotcom-fse/blocks/navigation-menu/edit.js:57 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+#: dotcom-fse/blocks/site-title/edit.js:61
+#: dotcom-fse/blocks/site-description/edit.js:64
+#: dotcom-fse/blocks/navigation-menu/edit.js:53 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Settings"
+msgstr "Настройки текста"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Go back"
+msgstr "Назад"
+
+#: dotcom-fse/plugins/template-update-notice/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Updates to this template will affect all pages on your site."
+msgstr "Изменение этого шаблона коснется всех страниц вашего сайта."
+
+#: dotcom-fse/blocks/site-title/edit.js:89 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Title"
+msgstr "Добавление заголовка сайта"
+
+#: dotcom-fse/blocks/site-description/edit.js:107
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Description"
+msgstr "Добавление описания сайта"
+
+#: dotcom-fse/blocks/post-content/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "The page content."
+msgstr "Содержимое страницы."
+
+#: dotcom-fse/blocks/post-content/index.js:18 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Content"
+msgstr "Содержимое"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "свернутый"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "развернутый"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "Меню"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:399
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "Контакты"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:387
+msgctxt "Default page title"
+msgid "About"
+msgstr "О нас"
+
+#: dotcom-fse/class-full-site-editing.php:575
+msgid "Template Types cannon be deleted."
+msgstr "Невозможно удалить типы шаблонов."
+
+#: dotcom-fse/class-full-site-editing.php:537
+msgid "Templates cannot be moved to drafts."
+msgstr "Шаблоны нельзя перемещать в черновики."
+
+#: dotcom-fse/class-full-site-editing.php:523
+msgid "Templates cannot be deleted."
+msgstr "Невозможно удалить шаблоны."
+
+#. translators: %s: "Back to Post", "Back to Page", "Back to Template", etc.
+#: dotcom-fse/class-full-site-editing.php:271
+msgid "Back to %s"
+msgstr "Вернуться к %s"
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:76
+msgid "Invalid parent type."
+msgstr "Недопустимый тип родительского элемента."
+
+#: dotcom-fse/lib/site-options/use-site-options.js:57
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Error loading site %s"
+msgstr "Ошибка при загрузке сайта %s"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:54
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to load site %s"
+msgstr "Не удается загрузить сайт %s."
+
+#: dotcom-fse/lib/site-options/use-site-options.js:96
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to save site %s"
+msgstr "Не удается сохранить сайт %s."
+
+#: dotcom-fse/blocks/site-title/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Your site title."
+msgstr "Название вашего сайта."
+
+#: dotcom-fse/blocks/site-title/edit.js:78
+#: dotcom-fse/blocks/site-title/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: dotcom-fse/blocks/site-title/edit.js:119
+#: dotcom-fse/blocks/site-credit/edit.js:69 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site title loading…"
+msgstr "Загрузка названия сайта..."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:55
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: dotcom-fse/blocks/template/edit.js:191 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: dotcom-fse/blocks/site-description/index.js:16
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description, also known as the tagline."
+msgstr "Описание сайта (ключевая фраза)."
+
+#: dotcom-fse/blocks/site-description/edit.js:94
+#: dotcom-fse/blocks/site-description/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Description"
+msgstr "Описание сайта"
+
+#: dotcom-fse/blocks/site-description/edit.js:138
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description loading…"
+msgstr "Загрузка описания сайта..."
+
+#: dotcom-fse/blocks/navigation-menu/index.js:23
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Visual placeholder for site-wide navigation and menus."
+msgstr "Отображаемый заполнитель для меню и навигации по сайту."
+
+#: dotcom-fse/blocks/navigation-menu/index.js:22
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+#: starter-page-templates/class-starter-page-templates.php:149
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "Нет шаблонов. Пропущено отображение модального окна с выбором шаблона."
+
+#: starter-page-templates/class-starter-page-templates.php:140
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "Нет данных, полученных от вертикального API. Пропущено отображение модального окна с выбором шаблона."
+
+#: dotcom-fse/blocks/template/index.js:21 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Display a Template Part."
+msgstr "Отображать часть шаблона."
+
+#: dotcom-fse/blocks/template/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Part"
+msgstr "Часть шаблона"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:10
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default vertical name"
+msgid "Business"
+msgstr "Бизнес"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:9
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default company name"
+msgid "Your Company Name"
+msgstr "Название вашей организации"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:8
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default phone number"
+msgid "555-555-5555"
+msgstr "555-555-5555"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:7
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default address"
+msgid "123 Main St"
+msgstr "улица Лизюкова 1"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:516
+msgid "Back to template part types"
+msgstr "Назад к типам частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:515
+msgid "No template part types found."
+msgstr "Типов частей шаблонов не найдено."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:514
+msgid "Search Template Part Types"
+msgstr "Поиск типов частей шаблонов"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:513
+msgid "Parent Template Part Type:"
+msgstr "Родительский тип части шаблона:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:512
+msgid "Parent Template Part Type"
+msgstr "Родительский тип части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:511
+msgid "New Template Part Type"
+msgstr "Новый тип части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:510
+msgid "Add New Template Part Type"
+msgstr "Добавить новый тип части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:509
+msgid "Update Template Part Type"
+msgstr "Обновить тип части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:508
+msgid "View Template Part Type"
+msgstr "Просмотр типа части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:507
+msgid "Edit Template Part Type"
+msgstr "Изменить тип части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:506
+msgid "All Template Part Types"
+msgstr "Все типы частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:505
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Типы частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:504
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Тип части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Типы частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:465
+msgid "Template part updated."
+msgstr "Часть шаблона обновлена."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:464
+msgid "Template part scheduled."
+msgstr "Часть шаблона запланирована."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:463
+msgid "Template part reverted to draft."
+msgstr "Часть шаблона возвращена в черновики."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:462
+msgid "Template part published privately."
+msgstr "Часть шаблона опубликована как личная."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:461
+msgid "Template part published."
+msgstr "Часть шаблона опубликована."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:460
+msgid "Template parts list"
+msgstr "Список частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:459
+msgid "Template parts list navigation"
+msgstr "Навигация по списку частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:458
+msgid "Filter template parts list"
+msgstr "Фильтр списка частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:457
+msgid "No template parts found in Trash."
+msgstr "Нет частей шаблона в корзине."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:456
+msgid "No template parts found."
+msgstr "Частей шаблона не найдено."
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Search Template Parts"
+msgstr "Поиск частей шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "All Template Parts"
+msgstr "Все части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "View Template Part"
+msgstr "Просмотр части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Edit Template Part"
+msgstr "Изменить часть шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "New Template Part"
+msgstr "Новая часть шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Add New Template Part"
+msgstr "Добавить новую часть шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Часть шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Часть шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Части шаблона"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgctxt "Template"
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: posts-list-block/blocks/posts-list/index.js:97
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts"
+msgstr "Число записей"
+
+#: posts-list-block/blocks/posts-list/index.js:86
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts to show"
+msgstr "Число отображаемых записей"
+
+#: posts-list-block/blocks/posts-list/index.js:82
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Your recent blog posts will be displayed here."
+msgstr "Ваши последние записи блога будут отображаться здесь."
+
+#: posts-list-block/blocks/posts-list/index.js:34
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Displays your latest Blog Posts."
+msgstr "Показывает ваши последние записи в блоге."
+
+#: posts-list-block/blocks/posts-list/index.js:33
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Blog Posts Listing"
+msgstr "Список записей блога"
+
+#: posts-list-block/class-posts-list-block.php:157
+msgid "Read more"
+msgstr "Читать далее"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:154
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "Изменить"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "от"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Рекомендуется"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Просмотреть все записи"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "Пока ещё нет записей для отображения."
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "Улучшает процесс создания страниц в редакторе блоков."
+
+#. Plugin Name of the plugin
+msgid "Full Site Editing"
+msgstr "Full Site Editing"

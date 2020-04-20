@@ -1,0 +1,5742 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Upper Sorbian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-28 16:28:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hsb_DE\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/index.js:8
+msgid "Post Comments"
+msgstr "Přinoškowe komentary"
+
+#: build/block-library/index.js:8
+msgid "No comments."
+msgstr "Žane komentary."
+
+#: build/block-library/index.js:8
+msgid "Contact"
+msgstr "Kontakt"
+
+#: build/block-library/index.js:8
+msgid "About"
+msgstr "Wo"
+
+#: build/block-library/index.js:8
+msgid "Home"
+msgstr "Startowa strona"
+
+#: build/block-library/index.js:8
+msgid "25 / 50 / 25"
+msgstr "25 / 50 / 25"
+
+#: build/block-library/index.js:8
+msgid "33 / 33 / 33"
+msgstr "33 / 33 / 33"
+
+#: build/block-library/index.js:8
+msgid "70 / 30"
+msgstr "70 / 30"
+
+#: build/block-library/index.js:8
+msgid "30 / 70"
+msgstr "30 / 70"
+
+#: build/block-library/index.js:8
+msgid "50 / 50"
+msgstr "50 / 50"
+
+#: build/block-editor/index.js:49
+msgid "Current media URL:"
+msgstr "URL aktualneho medija:"
+
+#: build/block-editor/index.js:49
+msgid "Block variations"
+msgstr "Blokowe warianty"
+
+#: build/edit-post/index.js:6
+msgid "Preview in new tab"
+msgstr "Přehlad w nowym rajtarku"
+
+#: lib/class-wp-rest-menu-items-controller.php:960
+msgid "Sort collection by object attribute."
+msgstr "Zběrku po objektowym atribuće sortěrować."
+
+#: lib/class-wp-rest-menu-items-controller.php:953
+msgid "Order sort attribute ascending or descending."
+msgstr "Atribut za postupowace abo spadowace sortěrowanje."
+
+#: lib/class-wp-rest-menu-items-controller.php:948
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Wuslědkowu sadźbu na přinoški z wěstej hódnotu menu_value wobmjezować."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:914
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "Zapřijeća, kotrež su objektej w taksonomiji %s připokazane."
+
+#: lib/class-wp-rest-menu-items-controller.php:902
+msgid "Whether the menu item represents an object that no longer exists ."
+msgstr "Hač menijowy zapisk objekt prezentuje, kotryž hižo njeeksistuje."
+
+#: lib/class-wp-rest-menu-items-controller.php:888
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "XFN-poćah, kotryž so we wotkazu tutoho menijoweho zapiska zwuraznja."
+
+#: lib/class-wp-rest-menu-items-controller.php:881
+msgid "The URL to which this menu item points."
+msgstr "URL, na kotryž tutón menijowy zapisk wotkazuje."
+
+#: lib/class-wp-rest-menu-items-controller.php:874
+msgid "The singular label used to describe this type of menu item."
+msgstr "Jónkróćny popis, kotryž so wužiwa, zo by tutón typ menijoweho zapiska wopisał."
+
+#: lib/class-wp-rest-menu-items-controller.php:864
+msgid "The target attribute of the link element for this menu item."
+msgstr "Cilowy atribut wotkazoweho elementa za tutón menijowy zapisk."
+
+#: lib/class-wp-rest-menu-items-controller.php:856
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories ."
+msgstr "ID datoweje banki originalneho objekta, kotryž tutón menijowy zapisk reprezentuje, na př. ID za přinoški a term_ide za kategorije."
+
+#: lib/class-wp-rest-menu-items-controller.php:850
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "Typ objekta, kotryž je so prěnjotnje reprezentował, na přikład „kategorija“, „přinošk“ abo „přiwěšk“."
+
+#: lib/class-wp-rest-menu-items-controller.php:843
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any . 0 otherwise . "
+msgstr "ID datoweje banki Nav_menu_item je zapiskej menijowy nadrjadowany, jeli eksistuje. Hewak 0."
+
+#: lib/class-wp-rest-menu-items-controller.php:834
+msgid "The description of this menu item."
+msgstr "Wopisanje tutoho menijoweho zapiska."
+
+#: lib/class-wp-rest-menu-items-controller.php:820
+msgid "Class names for the link element of this menu item."
+msgstr "Klasowe mjena za wotkazowy element tutoho menijoweho zapiska."
+
+#: lib/class-wp-rest-menu-items-controller.php:811
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "Tekst za atribut „title“ wotkazoweho elementa za tutón menijowy zapisk."
+
+#: lib/class-wp-rest-menu-items-controller.php:795
+msgid "A named status for the object."
+msgstr "Pomjenjowany status za objekt."
+
+#: lib/class-wp-rest-menu-items-controller.php:787
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "Swójba objektow, kotraž je so prěnjotnje reprezentowała, na přikład „post_type“ abo „taksonomija“."
+
+#: lib/class-wp-rest-menu-items-controller.php:780
+msgid "Name of type."
+msgstr "Mjeno typa."
+
+#: lib/class-wp-rest-menu-items-controller.php:762
+msgid "HTML title for the object, transformed for display."
+msgstr "HTML-titul za objekt, přetworjeny za zwobraznjenje."
+
+#: lib/class-wp-rest-menu-items-controller.php:757
+msgid "Title for the object, as it exists in the database."
+msgstr "Titul za objekt, kaž w datowej bance eksistuje."
+
+#: lib/class-wp-rest-menu-items-controller.php:718
+msgid "Get linked object."
+msgstr "Zwjazany objekt wobstarać."
+
+#: lib/class-wp-rest-menu-items-controller.php:510
+msgid "Invalid URL."
+msgstr "Njepłaćiwy URL."
+
+#: lib/class-wp-rest-menu-items-controller.php:468
+#: lib/class-wp-rest-menu-items-controller.php:471
+msgid "Invalid menu item parent."
+msgstr "Njepłaćiwy nadrjadowany menijoweho zapiska."
+
+#: lib/class-wp-rest-menu-items-controller.php:460
+msgid "Invalid menu position."
+msgstr "Njepłaćiwa menijowa pozicija."
+
+#: lib/class-wp-rest-menu-items-controller.php:436
+msgid "Invalid menu ID."
+msgstr "Njepłaćiwy menijowy ID."
+
+#: lib/class-wp-rest-menu-items-controller.php:428
+msgid "URL require if menu item of type custom."
+msgstr "URL trěbny, jeli menijowy zapisk swójski typ ma."
+
+#: lib/class-wp-rest-menu-items-controller.php:425
+msgid "Title require if menu item of type custom."
+msgstr "Titul trěbny, jeli menijowy zapisk swójski typ ma."
+
+#: lib/class-wp-rest-menu-items-controller.php:418
+msgid "Invalid post type."
+msgstr "Njepłaćiwy přinoškowy typ."
+
+#: lib/class-wp-rest-menu-items-controller.php:407
+msgid "Invalid post  ID."
+msgstr "Njepłaćiwy přinoškowy ID."
+
+#: lib/class-wp-rest-menu-items-controller.php:271
+msgid "The post cannot be deleted."
+msgstr "Přinošk njeda so zhašeć."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:263
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "Menijowe zapiski njedadźa so do papjernika přesunyć. Stajće ‚%s‘, zo byšće zhašał."
+
+#: lib/class-wp-rest-menu-items-controller.php:97
+msgid "Cannot create existing post."
+msgstr "Eksistowacy přinošk njeda so wutworić."
+
+#: lib/class-wp-rest-menu-items-controller.php:83
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "Bohužel njemóžeće sej tute menijowe zapiski wobhladać, chibazo maće přistup k dowolnosći, zo byšće je wobdźěłował."
+
+#: lib/class-wp-rest-menu-items-controller.php:81
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Bohužel njesměće přinoški w tutym přinoškowym typje wobdźěłać. "
+
+#: lib/class-wp-rest-menu-items-controller.php:65
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "Bohužel njemóžeće sej tutón menijowy zapisk wobhladać, chibazo maće přistup k dowolnosći, zo byšće jón wobdźěłował."
+
+#: lib/class-wp-rest-menus-controller.php:480
+msgid "The locations assigned to the menu."
+msgstr "Menijej připokazane městna."
+
+#: lib/class-wp-rest-menus-controller.php:452
+msgid "Menu location does not exist."
+msgstr "Menijowe městno njeeksistuje."
+
+#: lib/class-wp-rest-menus-controller.php:409
+msgid "The term cannot be deleted."
+msgstr "Zapřijeće njeda so zhašeć."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:399
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Zapřijeća njedadźa so do papjernika přesunyć. Stajće ‚%s‘, zo byšće zhašał."
+
+#: lib/class-wp-rest-menus-controller.php:223
+#: lib/class-wp-rest-menus-controller.php:330
+msgid "Parent term does not exist."
+msgstr "Nadrjadowane zapřijeće njeeksistuje."
+
+#: lib/class-wp-rest-menus-controller.php:217
+#: lib/class-wp-rest-menus-controller.php:324
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Nadrjadowane zapřijeće njeda so nastajić, taksonomija hierarchiska njeje."
+
+#: lib/class-wp-rest-menus-controller.php:130
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "Bohužel njesměće podate městna připokazać."
+
+#: lib/class-wp-rest-menus-controller.php:60
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "Bohužel njemóžeće sej tutón meni wobhladać, chibazo maće přistup k dowolnosći, zo byšće jón wobdźěłował."
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Bohužel njesměće tute zapřijeće wobdźěłać."
+
+#: lib/class-wp-rest-menus-controller.php:40
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "Bohužel njemóžeće sej tute menije wobhladać, chibazo maće přistup k dowolnosći, zo byšće je wobdźěłował."
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Bohužel njesměće zapřijeća w tutej taksonomiji wobdźěłać."
+
+#. translators: 1: Pattern name.
+#: lib/class-wp-patterns-registry.php:54
+msgid "Pattern \"%1$s\" not found."
+msgstr "Muster „%1$s“ njeje so namakał."
+
+#: lib/class-wp-patterns-registry.php:35
+msgid "Pattern name must be a string."
+msgstr "Muster dyrbi znamješkowy rjećazk być."
+
+#: lib/class-wp-rest-menu-locations-controller.php:206
+msgid "The ID of the assigned menu."
+msgstr "ID připokazaneho menija."
+
+#: lib/class-wp-rest-menu-locations-controller.php:200
+msgid "The description of the menu location."
+msgstr "Wopisanje menijoweho městna."
+
+#: lib/class-wp-rest-menu-locations-controller.php:194
+msgid "The name of the menu location."
+msgstr "Mjeno menijoweho městna."
+
+#: lib/class-wp-rest-menus-controller.php:137
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+msgid "Invalid menu location."
+msgstr "Njepłaćiwe menijowe městno."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "Bohužel njesměće sej menijowe městna wobhladać."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "Alfanumeriski identifikator za menijowe městno."
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d left to position %3$d"
+msgstr "Blok typa %1$s wot pozicije %2$d dolěwa do pozicije %3$d přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Blok typa %1$s wot pozicije %2$d dele do pozicije %3$d přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Pattern \"%s\" inserted."
+msgstr "Muster „%s“ je so zasadźił."
+
+#: build/block-library/index.js:8
+msgid "Images size"
+msgstr "Wulkosć wobrazow"
+
+#: build/core-data/index.js:1
+msgid "User"
+msgstr "Wužiwar"
+
+#: build/core-data/index.js:1
+msgid "Widget area"
+msgstr "Wobłuk asistenta"
+
+#: build/core-data/index.js:1
+msgid "Post Type"
+msgstr "Přinoškowy typ"
+
+#: build/core-data/index.js:1
+msgid "Site"
+msgstr "Sydło"
+
+#: build/edit-post/index.js:6
+msgid "Block Patterns"
+msgstr "Blokowe mustry"
+
+#. translators: %s: Social Link service name
+#: build/block-library/blocks/social-link.php:21
+msgid "Link to %s"
+msgstr "Wotkaz na %s"
+
+#: build/components/index.js:6
+msgid "Radial Gradient"
+msgstr "Radialny přeběh"
+
+#: build/components/index.js:6
+msgid "Linear Gradient"
+msgstr "Linearny přeběh"
+
+#: build/components/index.js:6
+msgid "Type"
+msgstr "Typ"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved left"
+msgstr "Blok typa %1$s je na spočatku wobsaha a njeda so dolěwa přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved up"
+msgstr "Blok typa %1$s je na spočatku wobsaha a njeda so horje přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved left"
+msgstr "Blok typa %1$s je na kóncu wobsaha a njeda so dolěwa přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved down"
+msgstr "Blok typa %1$s je na kóncu wobsaha a njeda so dele přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Creating"
+msgstr "Wutworjenje"
+
+#: build/block-editor/index.js:49
+msgid "An unknown error occurred during creation. Please try again."
+msgstr "Njeznaty zmylk je při wutworjenju nastał. Prošu spytajće hišće raz."
+
+#: build/block-editor/index.js:49
+msgid "New page: <mark>%s</mark>"
+msgstr "Nowa strona: <mark>%s</mark>"
+
+#: build/block-editor/index.js:49
+msgid "Change a block's type by pressing the block icon on the toolbar."
+msgstr "Klikńće na blokowy symbol w symbolowej lajsće, zo byšće typ bloka změnił."
+
+#: build/block-editor/index.js:49
+msgid "Drag files into the editor to automatically insert media blocks."
+msgstr "Ćehńće dataje do editora, zo byšće medijowe bloki awtomatisce zasadźił."
+
+#: build/block-editor/index.js:49
+msgid "Outdent a list by pressing <kbd>backspace</kbd> at the beginning of a line"
+msgstr "Tłóčće <kbd>wróćotastu</kbd> na spočatku linki, zo byšće lisćinu wusunył."
+
+#: build/block-editor/index.js:49
+msgid "Indent a list by pressing <kbd>space</kbd> at the beginning of a line."
+msgstr "Tłóčće <kbd>prózdnu tastu</kbd> na spočatku linki, zo byšće lisćinu zasunył."
+
+#: build/block-editor/index.js:49
+msgid "Solid"
+msgstr "Kruty"
+
+#: build/edit-post/index.js:6
+msgid "Open document settings"
+msgstr "Dokumentowe nastajenja wočinić"
+
+#: build/edit-post/index.js:6
+msgid "Open block settings"
+msgstr "Blokowe nastajenja wočinić"
+
+#: build/edit-post/index.js:6
+msgid "Desktop"
+msgstr "Desktop"
+
+#: build/edit-post/index.js:6
+msgid "Mobile"
+msgstr "Mobilny telefon"
+
+#: build/edit-post/index.js:6
+msgid "Tablet"
+msgstr "Tablet"
+
+#: build/block-library/index.js:8
+msgid "Post Tags"
+msgstr "Přinoškowe znački"
+
+#: build/block-library/index.js:8
+msgid "No tags."
+msgstr "Žane znački."
+
+#: build/block-library/index.js:8
+msgid "Post Featured Image"
+msgstr "Doporučeny wobraz přinoška"
+
+#: build/block-library/index.js:8
+msgid "Read more…"
+msgstr "Dale čitać..."
+
+#: build/block-library/index.js:8
+msgid "Show link on new line"
+msgstr "Wotkaz na nowej lince pokazać"
+
+#: build/block-library/index.js:8
+msgid "Max words"
+msgstr "Maksimalne słowa"
+
+#: build/block-library/index.js:8
+msgid "Post Excerpt Settings"
+msgstr "Nastajenja přinoškoweho wućaha"
+
+#: build/block-library/index.js:8
+msgid "Date Format"
+msgstr "Datumowy format"
+
+#: build/block-library/index.js:8
+msgid "Format settings"
+msgstr "Formatowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Change Date"
+msgstr "Datum změnić"
+
+#: build/block-library/index.js:8
+msgid "Post Comments Form"
+msgstr "Formular přinoškowych komentarow"
+
+#: build/block-library/index.js:8
+msgid "Post Comments Count"
+msgstr "Ličba přinoškowych komentarow"
+
+#: build/block-library/index.js:8
+msgid "Display an icon linking to a social media profile or website."
+msgstr "Symbol pokazać, kotryž k profilej socialneho medija abo websydłu wotkazuje."
+
+#: build/block-library/index.js:8
+msgid "Social Icon"
+msgstr "Socialny symbol"
+
+#: build/block-library/index.js:8
+msgctxt "block keywords"
+msgid "links"
+msgstr "wotkazy"
+
+#: build/block-library/index.js:8
+msgid "Display icons linking to your social media profiles or websites."
+msgstr "Symbole pokazać, kotrež k profilam socialneho medija abo websydłam wotkazuja."
+
+#: build/block-library/index.js:8
+msgid "Social Icons"
+msgstr "Socialne symbole"
+
+#: build/block-library/index.js:8
+msgid "Select poster image"
+msgstr "Posterowy wobraz wubrać"
+
+#: build/block-library/index.js:8
+msgid "Image alignment"
+msgstr "Wobrazowe wusměrjenje"
+
+#: build/block-library/index.js:8
+msgid "Display featured image"
+msgstr "Přinoškowy wobraz pokazać"
+
+#: build/block-library/index.js:8
+msgid "Featured image settings"
+msgstr "Nastajenja doporučeneho wobraza"
+
+#: build/block-library/index.js:8
+msgid "Post content"
+msgstr "Přinoškowy wobsah"
+
+#: build/block-library/index.js:8
+msgid "Show submenu indicator icons"
+msgstr "Pokazowanske symbole podmenija pokazać"
+
+#: build/block-library/index.js:8
+msgid "Background color"
+msgstr "Pozadkowa barba"
+
+#: build/block-library/index.js:8
+msgid "Media file"
+msgstr "Medijowa dataja"
+
+#: build/block-library/index.js:8
+msgid "Text color"
+msgstr "Tekstowa barba"
+
+#: build/block-library/index.js:8
+msgid "Change heading level"
+msgstr "Runinu nadpisma změnić"
+
+#: build/block-library/index.js:8
+msgid "Embed a TikTok video."
+msgstr "Zasadźće TikTok-widejo."
+
+#: build/block-library/index.js:8
+msgid "survey"
+msgstr "naprašowanje"
+
+#: build/block-library/index.js:8
+msgid "social"
+msgstr "socialny"
+
+#: build/edit-site/index.js:1
+msgid "Edit Page Template"
+msgstr "Předłohu strony wobdźěłać"
+
+#: build/edit-site/index.js:1
+msgid "Update Design"
+msgstr "Design aktualizować"
+
+#: build/edit-site/index.js:1
+msgid "New"
+msgstr "Nowy"
+
+#: build/edit-site/index.js:1
+msgid "Switch Template"
+msgstr "Předłohu změnić"
+
+#: build/edit-site/index.js:1
+msgid "loading…"
+msgstr "čita so…"
+
+#: build/edit-site/index.js:1
+msgid "Customized"
+msgstr "Přiměrjeny"
+
+#: build/edit-site/index.js:1
+msgid "template-slug"
+msgstr "adresowe mjeno předłohi"
+
+#: build/edit-site/index.js:1
+msgid "Add Template"
+msgstr "Předłohu přidać"
+
+#: build/edit-site/index.js:1
+msgid "Template already exists, edit it instead."
+msgstr "Předłoha hižo eksistuje, wobdźěłajće ju město toho."
+
+#: lib/global-styles.php:309
+msgid "Global Styles"
+msgstr "Globalne stile"
+
+#: lib/template-loader.php:231
+msgid "Empty template."
+msgstr "Prózdna předłoha."
+
+#: lib/template-loader.php:219
+msgid "No matching template found."
+msgstr "Žana wotpowědna předłoha namakana."
+
+#: build/block-library/index.js:8
+msgid "Display settings"
+msgstr "Zwobraznjenske nastajenja"
+
+#: build/block-editor/index.js:49
+msgid "Choose variation"
+msgstr "Wariantu wubrać"
+
+#: build/components/index.js:6
+msgid "Angle"
+msgstr "Kut"
+
+#: build/blocks/index.js:2
+msgid "%s Block"
+msgstr "%s blok"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. %2$s"
+msgstr "%1$s blok. %2$s"
+
+#: build/blocks/index.js:2
+msgid "%s Block. Column %d"
+msgstr "%s blok. Špalta %d"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. Column %2$d. %3$s"
+msgstr "%1$s blok. Špalta %2$d. %3$s"
+
+#: build/blocks/index.js:2
+msgid "%s Block. Row %d"
+msgstr "%s blok. Linka %d"
+
+#: build/blocks/index.js:2
+msgid "%1$s Block. Row %2$d. %3$s"
+msgstr "%1$s blok. Linka %2$d. %3$s"
+
+#: build/block-library/index.js:8
+msgid "Post Excerpt"
+msgstr "Wućah přinoška"
+
+#: build/block-library/index.js:8
+msgid "Post Date"
+msgstr "Datum přinoška"
+
+#: build/block-library/index.js:8
+msgid "No Date"
+msgstr "Žadyn datum"
+
+#: build/block-library/index.js:8
+msgid "Post Author"
+msgstr "Awtor přinoška"
+
+#: build/block-library/index.js:8
+msgid "Choose"
+msgstr "Wubrać"
+
+#: build/block-library/index.js:8
+msgid "twentytwenty"
+msgstr "twentytwenty"
+
+#: build/block-library/index.js:8
+msgid "Theme"
+msgstr "Drasta"
+
+#: build/block-library/index.js:8
+msgid "Choose a template part by slug and theme, or create a new one."
+msgstr "Wubjerće dźěl předłohi po titulnej formje a drasće abo wutworće nowu."
+
+#: build/block-library/index.js:8 build/edit-site/index.js:1
+msgid "Error adding template."
+msgstr "Zmylk při přidawanju předłohi."
+
+#: build/block-library/index.js:8
+msgid "Footer label"
+msgstr "Popis nohi"
+
+#: build/block-library/index.js:8
+msgid "Header label"
+msgstr "Popis hłowy"
+
+#: build/block-library/index.js:8
+msgid "Unsupported"
+msgstr "Njepodpěrane"
+
+#: build/block-library/index.js:8
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Wopisanje so w meniju pokaza, jeli aktualna drasta to podpěruje."
+
+#: build/block-library/index.js:8
+msgid "Level %1$s. %2$s"
+msgstr "Runina %1$s. %2$s"
+
+#: build/block-library/index.js:8
+msgid "Level %s. Empty."
+msgstr "Runina %s. Prózdna."
+
+#: build/block-library/index.js:8
+msgid "Empty"
+msgstr "Prózdny"
+
+#: build/block-editor/index.js:49
+msgid "Search results for \"%s\""
+msgstr "Pytanske wuslědki za \"%s\""
+
+#: build/block-editor/index.js:49
+msgid "Recently updated"
+msgstr "Njedawno zaktualizowane"
+
+#: build/block-editor/index.js:49
+msgid "Multiple selected blocks"
+msgstr "Wjacore wubrane bloki"
+
+#. translators: %s: The author.
+#: build/block-library/blocks/post-author.php:19 build/block-library/index.js:8
+msgid "By %s"
+msgstr "Wot %s"
+
+#: build/edit-site/index.js:1
+msgid "Inspector"
+msgstr "Inspektor"
+
+#: build/block-library/index.js:8
+msgid "Briefly describe the link to help screen reader users."
+msgstr "Wopisajće krótko wotkaz, zo byšće wužiwarjam čitakow wobrazowki pomhał."
+
+#: build/block-library/index.js:8
+msgid "Link label"
+msgstr "Wotkazowy popis"
+
+#: build/block-library/index.js:8
+msgid "%s label"
+msgstr "Popis %s"
+
+#: build/block-library/index.js:8
+msgid "poem"
+msgstr "baseń"
+
+#: build/block-library/index.js:8
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#: build/block-library/index.js:8
+msgid ""
+"EXT. XANADU - FAINT DAWN - 1940 (MINIATURE)\n"
+"Window, very small in the distance, illuminated.\n"
+"All around this is an almost totally black screen. Now, as the camera moves slowly towards the window which is almost a postage stamp in the frame, other forms appear;"
+msgstr ""
+"EXT. XANADU - FAINT DAWN - 1940 (MINIATURA)\n"
+"Wokno, jara małe w dalinje, rozswětlene.\n"
+"Kołowokoło je skoro dospołnje čorna wobrazowka. Nětko, hdyž so kamera pomału woknu bliži, skutkuje kaž znamka w ramiku, druhe formy so jewja;"
+
+#: build/block-library/index.js:8
+msgid "Full post"
+msgstr "Dospołny přinošk"
+
+#: build/block-library/index.js:8
+msgid "Show:"
+msgstr "Pokazać:"
+
+#: build/block-library/index.js:8
+msgid "Create from all top-level pages"
+msgstr "Ze wšěch nadrjadowanych stronow wutworić"
+
+#: build/block-library/index.js:8
+msgid "Suspendisse commodo neque lacus, a dictum orci interdum et."
+msgstr "Suspendisse commodo neque lacus, a dictum orci interdum et."
+
+#: build/block-library/index.js:8
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et eros eu felis."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et eros eu felis."
+
+#: build/block-library/index.js:8
+msgid "Prompt visitors to take action with a group of button-style links."
+msgstr "Namołwće wopytowarjow z grupu wotkazow w stilu tłóčatkow jednać."
+
+#: build/block-library/index.js:8
+msgid "Buttons"
+msgstr "Tłóčatka"
+
+#: build/block-library/index.js:8
+msgid "Background"
+msgstr "Pozadk"
+
+#: build/block-library/index.js:8
+msgid "Background & Text Color"
+msgstr "Pozadk a tekstowa barba"
+
+#: build/block-editor/index.js:49
+msgid "Image size"
+msgstr "Wobrazowa wulkosć"
+
+#: build/block-editor/index.js:49
+msgid "Remove multiple selected blocks."
+msgstr "Wjacore wubrane bloki wotstronić."
+
+#: build/block-editor/index.js:49
+msgid "(%s: gradient %s)"
+msgstr "(%s: přeběh %s)"
+
+#: build/block-editor/index.js:49
+msgid "(%s: color %s)"
+msgstr "(%s: barba %s)"
+
+#: build/block-editor/index.js:49
+msgid "(Gradient: %s)"
+msgstr "(Přeběh: %s)"
+
+#: build/block-editor/index.js:49
+msgid "(Color: %s)"
+msgstr "(Barba: %s)"
+
+#: build/edit-post/index.js:6
+msgid "Here's a detailed guide."
+msgstr "Tu je podrobny přewodnik."
+
+#: build/edit-post/index.js:6
+msgid "New to the block editor? Want to learn more about using it? "
+msgstr "Blokowy editor je nowy za was? Chceće wjace wo jeho wužiwanju zhonić?"
+
+#: build/edit-post/index.js:6
+msgid "Learn how to use the block editor"
+msgstr "Wukńće, kak móžeće blokowy editor wužiwać"
+
+#: build/edit-post/index.js:6
+msgid "Help"
+msgstr "POmoc"
+
+#: build/edit-post/index.js:6
+msgid "https://wordpress.org/support/article/wordpress-editor/"
+msgstr "https://wordpress.org/support/article/wordpress-editor/"
+
+#: build/block-directory/index.js:1
+msgid "%s block icon"
+msgstr "Blokowy symbol %s"
+
+#: build/editor/index.js:11
+msgid "Submit for Review…"
+msgstr "Za přepruwowanje zapodać…"
+
+#: build/editor/index.js:11
+msgid "Update…"
+msgstr "Aktualizować…"
+
+#: build/editor/index.js:11
+msgid "Select items to save."
+msgstr "Wubjerće zapiski za składowanje."
+
+#: build/editor/index.js:11
+msgid "What do you want to save?"
+msgstr "Što  chceće składować?"
+
+#: build/editor/index.js:11
+msgid "Untitled"
+msgstr "Bjez titula"
+
+#: lib/experiments-page.php:120
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "Blokowy editor eksperimentelne funkcije wobsahuje, kotrež so wužiwajomne, hdyž su we wuwiću. Wubjerće te, kotrež chceće zmóžnić. Tute funkcije so najskerje změnja, njewužiwaće je potajkim w produktiwnym dźěle."
+
+#: lib/experiments-page.php:72
+msgid "Enable Full Site Editing (Warning: this will replace your theme and cause potentially irreversible changes to your site. We recommend using this only in a development environment.)"
+msgstr "Wobdźěłowanje dospołneho sydła zmóžnić (Warnowanje: To wašu drastu naruna a snano irewersibelne změny na wašim sydle zawinuje. Poručamy, zo to jenož we wuwiwanskej wokolinje wužiwaće.)"
+
+#: gutenberg.php:61 gutenberg.php:62
+msgid "Site Editor (beta)"
+msgstr "Sydłowy editor (beta)"
+
+#: build/components/index.js:6
+msgid "Next"
+msgstr "Přichodny"
+
+#: build/components/index.js:6
+msgid "Previous"
+msgstr "Předchadny"
+
+#: build/components/index.js:6
+msgid "Finish"
+msgstr "Dokónčić"
+
+#: build/components/index.js:6
+msgid "Page %1$d of %2$d"
+msgstr "Strona %1$d z %2$d"
+
+#: build/components/index.js:6
+msgid "Guide controls"
+msgstr "Wodźenske elementy přewodnika"
+
+#: build/components/index.js:6
+msgid "Remove Control Point"
+msgstr "Kontrolny dypk wotstronić"
+
+#: build/components/index.js:6
+msgid "Use your left or right arrow keys or drag and drop with the mouse to change the gradient position. Press the button to change the color or remove the control point."
+msgstr "Wužiwajće swoju lěwu abo prawu tastu abo ćehńće z myšku, zo byšće přeběhowu poziciju změnił. Klikńće n tłóčatko, zo byšće barbu změnił abo kontrolny dypk wotstronił."
+
+#: build/components/index.js:6
+msgid "Gradient control point at position %1$s with color code %2$s."
+msgstr "Přeběhowy kontrolny dypk na poziciji %1$s z barbowym kodom %2$s."
+
+#: build/components/index.js:6
+msgid "Preset size"
+msgstr "Standardna wulkosć"
+
+#: build/block-editor/index.js:49
+msgid "Tools offer different interactions for block selection & editing. To select, press Escape, to go back to editing, press Enter."
+msgstr "Nastroje rozdźělne interakcije za wuběranje a wobdźěłowanje blokow skića. Tłóčće Esc, zo byšće wubrał, a Enter, zo byšće so k wobdźěłowanju wróćił."
+
+#: build/block-editor/index.js:49
+msgid "Open Media Library"
+msgstr "Mediateku wočinić"
+
+#: build/block-editor/index.js:49
+msgid "The media file has been replaced"
+msgstr "Medijowa dataja je so wuměniła"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Replace"
+msgstr "Wuměnić"
+
+#: build/block-editor/index.js:49
+msgid "You are currently in edit mode. To return to the navigation mode, press Escape."
+msgstr "Sće tuchwilu we wobdźěłowanskim modusu. Zo byšće so k nawigaciskemu modusej wróćił, tłóčće Esc."
+
+#: build/block-editor/index.js:49
+msgid "You are currently in navigation mode. Navigate blocks using the Tab key. To exit navigation mode and edit the selected block, press Enter."
+msgstr "Sće tuchwilu w nawigaciskim modusu. Nawigujće z tabulatorowej tastu mjez blokami. Tłóčće Enter, zo byšće nawigaciski modus wopušćił a wubrany blok wobdźěłował."
+
+#: build/api-fetch/index.js:1
+msgid "You are probably offline."
+msgstr "Sće najskerje offline."
+
+#: build/block-library/index.js:8
+msgid "Justify items right"
+msgstr "Elementy naprawo wusměrić"
+
+#: build/block-library/index.js:8
+msgid "Justify items center"
+msgstr "Elementy centrować"
+
+#: build/block-library/index.js:8
+msgid "Justify items left"
+msgstr "Elementy nalěwo wusměrić"
+
+#: build/block-library/index.js:8
+msgid "Change items justification"
+msgstr "Wusměrjenje elementow změnić"
+
+#: build/block-library/index.js:8
+msgid ""
+"// A \"block\" is the abstract term used\n"
+"// to describe units of markup that\n"
+"// when composed together, form the\n"
+"// content or layout of a page.\n"
+"registerBlockType( name, settings );"
+msgstr ""
+"// „Blok“ je abstraktne zapřijeće, kotrež \n"
+"// so wužiwa, zo by woznamjenjenske jednotki \n"
+"// wopisowało, kotrež, hdyž so zestajeja,\n"
+"// wobsah abo wuhotowanje strony tworja.\n"
+"registerBlockType( mjeno, nastajenja );"
+
+#: build/block-library/index.js:8
+msgid "ADD MEDIA"
+msgstr "MEDIJE PŘIDAĆ"
+
+#: build/edit-post/index.js:6
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "Wšě bloki, kotrež wam k dispoziciji su, su w blokowej bibliotece. Namakaće je wšudźe, hdźež symbol <InserterIconImage /> widźiće."
+
+#: build/edit-post/index.js:6
+msgid "Get to know the block library"
+msgstr "Zeznajće so z blokowej biblioteku"
+
+#: build/edit-post/index.js:6
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "Kóždy blok swoju sadźbu wodźenskich elementow sobu přinjese, z kotrymiž móžeće wěcy kaž barbu, šěrokosć a wusměrjenje změnić. Te so awtomatisce pokazuja, hdyž sće blok wubrał."
+
+#: build/edit-post/index.js:6
+msgid "Make each block your own"
+msgstr "Čińće kóždy blok k swójskemu"
+
+#: build/edit-post/index.js:6
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "W editorje WordPress so kóždy wotstawk, wobraz abo kóžde widejo jako swójski wobsahowy „blok“ pokazuje."
+
+#: build/edit-post/index.js:6
+msgid "Welcome to the block editor"
+msgstr "Witajće k blokowemu editorej"
+
+#: build/edit-post/index.js:6
+msgid "Get started"
+msgstr "Prěnje kroki"
+
+#: build/edit-post/index.js:6
+msgid "inserter"
+msgstr "inserter"
+
+#: build/edit-post/index.js:6
+msgid "Welcome Guide"
+msgstr "Witanski přewodnik"
+
+#: lib/experiments-page.php:83
+msgid "Enable Full Site Editing demo templates"
+msgstr "Demonstraciske předłohi za wobdźěłowanje cyłych sydłow zmóžnić"
+
+#: lib/experiments-page.php:78
+msgid "Full Site Editing Demo Templates"
+msgstr "Demonstraciske předłohi za wobdźěłowanje cyłych sydłow"
+
+#: build/block-library/index.js:8
+msgid "Post Title"
+msgstr "Titul přinoška"
+
+#: build/block-library/index.js:8
+msgid "Add nofollow to link"
+msgstr "Wotkazej nofollow přidać"
+
+#: build/block-library/index.js:8
+msgid "Add submenu"
+msgstr "Podmeni přidać"
+
+#: build/block-library/index.js:8
+msgid "Add link…"
+msgstr "Wotkaz přidać…"
+
+#: build/block-library/index.js:8
+msgid "Dark"
+msgstr "Ćmowy"
+
+#: build/block-library/index.js:8
+msgid "Light"
+msgstr "Swětły"
+
+#: build/block-library/index.js:8
+msgid "recording"
+msgstr "natočenje"
+
+#: build/block-library/index.js:8
+msgid "podcast"
+msgstr "podcast"
+
+#: build/block-library/index.js:8
+msgid "sound"
+msgstr "zynk"
+
+#: lib/class-wp-rest-widget-forms.php:53
+msgid "Array of instance changes"
+msgstr "Rjad instancnych změnow"
+
+#: lib/class-wp-rest-widget-forms.php:48
+msgid "Current widget instance"
+msgstr "Aktualna asistentowa instanca"
+
+#: lib/template-parts.php:40
+msgid "Template parts to include in your templates."
+msgstr "Dźěle předłohi, kotrež maja waše předłohi wobsahować."
+
+#: lib/template-parts.php:35
+msgid "Template parts list"
+msgstr "Lisćina předłohowych dźělow"
+
+#: lib/template-parts.php:34
+msgid "Template parts list navigation"
+msgstr "Nawigacija přez lisćinu předłohowych dźělow"
+
+#: lib/template-parts.php:33
+msgid "Filter template parts list"
+msgstr "Lisćinu předłohowych dźělow filtrować"
+
+#: lib/template-parts.php:32
+msgid "Uploaded to this template part"
+msgstr "K tutomu předłohowemu dźělej nahraty"
+
+#: lib/template-parts.php:31
+msgid "Insert into template part"
+msgstr "Do předłohoweho dźěla zasadźić"
+
+#: lib/template-parts.php:30
+msgid "Template part archives"
+msgstr "Archiwy předłohowych dźělow"
+
+#: lib/template-parts.php:29
+msgid "No template parts found in Trash."
+msgstr "Žane předłohowe dźěle w papjerniku namakane."
+
+#: lib/template-parts.php:28
+msgid "No template parts found."
+msgstr "Žane předłohowe dźěle namakane."
+
+#: lib/template-parts.php:27
+msgid "Parent Template Part:"
+msgstr "Nadrjadowany předłohowy dźěl:"
+
+#: lib/template-parts.php:26
+msgid "Search Template Parts"
+msgstr "Předłohowe dźěle pytać"
+
+#: lib/template-parts.php:25
+msgid "All Template Parts"
+msgstr "Wšě předłohowe dźěle"
+
+#: lib/template-parts.php:24
+msgid "View Template Part"
+msgstr "Předłohowy dźěl pokazać"
+
+#: lib/template-parts.php:23
+msgid "Edit Template Part"
+msgstr "Předłohowy dźěl wobdźěłać"
+
+#: lib/template-parts.php:22
+msgid "New Template Part"
+msgstr "Nowy předłohowy dźěl"
+
+#: lib/template-parts.php:21
+msgid "Add New Template Part"
+msgstr "Nowy předłohowy dźěl přidać"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Nowy přidać"
+
+#: lib/template-parts.php:19
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "Předłohowe dźěle"
+
+#: lib/template-parts.php:18 build/block-library/index.js:8
+msgid "Template Part"
+msgstr "Předłohowy dźěl"
+
+#: lib/template-parts.php:17 build/edit-site/index.js:1
+msgid "Template Parts"
+msgstr "Předłohowe dźěle"
+
+#: build/block-library/index.js:8
+msgid ""
+"WHAT was he doing, the great god Pan,\n"
+"\tDown in the reeds by the river?\n"
+"Spreading ruin and scattering ban,\n"
+"Splashing and paddling with hoofs of a goat,\n"
+"And breaking the golden lilies afloat\n"
+"    With the dragon-fly on the river."
+msgstr ""
+"WHAT was he doing, the great god Pan,\n"
+"\tDown in the reeds by the river?\n"
+"Spreading ruin and scattering ban,\n"
+"Splashing and paddling with hoofs of a goat,\n"
+"And breaking the golden lilies afloat\n"
+"    With the dragon-fly on the river."
+
+#: build/block-library/index.js:8
+msgid "Navigation"
+msgstr "Nawigacija"
+
+#: build/block-library/index.js:8
+msgid "Loading Navigation…"
+msgstr "Nawigacija so začita…"
+
+#: build/block-library/index.js:8
+msgid "Navigation Structure"
+msgstr "Nawigaciska struktura"
+
+#: build/block-library/index.js:8
+msgid "Create empty"
+msgstr "Prózdny wutworić"
+
+#: build/block-library/index.js:8
+msgid "Create a Navigation from all existing pages, or create an empty one."
+msgstr "Wutworće nawigaciju ze wšěch eksistowacych stronow abo wutworće jednu."
+
+#: build/block-library/index.js:8
+msgid "Navigation Link"
+msgstr "Nawigaciski wotkaz"
+
+#: build/block-library/index.js:8
+msgid "(Note: many devices and browsers do not display this text.)"
+msgstr "(Kedźbu: Wjele gratow a wobhladowakow tutón tekst njepokazuje.)"
+
+#: build/block-library/index.js:8
+msgid "Describe the role of this image on the page."
+msgstr "Wopisajće rólu tutoho wobraza na stronje."
+
+#: build/block-editor/index.js:49
+msgid "Toggle between using the same value for all screen sizes or using a unique value per screen size."
+msgstr "Přepinajće z pomocu samsneje hódnoty za wšě wulkosće wobrazowki abo jónkróćneje hódnoty na wulkosć wobrazowki."
+
+#: build/block-editor/index.js:49
+msgid "Use the same %s on all screensizes."
+msgstr "Samsne %s na wšěch wulkosćach wobrazowki wužiwać"
+
+#: build/block-editor/index.js:49
+msgid "Large screens"
+msgstr "Wulke wobrazowki"
+
+#: build/block-editor/index.js:49
+msgid "Medium screens"
+msgstr "Srěnje wobrazowki"
+
+#: build/block-editor/index.js:49
+msgid "Small screens"
+msgstr "Małe wobrazowki"
+
+#: build/block-editor/index.js:49
+msgctxt "Text labelling a interface as controlling a given layout property (eg: margin) for a given screen size."
+msgid "Controls the %1$s property for %2$s viewports."
+msgstr "Wodźi kajkosć %1$s za wokno widźenja %2$s ."
+
+#: build/block-editor/index.js:49
+msgid "Currently selected"
+msgstr "Tuchwilu wubrany"
+
+#: build/block-editor/index.js:49
+msgid "Search or type url"
+msgstr "URL pytać abo zapodać"
+
+#: build/block-editor/index.js:49
+msgid "Press ENTER to add this link"
+msgstr "Tłóčće ENTER, zo byšće tutón wotkaz přidał"
+
+#: build/block-editor/index.js:49
+msgid "Currently selected link settings"
+msgstr "Tuchwilu wubrane wotkazowe nastajenja"
+
+#: build/block-editor/index.js:49
+msgctxt "Generic label for block inserter button"
+msgid "Add block"
+msgstr "Blok přidać"
+
+#: build/block-editor/index.js:49
+msgctxt "directly add the only allowed block"
+msgid "Add %s"
+msgstr "%s přidać"
+
+#: build/block-editor/index.js:49
+msgid "%s block added"
+msgstr "%s blok přidaty"
+
+#: build/components/index.js:6
+msgid "Extra Large"
+msgstr "Jara wulki"
+
+#: build/block-editor/index.js:49
+msgid "Block breadcrumb"
+msgstr "Blok z chlěbowych srjódkow"
+
+#: build/block-editor/index.js:49
+msgid "Editor footer"
+msgstr "Nohowa linka editora"
+
+#: build/block-library/index.js:8
+msgid "Site Title"
+msgstr "Sydłowy titul"
+
+#: build/block-library/index.js:8
+msgid "Open Colors Selector"
+msgstr "Wuběrak barbow wočinić"
+
+#: lib/templates.php:35
+msgid "Templates list"
+msgstr "Lisćina předłohow"
+
+#: lib/templates.php:34
+msgid "Templates list navigation"
+msgstr "Nawigacija lisćiny předłohow"
+
+#: lib/templates.php:33
+msgid "Filter templates list"
+msgstr "Lisćinu předłohow filtrować"
+
+#: lib/templates.php:32
+msgid "Uploaded to this template"
+msgstr "K tutej předłoze nahraty"
+
+#: lib/templates.php:31
+msgid "Insert into template"
+msgstr "Do předłohi zasadźić"
+
+#: lib/templates.php:30
+msgid "Template archives"
+msgstr "Archiwy předłohow"
+
+#: lib/templates.php:29
+msgid "No templates found in Trash."
+msgstr "Žane předłohi w papjerniku namakane."
+
+#: lib/templates.php:28
+msgid "No templates found."
+msgstr "Žane předłohi namakane."
+
+#: lib/templates.php:27
+msgid "Parent Template:"
+msgstr "Nadrjadowana předłoha:"
+
+#: lib/templates.php:26
+msgid "Search Templates"
+msgstr "Předłohi pytać"
+
+#: lib/templates.php:25
+msgid "All Templates"
+msgstr "Wšě předłohi"
+
+#: lib/templates.php:24
+msgid "View Template"
+msgstr "Předłohu pokazać"
+
+#: lib/templates.php:23
+msgid "Edit Template"
+msgstr "Předłohu wobdźěłać"
+
+#: lib/templates.php:22
+msgid "New Template"
+msgstr "Nowa předłoha"
+
+#: lib/templates.php:21
+msgid "Add New Template"
+msgstr "Nowu předłohu přidać"
+
+#: lib/templates.php:20
+msgctxt "Template"
+msgid "Add New"
+msgstr "Nowu přidać"
+
+#: lib/templates.php:19
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "Předłohi"
+
+#: lib/templates.php:18
+msgid "Template"
+msgstr "Předłoha"
+
+#: lib/template-loader.php:260
+msgid "No matching template found"
+msgstr "Žana wotpowědna předłoha namakana"
+
+#: build/components/index.js:6
+msgid "Gradient: %s"
+msgstr "Barbny přeběh: %s"
+
+#: build/edit-post/index.js:6
+msgid "All content copied."
+msgstr "Wšón wobsah kopěrowany."
+
+#: build/api-fetch/index.js:1
+msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
+msgstr "Medijowe nahraće je so nimokuliło. Jeli to je foto abo wulki wobraz, pomjeńšće prošu a spytajće hišće raz."
+
+#: build/block-editor/index.js:49
+msgid "Gradient"
+msgstr "Barbny přeběh"
+
+#: build/block-editor/index.js:49
+msgid "Gradient Presets"
+msgstr "Nastajenja přeběha"
+
+#: build/block-editor/index.js:49
+msgid "No Preview Available."
+msgstr "Žadyn přehlad k dispoziciji."
+
+#: build/block-editor/index.js:49
+msgid "Midnight"
+msgstr "Połnóc"
+
+#: build/block-editor/index.js:49
+msgid "Electric grass"
+msgstr "Elektriska trawa"
+
+#: build/block-editor/index.js:49
+msgid "Pale ocean"
+msgstr "Blědy ocean"
+
+#: build/block-editor/index.js:49
+msgid "Luminous dusk"
+msgstr "Swěćaca ćmička"
+
+#: build/block-editor/index.js:49
+msgid "Blush bordeaux"
+msgstr "Blush bordeaux"
+
+#: build/block-editor/index.js:49
+msgid "Blush light purple"
+msgstr "Čerwjenojty swětłowioletny"
+
+#: build/block-editor/index.js:49
+msgid "Cool to warm spectrum"
+msgstr "Chłódny do ćopłeho spektruma"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray to cyan bluish gray"
+msgstr "Jara swětłošěry hač cyanowy módrojtošěry"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange to vivid red"
+msgstr "Swěćaty swětłooranžowy hač swětłočerwjeny"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "Swěćaty swětłojantarojty hač swěćaty swětłooranžowy"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan to vivid green cyan"
+msgstr "Swětłozeleny cyanowy hač swětły zelenocyanowy"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue to vivid purple"
+msgstr "Swětły cyanomódry hač swětłowioletny"
+
+#: build/components/index.js:6
+msgid "Gradient code: %s"
+msgstr "Kod barbneho přeběha: %s"
+
+#: build/editor/index.js:11
+msgid "https://wordpress.org/support/article/excerpt/"
+msgstr "https://wordpress.org/support/article/excerpt/"
+
+#: build/block-library/index.js:8
+msgid "December 6, 2018"
+msgstr "6. decembra 2018"
+
+#: build/block-library/index.js:8
+msgid "February 21, 2019"
+msgstr "21. februara 2019"
+
+#: build/block-library/index.js:8
+msgid "May 7, 2019"
+msgstr "7. meje 2019"
+
+#: build/block-library/index.js:8
+msgid "Release Date"
+msgstr "Wozjewjenski datum"
+
+#: build/block-library/index.js:8
+msgid "Jazz Musician"
+msgstr "Jazzowy hudźbnik"
+
+#: build/block-library/index.js:8
+msgid "Version"
+msgstr "Wersija"
+
+#: build/block-library/index.js:8
+msgid "Six."
+msgstr "Šěsć."
+
+#: build/block-library/index.js:8
+msgid "Five."
+msgstr "Pjeć."
+
+#: build/block-library/index.js:8
+msgid "Four."
+msgstr "Štyri."
+
+#: build/block-library/index.js:8
+msgid "Three."
+msgstr "Tři."
+
+#: build/block-library/index.js:8
+msgid "Two."
+msgstr "Dwaj."
+
+#: build/block-library/index.js:8
+msgid "One."
+msgstr "Jedyn."
+
+#: build/block-library/index.js:8
+msgid "One of the hardest things to do in technology is disrupt yourself."
+msgstr "Jedyn z najćešich nadawkow, kotrež dyrbja so w technologiji činić, so mylić."
+
+#: build/block-library/index.js:8
+msgid "— Kobayashi Issa (一茶)"
+msgstr "— Kobayashi Issa (一茶)"
+
+#: build/block-library/index.js:8
+msgid "The wren<br>Earns his living<br>Noiselessly."
+msgstr "The wren<br>Earns his living<br>Noiselessly."
+
+#: build/block-library/index.js:8
+msgid "Welcome to the wonderful world of blocks…"
+msgstr "Witajće k wulkotnemu swětej blokow…"
+
+#: build/block-library/index.js:8
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Snow Patrol</strong>"
+
+#: build/block-library/index.js:8
+msgid "Dimensions"
+msgstr "Wotměry"
+
+#: build/block-library/index.js:8
+msgid "Minimum height in pixels"
+msgstr "Minimalna wysokosć w pikselach"
+
+#: build/block-library/index.js:8
+msgid "Nam risus massa, ullamcorper consectetur eros fermentum, porta aliquet ligula. Sed vel mauris nec enim."
+msgstr "Nam risus massa, ullamcorper consectetur eros fermentum, porta aliquet ligula. Sed vel mauris nec enim."
+
+#: build/block-library/index.js:8
+msgid "Etiam et egestas lorem. Vivamus sagittis sit amet dolor quis lobortis. Integer sed fermentum arcu, id vulputate lacus. Etiam fermentum sem eu quam hendrerit."
+msgstr "Etiam et egestas lorem. Vivamus sagittis sit amet dolor quis lobortis. Integer sed fermentum arcu, id vulputate lacus. Etiam fermentum sem eu quam hendrerit."
+
+#: build/block-library/index.js:8
+msgid "Call to Action"
+msgstr "Namołwa k jednanju"
+
+#: build/block-library/index.js:8
+msgid "In quoting others, we cite ourselves."
+msgstr "Citujo druhich, citujemy sebje."
+
+#: build/block-library/index.js:8
+msgid "cite"
+msgstr "citować"
+
+#: build/block-library/index.js:8
+msgid "Mont Blanc appears—still, snowy, and serene."
+msgstr "Mont Blanc so jewi - ćichi, sněhaty a měrny."
+
+#: build/block-library/index.js:8
+msgid "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing."
+msgstr "We wsy w La Mancha, na kotrejež mjeno nochcu so dopomnić, běše žiwy před nic předołhim časom jedyn z tych knjezow, kotřiž hlebiju w hlebijowym stajadle maja, stary škit, sucheho klepotaka a honjaka."
+
+#: build/block-editor/index.js:49
+msgid "Block navigation"
+msgstr "Blokowa nawigacija"
+
+#: lib/experiments-page.php:67
+msgid "Full Site Editing"
+msgstr "Wobdźěłowanje połneho sydła"
+
+#: lib/templates.php:40
+msgid "Templates to include in your theme."
+msgstr "Předłohi, kotrež ma swoja drasta wobsahować."
+
+#: lib/templates.php:17 build/edit-site/index.js:1
+msgid "Templates"
+msgstr "Předłohi"
+
+#: build/edit-post/index.js:6
+msgid "Pre-publish checks"
+msgstr "Přepruwowanja před wozjewjenjom"
+
+#: build/block-directory/index.js:1
+msgid "Please contact your site administrator to install new blocks."
+msgstr "Prošu stajće so ze swojim sydłowym admnistratorom do zwiska, zo byšće nowe bloki instalował."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. Please contact your site administrator to install new blocks."
+msgstr "Žane bloki we wašej bibliotece namakane. Prošu stajće so ze swojim sydłowym administratorom, zo byšće nowe bloki instalował."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library."
+msgstr "Žane nowe bloki we wašej bibliotece namakane."
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. These blocks can be downloaded and installed:"
+msgstr "Žane bloki we wašej bibliotece namakane. Tute bloki dadźa so sćahnyć a instalować:"
+
+#: build/block-directory/index.js:1
+msgid "No blocks found in your library. We did find %d block available for download."
+msgid_plural "No blocks found in your library. We did find %d blocks available for download."
+msgstr[0] "Žane bloki we wašej bibliotece namakane. Njejsmy %d blok namakali, kotryž je k dispoziciji za sćehnjenje."
+msgstr[1] "Žane bloki we wašej bibliotece namakane. Njejsmy %d blokaj namakali, kotrejž stej k dispoziciji za sćehnjenje."
+msgstr[2] "Žane bloki we wašej bibliotece namakane. Njejsmy %d bloki namakali, kotrež su k dispoziciji za sćehnjenje."
+msgstr[3] "Žane bloki we wašej bibliotece namakane. Njejsmy %d blokow namakali, kotrež je k dispoziciji za sćehnjenje."
+
+#: build/block-directory/index.js:1
+msgid "Block previews can’t load."
+msgstr "Přehlady blokow njedadźa so začitać."
+
+#: build/block-directory/index.js:1
+msgid "Retry"
+msgstr "Hišće raz spytać"
+
+#: build/block-directory/index.js:1
+msgid "Block previews can't install."
+msgstr "Přehlady blokow njedadźa so instalować."
+
+#: build/block-directory/index.js:1
+msgid "Updated %s"
+msgstr "%s zaktualizowany"
+
+#: build/block-directory/index.js:1
+msgid "%d active installation"
+msgid_plural "%d active installations"
+msgstr[0] "%d aktiwna instalacija"
+msgstr[1] "%d aktiwnej instalaciji"
+msgstr[2] "%d aktiwne instalacije"
+msgstr[3] "%d aktiwnych instalacijow"
+
+#: build/block-directory/index.js:1
+msgid "This author has %d block, with an average rating of %d."
+msgid_plural "This author has %d blocks, with an average rating of %d."
+msgstr[0] "Tutón awtor ma %d blok, z přerěznym pohodnoćenjom %d."
+msgstr[1] "Tutón awtor ma %d blokaj, z přerěznym pohodnoćenjom %d."
+msgstr[2] "Tutón awtor ma %d bloki, z přerěznym pohodnoćenjom %d."
+msgstr[3] "Tutón awtor ma %d blokow, z přerěznym pohodnoćenjom %d."
+
+#: build/block-directory/index.js:1
+msgid "Authored by %s"
+msgstr "Spisany wot %s"
+
+#: build/edit-site/index.js:1
+msgid "Add"
+msgstr "Přidać"
+
+#: build/block-directory/index.js:1
+msgid "%d total rating"
+msgid_plural "%d total ratings"
+msgstr[0] "%d cyłkowne pohódnoćenje"
+msgstr[1] "%d cyłkownej pohódnoćeni"
+msgstr[2] "%d cyłkowne pohódnoćenja"
+msgstr[3] "%d cyłkownych pohódnoćenjow"
+
+#: build/block-directory/index.js:1
+msgid "%s out of 5 stars"
+msgstr "%s z 5 hwěžkow"
+
+#: build/block-library/index.js:8
+msgid "Enter address"
+msgstr "Adresu zapodać"
+
+#: build/block-library/index.js:8
+msgid "Pill Shape"
+msgstr "Pilowy twar"
+
+#: build/block-library/index.js:8
+msgid "Logos Only"
+msgstr "Jenož loga"
+
+#: build/block-library/index.js:8
+msgid "Open block navigator"
+msgstr "Blokowy nawigator wočinić"
+
+#: build/block-library/index.js:8
+msgid "Attachment page"
+msgstr "Strona přiwěškow"
+
+#: build/block-library/index.js:8
+msgid "Fill"
+msgstr "Pjelnić"
+
+#: build/block-library/index.js:8
+msgid "Link rel"
+msgstr "Link rel"
+
+#: build/block-library/index.js:8
+msgid "Border radius"
+msgstr "Róžkowy radius"
+
+#: build/block-library/index.js:8
+msgid "Write gallery caption…"
+msgstr "Zapisajće galerijowy popis…"
+
+#: build/editor/index.js:11
+msgid "Restore the backup"
+msgstr "Zawěsćenje wobnowić"
+
+#: build/editor/index.js:11
+msgid "The backup of this post in your browser is different from the version below."
+msgstr "Zawěsćenje tutoho přinoška we wašim wobhladowaku so wot wersije deleka rozeznawa."
+
+#: lib/experiments-page.php:61
+msgid "Enable block directory search"
+msgstr "Pytanje blokoweho zapisa zmóžnić"
+
+#: lib/experiments-page.php:56
+msgid "Block Directory"
+msgstr "Blokowy zapis"
+
+#: lib/class-wp-rest-block-directory-controller.php:145
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Njeje móžno z datajowym systemom zwjazać. Prošu wobkrućće swoje přizjewjenske daty."
+
+#: lib/class-wp-rest-block-directory-controller.php:80
+msgid "Sorry, you are not allowed to install blocks."
+msgstr "Bohužel njesměće bloki instalować."
+
+#: build/edit-post/index.js:6
+msgid "%1$d block is disabled."
+msgid_plural "%1$d blocks are disabled."
+msgstr[0] "%1$d blok je so znjemóžnił."
+msgstr[1] "%1$d blokaj stej so znjemóžniłoj."
+msgstr[2] "%1$d bloki je so znjemóžnili."
+msgstr[3] "%1$d blokow je so znjemóžniło."
+
+#: build/block-library/index.js:8
+msgid "Reverse list numbering"
+msgstr "Nawopačne lisćinowe čisłowanje"
+
+#: build/block-library/index.js:8
+msgid "Start value"
+msgstr "Startowa hódnota"
+
+#: build/block-library/index.js:8
+msgid "Ordered list settings"
+msgstr "Nastajenja zrjadowanych lisćinow"
+
+#: build/block-library/index.js:8
+msgid "Clear Media"
+msgstr "Medije wotstronić"
+
+#: build/block-editor/index.js:49
+msgid "Default Style"
+msgstr "Standardny stil"
+
+#: build/block-editor/index.js:49
+msgid "Not set"
+msgstr "Njenastajene"
+
+#: build/block-editor/index.js:49
+msgid "While writing, you can press <kbd>/</kbd> to quickly insert new blocks."
+msgstr "Mjeztym zo pisaće, móžeće <kbd>/</kbd> tłóčić, zo byšće spěšnje nowe bloki zasadźił."
+
+#: lib/class-wp-rest-widget-areas-controller.php:118
+msgid "Version of the content block format used by the object."
+msgstr "Wersija formata wobsahoweho bloka, kotraž so přez objekt wužiwa."
+
+#: lib/class-wp-rest-widget-areas-controller.php:112
+msgid "HTML content for the object, transformed for display."
+msgstr "HTML-wobsah za objekt, přetworjeny za zwobraznjenje."
+
+#: lib/class-wp-rest-widget-areas-controller.php:107
+msgid "Content for the object, as it exists in the database."
+msgstr "Wobsah za objekt kaž w datowej bance eksistuje."
+
+#: lib/class-wp-rest-widget-areas-controller.php:98
+msgid "The content for the object."
+msgstr "Wobsah za objekt."
+
+#: build/block-library/index.js:8
+msgid "Change column alignment"
+msgstr "Špaltowe wusměrjenje změnić"
+
+#: build/block-library/index.js:8
+msgid "Align Column Right"
+msgstr "Špaltu naprawo wusměrić"
+
+#: build/block-library/index.js:8
+msgid "Align Column Center"
+msgstr "Špaltu centrować"
+
+#: build/block-library/index.js:8
+msgid "Align Column Left"
+msgstr "Špaltu nalěwo wusměrić"
+
+#: build/block-library/index.js:8
+msgid "Color"
+msgstr "Barba"
+
+#: build/block-editor/index.js:49
+msgid "Vivid purple"
+msgstr "Jaskrawy wioletny"
+
+#: build/edit-post/index.js:6
+msgid "Disable & Reload"
+msgstr "Znjemóžnić a znowa začitać"
+
+#: build/edit-post/index.js:6
+msgid "Enable & Reload"
+msgstr "Zmóžnić a znowa začitać"
+
+#: build/edit-post/index.js:6
+msgid "A page reload is required for this change. Make sure your content is saved before reloading."
+msgstr "Strona dyrbi so za tutu změnu znowa začitać. Zawěsćće, zo so waš wobsah składuje, prjedy hač so znowa začita."
+
+#: build/edit-post/index.js:6
+msgid "Display these keyboard shortcuts."
+msgstr "Tute tastowe skrótšenki pokazać."
+
+#: gutenberg.php:86
+msgid "Experiments Settings"
+msgstr "Nastajenja za eksperimenty"
+
+#: lib/experiments-page.php:50
+msgid "Enable Widgets screen and Legacy Widgets block"
+msgstr "Asistentowu wobrazowku a zestarjeny asistentowy blok zmóžnić"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "Eksperimentelne nastajenja"
+
+#: lib/class-wp-block-styles-registry.php:44
+msgid "Block name name must be a string."
+msgstr "Blokowe mjeno dyrbi znamješkowy rjećazk być."
+
+#: build/components/index.js:6
+msgid "Custom"
+msgstr "Swójske"
+
+#: build/editor/index.js:11
+msgid "Draft"
+msgstr "Naćisk"
+
+#. translators: 1: block name, 2: block style name
+#: lib/class-wp-block-styles-registry.php:76
+msgid "Block \"%1$s\" does not contain a style named \"%2$s.\"."
+msgstr "Blok „%1$s“ stil z mjenom „%2$s“ njewobsahuje."
+
+#: build/block-editor/index.js:49
+msgid "Learn more about anchors"
+msgstr "Zhońće wjace wo kótwičkach"
+
+#: build/block-editor/index.js:49
+msgid "Enter a word or two — without spaces — to make a unique web address just for this heading, called an “anchor.” Then, you’ll be able to link directly to this section of your page."
+msgstr "Zapodajće słowo abo dwě - bjez mjezerow -, zo byšće jónkróćnu webadresu jenož za tute napismo wutworił, kotraž „kótwička“ rěka. Potom móžeće direktnje na tutón wotrězk swojeje strony wotkazać."
+
+#: lib/customizer.php:61
+msgid "Widget Blocks (Experimental)"
+msgstr "Asistentowe bloki (eksperimentalne)"
+
+#: build/block-editor/index.js:49
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr "Nahrajće widejodataju, wubjerće tajku ze swojeje medijoweje biblioteki abo přidajće tajku z URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr "Nahrajće wobrazowu dataju, wubjerće tajku ze swojeje medijoweje biblioteki abo přidajće tajku z URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr "Nahrajće awdiodataju, wubjerće tajku ze swojeje medijoweje biblioteki abo přidajće tajku z URL."
+
+#: build/block-editor/index.js:49
+msgid "Upload a media file or pick one from your media library."
+msgstr "Nahrajće medijowu dataju abo wubjerće jednu ze swojeje medijoweje biblioteki."
+
+#: build/block-editor/index.js:49
+msgid "Skip"
+msgstr "Přeskočić"
+
+#: build/block-editor/index.js:49
+msgid "Select a variation to start with."
+msgstr "Wubjerće wariantu, z kotrejž chceće započeć."
+
+#: build/block-library/index.js:8
+msgid "Add a page, link, or another item to your navigation."
+msgstr "Přidajće wašej nawigaciji stronu, wotkaz abo druhi zapisk."
+
+#: build/block-library/index.js:8
+msgid "What's this?"
+msgstr "Što to je?"
+
+#: build/block-library/index.js:8
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:8
+msgid "Don't let search engines follow this link."
+msgstr "Pytawam njedowolić, tutomu wotkazej slědować."
+
+#: build/block-library/index.js:8
+msgid "Title attribute"
+msgstr "Atribut Title"
+
+#: build/block-library/index.js:8
+msgid "SEO settings"
+msgstr "SEO-nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Description"
+msgstr "Wopisanje"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Open in new tab"
+msgstr "W nowym rajtarku wočinić"
+
+#: build/block-editor/index.js:49
+msgid "Move right"
+msgstr "Doprawa přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move left"
+msgstr "Dolěwa přesunyć"
+
+#: build/block-library/index.js:8
+msgid "links"
+msgstr "wotkazy"
+
+#: build/block-library/index.js:8
+msgid "navigation"
+msgstr "nawigacija"
+
+#: build/block-library/index.js:8
+msgid "menu"
+msgstr "meni"
+
+#: build/block-library/index.js:8
+msgid "Add a navigation block to your site."
+msgstr "Přidajće swojemu sydłu nawigaciski blok."
+
+#: build/block-library/index.js:8
+msgid "Upload a file or pick one from your media library."
+msgstr "Nahrajće dataju abo wubjerće jednu ze swojeje medijoweje biblioteki."
+
+#: build/block-library/index.js:8
+msgid "Learn more about embeds"
+msgstr "Wjace wo zasadźenjach zhonić"
+
+#: build/block-library/index.js:8
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-library/index.js:8
+msgid "Paste a link to the content you want to display on your site."
+msgstr "Zasadźće wotkaz k wobsahej, kotryž chceće na sydle pokazać."
+
+#: build/block-library/index.js:8
+msgid "Upload an image or video file, or pick one from your media library."
+msgstr "Nahrajće wobrazowu abo widejodataju abo wubjerće tajku ze swojeje medijoweje biblioteki."
+
+#: build/block-library/index.js:8
+msgid "Three columns; wide center column"
+msgstr "Tři špalty; šěroka srjedźna špalta"
+
+#: build/block-library/index.js:8
+msgid "Three columns; equal split"
+msgstr "Tři špalty; jenake rozdźělenje"
+
+#: build/block-library/index.js:8
+msgid "Two columns; two-thirds, one-third split"
+msgstr "Dwě špalće; rozdźělenje dwě třećinje, jedna třećina"
+
+#: build/block-library/index.js:8
+msgid "Two columns; one-third, two-thirds split"
+msgstr "Dwě špalće; rozdźělenje jedna třećina, dwě třećinje"
+
+#: build/block-library/index.js:8
+msgid "Two columns; equal split"
+msgstr "Dwě špalće; jenake rozdźělenje"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:37
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Waše sydło %s nima, tohodla tuchwilu ničo njeje, kotrež so da tu pokazać."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "More tools & options"
+msgstr "Dalše nastroje a nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Create Table"
+msgstr "Tabelu wutworić"
+
+#: build/block-library/index.js:8
+msgid "Insert a table for sharing data."
+msgstr "Zasadźće tabelu, zo byšće daty dźělił."
+
+#: build/editor/index.js:11
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Skupinu zběhnyć"
+
+#: build/editor/index.js:11
+msgctxt "verb"
+msgid "Group"
+msgstr "Zeskupić"
+
+#: build/components/index.js:6
+msgid "Separate with commas or the Enter key."
+msgstr "Wotdźělće z komami abo tastu Enter."
+
+#: build/components/index.js:6
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Wotdźělće z komami, mjezerami abo tastu Enter."
+
+#: build/block-editor/index.js:49
+msgid "Separate multiple classes with spaces."
+msgstr "Dźělće wjacore klasy přez mjezoty."
+
+#: build/block-library/index.js:8
+msgid "Move image forward"
+msgstr "Wobraz doprědka přesunyć"
+
+#: build/block-library/index.js:8
+msgid "Move image backward"
+msgstr "Wobraz dozady přesunyć"
+
+#: lib/class-wp-rest-widget-areas-controller.php:201
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "Bohužel njesměće bóčnicy wobdźěłać."
+
+#: lib/class-wp-rest-widget-areas-controller.php:146
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "Bohužel njesměće bóčnicy čitać."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "ID bóčnicy."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:342
+msgid "Displays a set of blocks"
+msgstr "Pokazuje sadźbu blokow"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:338
+#: lib/class-experimental-wp-widget-blocks-manager.php:350
+msgid "Blocks Area"
+msgstr "Blokowy wobłuk"
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "Blok je narysnjeny jako prózdny."
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Kod inline"
+
+#: build/block-library/index.js:8
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Pokazka: Awtomatiske wothrawanje widejow móže za někotrych wopytowarjow problemy při wobsłužowanju zawinować."
+
+#: build/block-library/index.js:8
+msgid "Footer section"
+msgstr "Nohowa linka"
+
+#: build/block-library/index.js:8
+msgid "Header section"
+msgstr "Hłowowa linka"
+
+#: build/block-library/index.js:8
+msgid "Sorting and filtering"
+msgstr "Sortěrowanje a filtrowanje"
+
+#: build/block-library/index.js:8
+msgid "Post meta settings"
+msgstr "Metanastajenja přinoškow"
+
+#: build/block-library/index.js:8
+msgid "Post Content"
+msgstr "Přinoškowy wobsah"
+
+#: build/block-library/index.js:8
+msgid "Post content settings"
+msgstr "Nastajenja přinoškoweho wobsaha"
+
+#: build/block-library/index.js:8
+msgid "Percentage width"
+msgstr "Procentualna šěrokosć"
+
+#: build/block-library/index.js:8
+msgid "Column settings"
+msgstr "Špaltowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Pokazka: Awtomatiske wothrawanje awdio móže za někotrych wopytowarjow problemy při wobsłužowanju zawinować."
+
+#: lib/widgets.php:207
+msgid "Block area updated."
+msgstr "Blokowy wobłuk je so aktualizował."
+
+#: lib/widgets.php:206
+msgid "Block area scheduled."
+msgstr "Blokowy wobłuk je so planował."
+
+#: lib/widgets.php:203
+msgid "Block area published."
+msgstr "Blokowy wobłuk je so wozjewił."
+
+#: lib/widgets.php:202
+msgid "Block areas list"
+msgstr "Lisćina blokowych wobłukow"
+
+#: lib/widgets.php:201
+msgid "Block areas list navigation"
+msgstr "Nawigacija lisćiny blokowych wobłukow"
+
+#: lib/widgets.php:200
+msgid "Filter block areas list"
+msgstr "Lisćinu blokowych wobłukow filtrować"
+
+#: lib/widgets.php:198
+msgid "No block area found."
+msgstr "Žane blokowe wobłuki namakane."
+
+#: lib/widgets.php:197
+msgid "Search Block Areas"
+msgstr "Blokowe wobłuki pytać"
+
+#: lib/widgets.php:196
+msgid "All Block Areas"
+msgstr "Wšě blokowe wobłuki"
+
+#: lib/widgets.php:195
+msgid "View Block Area"
+msgstr "Blokowy wobłuk pokazać"
+
+#: lib/widgets.php:194
+msgid "Edit Block Area"
+msgstr "Blokowy wobłuk wobdźěłać"
+
+#: lib/widgets.php:193
+msgid "New Block Area"
+msgstr "Nowy blokowy wobłuk"
+
+#: lib/widgets.php:192
+msgid "Add New Block Area"
+msgstr "Nowy blokowy wobłuk přidać"
+
+#: lib/widgets.php:189
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Blokowe wobłuki"
+
+#: lib/widgets.php:188
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Blokowy wobłuk (eksperimentelny)"
+
+#: lib/widgets.php:187
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Blokowy wobłuk (eksperimentelny)"
+
+#: lib/widgets.php:185
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Eksperimentelny swójski přinoškowy typ, kotryž blokowe wobłuki składuje, na kotrež so drasty poćahuja."
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Wobsah asistentoweje wobrazwoki"
+
+#: build/block-library/index.js:8
+msgid "header"
+msgstr "hłowa"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(eksperimentelny)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Blokowe pola"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read."
+msgstr "Tuta barbowa kombinacija za ludźi čitanje poćežuje."
+
+#: build/block-library/index.js:8
+msgid "There is no poster image currently selected"
+msgstr "Tuchwilu posterowy wobraz wubrany njeje"
+
+#: build/block-library/index.js:8
+msgid "The current poster image url is %s"
+msgstr "URL aktualneho posteroweho wobraza je %s"
+
+#: build/block-library/index.js:8
+msgid "section"
+msgstr "wotrězk"
+
+#: build/block-library/index.js:8
+msgid "row"
+msgstr "linka"
+
+#: build/block-library/index.js:8
+msgid "wrapper"
+msgstr "wrapper"
+
+#: build/block-library/index.js:8
+msgid "container"
+msgstr "kontejner"
+
+#: build/block-library/index.js:8
+msgid "A block that groups other blocks."
+msgstr "Blok, kotryž druhe bloki zeskupja."
+
+#: build/block-library/index.js:8
+msgid "Group"
+msgstr "Skupina"
+
+#: build/block-library/index.js:8
+msgid "Crop image to fill entire column"
+msgstr "Wobraz přitřihać, zo by so cyła špalta pjelniła"
+
+#: build/block-library/index.js:8
+msgid "Play inline"
+msgstr "Inline wothrać"
+
+#: build/block-library/index.js:8
+msgid "Leave empty if the image is purely decorative."
+msgstr "Wostajće prózdny, jeli wobraz je čisće dekoratiwny."
+
+#: build/block-library/index.js:8
+msgid "Describe the purpose of the image"
+msgstr "Wopisajće zaměr wobraza"
+
+#: build/block-editor/index.js:49
+msgid "Add a block"
+msgstr "Blok přidać"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "Wertikalne wusměrjenje změnić"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "Wertikalnje deleka wusměrić"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "Wertikalnje wosrjedźa wusměrić"
+
+#: build/editor/index.js:11
+msgid "Replace Image"
+msgstr "Wobraz wuměnić"
+
+#: build/block-editor/index.js:49
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "Wertikalnje horjeka wusměrić"
+
+#: build/block-library/index.js:8
+msgid "Display a legacy widget."
+msgstr "Zestarjeny asistent zwobraznić."
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget (Experimental)"
+msgstr "Zestarjeny asistent (eksperimentelny)"
+
+#: build/block-library/index.js:8
+msgid "Change widget"
+msgstr "Aisistent změnić"
+
+#: build/block-library/index.js:8
+msgid "Legacy Widget"
+msgstr "Zestarjeny asistent"
+
+#: build/block-library/index.js:8
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Nimaće prawa, zo byšće asistenty na tutym sydle wužiwał."
+
+#: build/block-library/index.js:8
+msgid "Select a legacy widget to display:"
+msgstr "Wubjerće zestarjeny asistent, kotryž ma so pokazać:"
+
+#: build/block-library/index.js:8
+msgid "There are no widgets available."
+msgstr "Asistenty k dispoziciji njejsu."
+
+#: build/block-editor/index.js:49
+msgid "Change block type or style"
+msgstr "Blokowy typ abo stil změnić"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Prózdna tasta"
+
+#: build/block-library/index.js:8
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Wróćotasta"
+
+#: build/block-editor/index.js:49
+msgid "More rich text controls"
+msgstr "Dalše wodźenske elementy za Rich Text"
+
+#: build/editor/index.js:11
+msgid "Search Terms"
+msgstr "Pytanske zapřijeća"
+
+#: build/editor/index.js:11
+msgid "Exit the Editor"
+msgstr "Editor skónčić"
+
+#: build/edit-post/index.js:6
+msgid "Block Manager"
+msgstr "Zrjadowak blokow"
+
+#: lib/class-wp-rest-widget-forms.php:42
+msgid "Class name of the widget."
+msgstr "Klasowe mjeno asistenta."
+
+#: lib/class-wp-rest-widget-forms.php:81
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Bohužel nimaće přistup na asistenty na tutym sydle."
+
+#: gutenberg.php:51 gutenberg.php:52
+msgid "Widgets (beta)"
+msgstr "Asistenty (beta)"
+
+#: build/block-library/index.js:8
+msgid "link"
+msgstr "wotkaz"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Zasadźeny wobsah z %s njeda so w editorje w přehledźe pokazać."
+
+#: build/components/index.js:6
+msgid "Custom color"
+msgstr "Swójska barba"
+
+#: build/block-library/index.js:8
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Namołwće wopytowarjow z wotkazom w stilu tłóčatka jednać."
+
+#: build/block-library/blocks/rss.php:58
+msgid "by"
+msgstr "wot"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Zmylk je nastał, kotryž najskerje woznamjenja, zo kanal je spadnył. Spytajće pozdźišo hišće raz."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS-zmylk:"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgctxt "block style"
+msgid "Default"
+msgstr "Standard"
+
+#: build/editor/index.js:11
+msgid "Stick to the top of the blog"
+msgstr "Horjeka k blogej připjeć"
+
+#: build/edit-post/index.js:6
+msgid "Read about permalinks"
+msgstr "Wjace wo trajnych wotkazach"
+
+#: build/edit-post/index.js:6
+msgid "The last part of the URL."
+msgstr "Posledni dźěl URL."
+
+#: build/edit-post/index.js:6
+msgid "URL Slug"
+msgstr "Titulna forma URL"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode deactivated"
+msgstr "Modus połneje wobrazowki je deaktiwizowany"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode activated"
+msgstr "Modus połneje wobrazowki je aktiwizowany"
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode deactivated"
+msgstr "Modus spotlight je deaktiwizowany"
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode activated"
+msgstr "Modus spotlight je aktiwizowany"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar deactivated"
+msgstr "Hornja symbolowa lajsta je so deaktiwizowała"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar activated"
+msgstr "Hornja symbolowa lajsta je so aktiwizowała"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Back"
+msgstr "Wróćo"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature activated"
+msgstr "Funkcija je aktiwizowana"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Feature deactivated"
+msgstr "Funkcija je deaktiwizowana"
+
+#: build/components/index.js:6
+msgid "Vertical pos."
+msgstr "Wertikalna poz."
+
+#: build/components/index.js:6
+msgid "Horizontal pos."
+msgstr "Horicontalna poz."
+
+#: build/block-library/index.js:8
+msgid "A cloud of your most used tags."
+msgstr "Mróčel wašich najhusćišo wužitych značkow."
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud"
+msgstr "Mróčel značkow"
+
+#: build/block-library/index.js:8 build/core-data/index.js:1
+msgid "Taxonomy"
+msgstr "Taksonomija"
+
+#: build/block-library/index.js:8
+msgid "Tag Cloud settings"
+msgstr "Nastajenja mróčele značkow"
+
+#: build/block-library/index.js:8
+msgid "- Select -"
+msgstr "- Wubrać -"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Default"
+msgstr "Standard"
+
+#: build/block-library/index.js:8
+msgid "find"
+msgstr "pytać"
+
+#: build/block-library/index.js:8
+msgid "Help visitors find your content."
+msgstr "Pomhajće wopytowarjam swój wobsah namakać."
+
+#: build/block-library/blocks/search.php:32
+#: build/block-library/blocks/search.php:83
+#: build/block-library/blocks/search.php:91 build/block-library/index.js:8
+msgid "Search"
+msgstr "Pytać"
+
+#: build/block-library/index.js:8
+msgid "Add button text…"
+msgstr "Tłóčatkowy tekst přidać…"
+
+#: build/block-library/index.js:8
+msgid "Button text"
+msgstr "Tłóčatkowy tekst"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder…"
+msgstr "Opcionalny zastupowacy symbol…"
+
+#: build/block-library/index.js:8
+msgid "Optional placeholder text"
+msgstr "Tekst opcionalneho zastupowaceho symbola"
+
+#: build/block-library/index.js:8
+msgid "Add label…"
+msgstr "Popis přidać…"
+
+#: build/block-library/index.js:8
+msgid "Label text"
+msgstr "Tekst popisa"
+
+#: build/block-library/index.js:8
+msgid "feed"
+msgstr "kanal"
+
+#: build/block-library/index.js:8
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:8
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Zapiski z kanala RSS abo Atom pokazać."
+
+#: build/block-library/index.js:8
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:8
+msgid "Max number of words in excerpt"
+msgstr "Maksimalna ličba słowow we wućahu"
+
+#: build/block-library/index.js:8
+msgid "Display excerpt"
+msgstr "Wućah pokazać"
+
+#: build/block-library/index.js:8
+msgid "Display date"
+msgstr "Pokazowanski datum"
+
+#: build/block-library/index.js:8
+msgid "Display author"
+msgstr "Awtora pokazać"
+
+#: build/block-library/index.js:8
+msgid "RSS settings"
+msgstr "RSS-nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Edit RSS URL"
+msgstr "RSS-URL wobdźěłać"
+
+#: build/block-library/index.js:8
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Wobsah před tutym blokom so we wućahu na wašej archiwowej stronje pokaza."
+
+#: build/block-library/index.js:8
+msgid "Hide the excerpt on the full content page"
+msgstr "Wućah na połnej wobsahowej stronje schować"
+
+#: build/block-library/index.js:8
+msgid "The excerpt is visible."
+msgstr "Wućah je widźomny."
+
+#: build/block-library/index.js:8
+msgid "The excerpt is hidden."
+msgstr "Wućah je schowany."
+
+#: build/block-library/index.js:8
+msgid "image %1$d of %2$d in gallery"
+msgstr "wobraz %1$d z %2$d w galeriji"
+
+#: build/block-library/index.js:8
+msgid "Sorry, this content could not be embedded."
+msgstr "Tutón wobsah njeda so bohužel zasadźić."
+
+#: build/block-library/index.js:8
+msgid "Embed Amazon Kindle content."
+msgstr "Wobsah Amazon Kindle zasadźić."
+
+#: build/block-library/index.js:8
+msgid "ebook"
+msgstr "ebook"
+
+#: build/block-library/index.js:8
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Wobsah signala Crowd (něhdy Polldaddy) zasadźić."
+
+#: build/block-library/index.js:8
+msgid "Focal point picker"
+msgstr "Wuběrak fokusoweho dypka"
+
+#: build/block-library/index.js:8
+msgid "archive"
+msgstr "archiw"
+
+#: build/block-library/index.js:8
+msgid "posts"
+msgstr "přinoški"
+
+#: build/block-library/index.js:8
+msgid "A calendar of your site’s posts."
+msgstr "Protyka přinoškow wašeho sydła."
+
+#: build/block-library/index.js:8
+msgid "Calendar"
+msgstr "Protyka"
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Podšmórnyć"
+
+#: build/block-editor/index.js:49
+msgid "Attempt Block Recovery"
+msgstr "Wobnowjenje bloka spytać"
+
+#: build/editor/index.js:11
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: build/block-library/index.js:8
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Wobsah…"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Do wotkaza konwertować"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Try again"
+msgstr "Hišće raz spytać"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Editorowe pokiwy"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "Blok (wubrany)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "Dokument (wubrany)"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d słowo"
+msgstr[1] "%d słowje"
+msgstr[2] "%d słowa"
+msgstr[3] "%d słowow"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar"
+msgstr "Hornja symbolowa lajsta"
+
+#: build/block-editor/index.js:49
+msgid "Link Rel"
+msgstr "Wotkazowy poćah"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "CSS-klasa wotkaza"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Wubjerće wobsah a składujće jón za sebje a druhich sobuskutkowarjow za zasowužiwanje na swojim sydle. Aktualizujće blok a změny so wšudźe nałoža, hdźež wón wužiwa."
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Zo byšće přinoškowy wobraz wobdźěłował, trjebaće prawo, zo byšće medije nahrał."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "Zo byšće tutón blok wobdźěłował, trjebaće prawo medije nahrać."
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(wubrany blok)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "Blokowe nastroje"
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "Trajny wotkaz"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "Tutón wobraz ma prózdny atribut alt"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Tutón wobraz ma prózdny atribut alt; jeho datajowe mjeno je %s"
+
+#: lib/widgets.php:205
+msgid "Block area reverted to draft."
+msgstr "Blokowy wobłuk je so do naćiska přetworił."
+
+#: lib/widgets.php:204
+msgid "Block area published privately."
+msgstr "Blokowy wobłuk je so priwatnje wozjewił."
+
+#: lib/widgets.php:199
+msgid "No block areas found in Trash."
+msgstr "Žane blokowe wobłuki w papjerniku namakane."
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "Nowy přidać"
+
+#: lib/widgets.php:190
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Blokowy wobłuk"
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Wotkaz je so zasadźił."
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Warnowanje: Wotkaz je so zasadźił, ma wšak snano zmylki. Prošu testujće jón."
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s blok je so zasadźił."
+msgstr[1] "%s blokaj stej so zasadźiłoj."
+msgstr[2] "%s bloki su so zasadźili."
+msgstr[3] "%s blokow je so zasadźiło."
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "Miniaturka"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "Połna wulkosć"
+
+#: build/block-editor/index.js:49
+msgid "Link selected."
+msgstr "Wotkaz je wubrany."
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "Započńće tekst abo HTML pisać"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "Pisajće tekst abo HTML"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "Blokowy symbol"
+
+#: build/block-editor/index.js:49
+msgid "Align text right"
+msgstr "Tekst naprawo wusměrić"
+
+#: build/block-editor/index.js:49
+msgid "Align text center"
+msgstr "Tekst centrować"
+
+#: build/block-editor/index.js:49
+msgid "Align text left"
+msgstr "Tekst nalěwo wusměrić"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "Započńće blok pisać abo wubrać"
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Prózdny blok; pisajće nakósnu smužku, zo byšće blok wubrał"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "Wotstawkowy blok"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "Łamanje strony"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "Na mobilnym graće staplować"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Ćehńće wobrazy, nahrajće nowe abo wubjerće dataje ze swojeje biblioteki."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Přispomnjenka"
+
+#: build/block-editor/index.js:49
+msgctxt "blocks"
+msgid "Most used"
+msgstr "Najhusćišo wužite"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Rozrisajće"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Jara wulki"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "Wulki"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Srěnjowulki"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "Mały"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normalny"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Zapodawanska tasta"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importować"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "Sćehnjenje"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "Zasadźić"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Embed"
+msgstr "Zasadźić"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klasisiki editor"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "Wulki"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Rounded"
+msgstr "Skruženy"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Wotkaz je so wobdźěłał."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Wotkaz je so wotstronił."
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "medije"
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "Přepruwujće swoje nastajenja před wozjewjenjom."
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "Přehlad so płodźi…"
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "Wobraz wobdźěłać abo aktualizować"
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "Medije"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "K najblišej symbolowej lajsće nawigować."
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "Dokumentowe nastroje"
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "Dokumentowe a blokowe nastroje"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Zasadźće widejo ze swojeje medijoweje biblioteki abo nahrajće nowe."
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Zasadźće poeziju. Wužiwajće wosebite wotstupowe formaty. Abo citujće teksty spěwow."
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "Přidajće mjezeru mjez blokami a přiměrće jeje wysokosć."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Zasadźće přidatne swójske elementy ze skrótšenym kodom WordPress."
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Dźělće swoje ideje abo wotrězki přez wodorune dźělatko."
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Wuzběhńće citowany tekst. „Při citowanju druhich, citujemy sami sebje.“ - Julio Cortázar"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Wuzběhńće citat w swojim teksće."
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "Započńće swoju stawiznu přez wutworjenje bloka."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "Dźělće swój wobsah a předstajće jón na wjacorych stronach."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Stajće medije a słowa jedne pódla druhich za spodobniše wuhotowanje."
+
+#: build/block-library/index.js:8
+msgid "Media & Text settings"
+msgstr "Medijowe a tekstowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "Naličenje abo čisłowanu lisćinu wutworić."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "Lisćinu najnowšich komentarow pokazać."
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "Zasadźće wobraz, zo byšće wizuelny akcent stajił."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Přidajće swójski HTML-kod a pokazajće přehlad, mjaztym zo wobdźěłujeće."
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Zawjedźće nowe wotrězki a organizujće wobsah, zo byšće wopytowarjam (a pytawam) pomhał, strukturu swojeho wobsaha rozumić."
+
+#: build/block-library/index.js:8
+msgid "Display multiple images in a rich gallery."
+msgstr "Pokazajće wjacore wobrazy w spodobnej galeriji."
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "Přidajće wotkaz na sćahujomnu dataju."
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Zasadźće wideja, wobrazy, ćikot, awdio a hinaši wobsah z eksternych žórłow."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "Wulkosć mjeńšim gratam přiměrić"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Tute zasadźenje snano wulkosćowy poměr njewobchowuje, hdyž so wulkosć wokna wobhladowaka změni. "
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Tute zasadźenje wulkosćowy poměr wobchowa, hdyž so wulkosć wokna wobhladowaka změni."
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Zasadźće widejo Animoto."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "Zasadźće widejo Vimeo."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "Zasadźće wobsah Flickr."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Zsadźće wobsah Spotify."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "Zasadźće wobsah SoundCloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "Přinošk WordPress zasadźić."
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "Zasadźće přinošk Instagram."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "Zasadźće přinošk Facebook."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "Zasadźće widejo WordPress.tv."
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "Zasadźće widejo VideoPress."
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "Zasadźće přinošk Tumblr."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "Zasadźće TED-widejo."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "Zasadźće wobsah Speaker Deck."
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "Zasadźće widejo YouTube."
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "Zasadźće wobsah SmugMug."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "Zasadźće wobsah Slideshare."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Zasadźće wobsah Scribd."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "Zasadźće wobsah Screencast."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "Zasadźće wobsah ReverbNation."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Zasadźće nitku Reddit."
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "Zasadźće wobsah Polldaddy."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Zasadźće wobsah Mixcloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "Zasadźće ćikot."
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Zasadźće wobsah Meetup.com."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Zasadźće wobsah Kickstarter."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Zasadźće wobsah Issuu."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Zasadźće wobsah Imgur."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Zasadźće wobsah Hulu."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Zasadźće widejo Dailymotion."
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "Zasadźće wobsah CollegeHumor."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Zasadźće wobsah Cloudup."
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Přidajće wobraz abo widejo z tekstowym naworštowanjom - wulkotne za hłowy."
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Pokazajće kodowe šlipki, kotrež waše wotstupy a tabulatory respektuja."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "Klasiski editor WordPress wužiwać."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "Lisćinu wšěch kategorijow pokazać."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "Zasadźće jednory awdiowothrawak."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "Napohlad"
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Nalěwo doprawa"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "Jako wustejacy składować"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "adresa %s"
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "URL zasadźić abo zapodać "
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "Z URL zasadźić"
+
+#: build/block-library/index.js:8
+msgid "Block Navigator"
+msgstr "Blokowy nawigator"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "Stile"
+
+#: build/edit-post/index.js:6
+msgid "Advanced panels"
+msgstr "Rozšěrjene wobwody"
+
+#: build/edit-post/index.js:6
+msgid "Document panels"
+msgstr "Dokumentowe wobwody"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "Powšitkowne"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "Blokowu nawigaciju wočinić."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "Bjez wotwjedźenja dźěłać"
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "Fokus přeco na jenož jedyn blok stajić"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "Přistup na wšě blokowe a dokumentow nastroje z jednoho městna"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "Nastajenja"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(wočinja w nowym rajtarku)"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "Mjeńšiny"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "Hodźiny"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "Čas"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "Lěto"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "Dźeń"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "decembra"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "nowembra"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "oktobra"
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "septembra"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "awgusta"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "julija"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "junija"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "meje"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "apryla"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "měrca"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "februara"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "januara"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "Měsac"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "Datum"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Dźiće k prěnjemu (start) abo poslednjemu (kónc) dźeń tydźenja."
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Start/Kónc"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Start a kónc"
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Wo jedyn měsac wróćo (Bild &uarr;) abo doprědka (Bild &darr;) přesunyć"
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "Bild &uarr;/Bild &darr;"
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Bild &uarr; a Bild &darr;"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Wo jedyn tydźeń wróćo (horje) abo doprědka (dele) přesunyć."
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "Šipkaj &uarr; a &darr;"
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Wo jedyn dźeń wroćo (nalěwo) abo doprědka (naprawo) přesunyć."
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "Šipkaj &larr; a &rarr;"
+
+#: build/components/index.js:6
+msgid "Select the date in focus."
+msgstr "Datum we fokusu wubrać."
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "Z tastaturu nawigować"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "Klikńće na požadany dźeń, zo byšće jón wubrał."
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Klikńće na šipk &rarr; abo &larr;, zo byšće druhe měsacy w zańdźenosći abo přichodźe wubrał."
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "Klikńće, zo byšće wubrał"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "Pomoc protyki"
+
+#: build/components/index.js:6
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Wužiwajće swoje šipkowe tasty, zo byšće bazowu barbu změnił. Přesuńće horje, zo byšće barbu swětlišu činił, dele, zo byšće ju ćmowšu činił, nalěwo, zo byšće nasyćenje pomjeńšił a naprawo, zo byšće nasyćenje powjetšił."
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "Barbowy wotsćin wubrać"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "Barbowy format změnić"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "Barbowa hódnota w HSL"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "Barbowa hódnota w RGB"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "Heksadecimalna barbowa hódnota "
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "Modus RGB aktiwny"
+
+#: build/components/index.js:6
+msgid "Hex color mode active"
+msgstr "Heksadecimalny barbowy modus aktiwny"
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "Modus barboweho wotsćina/nasyćenja/swětłosće aktiwny"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "Pohibujće šipk nalěwo abo naprawo, zo byšće barbowy wotsćin změnił. "
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Hódnota barboweho wotsćina w stopnjach wot 0 do 359."
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Alfahódnota wot 0 (transparentny) do 1 (dospołnje opakny)."
+
+#: build/block-library/index.js:8
+msgid "Stripes"
+msgstr "Smuhi"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "Waše sydło podpěru za tutón blok njewobsahuje."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Waše sydło podpěru za blok „%s“ njewobsahuje. Móžeće tutón blok intaktny wostajić abo jón cyle wotstronić."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Waše sydło podpěru za blok „%s“ njewobsahuje. Móžeće tutón blok intaktny wostajić, jeho wobsah do swójskeho HTML-bloka konwertować abo jón cyle wotstronić. \t"
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "Medijowy wobłuk"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "Medije a tekst"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "Medije naprawo pokazać"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "Medije nalěwo pokazać"
+
+#: build/block-library/index.js:8
+msgid "Cover"
+msgstr "Krywny blok"
+
+#: build/block-library/index.js:8
+msgid "Border settings"
+msgstr "Ramikowe nastajenja"
+
+#: lib/widgets-page.php:58 lib/edit-site-page.php:78
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Medium"
+msgstr "Srěni"
+
+#: build/block-editor/index.js:49
+msgid "Paste URL or type to search"
+msgstr "URL zasadźić abo pytanski wuraz zapodać"
+
+#: build/editor/index.js:11
+msgid "Terms"
+msgstr "Zapřijeća"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "Waše dźěło so na podatym datumje a času wozjewja."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "Sće hotowy planować?"
+
+#: build/editor/index.js:11
+msgid "Always show pre-publish checks."
+msgstr "Přepruwowanja před wozjewjenjom přeco pokazać."
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "Přewzać"
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Druhi wužiwar tuchwilu tutón přinošk wobdźěłuje, štož rěka, zo njemóžeće změny přewjesć, chibazo přewozmjeće."
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s tuchwilu tutón přinošk wobdźěłuje, štož rěka, zo njemóžeće změny přewjesć, chibazo přewozmjeće."
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Druhi wužiwar ma nětko kontrolu nad wobdźěłowanjom tutoho přinoška. Žadyn strach, waše dotalne změny su so składowali."
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s ma nětko kontrolu nad wobdźěłowanjom tutoho přinoška. Žadyn strach, waše dotalne změny su so składowali."
+
+#: build/editor/index.js:11
+msgid "Avatar"
+msgstr "Awatar"
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "Tutón přinošk so hižo wobdźěłuje."
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "Něchtó druhi je tutón přinošk přewzał."
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "Tutón blok njewočakowany abo njepłaćiwy wobsah wobsahuje."
+
+#: build/block-editor/index.js:49
+msgid "Resolve Block"
+msgstr "Blok rozwjazać"
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "Do HTML konwertować"
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "Tutón blok da so jenož jedyn raz wužiwać."
+
+#: build/edit-post/index.js:6
+msgid "Exit code editor"
+msgstr "Kodowy editor skónčić"
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "Kod wobdźěłać"
+
+#: build/block-library/index.js:8
+msgid "Solid color"
+msgstr "Połna barba"
+
+#: build/block-library/index.js:8
+msgid "Main color"
+msgstr "Hłowna barba"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "Pisajće HTML-kod…"
+
+#: build/block-library/index.js:8
+msgid "Media settings"
+msgstr "Medijowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "Naworštowanje"
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "Medije zasadźić"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Zasowužiwajomny blok je so wuspěšnje importował!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Njepłaćiwa JSON-dataja  zasowužiwajomeho bloka"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Njepłaćiwa JSON-dataja"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Z JSON importować"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Grawis"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Dypk"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Koma"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Typ %d bloka změnić"
+msgstr[1] "Typ %d blokow změnić"
+msgstr[2] "Typ %d blokow změnić"
+msgstr[3] "Typ %d blokow změnić"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "Aktualny"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "Po konwertowanju"
+
+#: build/block-editor/index.js:49
+msgid "Change alignment"
+msgstr "Wusměrjenje změnić"
+
+#: build/block-editor/index.js:49
+msgid "Change text alignment"
+msgstr "Tekstowe wusměrjenje změnić"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d blok"
+msgstr[1] "%d blokaj"
+msgstr[2] "%d bloki"
+msgstr[3] "%d blokow"
+
+#: build/edit-post/index.js:6
+msgid "Forward-slash"
+msgstr "Nakósna smužka"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Žane archiwy."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Tuta dataja je prózdna."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Bohužel so tutón datajowy typ tu njepodpěruje."
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Manage all reusable blocks"
+msgstr "Wšě zasowužiwajomne bloki rjadować"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "Titul"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode"
+msgstr "Modus połneje wobrazowki"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Rjana krajina"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "Polo začinić"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "Do klasiskeho bloka konwertować"
+
+#: build/block-library/index.js:8
+msgid "Poster image"
+msgstr "Posterowy wobraz"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Tutón blok je zestarjeny. Prošu wužiwajće špaltowy blok město toho."
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "Tekstowe špalty (zestarjene)"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "Wutworić"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "Ličba linkow"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "Ličba špaltow"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Tutón blok je zestarjeny. Prošu wužiwajće wotstawkowy blok město toho."
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "Podnapismo (zestarjene)"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "citat"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "Blokowy typ po přidawanju noweho wotstawka změnić."
+
+#: build/edit-post/index.js:6
+msgid "Spotlight mode"
+msgstr "Modus spotlight"
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Znački wužiwarjam a pytawam pomhaja, po wašim sydle nawigować a waš wobsah namakać. Přidajće někotre klučowe słowa, zo byšće swój přinošk wopisał."
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "Znački přidać"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "Format „%1$s“ nałožić."
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Waša drasta přinoškowe formaty wužiwa, zo by rozdźělne družiny wobsaha wuzběhnyła, kaž wobrazy abo wideja. Nałožće přinoškowy format, zo byšće tute wosebitowy stilowe wuhotowanje widźał."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "Wužiwajće přinoškowy format"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "Za tym zasadźić"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "Před tym zasadźić"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "%1$d blok wot pozicije %2$d wo jedne městno dele přesunyć"
+msgstr[1] "%1$d blokaj wot pozicije %2$d wo jedne městno dele přesunyć"
+msgstr[2] "%1$d bloki wot pozicije %2$d wo jedne městno dele přesunyć"
+msgstr[3] "%1$d blokow wot pozicije %2$d wo jedne městno dele přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "%1$d blok wot pozicije %2$d wo jedne městno horje přesunyć"
+msgstr[1] "%1$d blokaj wot pozicije %2$d wo jedne městno horje přesunyć"
+msgstr[2] "%1$d bloki wot pozicije %2$d wo jedne městno horje přesunyć"
+msgstr[3] "%1$d blokow wot pozicije %2$d wo jedne městno horje přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d right to position %3$d"
+msgstr "Blok typa %1$s wot pozicije %2$d do pozicije %3$d přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Blok typa %1$s wot pozicije %2$d horje do pozicije %3$d přesunyć"
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "film"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "Nowy blok před wubranymi blokami zasadźić."
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "Wubrane bloki wotstronić."
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "Wubrane bloki podwojić."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "Blokowe tastowe skrótšenki"
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "Wuběr zhašeć."
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Cyłkowny tekst při pisanju wubrać. Tłóčće znowa, zo byšće wšě bloki wubrał."
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "Wuběranske tastowe skrótšenki"
+
+#: build/edit-post/index.js:6
+msgid "Switch between visual editor and code editor."
+msgstr "Mjez wizuelnym a kodowym editorom přepinać"
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "K předchadnemu editora nawigować."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "K přichodnemu dźělej editora nawigować."
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "Bóčnicu nastajenjow pokazać abo schować."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "Waše poslednje cofnjenje wospjetować."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "Waše poslednje změny cofnyć."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "Změny składować."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "Globalne tastowe skrótšenki"
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "Wotkaz wotstronić."
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "Wubrany tekst do wotkaza konwertować."
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "Wubrany tekst podšmórnyć."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "Wubrany tekst kursiwny formatować."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "Wubrany tekst tučny formatować."
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "Tekstowe formatowanje"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "Nowy blok za wubranymi blokami zasadźić."
+
+#: build/edit-post/index.js:6
+msgid "Keyboard shortcuts"
+msgstr "Tastowe skrótšenki"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Dźakujemy so, zo Gutenberg testujeće!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Pomhajće Gutenberg testować"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Jeli chceće wjace wo tym zhonić, kak móžeće přidatne bloki tworić, abo jeli chceće při projekće sobu pomhać, wopytajće <a href=\"%s\">repozitorij GitHub</a>."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Zhromadźenstwo WordPress"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Kod je poezija"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Móžeće kóždyžkuli blok tworić, kotryž chceće, statiski abo dynamiski, dekoratiwny abo jednory. Tu je blok z wuzběhnjenym citatom:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Kóždy blok móže so tutym wusměrjenjam přiměrić. Zasadźenski blok ma je tež, a je po standardźe responsiwny:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Horjeka je galerija z jenož dwěmaj wobrazomaj. Je lóša móžnosć, zo bychu so wizuelnje spodobne wuhotowanja wutworili, bjeztoho zo byšće dyrbjał wisate elementy wužiwać. Móžeće tež galeriju lochko do jednotliwych wobrazow wróćo konwertować, hdyž blokowy přepinak wužiwaće."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Jasnje, wobraz z połnej šěrokosću móže chětro wulki być. Ale druhdy wobraz to je hódny."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Bjezbarjernosć je wažna &ndash; njezabywajće wobrazowy atribut „alt“"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Jeli nowe wusměrjenja <strong>šěroke</strong> a <strong>połnošěroke</strong> z galerijemi kombinujeće, móžeće jara spěšnje nimoměry multimedialne wuhotowanje wutworić:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Multimedialny"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Móžeće ličbu špaltow w swojich galerijach změnić, hdyž suwak w blokowym inspektorje w bóčnicy ćehnjeće."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Bloki móža wšitko być, štož trjebaće. Chceće snano decentny citat jako dźěl swojeje tekstoweje kompozicije přidać abo chceće radšo hoberski stil. Wšě tute nastajenja su w zasadźaku k dispozicji."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informacije, kotrež k žórłu citata słušeja, je separatne tekstowe polo, podobne na popisy pod wobrazami, zo by strukturu citata škitało, samo hdyž žórło wuběraće, měnjeće abo wotstronjeće. Da so kóždy čas zaso přidać."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Editor budźe so prócować, lěpše nazhonjenje při tworjenju nowych stronow a přinoškow wutworić, kotraž pisanje wobšěrnych přinoški wosnadnja, a ma „bloki“, zo by so zasadźenje wosnadniło, štož je so dotal z krótkimi kodami, swójskim HTML abo kodom njeznateho pochada sčiniło."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Wulka lěpšina blokow je, zo móžeće je na městnje wobdźěłać a jich wobsah direktnje manipulować. Město toho zo byšće pola za wobdźěłowanje wěcow kaž žórło citata abo tekst tłóčatka wužiwał, móžeće wobsah direktnje změnić. Spytajće slědowacy citat wobdźěłować:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Wizuelne wobdźěłowanje"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A <em>lisćiny</em> kaž tuta, wězo :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Wuhotowanske bloki kaž tłóčatka, rjekowobrazy, dźělatka atd."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Zasadźenja kaž YouTube, ćikoty abo druhe přinoški WordPress."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerije"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Wobrazy a wideja"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Tekst a nadpisma"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Syptajće, wotkryjeće snano wěcy, kotrež WordPressmóže hižo do wašich přinoškow zasadźić, wo kotrychž dotal njejsće wědźał. Tu je krótka lisćina wo tym, štož tuchwilu tam namakaće:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Předstajće sej, wšitko, štož WordPress móže činić, je wam spěšnje a na samsnym městnje na wužiwarskim powjerchu k dispoziciji. Njetrjebaće ničo wo HTML-značkach a klasach wědźeć abo sej komplikowanu syntaksu krótkeho koda spomjatkować. To je duch za zasadźakom  - tłóčatko <code>(+)</code>, kotrež wokoło editora widźiće -, kotryž wam zmóžnja, wšě wobsahowe bloki přehladować, kotrež su k dispoziciji, a je do wašeho přinoška zasadźić. Tykače a drasty móža so same registrować a wotewru wam wšě móžnosće za wobšěrne wobdźěłowanje a wozjewjenje."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Nastroj <em>Zasadźak</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Spytajće popis wuběrać, wotstronjeć abo wobdźěłować, nětko njetrjebaće při mylnym wuběranju wobraza abo druheho teksta kedźbliwy być, zo so prezentaciju ruinujeće."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Jeli waša drasta to podpěruje, widźiće tłóčatko „Šěroki“ na wobrazowej symbolowej lajsće. Wupruwujće to."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Wobchadźenje z wobrazami a medijemi z najwjetšej kedźbliwosću je primarne ćežišćo noweho editora. Nadźijamy so, zo maće přidawanje popisow abo pokazowanje wobrazow w połnej šěrokosći za wjele lóše a jednoriše hač do toho."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Wobraz wjace hač tysac słowow praji"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Nadpisma su tež separatne bloki, kotrež při rozrjadowanju a organizowanju wašeho wobsaha pomhaja."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... kaž tutón, kotryž je naprawo wusměrjeny."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Štož runje čitaće, je <strong>tekstowy blok</strong>, najzakładniši blok ze wšěch. Tekstowy blok maj swójske wodźenske elementy, zo by so móhł wólnje wokoło přinoška pohibować&nbsp;&hellip;"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Cil tutoho noweho editora je, přidawanje wobšěrneho wobsaha k WordPress zjednorić  a přijomne wuhotować. Tutón cyły přinošk so z <em>dźělow wobsaha</em> zestaja - podobny na LEGO-cyhelki -, kotrež móžeće pohibować a z kotrymiž móžeće interagować. Pohibujće swój kursor a pytnjeće, zo so rozdźělne bloki z wobrysami a šipkami zaswěća. Tłóčće šipki, zo byšće bloki spěšnje nowo pozicioněrował, bjeztoho zo byšće so dyrbjał bojeć, zo při kopěrowanju wěcy zhubiće."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Wo horach a ćišćerskich mašinach"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Witajće k editorej Gutenberg"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "Wjace"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Wjace"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Chceće woprawdźe tutón přinošk z plana wotstronić?"
+
+#: build/block-library/index.js:8
+msgid "Alt text (alternative text)"
+msgstr "Alt-tekst (alternatiwny tekst)"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "Zasowužiwajomny blok"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "Titul za objekt."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "Jónkróćny identifikator za objekt."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "Zasowužiwajomny blok bjez titula"
+
+#: build/components/index.js:6
+msgid "Small"
+msgstr "Mały"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "Zasowužiwajomny"
+
+#: build/editor/index.js:11
+msgid "Remove from Reusable blocks"
+msgstr "Ze zasowužiwajomnych blokow wotstronić"
+
+#: build/editor/index.js:11
+msgid "Add to Reusable blocks"
+msgstr "Zasowužiwajomnym blokam přidać"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "Jako HTML wobchować"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "URL wobdźěłać"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Color settings"
+msgstr "Barbowe nastajenja"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Wotmołwa płaćiwa JSON-wotmołwa njeje."
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "Editor: Wozjewić"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "Němy"
+
+#: build/block-library/index.js:8
+msgid "Video settings"
+msgstr "Widejonastajenja"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "najnowše komentary"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "Najnowše komentary"
+
+#: build/block-library/index.js:8
+msgid "Display avatar"
+msgstr "Awatar pokazać"
+
+#: build/block-library/index.js:8
+msgid "Latest comments settings"
+msgstr "Nastajenja za najnowše komentary"
+
+#: build/block-library/index.js:8
+msgid "Number of comments"
+msgstr "Ličba komentarow"
+
+#: build/block-library/index.js:8
+msgid "Background opacity"
+msgstr "Pozadkowa opacita"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "Awtomatisce"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "Do toho začitać"
+
+#: build/block-library/index.js:8
+msgid "Audio settings"
+msgstr "Awdionastajenja"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "Měsačny archiw wašich přinoškow pokazać."
+
+#: build/block-library/index.js:8
+msgid "Archives settings"
+msgstr "Archiwowe nastajenja"
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "Podpěra"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Žane komentary."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s pola %2$s"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Přinošk wubrać"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Tydźeń wubrać"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Dźeń wubrać"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Měsac wubrać"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Lěto wubrać"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "Archiwy"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "Jara ćmowošěry"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "Cyanomódrojta šěr"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "Jara swětła šěr"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "Žiwa cyanomódrina"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "Blědocyanowa módrina"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "Žiwa cyanozeleń"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "Swětła cyanozeleń"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "Jaskrawa žiwa jantaržółć"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "Jaskrawa žiwa oranža"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "Žiwa čerwjeń"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "Blědoróžowy"
+
+#: build/format-library/index.js:1
+msgid "Inline image"
+msgstr "Wobraz inline"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "K dispoziciji stejace blokowe typy"
+
+#: build/block-editor/index.js:49
+msgid "Transform to"
+msgstr "Přetworić do"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "Blok wotstronić"
+msgstr[1] "Blokaj wotstronić"
+msgstr[2] "Bloki wotstronić"
+msgstr[3] "Bloki wotstronić"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "Wozjewjenske polo wočinić"
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "Dypki"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "Šěroka linija"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "Wulki"
+
+#: build/block-library/index.js:8
+msgid "Show download button"
+msgstr "Sćehnjenske tłóčatko pokazać"
+
+#: build/block-library/index.js:8
+msgid "Download button settings"
+msgstr "Nastajenja sćehnjenskeho tłóčatka"
+
+#: build/block-library/index.js:8
+msgid "Link to"
+msgstr "Wotkaz na"
+
+#: build/block-library/index.js:8
+msgid "Text link settings"
+msgstr "Nastajenja tekstoweho wotkaza"
+
+#: build/block-library/index.js:8
+msgid "download"
+msgstr "sćahnyć"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "dokument"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "URL kopěrować"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "Pisajće datajowe mjeno…"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Dataja"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "Jednotliwa špalta znutřka špaltoweho bloka."
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "Špalta"
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "Kontura"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "Sekla"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "Awtomatisce wothrać"
+
+#: build/block-library/index.js:8
+msgid "Playback controls"
+msgstr "Wothrawanske elementy"
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "Dialog začinić"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Bohužel tutón datajowy typ z wěstotnych přičinow dowoleny njeje."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Pokiwy znjemóžnić"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Sym zrozumił"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Přichodny pokiw pokazać"
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Hdyž sće hotowy, zapodajće swoje dźěło za přepruwowanje a redaktor móže jo za was schwalić."
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "Sće hotowy, za přepruwowanje zapodać?"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "Wobraz wotstronić"
+
+#: lib/class-wp-rest-menu-items-controller.php:399
+msgid "Invalid term ID."
+msgstr "Njepłaćiwy zapřijećowy ID."
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ID za nadrjadowany element objekta."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Zmylk při nahrawanju dataje %s do medijoweje biblioteki."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Dataja maksimalnu nahraćowu wulkosć za tute sydło překročuje."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "Awtomatisce składowanu wersiju pokazać"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Je awtomatisce składowana wersija tutoho přinoška, kotrež je nowše hač wersija deleka."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "Składuje so awtomatisce"
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "Zapodajće tu URL…"
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "K symbolowej lajsće připjeć"
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "Wot symboloweje lajsty wotpjeć"
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Zapodajće tabelu — zo byšće diagramy a daty dźělił."
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "Tabelowe cele z krutej šěrokosću"
+
+#: build/block-library/index.js:8
+msgid "Table settings"
+msgstr "Tabelowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Přidajće tekst, kotryž waše wotstupy a tabulatory respektuje a tež stilowe wuhotowanje dowoluje."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "Lisćinu najnowšich přinoškow pokazać."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Přidajće blok, kotryž wobsah pokazuje, kotryž je so z druhich sydłow wzał, kaž Twitter, Instagram abo YouTube."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Přidajće blok, kotryž wobsah we wjacorych špaltach pokazuje a přidajće potom někajkežkuli wobsahowe bloki."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Zmylk při čitanju bloka: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Njeznaty zmylk"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Zasadźenski wobdźěłak"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "%s wotstronić"
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "Trajny wotkaz kopěrować"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "Trajny wotkaz je so kopěrował"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "Wysokosć w pikselach"
+
+#: build/block-library/index.js:8
+msgid "Spacer settings"
+msgstr "Wotstupowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "Wotstup"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "Přepinajće, zo byšće wulki inicial pokazał."
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "Wulki spočatny pismik pokazać."
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "Mjeno:"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s z %3$s)"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "Zapisk wotstronić"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "Barbowy kod: %s"
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "K wubranemu blokej přeńć"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "Planować…"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "Přinoškowy trajny wotkaz wobdźěłać"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "Blokowe nastajenja pokazać"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "Blokowe nastajenja schować"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "Blokowe nastajenja začinjene"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "Tykač začinić"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "Editorowe nastajenja"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Link settings"
+msgstr "Wotkazowe nastajenja"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Wotkaz wotstronić"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "Łamanje strony"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "Čisłowanje stronow"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "přichodna strona"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "Wobrazowa wulkosć"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "Wysokosć"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "Šěrokosć"
+
+#: build/block-editor/index.js:49
+msgid "Image dimensions"
+msgstr "Wobrazowe wotměry"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "Miniaturki so njepřitřihuja."
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "Miniaturki so za wusměrjenje přitřihuja."
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "Medijowa biblioteka"
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "Rozšěrjene"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "Zapisk přidać"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "Předłohu wróćo stajić"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "Tak wostajić, kaž je"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Wobsah wašeho přinoška předłoze njewotpowěduje, kotraž je so wašemu přinoškowemu typej připokazał."
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Hdyž předłohu wróćo stajiće, móže so wobsah zhubić, chceće pokročować?"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "Dokumentowa statistika"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "je nětko planowane. Wozjewi so"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "Planowane"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "Planuje so…"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "Kodowy editor je so wubrał"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "Wizuelny editor je so wubrał"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "Tykače"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "Swójska wulkosć"
+
+#: build/blocks/index.js:2
+msgid "Layout elements"
+msgstr "Wuhotowanske elementy"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s wotstronjeny"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "%s přidaty"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Pokazajće přehlad"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "Blok je so zhašał."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "Blok je so zaktualizował."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "Blok je so wutworił."
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "Přesunjenje do papjernika je so nimokuliło"
+
+#: build/editor/index.js:11
+msgid "Updating failed."
+msgstr "Aktualizowanje je so nimokuliło."
+
+#: build/editor/index.js:11
+msgid "Scheduling failed."
+msgstr "Planowanje je so nimokuliło."
+
+#: build/editor/index.js:11
+msgid "Publishing failed."
+msgstr "Wozjewjenje je so nimokuliło."
+
+#: build/edit-post/index.js:6
+msgid "View post"
+msgstr "Přinošk pokazać"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Maće njeskładowane změny. Jeli pokročujeće, so wone zhubja."
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "Dokumentowy rozrjad"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "Wotstawki"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "Nadpisma"
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "Słowa"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "Wobsahowa struktura"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "Zjawny"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Škita so z hesłom, kotrež wuběraće. Jenož ći ludźo, kotřiž hesło maja, móža tutón přinošk widźeć."
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "Přez hesło škitany"
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "Jenož za websydłowych administratorow a redaktorow widźomny."
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "Priwatny"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "Za kóždeho widźomny."
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "Widźomnosć přinoška"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "Chceće tutón přinošk nětko jako priwatny wozjewić?"
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "Wěste hesło wužiwać"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "Hesło wutworić"
+
+#: build/editor/index.js:11
+msgid "Move to Trash"
+msgstr "Do papjernika přesunyć"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "Nadrjadowane zapřijeće"
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "Nadrjadowana kategorija"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "Nowe zapřijeće přidać"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "Nowu kategoriju přidać"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "Zapřijeće"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "Značka"
+
+#: build/editor/index.js:11
+msgid "Add new Term"
+msgstr "Nowe zapřijeće přidać"
+
+#: build/editor/index.js:11
+msgid "Add new tag"
+msgstr "Nowu značku přidać"
+
+#: build/editor/index.js:11
+msgid "Switch to draft"
+msgstr "K naćiskej přeńć"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Nochceće woprawdźe tutón přinošk wozjewić?"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "Hnydom"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "Naćisk składować"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "Składuje so"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "Wozjewić:"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "Widźomnosć:"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "Chceće woprawdźe wozjewić?"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "Wotkaz kopěrować"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "Što dale?"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "je nětko wozjewjene."
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "Wozjewjeny"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "Planować"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Aktualizować"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "Za přepruwowanje zapodać"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "Aktualizuje so…"
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "Wozjewja so…"
+
+#: build/editor/index.js:11
+msgid "Allow pingbacks & trackbacks"
+msgstr "Pingbacki a trackbacki dowolić"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "Trajny wotkaz:"
+
+#: build/editor/index.js:11
+msgid "Pending review"
+msgstr "Wustejace přepruwowanje"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d wersija"
+msgstr[1] "%d wersiji"
+msgstr[2] "%d wersije"
+msgstr[3] "%d wersijow"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "Namjet:"
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "Přinoškowy format"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "Bjesada"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "Status"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "Standard"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "Krótka zdźělenka"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "Přinoškowy wobraz"
+
+#: build/editor/index.js:11
+msgid "Set featured image"
+msgstr "Přinoškowy wobraz nastajić"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "Zhońće wjace wo manuelnych wućahach"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "Wućah pisać (na přeće)"
+
+#: build/editor/index.js:11
+msgid "Allow comments"
+msgstr "Komentary dowolić"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "Předłoha:"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "žana nadrjadowana"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "žadyn titul"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "Porjad"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "Žane bloki namakane."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d wuslědk namakany."
+msgstr[1] "%d wuslědkaj namakanej."
+msgstr[2] "%d wuslědki namakane."
+msgstr[3] "%d wuslědkow namakane."
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "Składowany"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Zasadźenja"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "Bloki"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "Za blokom pytać"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "Blok přidać"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "Kopěrowanski zmylk"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "Přinoškowy tekst kopěrować"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "Wobnowjenje spytać"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "Editor je na njewočakowany zmylk storčił."
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "Cofnyć"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "Wospjetować"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Wjacore nadpisma H1 radźomne njejsu)"
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Waša drasta snano hižo H1 za přinoškowy titul wužiwa)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(Wopačna nadpismowa runina)"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(Prózdne nadpismo)"
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Chceće woprawdźe tutón zasowužiwajomny blok zhašeć?\n"
+"\n"
+"Wotstroni so na přeco ze wšěch přinoškow a stronow, kotrež jón wužiwaja."
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "Do normalneho bloka konwertować"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "Dalše nastajenja"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "Wizuelnje wobdźěłać"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "Podwojić"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Bloki njemóža so dele přesunyć, dokelž su hižo deleka"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Bloki njemóža so horje přesunyć, dokelž su hižo horjeka"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved right"
+msgstr "Blok typa %1$s je na spočatku wobsaha a njeda so doprawa přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved right"
+msgstr "Blok typa %1$s je na kóncu wobsaha a njeda so doprawa přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Blok typa %s je jenički blok a njeda so přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "Dele přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "Horje přesunyć"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "Jako HTML wobdźěłać"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "Do blokow konwertować"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "Blok: %s"
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Tutón blok je na zmylk storčił a njeda so sej w přehledźe wobhladać."
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "Žadyn blok wubrany."
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "Přetworić do:"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "Wotstronić"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "Original pytać"
+
+#: build/edit-post/index.js:6
+msgid "Copy all content"
+msgstr "Wšón wobsah kopěrować"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "Kopěrowany!"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Přidatne nastajenja su nětko w bóčnicy blokowych nastajenjow editora k dispoziciji."
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "Widźomnosć"
+
+#: build/edit-post/index.js:6
+msgid "Status & visibility"
+msgstr "Status a widźomnosć"
+
+#: build/edit-post/index.js:6
+msgid "Page attributes"
+msgstr "Atributy strony"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "Blok"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "Dokument"
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "Nastajenja začinić"
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "Editorowy wobsah"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "Nastroje"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "Editor"
+
+#: build/edit-post/index.js:6
+msgid "Code editor"
+msgstr "Kodowy editor"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor"
+msgstr "Wizuelny editor"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "Hornja lajsta editora"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "Nastajenja"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "Wróćo stajić"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "Tutu pokazku zaćisnyć"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "Zapisk je wotstronjeny."
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "Zapisk je přidaty."
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "Dataje za nahraće pušćić"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Njeznaty zmylk je nastał."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "Žane wuslědki."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d wuslědk namakany, wužiwajće šipk &uarr; a &darr;, zo byšće nawigował."
+msgstr[1] "%d wuslědkaj namakanej, wužiwajće šipk &uarr; a &darr;, zo byšće nawigował."
+msgstr[2] "%d wuslědki namakane, wužiwajće šipk &uarr; a &darr;, zo byšće nawigował."
+msgstr[3] "%d wuslědkow namakane, wužiwajće šipk &uarr; a &darr;, zo byšće nawigował."
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(žadyn titul)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "Wotpósłać"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "Začinić"
+
+#: build/block-editor/index.js:49
+msgid "Insert link"
+msgstr "Wotkaz zasadźić"
+
+#: build/block-editor/index.js:49
+msgid "Edit link"
+msgstr "Wotkaz wobdźěłać"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "Wotkaz"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Přešmórnyć"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Kursiwny"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Tučny"
+
+#: build/block-editor/index.js:49
+msgid "Remove link"
+msgstr "Wotkaz wotstronić"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "Ličba zapiskow"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "Wšě"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "Kategorija"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z &rarr; A"
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A &rarr; Z"
+
+#: build/components/index.js:6
+msgid "Oldest to newest"
+msgstr "Najstarše do najnowšich"
+
+#: build/components/index.js:6
+msgid "Newest to oldest"
+msgstr "Najnowše do najstaršich"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "Sortěrować po"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "Wubrać"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Medije wubrać abo nahrać"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "Widejo"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "Pisajće…"
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "poezija"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "Wjerš"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "Nowa špalta"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "Špaltu zhašeć"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "Špaltu naprawo přidać"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "Špaltu nalěwo přidać"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "Linku zhašeć"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "Linku deleka přidać"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "Linku horjeka přidać"
+
+#: build/block-library/index.js:8
+msgid "Edit table"
+msgstr "Tabelu wobdźěłać"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "Tabela"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "Podnadpismo pisać…"
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "Pisajće tu skrótšeny kod…"
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "Skrótšeny kod"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "dźělak"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "wodoruna linija"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "dźělatko"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "Citat"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "Pisajće žórłowe podaće…"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "Citat pisać…"
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "Zasunjeny citat"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "Předformatowany tekst pisać…"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "Předformatowany"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "tekst"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "Wotstawk"
+
+#: build/components/index.js:6
+msgid "Font size"
+msgstr "Pismowa wulkosć"
+
+#: build/block-library/index.js:8
+msgid "Drop cap"
+msgstr "Inicial"
+
+#: build/block-library/index.js:8
+msgid "Text settings"
+msgstr "Tekstowe nastajenja"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "Dale čitać"
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "Lisćinu pisać…"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "čisłowana lisćina"
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "zrjadowana lisćina"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "naličenje"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "Lisćinowy zapisk zasunyć"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "Lisćinowy zapisk wusunyć"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "Do zrjadowaneje lisćiny konwertować"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "Do njerjadowaneje lisćiny konwertować"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "Lisćina"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "najnowše přinoški"
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "Žane přinoški namakane."
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "Najnowše přinoški"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "Přinoškowy datum pokazać"
+
+#: build/block-library/index.js:8
+msgid "Grid view"
+msgstr "Lěsyčny napohlad"
+
+#: build/block-library/index.js:8
+msgid "List view"
+msgstr "Lisćinowy napohlad"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "foto"
+
+#: build/block-library/index.js:8
+msgid "Image settings"
+msgstr "Wobrazowe nastajenja"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "Wobraz"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "Přehlad"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "zasadźić"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "Swójski HTML"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "podtitul"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "titul"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "Nadpismo"
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "Pisajće nadpismo…"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "Nadpismo %d"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "Rownina"
+
+#: build/block-library/index.js:8
+msgid "Heading settings"
+msgstr "Nadpismowe nastajenja"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "fota"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "wobrazy"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "Žane"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "Medijowa dataja"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "Strona přiwěškow"
+
+#: build/block-library/index.js:8
+msgid "Crop images"
+msgstr "Wobrazy přitřihać"
+
+#: build/block-library/index.js:8
+msgid "Gallery settings"
+msgstr "Galerijowe nastajenja"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "Galerija"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "Klasiski editor"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "widejo"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "awdio"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "hudźba"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "wobraz"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "přinošk"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "Zasadźeny wobsah z %s"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "Zapodajće URL, zo byšće jón tu zasadźił…"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "Zasadźuje so…"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "Pisajće titul…"
+
+#: build/block-library/index.js:8
+msgid "Fixed background"
+msgstr "Kruty pozadk"
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "Wobraz wobdźěłać"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "Špalty"
+
+#: gutenberg.php:87
+msgid "Experiments"
+msgstr "Eksperimenty"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "Kod"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "Kod pisać…"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "Kategorije"
+
+#: build/block-library/index.js:8
+msgid "Show hierarchy"
+msgstr "Hierarchiju pokazać"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "Ličbu přinoškow pokazać"
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "Jako wuběranski meni pokazać"
+
+#: build/block-library/index.js:8
+msgid "Categories settings"
+msgstr "Nastajenja kategorijow"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "Tekst přidać…"
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "Tłóčatko"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "Nałožić"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "Tekstowa barba"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "Pozadkowa barba"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "Blok je so zhašał abo njeje k dispoziciji."
+
+#: build/blocks/index.js:2
+msgid "Reusable blocks"
+msgstr "Zasowužiwajomne bloki"
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "Přetorhnyć"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "Wobdźěłać"
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "Popis pisać…"
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "URL wužiwać"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "Awdio"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "Nahrać"
+
+#: build/block-editor/index.js:49
+msgid "Additional CSS class(es)"
+msgstr "Přidatne CSS-klasy"
+
+#: build/block-editor/index.js:49
+msgid "HTML anchor"
+msgstr "HTML-kótwička"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Tuta barbowa kombinacija da so snano za ludźi ćežko čitać. Spytajće swětlišu pozadkowu barbu a/abo ćmowšu tekstowu barbu."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Tuta barbowa kombinacija da so snano za ludźi ćežko čitać. Spytajće ćmowšu pozadkowu barbu a/abo swětlišu tekstowu barbu. "
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "Zhašeć"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "Swójski barbowy wuběrak"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "Barba: %s"
+
+#: build/block-editor/index.js:49
+msgid "Full width"
+msgstr "Połna šěrokosć"
+
+#: build/block-editor/index.js:49
+msgid "Wide width"
+msgstr "Wulka šěrokosć"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Asistenty"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formatowanje"
+
+#: build/blocks/index.js:2
+msgid "Common blocks"
+msgstr "Powšitkowne bloki"
+
+#: build/block-editor/index.js:49
+msgid "Align right"
+msgstr "Naprawo wusměrić"
+
+#: build/block-editor/index.js:49
+msgid "Align center"
+msgstr "Centrować"
+
+#: build/block-editor/index.js:49
+msgid "Align left"
+msgstr "Nalěwo wusměrić"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Čišćenje wot lěta 1440. To je wuwiwanski tykač za nowy blokowy editor w jadrje."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "Titul přidać"
+
+#: gutenberg.php:116
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Wuwiwanski modus Gutenberg sej wutworjenje datajow wužaduje. Wuwjedźće <code>npm install</code>, zo byšće wotwisnosće instalował, <code>npm run build</code>, zo byšće dataje wutworił abo <code>npm run dev</code>, zo byšće dataje wutworił a sej změny wobhladał. Čitajće dataju <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">Přinošować (jendź.)</a> za dalše informacije."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Team Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "Awtor"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "Titulna forma"
+
+#: build/core-data/index.js:1
+msgid "Comment"
+msgstr "Komentar"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "Diskusija"
+
+#: build/edit-post/index.js:6
+msgid "Custom fields"
+msgstr "Swójske pola"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "Wućah"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "Wozjewić"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "Metadaty"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "Składować"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "před %s"
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "Mjeno blokoweho stila dyrbi znamješkowy rjećazk być."
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:103
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg sej WordPress %s abo nowši wužaduje, zo by porjadnje fungował. Prošu aktualizujće WordPress, prjedy hač Gutenberg aktiwizujeće."
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(Bjez titula)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Kategoriju wubrać"

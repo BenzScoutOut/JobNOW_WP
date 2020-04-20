@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-16 17:16:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "Door het aantal kolommen te wijzigen, wordt je opmaak gereset en kan content verwijderd worden."
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "Een kolom die in een indelingsrasterblok wordt gebruikt."
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Snow Patrol</strong>"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "Blokken uitlijnen in een algemeen raster, met ondersteuning voor responsieve breekpunten."
+
+#: index.js:6
+msgid "Huge"
+msgstr "Groot"
+
+#: index.js:6
+msgid "Large"
+msgstr "Groot"
+
+#: index.js:6
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: index.js:6
+msgid "Small"
+msgstr "Klein"
+
+#: index.js:6
+msgid "No padding"
+msgstr "Geen opvulling"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "Kies de opvulling voor deze kolom:"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "Kolomopvulling"
+
+#: index.js:6
+msgid "Background"
+msgstr "Achtergrond"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "Kolomkleur"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "Denk eraan dat je bericht het breekpunt van de browser toont, niet dat wat nu is geselecteerd."
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "Responsieve breekpunten"
+
+#: index.js:6
+msgid "Layout"
+msgstr "Lay-out"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "Selecteer een indeling om mee te beginnen:"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "Kies indeling"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "Weergave van desktopindeling"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "Weergave van tabletindeling"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "Weergave van mobiele indeling"
+
+#: index.js:6
+msgid "Span"
+msgstr "Spanwijdte"
+
+#: index.js:6
+msgid "Offset"
+msgstr "Tussenruimte"
+
+#: index.js:6
+msgid "Column"
+msgstr "Kolom"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "Desktop"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 kolommen"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 kolommen"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2 kolommen"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1 kolom"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "Lijn elk blok uit met een algemeen raster"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "Indelingsraster"

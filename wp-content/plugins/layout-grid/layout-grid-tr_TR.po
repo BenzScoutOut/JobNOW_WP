@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in Turkish
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-16 17:16:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "Sütun sayısını değiştirmek, düzeninizi sıfırlar ve içeriği kaldırabilir."
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "Yerleşim Planı Grid bloğu içinde kullanılan bir sütun."
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Kar Devriyesi</strong>"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "Blokları, duyarlı kesme noktaları desteğiyle global bir gride hizalayın."
+
+#: index.js:6
+msgid "Huge"
+msgstr "Kocaman"
+
+#: index.js:6
+msgid "Large"
+msgstr "Büyük"
+
+#: index.js:6
+msgid "Medium"
+msgstr "Orta"
+
+#: index.js:6
+msgid "Small"
+msgstr "Küçük"
+
+#: index.js:6
+msgid "No padding"
+msgstr "Dolgu Yok"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "Bu sütun için dolgu seçin:"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "Sütun Dolgusu"
+
+#: index.js:6
+msgid "Background"
+msgstr "Arka plan"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "Sütun Rengi"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "Yayınınızın önizlemesini görüntülerken, seçili olan tarayıcının değil sizin kullanmakta olduğunuz tarayıcının kesme noktalarını göreceğinizi unutmayın."
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "Duyarlı Kesme Noktaları"
+
+#: index.js:6
+msgid "Layout"
+msgstr "Yerleştirme Planı"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "Yazmaya başlamak için bir yerleştirme planı seçin:"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "Yerleştirme Planı Seç"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "Masaüstü planı gösteriliyor"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "Tablet planı gösteriliyor"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "Mobil telefon planı gösteriliyor"
+
+#: index.js:6
+msgid "Span"
+msgstr "Uzunluk"
+
+#: index.js:6
+msgid "Offset"
+msgstr "Denkleştirme"
+
+#: index.js:6
+msgid "Column"
+msgstr "Sütun"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "Mobil"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "Masaüstü"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 sütun"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 sütun"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2 sütun"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1 sütun"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Otomatik"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "Tüm blokların global gride hizalanmasına izin ver"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "Yerleşim Planı Kılavuzu"

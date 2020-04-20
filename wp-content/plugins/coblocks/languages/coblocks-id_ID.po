@@ -1,0 +1,3319 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:24:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "Rasio aspek 16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "Rasio aspek 4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Aktifkan styling dengan warna gradien."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Gaya gradien"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Aktifkan styling dengan warna kustom."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Pemilih warna kustom"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Aktifkan pengaturan melalui penyunting."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Pengaturan warna"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Aktifkan kontrol tipografi level blok."
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Kontrol tipografi"
+
+#: dist/coblocks.js:58
+msgid "General"
+msgstr "Umum"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Pengaturan editor"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Pengaturan digunakan untuk menonaktifkan atau mengaktifkan kontrol gradien dan preset melalui situs."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Pengaturan digunakan untuk menonaktifkan atau mengaktifkan kontrol warna kustom melalui situs."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Pengaturan digunakan untuk menonaktifkan atau mengaktifkan kontrol semua warna melalui situs."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Pengaturan digunakan untuk menonaktifkan atau mengaktifkan kontrol tipografi melalui situs."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Lokasi..."
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Waktu..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Tulis keterangan acara..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Tulis judul acara..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Tahun..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Bulan..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Hari..."
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Satu acara dalam blok acara."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Item Acara"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Tampilkan acara dari periode tersebut (maks. 100 acara)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Acara per halaman"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Toggle ke tautan kalender umum."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Menampilkan kalender umum."
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Masukkan URL di sini..."
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Ambil semua"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "tanggal"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Tambah daftar acara atau tampilkan acara dari kalender umum."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Acara"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Terjadi error, periksa keutamaan kalender untuk memastikan kalender diatur ke umum atau coba lagi nanti."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "perangkat lunak"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "unggah"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "tingkatkan"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "trendi"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "sedang tren"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "pedas"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "kampus"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "jenjang"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "kelulusan"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "lulus"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "pendidikan"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "musim"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "musim dingin"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "beku"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "es"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "dingin"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "kirim"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "keranjang"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "teknisi"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "mengembangkan"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "lencana"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "ujaran"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "bahasa"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "mengamankan"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "aman"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "biometrik"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "pertahanan"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "keamanan"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "bersama"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "tim"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "widget"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "plugin"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "teka-teki"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "ecommerce"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "niaga"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "belanja"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "checkout"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "tunai"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "uang"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "bunga"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "taman"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "bagus"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "aroma"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "wangi"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "kelopak bunga"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "perayaan"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "pesta"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "kursi"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "santai"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "sejuk"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "akhir pekan"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "selera"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "sendok"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "garpu"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "minum"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "makanan"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "gedung pencakar langit"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "kota"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "gedung"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "korporasi"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "bisnis"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "lokasi"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "bumi"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "global"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "umum"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "dunia"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "musim panas"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "air"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "lautan"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "di luar"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "luar ruang"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "minimal"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "lanskap"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "perbukitan"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "kotak centang"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "periksa"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "peta"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "widget"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "persegi"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "kotak"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "kotak"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "gelombang"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "radio"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "kirim"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "kirim"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "komentar"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "menjawab"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "balas"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "surat"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "baca"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "os"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "sambungkan"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "permukaan"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "kantor"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "pc"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "suka"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "favorit"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "voting"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "tarif"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "cium"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "valentine"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "bentuk"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "cinta"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "tipografi"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "penanda"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "pensil"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "jenis huruf"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "jenis"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "seni"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "gambar"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "yunani"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "senang"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "seru"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "senyum"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "emotikon"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "emosi"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "senang"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "data"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "titik"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "grafik"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "bagan"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "statistik"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "matematika"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "lingkaran"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "tambah"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "sisipkan"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "lingkaran"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "kurangi"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "tambah"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "kuas"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "cat"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "warna"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "palet lukis"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "produser"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "direktur"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "videografi"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "koleksi"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "apertur"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "kamera"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "fotografi"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "fotografer"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "foto"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "perangkat"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "komputer"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "headphone"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "irama"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "audio"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "kreatif"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "artis"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "lagu"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "podcast"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "mikrofon"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "musik"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "desain"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "buat"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "blok"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "blok"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Unggah berkas media atau pilih satu dari pustaka media Anda"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Tampilkan gambar dalam galeri pola bata offset."
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Offset"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Pesan Janji Temu"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Sore"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Pagi"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Waktu"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Janji Temu"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Catatan?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Tidak"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Ya"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Bersediakah Anda hadir?"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "RSVP"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "Kontak"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "Anda dapat menggunakan tag berikut di bidang subjek: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "nama"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Pengiriman formulir dari [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Tulis penjelasan galeri…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Area media"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Tambahkan judul..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Judul menu..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Tambahkan tombol..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Tulis teks..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Tulis judul..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Tambah konten..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Tambahkan judul..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "tautan"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Profil Media Sosial"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Ikon & Teks"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "Teks"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Masking"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "sosial"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Bagikan"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Meruncing"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Segitiga"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Melingkar"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Melandai"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Bersudut"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Perbukitan"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Bergelombang"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "pemisah"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Pemisah Bentuk"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "fitur"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Layanan"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Tulis deskripsi..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Layanan"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "tata letak"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "kolom"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "baris"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Item Tabel Harga"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "perbandingan"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "tujuan"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Tabel Harga"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "slider"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Tampilkan postingan atau feed blog eksternal sebagai carousel."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(tanpa judul)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "Feed RSS"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "terkini"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "blog"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "postingan"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Tampilkan postingan atau feed RSS sebagai kartu bertumpuk atau horizontal."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Postingan"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "video"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "gambar"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "petunjuk arah"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "peta"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "alamat"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Peta"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "paragraf"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Sorotan"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Tombol sekunder…"
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Tambahkan judul hero…"
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "tombol"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Edit URL %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Kembali ke %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "kode"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "animasi"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Bidang teks tersembunyi untuk mengumpulkan data tambahan."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "tautan"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Bidang teks untuk mengumpulkan URL."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Bidang kotak centang dengan beberapa pilihan di mana beberapa pilihan bisa dibuat."
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Bidang dengan beberapa pilihan di mana hanya satu pilihan yang bisa dibuat."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "Teks multibaris"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "teks pesan"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "teks"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Area teks"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "faks"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "ponsel"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "sel"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "seluler"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "telepon"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "Pilihan"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "pilih"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "pilih"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "nama belakang"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "nama depan"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "email"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "email"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "tahun"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "bulan"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "hari"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "kalender"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "kontak"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "tentang"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "e-mail"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Formulir"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Item Makanan"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Daftar"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "restoran"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Makanan & Minuman"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Fitur"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "Ini adalah blok fitur yang bisa Anda gunakan untuk menyorot fitur."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Tambahkan konten fitur"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Judul Fitur"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Tambahkan judul fitur..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Fitur"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Lebar Penuh"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Baris"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Titik"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "pengatur jarak"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "HR Dinamis"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Kolom"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "LL"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Berlapis"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Gaya Ubin"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Kolase"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "bagikan"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Klik untuk Mentweet"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Memuat"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Menutupi"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "Otomatis"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "Tumpuk di perangkat seluler"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "seruan bertindak"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "call to action"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "tautan"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Tautan penulis…"
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Letakkan untuk diunggah sebagai avatar"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "profil"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "biografi"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Penulis"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Peringatan"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Berhasil"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "pesan"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "pemberitahuan"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "Peringatan"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Tulis judul item accordion..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Item Accordion"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "tab"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Gelombang Atas"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Gelombang Bawah"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Melingkar"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Kotak Centang"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Kartu Media"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Malam"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Standar"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "segel"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "penghargaan"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "testimoni"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "bukti"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "klien"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Sederhana"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Gelap"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "foto"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "galeri"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Kapitalisasi"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Huruf Kecil"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Tombol primer…"
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Tebal"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Berisi"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Berkerangka"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "ikon"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Ikon"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Alihkan untuk menampilkan %s dalam sebaris."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Menampilkan %s dalam sebaris."
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "%s sebaris"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Pembaruan"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Api"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Sekolah"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Pengiriman"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Lapisan"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Baru"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Terjemahan"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Sidik jari"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Ekstensi"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Kartu Kredit"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Buat"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Bunga"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Kue"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Sofa"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Bersantap"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Kota"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Gelombang"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Gunung"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "Penanda"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Blok"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Sinyal"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Kirim"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Balas"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Jam tangan"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Perangkat"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Komputer Desktop"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Bintang"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Hati"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Fungsi"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Emotikon"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Poling"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Diagram Tebar"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Bagan Pie"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Minus dalam Lingkaran"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Lingkaran Plus"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Kuas"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Cat"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Pemilih Warna"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Palet Warna"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Video"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Galeri"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Kamera"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Apertur"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Suara"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Audio"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Penyaring Vintage"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Asli"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Persentase"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Piksel"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "Situs web"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Ada masalah."
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Pilih"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Ambil Feed Eksternal"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "Tanggal"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Telepon"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Baca selengkapnya"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Pilih satu"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Telah terjadi error, sehingga feed mungkin tidak bisa diakses. Coba lagi nanti."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Bidang untuk meminta pilihan tanggal dengan pemilih tanggal."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Bidang untuk mengumpulkan alamat email tervalidasi."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Bidang teks untuk mengumpulkan nama depan dan belakang."
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Bidang dengan beberapa pilihan di mana hanya satu pilihan yang bisa dibuat."
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Kunci API tidak valid, atau terlalu banyak permintaan"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Pilih pra-atur ukuran ikon"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(tanpa judul)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Tulis pilihan…"
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Hapus Pilihan"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Postingan Blog"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Gunakan URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Tambahkan formulir kontak ke halaman Anda."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Populer"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Pilihan kontrol halus diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Alihkan untuk mengaktifkan pilihan kontrol peta."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Gunakan Feed Eksternal"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Tidak ditemukan postingan. Mulai terbitkan atau tambahkan postingan dari feed RSS."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Disimpan"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Menampilkan kontrol peta layar penuh."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Alihkan untuk menampilkan kontrol tampilan jalan di kanan bawah."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Menampilkan kontrol peta tampilan jalan."
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Perlu bantuan?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Dapatkan kunci"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Tambahkan kunci API Google Maps. Memperbarui kunci API ini akan mengatur semua peta Anda untuk menggunakan kunci baru."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Alihkan untuk menampilkan kontrol peta layar penuh."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Alihkan untuk mengaktifkan zoom perbesar dan perkecil pada peta dengan kontrol zoom."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Menampilkan kontrol zoom peta."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Alihkan untuk mengaktifkan peralihan antara peta standar dan satelit."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Beralih antara tampilan peta standar dan satelit diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Nomor telepon agar pengunjung memberikan nomor telepon."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Menampilkan tanggal penerbitan."
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Masukkan lokasi atau alamat untuk meletakkan pin di peta Google."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Cari tempat atau alamat…"
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Tinggi peta dalam piksel"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Tingkat Zoom"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Edit URL RSS"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Gambar di kiri"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Gambar di kanan"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "URL RSS umumnya terletak di direktori /feed/ situs."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Alihkan untuk menampilkan tanggal penerbitan."
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Jumlah kata maksimal dalam konten"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Alihkan untuk menampilkan konten postingan."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Menampilkan konten postingan."
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Jumlah postingan"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Posting Carousel"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Persegi"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Tingkatkan kunjungan ke situs Anda dengan tautan ke profil media sosial."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "palet desain warna seniman cat kreatif media"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "URL Tautan"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Tidak ditemukan hasil."
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Radius"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Kustom"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Terapkan ukuran kustom"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Reset ukuran ikon"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Tambahkan simbol grafik bergaya untuk mengomunikasikan banyak hal."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Bagikan di LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Ikon"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Alihkan untuk menggunakan warna resmi dari masing-masing platform media sosial."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Warna tombol bagikan diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Tambahkan tautan berbagi ke media sosial untuk membantu Anda mendapatkan suka dan konten Anda bisa dibagikan."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Balik secara vertikal"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Balik secara horizontal"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Tambahkan pemisah bentuk untuk membedakan bagian halaman secara visual."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Alihkan untuk menumpuk tombol di perangkat seluler."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Menumpuk tombol di perangkat seluler..."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Tombol"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Minta pengunjung untuk mengambil tindakan menggunakan beberapa tombol, yang berdampingan."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Carousel"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Thumbnail"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Alihkan untuk persentase berdasarkan tinggi."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Persentase berdasarkan tinggi sudah diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Alihkan untuk menampilkan thumbnail."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Menampilkan navigasi thumbnail."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Tampilkan beberapa gambar dalam galeri carousel yang menarik."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Ganti teks ini dengan salinan deskripsi untuk disertakan dengan gambar kartu. Lalu tambahkan lebih banyak blok ke kartu ini, seperti tombol, daftar, atau gambar."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Media di kiri"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Media di kanan"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Alihkan untuk menambahkan bayangan %s"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Menampilkan bayangan %s."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Alihkan untuk menambahkan bayangan kartu."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Menampilkan bayangan kartu."
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Tambahkan gambar atau video dengan kartu offset secara berdampingan."
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Letakkan untuk mengganti media"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "media"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Edit media"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Tata Letak Masonry"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Tambahkan pojok melingkar ke item galeri."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Tampilkan beberapa gambar di galeri dengan tata letak masonry yang tertata."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Logo & Lencana"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Edit logo"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Hitam & Putih"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Tambahkan logo, lencana, atau sertifikasi untuk membangun kredibilitas."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Hapus"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Simpan"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Dapatkan bantuan"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Kunci saya"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Buat kunci"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Tambahkan situs reCAPTCHA dan kunci rahasia untuk melindungi formulir Anda dari spam."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "reCAPTCHA Google"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Judul"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Alamat email"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "‌‌%s bukan alamat email yang valid."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "‌‌%s dan %s bukan alamat email yang valid."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "‌‌%s bukan alamat email yang valid."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Kotak teks untuk tanggapan yang panjang."
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Tambahkan teks…"
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Contoh judul"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Alihkan untuk menambahkan bidang nama belakang."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Menampilkan bidang nama depan dan belakang."
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Ketinggian untuk elemen pemisah dinamis dalam piksel."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Tambahkan pengatur jarak yang bisa disesuaikan antar blok."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Tambahkan kutipan untuk di-tweet..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Nama Pengguna Twitter"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Warna Tombol"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Cara termudah mempromosikan dan mengiklankan blog, situs web, dan bisnis Anda di Twitter."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Tambahkan kutipan untuk di-tweet pembaca melalui Twitter."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "$0,00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Tambahkan deskripsi..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Pedas"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Alihkan untuk menampilkan harga untuk item ini."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Menampilkan harga untuk item ini."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Harga"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Alihkan untuk menampilkan gambar untuk item ini."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Menampilkan gambar untuk item ini."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Gambar"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Item makanan dan minuman dalam blok Makanan & Minuman."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Vegan"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Pescatarian"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Bebas Gluten"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Vegetarian"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Lebih Pedas"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Pedas"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Alihkan untuk menampilkan harga masing-masing item."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Menampilkan harga masing-masing item"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Harga"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Alihkan untuk menampilkan gambar masing-masing item."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Menampilkan gambar untuk masing-masing item"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Gambar"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Tampilkan daftar menu atau harga."
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Pilih jumlah kolom untuk baris ini."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Sekarang pilih tata letak untuk baris dengan %s kolom ini."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Baris"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Tambahkan latar belakang ke baris"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "empat"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "tiga"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "dua"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "satu"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Ubah tata letak blok baris"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Kuartal"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "Sepertiga"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Tambahkan latar belakang ke kolom"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Lebar"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Ruang di sekitar kontainer."
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Baris anak."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Tambahkan wrapper terstruktur untuk blok kolom, lalu tambahkan blok konten yang Anda inginkan ke kolom."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Paket %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Ubah jumlah tabel harga"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Empat Tabel Harga"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Tiga Tabel Harga"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Dua Tabel Harga"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Satu Tabel Harga"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Tambahkan tabel harga agar membantu pengunjung membandingkan produk dan paket."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Tambahkan fitur"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "Paket A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Beli Sekarang"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Tabel harga untuk membantu pengunjung membandingkan produk dan paket."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Tambahkan dukungan untuk Internet Explorer dengan memuat polyfill JavaScript di halaman ini."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Tambahkan dukungan untuk Internet Explorer dengan memuat polyfill JavaScript."
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Tata konten dalam item accordion yang bisa diciutkan."
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Alihkan untuk mengatur item accordion ini agar dibuka secara default."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Item accordion dibuka secara default."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Tambahkan item accordion yang bisa diciutkan ke accordion."
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Tambahkan hingga empat kolom catatan kecil untuk produk atau layanan Anda."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Tambahkan sebagai latar belakang"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Satu kolom anak dalam blok fitur orang tua."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Peringatan adalah pesan yang muncul di luar alur konten umum. Peringatan memberi umpan balik kontekstual yang biasanya meminta pembaca melakukan tindakan."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "Ini adalah blok peringatan"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Berikan pesan atau pemberitahuan umpan balik kontekstual."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Edit Lokasi"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Tambahkan alamat atau lokasi untuk meletakkan pin di peta Google."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Peta Google"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Alihkan untuk menampilkan tombol seruan bertindak."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Menampilkan tombol seruan bertindak."
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Kolom"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Gaya"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Tambahkan hingga empat kolom layanan untuk ditampilkan."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Alihkan untuk menampilkan tombol seruan bertindak."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Menampilkan tombol seruan bertindak."
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Item layanan tunggal dalam blok layanan."
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Bayangan"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Susun gambar menjadi galeri kolase yang indah."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Tulis biografi yang mempunyai kredibilitas dan otoritas yang objektif bagi pembaca Anda…"
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Tulis nama penulis…"
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Edit galeri"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Hadir untuk memberi ruang ekspresi, bukan memberi kesan. Menciptakan dunia yang saya mau."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Tambahkan biografi penulis untuk membangun kredibilitas dan otoritas."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "gambar %1$d dari %2$d di galeri"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "Bertumpuk"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Terang"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Penjelasan"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Alihkan untuk mengaktifkan lightbox gambar."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Lightbox gambar diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Alihkan untuk menampilkan penjelasan media."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Menampilkan penjelasan untuk setiap item media."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Alihkan untuk mengisi area galeri yang tersedia dengan gambar lebar penuh."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Gambar dengan lebar penuh diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Tampilkan beberapa gambar dalam galeri bertumpuk kolom tunggal."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Memuat Gist"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Tambahkan URL Gist GitHub..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Meta Gist"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Berkas Gist"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "URL Gist"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Alihkan untuk menampilkan meta data Gist."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Menampilkan meta data Gist."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Sematkan Gist GitHub dengan menambahkan tautan Gist."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Lihat Gist ini di GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Cari GIF"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Cari GIF sempurna di Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "GIF ini memiliki atribut alt kosong"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Hapus GIF"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Biarkan kosong jika gambar hanyalah pemanis."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Deskripsikan tujuan gambar"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Pilih GIF, apa saja."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Alihkan untuk menghapus semua margin bawah."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Alihkan untuk menambahkan kembali margin bawah."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Alihkan untuk menghapus semua margin atas."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Alihkan untuk menambahkan kembali margin atas."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Alihkan untuk saling menumpuk elemen di atasnya pada viewport yang lebih kecil."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Kecepatan respons diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Alihkan untuk menampilkan tombol sebagai lebar penuh."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Tampilkan sebagai lebar penuh."
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Reset pilihan pemangkasan gambar"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Putar searah jarum jam"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Putar berlawanan arah jarum jam"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Placeholder gambar pengaturan pangkas"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Sepuluh Detik"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Sembilan Detik"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Delapan Detik"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Tujuh Detik"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Enam Detik"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Lima Detik"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Empat Detik"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Tiga Detik"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Dua Detik"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Satu Detik"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Bisa Diseret"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Putar otomatis"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Alihkan untuk menggulir tanpa slide tetap."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Menggulir tanpa mengaktifkan slide tetap."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Alihkan untuk menjeda putar otomatis saat melakukan hover kursor."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Menjeda putar otomatis saat melakukan hover kursor."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Meratakan slide ke tengah."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Meratakan slide ke kiri."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Alihkan untuk menampilkan navigasi titik."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Menampilkan navigasi titik."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Alihkan untuk menampilkan panah navigasi slide."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Menampilkan panah navigasi slide."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Alihkan untuk mengaktifkan fungsi seret."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Menyeret dan menggeser diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Otomatis maju ke slide berikutnya."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Maju setelah %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "detik"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "detik"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Default"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Pemilih warna kustom"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "URL Kustom"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Seret gambar, unggah gambar baru atau pilih berkas dari pustaka Anda."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Galeri %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Tulis penjelasan..."
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Ukuran"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Transformasi"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Bobot"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Font"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Ubah tipografi"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Terapkan penyaring"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Huruf Besar"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Judul %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Tambahkan teks yang disorot..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Tambahkan efek sorotan ke teks paragraf untuk menarik perhatian dan menonjolkan narasi penting."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Dapatkan perhatian dan tonjolkan narasi penting."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Periode"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Ubah tata letak"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Lebar konten dalam piksel"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Tinggi dalam piksel"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Ruang di dalam kontainer."
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Tambahkan latar belakang untuk hero"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Tambahkan konten hero, yang umumnya adalah area pendahuluan halaman yang disertai satu atau beberapa seruan bertindak."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Area pendahuluan halaman yang disertai sedikit teks dan seruan bertindak."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Besar"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Besar"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Sedang"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Kecil"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Tidak Ada"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Hapus latar belakang"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Alihkan untuk mengulang video."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Mengulang video latar belakang."
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Alihkan untuk mensenyapkan video."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Mensenyapkan video latar belakang."
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Tampilkan"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Posisi"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Ulangi"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Padding"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Terapkan"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Menyimpan"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Letakkan gambar untuk menggantikan"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Tinggi"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Alihkan untuk mengaktifkan mode layar penuh."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Mode layar penuh diaktifkan."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Layar Penuh"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Tata letak"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Wajib Diisi"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Tambahkan label…"
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "%s Ponsel"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Tepian"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Lanjutan"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Pengaturan %s lanjutan"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Kiri"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Bawah"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Kanan"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Atas"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Sinkronisasi"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Batalkan Sinkronisasi"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Reset"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Nonaktifkan pengaturan %s lanjutan"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Pilih Unit"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Margin"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Bagikan di Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Bagikan di Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Bagikan di Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Bagikan melalui Email"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Bagikan di LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Bagikan di Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Bagikan di Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Bagikan di Facebook"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Periksa CoBlocks di WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Tulis Ulasan"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Kunci API Peta Google untuk pemuatan peta"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "Pesan Anda terkirim:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "Kirim"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "Pesan"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "Belakang"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "Depan"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "Nama"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Kunci rahasia reCAPTCHA Google untuk perlindungan spam formulir"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Kunci situs reCAPTCHA Google untuk perlindungan spam formulir"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks adalah rangkaian <strong>blok konten pembuatan halaman</strong> yang profesional untuk penyunting blok Gutenberg WordPress. Blok kami fokus untuk memberdayakan penanda dalam membangun halaman yang kaya akan konten menarik di WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

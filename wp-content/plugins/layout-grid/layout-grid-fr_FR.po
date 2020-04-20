@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-16 17:11:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "La modification du nombre de colonnes réinitialisera votre mise en page et risque de supprimer du contenu."
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "Colonne utilisée dans un bloc de grille de mise en page."
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Patrouille des neiges</strong>"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "Alignez les blocs dans une grille globale qui prend en charge les points d'adaptabilité."
+
+#: index.js:6
+msgid "Huge"
+msgstr "Très grand"
+
+#: index.js:6
+msgid "Large"
+msgstr "Grand"
+
+#: index.js:6
+msgid "Medium"
+msgstr "Moyen"
+
+#: index.js:6
+msgid "Small"
+msgstr "Petit"
+
+#: index.js:6
+msgid "No padding"
+msgstr "Pas de marge intérieure"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "Choisissez la marge intérieure de cette colonne :"
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "Marge intérieure de la colonne"
+
+#: index.js:6
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "Couleur de la colonne"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "Notez que la prévisualisation de votre article affichera le point d'adaptabilité du navigateur et non celui que vous avez sélectionné."
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "Points d'adaptabilité"
+
+#: index.js:6
+msgid "Layout"
+msgstr "Mise en page"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "Choisissez une mise en page pour commencer :"
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "Choisir la mise en page"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "Affichage de la mise en page pour ordinateur de bureau"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "Affichage de la mise en page pour tablette"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "Affichage de la mise en page pour appareil mobile"
+
+#: index.js:6
+msgid "Span"
+msgstr "Extension"
+
+#: index.js:6
+msgid "Offset"
+msgstr "Décalage"
+
+#: index.js:6
+msgid "Column"
+msgstr "Colonne"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "Mobile"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "Tablette"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "Bureau"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 colonnes"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 colonnes"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2 colonnes"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1 colonne"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "Permet d'aligner les blocs dans une grille globale"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "Grille de mise en page"

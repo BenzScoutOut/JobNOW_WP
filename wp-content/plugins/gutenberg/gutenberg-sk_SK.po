@@ -1,0 +1,3131 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Slovak
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-13 11:49:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sk\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/edit-post/index.js:6
+msgid "Block (selected)"
+msgstr "Blok (zvolený)"
+
+#: build/edit-post/index.js:6
+msgid "Document (selected)"
+msgstr "Dokument (zvolený)"
+
+#: build/edit-post/index.js:6
+msgid "Top toolbar"
+msgstr "Horný panel nástrojov"
+
+#: build/block-editor/index.js:49
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d slovo"
+msgstr[1] "%d slová"
+msgstr[2] "%d slov"
+
+#: build/block-editor/index.js:49
+msgid "Link CSS Class"
+msgstr "CSS trieda odkazu"
+
+#: build/block-editor/index.js:49
+msgid "Link Rel"
+msgstr "Rel odkazu"
+
+#: build/block-library/index.js:8
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Pridajte obsah a uložte ho pre vás a ostatných prispievateľov, aby ste ho mohli znovu využívať na stránke. Aktualizujte blok a zmeny sa prejavia všade, kde je použitý. "
+
+#: build/editor/index.js:11
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Pre úpravu ilustračného obrázku musíte mať opravnenie na nahrávanie médií."
+
+#: build/block-editor/index.js:49
+msgid "To edit this block, you need permission to upload media."
+msgstr "Pre úpravu tohto bloku musíte mať oprávnenie nanahrávanie médií."
+
+#: build/edit-post/index.js:6
+msgid "Permalink"
+msgstr "Trvalý odkaz"
+
+#: build/block-editor/index.js:49
+msgid "(selected block)"
+msgstr "(zvolený blok)"
+
+#: build/block-editor/index.js:49
+msgid "Block tools"
+msgstr "Nástroje bloku"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute"
+msgstr "Obrázok má prázdny alt atribút"
+
+#: build/block-library/index.js:8
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Obrázok má prázdny alt atribút; jeho názov je %s"
+
+#: lib/widgets-page.php:57 lib/edit-site-page.php:77
+#: build/block-editor/index.js:49
+msgid "Thumbnail"
+msgstr "Náhľad"
+
+#: lib/widgets-page.php:60 lib/edit-site-page.php:80
+#: build/block-editor/index.js:49
+msgid "Full Size"
+msgstr "Plná veľkosť"
+
+#: build/block-editor/index.js:49
+msgid "Align text left"
+msgstr "Zarovnať text vľavo"
+
+#: build/block-library/index.js:8
+msgid "Paragraph block"
+msgstr "Blok odseku"
+
+#: build/block-editor/index.js:49
+msgid "Align text right"
+msgstr "Zarovnať text vpravo"
+
+#: build/block-editor/index.js:49
+msgid "Align text center"
+msgstr "Zarovnať text na stred"
+
+#: build/block-library/index.js:8
+msgid "Page Break"
+msgstr "Zlom strany"
+
+#: build/block-library/index.js:8
+msgid "Stack on mobile"
+msgstr "V mobile naskladať na seba"
+
+#: build/editor/index.js:11
+msgid "Start writing with text or HTML"
+msgstr "Začnite písať použitím klasického textu alebo HTML"
+
+#: build/editor/index.js:11
+msgid "Type text or HTML"
+msgstr "Napíšte text alebo HTML"
+
+#: build/block-editor/index.js:49
+msgid "Block icon"
+msgstr "Ikona bloku"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Start writing or type / to choose a block"
+msgstr "Začnite písať alebo kliknite na / a vyberte si blok."
+
+#: build/block-library/index.js:8
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Prázdny blok; začnite písať alebo kliknite na / a zvoľte si blok"
+
+#: build/block-library/index.js:8
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Presuňte obrázky, nahrajte nové alebo vyberte súbory z vašej knižnice."
+
+#: lib/widgets.php:191
+msgctxt "Block"
+msgid "Add New"
+msgstr "Pridať nový "
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Upozornenie: odkaz bol vložený ale môže obsahovať chyby. Prosím overte si to. "
+
+#: build/block-editor/index.js:49
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s vybraný blok."
+msgstr[1] "%s vybrané bloky."
+msgstr[2] "%s vybraných blokov."
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Odkaz vložený."
+
+#: build/block-editor/index.js:49
+msgid "Link selected."
+msgstr "Odkaz vybraný."
+
+#: lib/widgets.php:205
+msgid "Block area reverted to draft."
+msgstr "Oblasť bloku zmenená na koncept. "
+
+#: lib/widgets.php:204
+msgid "Block area published privately."
+msgstr "Oblasť bloku publikovaná ako súkromná."
+
+#: lib/widgets.php:199
+msgid "No block areas found in Trash."
+msgstr "V koši sa nenašli žiadne bloky."
+
+#: lib/widgets.php:190
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Oblasť bloku"
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Vysvetlivka"
+
+#: build/block-editor/index.js:49
+msgctxt "blocks"
+msgid "Most used"
+msgstr "Najpoužívanejšie"
+
+#: build/block-editor/index.js:49
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Vyriešiť"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Obrovské"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Large"
+msgstr "Veľké"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Stredné"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Small"
+msgstr "Malé"
+
+#: build/block-editor/index.js:49
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normálne"
+
+#: build/components/index.js:6
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importovať"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Download"
+msgstr "Stiahnuť"
+
+#: build/block-editor/index.js:49
+msgid "Navigate to the nearest toolbar."
+msgstr "Navigovať k najbližšiemu panelu nástrojov."
+
+#: build/edit-post/index.js:6
+msgid "Document tools"
+msgstr "Nástroje dokumentu"
+
+#: build/edit-post/index.js:6
+msgid "Document and block tools"
+msgstr "Nástroje dokumentu a bloku"
+
+#: build/block-library/index.js:8
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Vložte video z vašej knižnice médií alebo nahrajte nové. "
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klasický"
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Large"
+msgstr "Veľký"
+
+#: build/editor/index.js:11
+msgid "Generating preview…"
+msgstr "Vytvára sa náhľad..."
+
+#: build/block-library/index.js:8
+msgctxt "block style"
+msgid "Rounded"
+msgstr "Zaoblený"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Odkaz upravený."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Odkaz odstránený."
+
+#: build/editor/index.js:11
+msgid "Edit or update the image"
+msgstr "Upravte alebo aktualizujte obrázok"
+
+#: build/block-library/index.js:8
+msgctxt "button label"
+msgid "Embed"
+msgstr "Vložiť"
+
+#: build/block-library/index.js:8
+msgctxt "block title"
+msgid "Embed"
+msgstr "Vložiť"
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "médiá"
+
+#: build/editor/index.js:11
+msgid "Double-check your settings before publishing."
+msgstr "Pred publikovaním si skontrolujte vaše nastavenia. "
+
+#: build/block-editor/index.js:49 build/core-data/index.js:1
+msgid "Media"
+msgstr "Médiá"
+
+#: build/block-library/index.js:8
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Vložte poéziu. Použite špeciálne formáty rozmiestnenia alebo citujte text piesne. "
+
+#: build/block-library/index.js:8
+msgid "Add white space between blocks and customize its height."
+msgstr "Pridajte medzeru medzi bloky a upravte ich výšku."
+
+#: build/block-library/index.js:8
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Vložte dodatočné vlastné elementy pomocou WordPress shortcode. "
+
+#: build/block-library/index.js:8
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Vytvorte zlom medzi myšlienkami alebo sekciami pomocou horizontálnej čiary. "
+
+#: build/block-library/index.js:8
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Vizuálne odlíšte citácie. \"Pri citovaní druhých, citujeme sami seba.\" - Julio Cortázar"
+
+#: build/block-library/index.js:8
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Vizuálne odlíšte citáty vo vašom texte. "
+
+#: build/block-library/index.js:8
+msgid "Start with the building block of all narrative."
+msgstr "Začnite s hlavným stavebným kameňom všetkých príbehov."
+
+#: build/block-library/index.js:8
+msgid "Separate your content into a multi-page experience."
+msgstr "Rozdeľte váš obsah na viacero stránok."
+
+#: build/block-library/index.js:8
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Pre lepšie usporiadanie nastavte médiá a slová bok po boku. "
+
+#: build/block-library/index.js:8
+msgid "Media & Text settings"
+msgstr "Textové a mediálne nastavenia"
+
+#: build/block-library/index.js:8
+msgid "Create a bulleted or numbered list."
+msgstr "Vytvorte číselný alebo odrážkový zoznam."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent comments."
+msgstr "Zobraziť zoznam vašich nedávnych komentárov. "
+
+#: build/block-library/index.js:8
+msgid "Insert an image to make a visual statement."
+msgstr "Vyjadrite sa vizuálne a vložte obrázok."
+
+#: build/block-library/index.js:8
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Pridajte vlastný HTML kód a nahliadajte do neho počas úpravy. "
+
+#: build/block-library/index.js:8
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Predstavte nové sekcie a organizujte obsah, aby ste pomohli návštevníkom (a vyhľadávačom) pochopiť štruktúru vášho obsahu. "
+
+#: build/block-library/index.js:8
+msgid "Add a link to a downloadable file."
+msgstr "Pridajte odkaz na stiahnuteľný súbor. "
+
+#: build/block-library/index.js:8
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Vložte videá, obrázky, tweety, audio a iný obsah z externých zdrojov."
+
+#: build/block-library/index.js:8
+msgid "Resize for smaller devices"
+msgstr "Zmeňte veľkosť pre menšie zariadenia"
+
+#: build/block-library/index.js:8
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Tento vložený súbor si pri zmenení veľkosti prehliadača pravdepodobne nezachová svoj pomer strán. "
+
+#: build/block-library/index.js:8
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Tento vložený súbor si pri zmene veľkosti prehliadača zachová svoj pomer strán."
+
+#: build/block-library/index.js:8
+msgid "Embed an Animoto video."
+msgstr "Vložte video zo služby Animoto."
+
+#: build/block-library/index.js:8
+msgid "Embed a Vimeo video."
+msgstr "Vložte Vimeo video."
+
+#: build/block-library/index.js:8
+msgid "Embed Flickr content."
+msgstr "Vložte obsah z Flickr."
+
+#: build/block-library/index.js:8
+msgid "Embed Spotify content."
+msgstr "Vložte obsah zo Spotify."
+
+#: build/block-library/index.js:8
+msgid "Embed SoundCloud content."
+msgstr "Vložte obsah zo SoundCloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress post."
+msgstr "Vložte WordPress článok. "
+
+#: build/block-library/index.js:8
+msgid "Embed an Instagram post."
+msgstr "Vložte príspevok z Instagramu."
+
+#: build/block-library/index.js:8
+msgid "Embed a Facebook post."
+msgstr "Vložte príspevok z Facebooku."
+
+#: build/block-library/index.js:8
+msgid "Embed a WordPress.tv video."
+msgstr "Vložte video z WordPress.tv."
+
+#: build/block-library/index.js:8
+msgid "Embed a VideoPress video."
+msgstr "Vložte video z VideoPress."
+
+#: build/block-library/index.js:8
+msgid "Embed a Tumblr post."
+msgstr "Vložte príspevok z Tumblr."
+
+#: build/block-library/index.js:8
+msgid "Embed a TED video."
+msgstr "Vložte TED video."
+
+#: build/block-library/index.js:8
+msgid "Embed Speaker Deck content."
+msgstr "Vložte obsah zo Speaker Deck. "
+
+#: build/block-library/index.js:8
+msgid "Embed a YouTube video."
+msgstr "Vložte Youtube video."
+
+#: build/block-library/index.js:8
+msgid "Embed Hulu content."
+msgstr "Vložte obsah z Hulu."
+
+#: build/block-library/index.js:8
+msgid "Embed a Dailymotion video."
+msgstr "Vložte Dailymotion video. "
+
+#: build/block-library/index.js:8
+msgid "Embed CollegeHumor content."
+msgstr "Vložte obsah z CollegeHumor."
+
+#: build/block-library/index.js:8
+msgid "Embed Cloudup content."
+msgstr "Vložte obsah z Cloudup."
+
+#: build/block-library/index.js:8
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Pridajte obrázok alebo video s textovým prekrytím - vhodné v hlavičke stránky."
+
+#: build/block-library/index.js:8
+msgid "Use the classic WordPress editor."
+msgstr "Použiť klasický WordPress editor. "
+
+#: build/block-library/index.js:8
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Display code snippets that respect your spacing and tabs."
+
+#: build/block-library/index.js:8
+msgid "Display a list of all categories."
+msgstr "Zobraziť zoznam všetkých kategórií."
+
+#: build/block-library/index.js:8
+msgid "Embed a simple audio player."
+msgstr "Vložte jednoduchý audio prehrávač. "
+
+#: build/block-library/index.js:8
+msgid "Embed SmugMug content."
+msgstr "Vložte obsah zo SmugMug."
+
+#: build/block-library/index.js:8
+msgid "Embed Slideshare content."
+msgstr "Vložte obsah zo Slideshare."
+
+#: build/block-library/index.js:8
+msgid "Embed Scribd content."
+msgstr "Vložte obsah zo Scribd."
+
+#: build/block-library/index.js:8
+msgid "Embed Screencast content."
+msgstr "Vložte obsah zo Screencast."
+
+#: build/block-library/index.js:8
+msgid "Embed ReverbNation content."
+msgstr "Vložte obsah z ReverbNation."
+
+#: build/block-library/index.js:8
+msgid "Embed a Reddit thread."
+msgstr "Vložte vlákno z Redditu. "
+
+#: build/block-library/index.js:8
+msgid "Embed Polldaddy content."
+msgstr "Vložte obsah z Polldaddy."
+
+#: build/block-library/index.js:8
+msgid "Embed Mixcloud content."
+msgstr "Vložte obsah z Mixcloud."
+
+#: build/block-library/index.js:8
+msgid "Embed a tweet."
+msgstr "Vložte tweet. "
+
+#: build/block-library/index.js:8
+msgid "Embed Meetup.com content."
+msgstr "Vložte obsah z Meetup.com."
+
+#: build/block-library/index.js:8
+msgid "Embed Kickstarter content."
+msgstr "Vložte obsah z Kickstarter."
+
+#: build/block-library/index.js:8
+msgid "Embed Issuu content."
+msgstr "Vložte obsah z Issuu."
+
+#: build/block-library/index.js:8
+msgid "Embed Imgur content."
+msgstr "Vložte obsah z Imgur."
+
+#: build/block-editor/index.js:49
+msgid "Paste or type URL"
+msgstr "Vložte alebo napíšte URL adresu"
+
+#: build/block-editor/index.js:49
+msgid "Insert from URL"
+msgstr "Vložiť z URL adresy"
+
+#: build/block-editor/index.js:49
+msgid "Styles"
+msgstr "Štýly"
+
+#: build/edit-post/index.js:6
+msgid "Advanced panels"
+msgstr "Pokročilé panely"
+
+#: build/edit-post/index.js:6
+msgid "Document panels"
+msgstr "Panely dokumentu"
+
+#: build/edit-post/index.js:6
+msgid "General"
+msgstr "Všeobecné"
+
+#: build/edit-post/index.js:6
+msgid "Open the block navigation menu."
+msgstr "Otvorte navigačné menu bloku."
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Work without distraction"
+msgstr "Pracujte bez rozptýlení. "
+
+#: build/edit-post/index.js:6
+msgid "Focus on one block at a time"
+msgstr "Sústreďte sa naraz iba na jeden blok"
+
+#: build/edit-post/index.js:6
+msgid "Options"
+msgstr "Možnosti"
+
+#: build/edit-post/index.js:6
+msgid "Access all block and document tools in a single place"
+msgstr "Pristupujte ku všetkým blokom a nástrojom dokumentu na jednom mieste"
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgctxt "noun"
+msgid "View"
+msgstr "Zobraziť"
+
+#: build/block-library/index.js:8
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Zľava do prava"
+
+#: build/editor/index.js:11
+msgid "Save as Pending"
+msgstr "Uložiť ako čaká na schválenie"
+
+#: build/editor/index.js:11
+msgid "%s address"
+msgstr "%s adresa"
+
+#: build/components/index.js:6
+msgid "March"
+msgstr "Marec"
+
+#: build/components/index.js:6
+msgid "February"
+msgstr "Február"
+
+#: build/components/index.js:6
+msgid "January"
+msgstr "Január"
+
+#: build/components/index.js:6
+msgid "Month"
+msgstr "Mesiac"
+
+#: build/components/index.js:6
+msgid "Date"
+msgstr "Dátum"
+
+#: build/components/index.js:6
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:6
+msgid "Home and End"
+msgstr "Home a End"
+
+#: build/components/index.js:6
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Ísť na prvý (home) alebo posledný (end) deň týždňa."
+
+#: build/components/index.js:6
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Posunúť sa späť (PgUp) alebo vpred (PgDn) o jeden mesiac."
+
+#: build/components/index.js:6
+msgid "Page Up and Page Down"
+msgstr "Page Up a Page Down"
+
+#: build/components/index.js:6
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:6
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Posunúť sa späť (up) alebo vpred (down) o jeden týždeň."
+
+#: build/components/index.js:6
+msgid "Up and Down Arrows"
+msgstr "Šípky Up a Down"
+
+#: build/components/index.js:6
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Posunúť sa späť (ľavá) alebo vpred (pravá) o jeden deň."
+
+#: build/components/index.js:6
+msgid "Left and Right Arrows"
+msgstr "Ľavá a pravá šípka"
+
+#: build/editor/index.js:11 build/components/index.js:6
+msgid "(opens in a new tab)"
+msgstr "(otvoriť v novej karte)"
+
+#: build/components/index.js:6
+msgid "Minutes"
+msgstr "Minúty"
+
+#: build/components/index.js:6
+msgid "Hours"
+msgstr "Hodiny"
+
+#: build/components/index.js:6
+msgid "Time"
+msgstr "Čas"
+
+#: build/components/index.js:6
+msgid "Year"
+msgstr "Rok"
+
+#: build/components/index.js:6
+msgid "Day"
+msgstr "Deň"
+
+#: build/components/index.js:6
+msgid "December"
+msgstr "December"
+
+#: build/components/index.js:6
+msgid "November"
+msgstr "November"
+
+#: build/components/index.js:6
+msgid "October"
+msgstr "Október"
+
+#: build/components/index.js:6
+msgid "September"
+msgstr "September"
+
+#: build/components/index.js:6
+msgid "August"
+msgstr "August"
+
+#: build/components/index.js:6
+msgid "July"
+msgstr "Júl"
+
+#: build/components/index.js:6
+msgid "June"
+msgstr "Jún"
+
+#: build/components/index.js:6
+msgid "May"
+msgstr "Máj"
+
+#: build/components/index.js:6
+msgid "April"
+msgstr "Apríl"
+
+#: build/components/index.js:6
+msgid "Navigating with a keyboard"
+msgstr "Navigovať pomocou klávesnice"
+
+#: build/components/index.js:6
+msgid "Click the desired day to select it."
+msgstr "Kliknutím vyberiete požadovaný deň. "
+
+#: build/components/index.js:6
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Kliknite na pravú alebo ľavú šípku pre výber minulých alebo budúcich mesiacov. "
+
+#: build/components/index.js:6
+msgid "Click to Select"
+msgstr "Kliknutím vyberte"
+
+#: build/components/index.js:6
+msgid "Calendar Help"
+msgstr "Pomocník kalendára"
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for this block."
+msgstr "Vaša stránka nezahŕňa podporu pre tento blok."
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Vaša stránka nezahŕňa podporu pre \"%s\" blok. Môžete tento blok nechať tak alebo ho úplne vymazať. "
+
+#: build/block-library/index.js:8
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Vaša stránka nezahŕňa podporu pre \"%s\" blok. Môžete tento blok nechať tak, konvertovať jeho obsah na vlastný HTML blok, alebo ho úplne vymazať. "
+
+#: build/block-library/index.js:8
+msgid "Media area"
+msgstr "Oblasť médií"
+
+#: build/block-library/index.js:8
+msgid "Media & Text"
+msgstr "Médiá a text"
+
+#: build/block-library/index.js:8
+msgid "Show media on right"
+msgstr "Zobraziť médiá napravo"
+
+#: build/block-library/index.js:8
+msgid "Show media on left"
+msgstr "Zobraziť médiá naľavo"
+
+#: build/components/index.js:6
+msgid "Move the arrow left or right to change hue."
+msgstr "Pre zmenu odtieňa hýbte šípkou doprava alebo doľava."
+
+#: build/components/index.js:6
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Hodnota odtieňa v stupňoch, od 0 do 359."
+
+#: build/components/index.js:6
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Aplha hodnota, od 0 (priehladné) po 1 (nepriehladné)."
+
+#: build/components/index.js:6
+msgid "Choose a shade"
+msgstr "Vybrať tieň"
+
+#: build/components/index.js:6
+msgid "Change color format"
+msgstr "Zmeniť formát farby"
+
+#: build/components/index.js:6
+msgid "Color value in HSL"
+msgstr "Hodnota farby v HSL"
+
+#: build/components/index.js:6
+msgid "Color value in RGB"
+msgstr "Hodnota farby v RGB"
+
+#: build/components/index.js:6
+msgid "Color value in hexadecimal"
+msgstr "Hodnota farby v hexadecimálnom formáte"
+
+#: build/components/index.js:6
+msgid "Hex color mode active"
+msgstr "Hexadecimálny režim aktívny"
+
+#: build/components/index.js:6
+msgid "RGB mode active"
+msgstr "RGB režim aktívny"
+
+#: build/components/index.js:6
+msgid "Hue/saturation/lightness mode active"
+msgstr "Režim odtieň/ sýtosť/ svetlosť aktívny"
+
+#: build/block-library/index.js:8
+msgid "Block Navigator"
+msgstr "Navigácia bloku"
+
+#: build/editor/index.js:11
+msgid "Terms"
+msgstr "Podmienky"
+
+#: lib/widgets-page.php:58 lib/edit-site-page.php:78
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Medium"
+msgstr "Stredný"
+
+#: build/block-editor/index.js:49
+msgid "Paste URL or type to search"
+msgstr "Pre vyhľadávanie vložte URL adresu alebo začnite písať"
+
+#: build/editor/index.js:11
+msgid "Your work will be published at the specified date and time."
+msgstr "Vaša práca bude publikovaná v konkrétnom dátume a čase."
+
+#: build/editor/index.js:11
+msgid "Are you ready to schedule?"
+msgstr "Ste pripravený na naplánovanie?"
+
+#: build/editor/index.js:11
+msgid "Take Over"
+msgstr "Prevziať"
+
+#: build/editor/index.js:11
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Na tomto článku práve pracuje iný užívateľ. Aby ste mohli vykonávať zmeny, musíte ho prevziať pod svoju správu. "
+
+#: build/editor/index.js:11
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s práve pracuje na tomto článku. Aby ste mohli vykonávať zmeny, musíte ho prevziať pod svoju správu. "
+
+#: build/editor/index.js:11
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s prevzal správu nad týmto článkom. Vami vykonané zmeny do tohto momentu boli uložené. "
+
+#: build/editor/index.js:11
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Správu nad týmto článkom prevzal iný užívateľ. Vami vykonané zmeny do tohto momentu boli uložené. "
+
+#: build/block-editor/index.js:49
+msgid "Convert to HTML"
+msgstr "Konvertovať na HTML"
+
+#: build/block-library/index.js:8
+msgid "Main color"
+msgstr "Hlavná farba"
+
+#: build/block-library/index.js:8
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:8
+msgid "Write HTML…"
+msgstr "Písať v HTML..."
+
+#: build/block-library/index.js:8
+msgid "Media settings"
+msgstr "Nastavenia médií"
+
+#: build/block-library/index.js:8
+msgid "Overlay"
+msgstr "Prekrytie"
+
+#: build/block-library/index.js:8
+msgid "Solid color"
+msgstr "Plná farba"
+
+#: build/edit-post/index.js:6
+msgid "Editing Code"
+msgstr "Upraviť kód"
+
+#: build/block-library/index.js:8
+msgid "Insert Media"
+msgstr "Vložiť médiá"
+
+#: build/edit-post/index.js:6
+msgid "This block can only be used once."
+msgstr "Tento blok môže byť použitý iba raz. "
+
+#: build/editor/index.js:11
+msgid "This post is already being edited."
+msgstr "Tento článok je práve upravovaný. "
+
+#: build/editor/index.js:11
+msgid "Someone else has taken over this post."
+msgstr "Nad týmto článkom prevzal správu niekto iný. "
+
+#: build/block-editor/index.js:49
+msgid "This block contains unexpected or invalid content."
+msgstr "Tento blok obsahuje neplatný alebo neočakávaný obsah. "
+
+#: build/edit-post/index.js:6
+msgid "Exit code editor"
+msgstr "Ukončiť editor kódu"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Importovať z JSON"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Bodka"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Čiarka"
+
+#: build/block-editor/index.js:49
+msgid "Change alignment"
+msgstr "Zmeniť zarovnanie"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Chybný JSON súbor"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Znovupoužiteľný blok úspešne importovaný! "
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Neplatný JSON súbor znovupoužiteľného bloku"
+
+#: build/block-editor/index.js:49
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Zmeniť typ %d bloku"
+msgstr[1] "Zmeniť typ %d blokov"
+msgstr[2] "Zmeniť typ %d blokov"
+
+#: build/block-editor/index.js:49
+msgid "Current"
+msgstr "Súčasný"
+
+#: build/block-editor/index.js:49
+msgid "After Conversion"
+msgstr "Po konverzii"
+
+#: build/block-editor/index.js:49
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d blok"
+msgstr[1] "%d bloky"
+msgstr[2] "%d blokov"
+
+#: build/block-editor/index.js:49
+msgid "Change text alignment"
+msgstr "Zmeniť zarovnanie textu"
+
+#: build/editor/index.js:11
+msgid "Title"
+msgstr "Nadpis"
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Tento súbor je prázdny."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Prepáčte, ale tento typ súboru nie je podporovaný. "
+
+#: build/edit-post/index.js:6 build/edit-site/index.js:1
+msgid "Fullscreen mode"
+msgstr "Na celú obrazovku"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Manage all reusable blocks"
+msgstr "Spravovať všetky znovupoužiteľné bloky"
+
+#: build/block-library/index.js:8
+msgid "blockquote"
+msgstr "citácia"
+
+#: build/editor/index.js:11
+msgid "Close panel"
+msgstr "Zavrieť panel"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Classic Block"
+msgstr "Konvertovať na klasický blok"
+
+#: build/block-library/index.js:8
+msgid "Create"
+msgstr "Vytvoriť"
+
+#: build/block-library/index.js:8
+msgid "Row Count"
+msgstr "Počet riadkov"
+
+#: build/block-library/index.js:8
+msgid "Column Count"
+msgstr "Počet stĺpcov"
+
+#: build/block-library/index.js:8
+msgid "Text Columns (deprecated)"
+msgstr "Textové stĺpce (zastarané)"
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Tento blok je zastaraný. Prosím, namiesto toho použite odstavcový blok."
+
+#: build/block-library/index.js:8
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Tento blok je zastaraný. Prosím namiesto toho použite stĺpcový blok. "
+
+#: build/block-library/index.js:8
+msgid "Subheading (deprecated)"
+msgstr "Podnadpis (zastarané)"
+
+#: build/edit-post/index.js:6
+msgid "Change the block type after adding a new paragraph."
+msgstr "Po pridaní nového odstavca zmeňte typ bloku. "
+
+#: build/edit-post/index.js:6
+msgid "Remove a link."
+msgstr "Odstráňte odkaz."
+
+#: build/edit-post/index.js:6
+msgid "Convert the selected text into a link."
+msgstr "Previesť vybraný text na odkaz."
+
+#: build/edit-post/index.js:6
+msgid "Underline the selected text."
+msgstr "Podčiarknúť vybraný text."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text italic."
+msgstr "Nastaviť pre vybraný text kurzívu."
+
+#: build/editor/index.js:11
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Značky pomáhajú používateľov a vyhľadávače navigovať na vašu webovú stránku a nájsť váš obsah. Pridajte pár kľúčových slov pre popis vášho príspevku."
+
+#: build/editor/index.js:11
+msgid "Add tags"
+msgstr "Pridajte značky"
+
+#: build/editor/index.js:11
+msgid "Apply the \"%1$s\" format."
+msgstr "Použiť formát \"%1$s\"."
+
+#: build/editor/index.js:11
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Vaša téma používa formáty príspevkov na zvýraznenie rôznych druhov obsahu, ako napríklad obrázkov alebo videí. Použite formát príspevku pre zobrazenie tohto špeciálneho štýlu."
+
+#: build/editor/index.js:11
+msgid "Use a post format"
+msgstr "Použiť formát príspevku"
+
+#: build/block-editor/index.js:49
+msgid "Insert After"
+msgstr "Vložiť po"
+
+#: build/block-editor/index.js:49
+msgid "Insert Before"
+msgstr "Vložiť pred"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Presunúť %1$d blok z pozície %2$d o jedno miesto nahor."
+msgstr[1] "Presunúť %1$d bloky z pozície %2$d o jedno miesto nahor."
+msgstr[2] "Presunúť %1$d blokov z pozície %2$d o jedno miesto nahor."
+
+#: build/block-editor/index.js:49
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Presunúť %1$d blok z pozície %2$d o jedno miesto nadol."
+msgstr[1] "Presunúť %1$d bloky z pozície %2$d o jedno miesto nadol."
+msgstr[2] "Presunúť %1$d blokov z pozície %2$d o jedno miesto nadol."
+
+#: build/block-library/index.js:8
+msgid "movie"
+msgstr "film"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block before the selected block(s)."
+msgstr "Vložiť nový blok pred vybraný blok(y)."
+
+#: build/block-editor/index.js:49
+msgid "Remove the selected block(s)."
+msgstr "Odstrániť vybraný blok(y)."
+
+#: build/block-editor/index.js:49
+msgid "Duplicate the selected block(s)."
+msgstr "Duplikovať vybraný blok(y)."
+
+#: build/edit-post/index.js:6
+msgid "Block shortcuts"
+msgstr "Skratky bloku"
+
+#: build/block-editor/index.js:49
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Vyberte celý text pri písaní. Opätovným stlačením tlačítka vyberte všetky bloky."
+
+#: build/edit-post/index.js:6
+msgid "Selection shortcuts"
+msgstr "Skratky výberu"
+
+#: build/edit-post/index.js:6
+msgid "Show or hide the settings sidebar."
+msgstr "Zobraziť alebo skryť nastavenia bočného panelu."
+
+#: build/editor/index.js:11
+msgid "Save your changes."
+msgstr "Uložte vaše zmeny."
+
+#: build/edit-post/index.js:6
+msgid "Global shortcuts"
+msgstr "Globálne skratky"
+
+#: build/edit-post/index.js:6
+msgid "Keyboard shortcuts"
+msgstr "Klávesové skratky"
+
+#: build/block-editor/index.js:49
+msgid "Insert a new block after the selected block(s)."
+msgstr "Vložte nový blok po vybratom bloku(blokoch)."
+
+#: build/block-editor/index.js:49
+msgid "Clear selection."
+msgstr "Zrušiť výber."
+
+#: build/edit-post/index.js:6
+msgid "Switch between visual editor and code editor."
+msgstr "Prepnúť medzi vizuálnym editorom a editorom kódu."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the previous part of the editor."
+msgstr "Prejsť na predchádzajúcu časť editora."
+
+#: build/edit-post/index.js:6
+msgid "Navigate to the next part of the editor."
+msgstr "Prejsť na nasledujúcu časť editora."
+
+#: build/editor/index.js:11
+msgid "Redo your last undo."
+msgstr "Znovu vykonať odvolené zmeny."
+
+#: build/editor/index.js:11
+msgid "Undo your last changes."
+msgstr "Odvolať vaše posledné zmeny."
+
+#: build/edit-post/index.js:6
+msgid "Make the selected text bold."
+msgstr "Nastaviť pre vybraný text tučné písmo."
+
+#: build/edit-post/index.js:6
+msgid "Text formatting"
+msgstr "Formátovanie textu"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d right to position %3$d"
+msgstr "Presunúť %1$s blok z pozície %2$d vpravo na pozíciu %3$d"
+
+#: build/block-editor/index.js:49
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Presunúť %1$s blok z pozície %2$d hore na pozíciu %3$d"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Môžete vytvoriť akýkoľvek blok chcete, statický alebo dynamický, dekoratívny alebo jednoduchý. Tu je blok citácie:"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Ďakujeme za testovanie Gutenbergu!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Pomôžte budovať Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Ak sa chcete dozvedieť viac o tom, ako vytvoriť ďalšie bloky, alebo ak máte záujem pomôcť s projektom, prejdite do <a href=\"%s\">GitHub repository</a>."
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Každý blok sa môže zaradiť do týchto zarovnaní. Vložený blok ich má tiež a je ihneď responzívny:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Vyššie je galéria s dvomi obrázkami. Je to jednoduchšia cesta pre vytváranie vizuálne príťažlivých rozložení, bez toho, aby sme museli riešiť floaty. Tiež môžete galériu jednoducho premeniť späť na samostatné obrázky, pomocou prepínača blokov."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Je jasné, že obrázok na celú šírku môže byť pekne veľký. Ale niekedy to stojí za to."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Prístupnosť je dôležitá &mdash; nezabudnite na alt atribút obrázku"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Ak kombinujete nové <strong>široké</strong> zarovnania a zarovnania <strong>na celú šírku</strong> s galériami, môžete veľmi rýchlo vytvoriť rozloženie veľmi bohaté na médiá:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Bohaté na médiá"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Množstvo stĺpcov vo vašich galériách môžete zmeniť presunutím slajdru v inšpektore blokov na postrannom paneli."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Bloky môžu byť čokoľvek, čo potrebujete. Môžete napríklad pridať tlmené citácie ako časť kompozície vašich textov, alebo naopak ich môžete zobraziť ako veľmi štylizované. Všetky tieto možnosti sú dostupné cez vkladač."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informácie odpovedajúce zdroju citácie sú oddelené textové polia, podobne ako pri titulku obrázku. Štruktúra citácie je tak chránená aj v prípade, že vyberiete, zmeníte alebo zmažete zdroj. Navyše, je vždy ľahké pridať ho späť."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress komunita"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Kód je poézia"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Editor sa bude usilovať o vytvorenie lepšieho zážitku z vytvárania stránok a príspevkov prostredníctvom možnosti jednoduchšieho písania bohatších príspevkov. A má tiež bloky, ktoré uľahčujú to, čo sa dnes musí pracne robiť prostredníctvom shortcódov, vlastného HTML a podobne."
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Predstavte si, že všetko čo WordPress dokáže bude rýchlo dostupné z jedného miesta v používateľskom rozhraní. Už nemusíte zisťovať HTML tagy, triedy, pamätať si komplikovaný syntax shortcódov. To je myšlienka za vkladačom. Tlačítkom <code>(+)</code>, ktoré uvidíte v editore, ktoré vám umožňuje prechádzať všetkými dostupný blokmi a pridávať ich do príspevkov. Pluginy a témy si môžu pridať svoje vlastné bloky, čo otvára všetky možnosti pre ešte bohatšie publikovanie a úpravy."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Obrovská výhoda blokov spočíva v tom, že ich môžete upraviť na mieste a manipulovať priamo s obsahom. Namiesto toho, aby ste mali polia na úpravu vecí, ako je zdroj citácie alebo text tlačítka, môžete priamo zmeniť obsah. Skúste upraviť nasledujúcu citáciu:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Vizuálna úprava"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A <em>zoznam</em> ako tento, samozrejme :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Bloky rozloženia, ako tlačítka, Hero obrázky, oddelovače, a pod."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Vložené prvky, ako Youtube, Tweety, alebo iné WordPress príspevky."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galérie"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Obrázky &amp; Videá"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Text &amp; Nadpisy"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Vyskúšajte to, môžete objaviť veci, ktoré WordPress už dokáže pridať do vašich príspevkov, o ktorých ste ani netušili. Tu je krátky zoznam toho, čo tu v súčasnosti nájdete:"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Pokúste sa vybrať a odstrániť alebo upraviť titulok obrázku, už nemusíte byť opatrní pri mylnom výbere obrázku alebo iného textu a pokazením prezentácie."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Ak to vaša téma podporuje, uvidíte \"široké\" tlačítko na obrázku panela nástrojov. Vyskúšajte to."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "To čo práve čítate je <strong>textový blok</strong>, najzákladnejší blok zo všetkých. Textový blok má vlastné ovládacie prvky na voľné presúvanie v príspevku..."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Obrázok hodný tisícov slov"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Nadpisy sú tiež samostatné bloky, ktoré pomáhajú s prehľadom a organizáciou vášho obsahu."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... ako napríklad tento, ktorý je zarovnaný napravo."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Nástroj <em>Vkladač</em>"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Používanie obrázkov a médií s maximálnou starostlivosťou je hlavným cieľom nového editora. Dúfajme, že bude pre vás pridávania titulkov obrázkov alebo ich používanie na celú šírku omnoho jednoduchšie a robustnejšie ako kedykoľvek predtým."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Cieľom tohto nového editora je jednoduché a príjemné pridávanie bohatého obsahu do WordPressu. Celý tento príspevok sa skladá z <em> kusov obsahu</em> - trochu podobných LEGO tehličkám, s ktorými sa môžete voľne pohybovať a interagovať. Presuňte kurzor a všimnete si, že obrysy jednotlivých blokov sa rozsvietia a získajú šípky. Kliknite na šípky, aby ste rýchlo premiestnili bloky bez toho, aby ste sa museli obávať, že stratíte obsah v procese jeho kopírovania a vkladania."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Z hôr a tlačiarenských lisov"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Ste si istí, že chcete zrušiť naplánovanie tohto príspevku?"
+
+#: build/block-library/index.js:8
+msgid "Reusable Block"
+msgstr "Znovupoužiteľný Blok"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Vitajte v Gutenberg editore"
+
+#: build/block-library/index.js:8
+msgctxt "block name"
+msgid "More"
+msgstr "Viac"
+
+#: build/block-library/index.js:8
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Viac"
+
+#: build/block-library/index.js:8
+msgid "Alt text (alternative text)"
+msgstr "Alt Text (alternatívny text)"
+
+#: lib/class-wp-rest-menu-items-controller.php:746
+msgid "The title for the object."
+msgstr "Názov objektu."
+
+#: lib/class-wp-rest-widget-areas-controller.php:92
+#: lib/class-wp-rest-menu-items-controller.php:771
+msgid "Unique identifier for the object."
+msgstr "Jedinečný identifikátor objektu."
+
+#: build/editor/index.js:11
+msgid "Untitled Reusable Block"
+msgstr "Nepomenovaný znovupoužiteľný blok"
+
+#: build/components/index.js:6
+msgid "Small"
+msgstr "Malý"
+
+#: build/editor/index.js:11
+msgid "Add to Reusable blocks"
+msgstr "Pridať k znovupoužiteľným blokom"
+
+#: build/block-library/index.js:8
+msgid "Keep as HTML"
+msgstr "Ponechať ako HTML"
+
+#: build/block-editor/index.js:49
+msgid "Reusable"
+msgstr "Znovupoužiteľný"
+
+#: build/editor/index.js:11
+msgid "Remove from Reusable blocks"
+msgstr "Odstrániť zo znovupoužiteľných blokov"
+
+#: build/block-library/index.js:8
+msgid "Edit URL"
+msgstr "Upraviť URL adresy"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Color settings"
+msgstr "Nastavenia farby"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Táto odpoveď nie je platná JSON odpoveď."
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Vybrať príspevok"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Vybrať týždeň"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Vybrať deň"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Vybrať mesiac"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Vybrať rok"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:8
+msgid "Archives"
+msgstr "Archívy"
+
+#: build/block-library/index.js:8
+msgid "Latest comments settings"
+msgstr "Nastavenia najnovších komentárov"
+
+#: build/block-library/index.js:8
+msgid "Number of comments"
+msgstr "Počet komentárov"
+
+#: build/block-library/index.js:8
+msgid "Background opacity"
+msgstr "Priehľadnosť pozadia"
+
+#: build/block-library/index.js:8
+msgid "Auto"
+msgstr "Auto"
+
+#: build/block-library/index.js:8
+msgid "Preload"
+msgstr "Prednačítať"
+
+#: build/block-library/index.js:8
+msgid "Audio settings"
+msgstr "Nastavenia zvuku"
+
+#: build/block-library/index.js:8
+msgid "Display a monthly archive of your posts."
+msgstr "Zobrazte mesačný archív príspevkov vašej stránky."
+
+#: gutenberg.php:74
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:72
+msgid "Support"
+msgstr "Podpora"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Žiadne komentáre na zobrazenie."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s na %2$s"
+
+#: build/block-library/index.js:8
+msgid "Muted"
+msgstr "Stlmený"
+
+#: build/block-library/index.js:8
+msgid "Video settings"
+msgstr "Nastavenia videa"
+
+#: build/block-library/index.js:8
+msgid "recent comments"
+msgstr "najnovšie komentáre"
+
+#: build/block-library/index.js:8
+msgid "Latest Comments"
+msgstr "Posledné Komentáre"
+
+#: build/block-editor/index.js:49
+msgid "Editor publish"
+msgstr "Publikovanie editora"
+
+#: build/block-library/index.js:8
+msgid "Display avatar"
+msgstr "Zobraziť avatar"
+
+#: build/block-library/index.js:8
+msgid "Archives settings"
+msgstr "Nastavenia archívov"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Available block types"
+msgstr "Dostupné typy blokov"
+
+#: build/block-editor/index.js:49
+msgid "Remove Block"
+msgid_plural "Remove Blocks"
+msgstr[0] "Odobrať blok"
+msgstr[1] ""
+msgstr[2] ""
+
+#: build/block-library/index.js:8
+msgid "Dots"
+msgstr "Bodky"
+
+#: build/block-library/index.js:8
+msgid "Link to"
+msgstr "Odkaz na"
+
+#: build/block-library/index.js:8 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Súbor"
+
+#: build/block-library/index.js:8
+msgid "Column"
+msgstr "Stĺpec"
+
+#: build/block-library/index.js:8
+msgid "document"
+msgstr "dokument"
+
+#: build/block-library/index.js:8
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:8
+msgid "download"
+msgstr "Stiahnuť"
+
+#: build/block-library/index.js:8
+msgid "Copy URL"
+msgstr "Kopírovať URL adresu"
+
+#: build/block-library/index.js:8
+msgid "Write file name…"
+msgstr "Napíšte názov súboru..."
+
+#: build/components/index.js:6
+msgid "Close dialog"
+msgstr "Zatvoriť okno"
+
+#: lib/widgets-page.php:59 lib/edit-site-page.php:79
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Large"
+msgstr "Veľká"
+
+#: build/block-library/index.js:8
+msgid "Wide Line"
+msgstr "Široká čiara"
+
+#: build/block-library/index.js:8
+msgid "Show download button"
+msgstr "Zobraziť tlačidlo Na stiahnutie"
+
+#: build/block-library/index.js:8
+msgid "Download button settings"
+msgstr "Nastavenia tlačidla Na stiahnutie"
+
+#: build/block-library/index.js:8
+msgid "Text link settings"
+msgstr "Nastavenia textového odkazu"
+
+#: build/block-library/index.js:8
+msgid "Autoplay"
+msgstr "Automatické prehrávanie"
+
+#: build/block-library/index.js:8
+msgid "Playback controls"
+msgstr "Ovládacie prvky prehrávania"
+
+#: build/block-editor/index.js:49
+msgid "Vivid green cyan"
+msgstr "sýta zeleno azúrová"
+
+#: build/block-editor/index.js:49
+msgid "Light green cyan"
+msgstr "svetlo zeleno azúrová"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid amber"
+msgstr "žiarivá jantárová"
+
+#: build/block-editor/index.js:49
+msgid "Luminous vivid orange"
+msgstr "žiarivá oranžová"
+
+#: build/block-editor/index.js:49
+msgid "Cyan bluish gray"
+msgstr "tyrkysovo šedá"
+
+#: build/block-library/index.js:8
+msgid "A single column within a columns block."
+msgstr "Jeden stĺpec v stĺpcovom bloku."
+
+#: build/block-library/index.js:8
+msgid "Outline"
+msgstr "Orámovanie"
+
+#: build/block-library/index.js:8
+msgid "Loop"
+msgstr "Slučka"
+
+#: build/edit-post/index.js:6
+msgid "Open publish panel"
+msgstr "Otvoriť Publikačný Panel"
+
+#: build/block-editor/index.js:49
+msgid "Very dark gray"
+msgstr "Veľmi tmavá šedá"
+
+#: build/block-editor/index.js:49
+msgid "Vivid red"
+msgstr "Sýta červená"
+
+#: build/block-editor/index.js:49
+msgid "Pale pink"
+msgstr "Svetloružová"
+
+#: build/block-editor/index.js:49
+msgid "Very light gray"
+msgstr "Veľmi svetlá šedá"
+
+#: build/block-editor/index.js:49
+msgid "Pale cyan blue"
+msgstr "Svetlo azúrovo modrá"
+
+#: build/block-editor/index.js:49
+msgid "Vivid cyan blue"
+msgstr "Sýta azúrovo modrá"
+
+#: build/format-library/index.js:1
+msgid "Inline image"
+msgstr "Vložený obrázok"
+
+#: build/block-editor/index.js:49
+msgid "Transform to"
+msgstr "Zmeniť na"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Remove image"
+msgstr "Odobrať obrázok"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Zobraziť ďaľší tip"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Rozumiem"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Vypnúť tipy"
+
+#: build/editor/index.js:11
+msgid "Are you ready to submit for review?"
+msgstr "Ste pripravený odoslať článok na kontrolu?"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Prepáčte, takýto typ súboru nie je povolený z bezpečnostných dôvodov."
+
+#: build/editor/index.js:11
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Ak ste pripravený, odošlite svoju prácu na kontrolu a Editor bude môcť tento článok uverejniť."
+
+#: lib/class-wp-rest-menu-items-controller.php:399
+msgid "Invalid term ID."
+msgstr "Nesprávne ID položky."
+
+#: build/block-library/index.js:8
+msgid "Enter URL here…"
+msgstr "Sem vložte URL adresu..."
+
+#: build/editor/index.js:11
+msgid "Autosaving"
+msgstr "Automatické ukladanie"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Nastala chyba pri nahrávaní súboru %s do knižnice médií."
+
+#: lib/class-wp-rest-menu-items-controller.php:803
+msgid "The ID for the parent of the object."
+msgstr "ID nadradeného objektu."
+
+#: build/editor/index.js:11
+msgid "View the autosave"
+msgstr "Zobraziť automatické uloženie"
+
+#: build/editor/index.js:11
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Existuje automatické uloženie, ktoré je aktuálnejšie ako verzia nižšie."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Tento súbor prekračuje maximálnu povolenú veľkosť súboru pre nahratie."
+
+#: build/edit-post/index.js:6
+msgid "Pin to toolbar"
+msgstr "Pripnúť na panel nástrojov"
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Chyba pri načítaní bloku: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Neznáma chyba"
+
+#: build/block-library/index.js:8
+msgid "Table settings"
+msgstr "Nastavenia tabuľky"
+
+#: build/block-library/index.js:8
+msgid "Fixed width table cells"
+msgstr "Pevná šírka buniek tabuľky"
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Pridajte blok, ktorý zobrazí obsah z iných webových stránok, napr.: Twitter, Instagram alebo Youtube."
+
+#: build/block-library/index.js:8
+msgid "Display a list of your most recent posts."
+msgstr "Zobraziť zoznam vašich najnovších článkov."
+
+#: build/edit-post/index.js:6
+msgid "Unpin from toolbar"
+msgstr "Odopnúť z panela nástrojov"
+
+#: build/block-library/index.js:8
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Pridajte text, ktorý zachová vaše medzery a odsadenia a bude povolené jeho formátovanie."
+
+#: build/block-library/index.js:8
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Pridajte objekt, ktorý zobrazí obsah vo viacerých stĺpcoch a následne môžete pridať obsah do ktoréhokoľvek z nich."
+
+#: build/block-library/index.js:8
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Vložte tabuľku - perfektné pre zdieľanie grafov a dát."
+
+#: build/editor/index.js:11
+msgid "Copy the permalink"
+msgstr "Kopírovať trvalý odkaz"
+
+#: build/editor/index.js:11
+msgid "Permalink copied"
+msgstr "Trvalý odkaz skopírovaný"
+
+#: build/block-library/index.js:8
+msgid "Height in pixels"
+msgstr "Výška v pixeloch"
+
+#: build/components/index.js:6
+msgid "Remove item"
+msgstr "Odobrať položku"
+
+#: build/components/index.js:6
+msgid "Color code: %s"
+msgstr "Kód farby: %s"
+
+#: build/components/index.js:6
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s z %3$s)"
+
+#: build/block-library/index.js:8
+msgid "Spacer"
+msgstr "Medzera"
+
+#: build/block-library/index.js:8
+msgid "Toggle to show a large initial letter."
+msgstr "Prepnúť pre zobrazenie veľkého počiatočného písmena."
+
+#: build/block-library/index.js:8
+msgid "Showing large initial letter."
+msgstr "Zobraziť veľké počiatočné písmeno."
+
+#: build/block-library/index.js:8
+msgid "Spacer settings"
+msgstr "Nastavenia medzery"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Odstrániť %s"
+
+#: build/block-library/index.js:8
+msgid "Name:"
+msgstr "Meno:"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Vložiť Handler"
+
+#: build/editor/index.js:11
+msgid "Schedule…"
+msgstr "Naplánovať..."
+
+#: build/block-editor/index.js:49
+msgid "Skip to the selected block"
+msgstr "Preskočiť na zvolený blok"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Link settings"
+msgstr "Nastavenia odkazu"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Odobrať odkaz"
+
+#: build/block-library/index.js:8
+msgid "pagination"
+msgstr "stránkovanie"
+
+#: build/block-library/index.js:8
+msgid "next page"
+msgstr "ďaľšia strana"
+
+#: build/block-editor/index.js:49
+msgid "Image Size"
+msgstr "Veľkosť obrázku"
+
+#: build/block-editor/index.js:49
+msgid "Height"
+msgstr "Výška"
+
+#: build/block-editor/index.js:49
+msgid "Image dimensions"
+msgstr "Rozmery obrázku"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are not cropped."
+msgstr "Náhľady nie sú orezané."
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Width"
+msgstr "Šírka"
+
+#: build/block-editor/index.js:49
+msgid "Media Library"
+msgstr "Knižnica médií"
+
+#: build/block-library/index.js:8
+msgid "Page break"
+msgstr "Zlom strany"
+
+#: build/editor/index.js:11
+msgid "Edit post permalink"
+msgstr "Upraviť trvalý odkaz"
+
+#: build/edit-post/index.js:6
+msgid "Show Block Settings"
+msgstr "Zobraziť nastavenia bloku"
+
+#: build/edit-post/index.js:6
+msgid "Hide Block Settings"
+msgstr "Skryť nastavenia bloku"
+
+#: build/block-editor/index.js:49
+msgid "Editor settings"
+msgstr "Nastavenia editoru"
+
+#: build/edit-post/index.js:6
+msgid "Block settings closed"
+msgstr "Nastavenia bloku sú uzavreté"
+
+#: build/edit-post/index.js:6
+msgid "Close plugin"
+msgstr "Zatvoriť plugin"
+
+#: build/block-library/index.js:8
+msgid "Thumbnails are cropped to align."
+msgstr "Náhľady sú orezané aby boli zarovnané."
+
+#: build/block-editor/index.js:49
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: build/components/index.js:6
+msgid "Add item"
+msgstr "Pridať položku"
+
+#: build/components/index.js:6
+msgid "Custom Size"
+msgstr "Vlastná veľkosť"
+
+#: build/edit-post/index.js:6
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: build/editor/index.js:11
+msgid "Scheduled"
+msgstr "Naplánované"
+
+#: build/editor/index.js:11
+msgid "Scheduling…"
+msgstr "Plánuje sa..."
+
+#: build/edit-post/index.js:6
+msgid "Visual editor selected"
+msgstr "Zvolený vizuálny editor"
+
+#: build/edit-post/index.js:6
+msgid "Code editor selected"
+msgstr "Zvolený editor kódu"
+
+#: build/editor/index.js:11
+msgid "Document Statistics"
+msgstr "Štatistiky dokumentu"
+
+#: build/editor/index.js:11
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Resetovanie šablóny môže spôsobiť stratu obsahu, želáte si pokračovať?"
+
+#: build/editor/index.js:11
+msgid "Reset the template"
+msgstr "Resetovať šablónu"
+
+#: build/editor/index.js:11
+msgid "Keep it as is"
+msgstr "Ponechať v stave akom je"
+
+#: build/editor/index.js:11
+msgid "is now scheduled. It will go live on"
+msgstr "je teraz naplánovaný. Zverejní sa"
+
+#: build/editor/index.js:11
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Obsah vášho príspevku neodpovedá šablóne priradenej k typu príspevku."
+
+#: build/blocks/index.js:2
+msgid "Layout elements"
+msgstr "Prvky rozloženia"
+
+#: build/editor/index.js:11
+msgid "Add new term"
+msgstr "Pridať nový výraz"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s added"
+msgstr "Výraz %s pridaný"
+
+#: build/editor/index.js:11
+msgid "Add new category"
+msgstr "Pridať novú kategóriu"
+
+#: build/editor/index.js:11
+msgid "Add new Term"
+msgstr "Pridať nový výraz"
+
+#: build/editor/index.js:11
+msgid "Add new tag"
+msgstr "Pridať novú značku"
+
+#: build/block-editor/index.js:49 build/block-directory/index.js:1
+msgid "Add block"
+msgstr "Pridať blok"
+
+#: build/edit-post/index.js:6
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Dodatočné nastavenia sú teraz dostupné v bočnom paneli nastavení editora. "
+
+#: build/components/index.js:6
+msgid "Item added."
+msgstr "Položka pridaná."
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Edit"
+msgstr "Upraviť"
+
+#: build/block-library/index.js:8
+msgid "Code"
+msgstr "Kód"
+
+#: build/block-library/index.js:8
+msgid "Write code…"
+msgstr "Napísať kód..."
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Categories"
+msgstr "Kategórie"
+
+#: build/block-library/index.js:8
+msgid "Show hierarchy"
+msgstr "Zobraziť hierarchiu"
+
+#: build/block-library/index.js:8
+msgid "Show post counts"
+msgstr "Zobraziť počet článkov"
+
+#: build/block-library/index.js:8
+msgid "Categories settings"
+msgstr "Nastavenia kategórií"
+
+#: build/block-library/index.js:8
+msgid "Add text…"
+msgstr "Pridať text..."
+
+#: build/block-library/index.js:8
+msgid "Button"
+msgstr "Tlačidlo"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Apply"
+msgstr "Použiť"
+
+#: build/block-editor/index.js:49 build/format-library/index.js:1
+msgid "Text Color"
+msgstr "Farba textu"
+
+#: build/block-editor/index.js:49
+msgid "Background Color"
+msgstr "Farba pozadia"
+
+#: build/block-library/index.js:8
+msgid "Block has been deleted or is unavailable."
+msgstr "Blok bol zmazaný alebo je nedostupný."
+
+#: build/block-editor/index.js:49
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: build/block-library/index.js:8
+msgid "%s URL"
+msgstr "%s URL adresa"
+
+#: build/block-library/index.js:8
+msgid "Write title…"
+msgstr "Napíšte titulok..."
+
+#: build/block-library/index.js:8
+msgid "Edit image"
+msgstr "Upraviť obrázok"
+
+#: build/block-library/index.js:8
+msgid "Columns"
+msgstr "Stĺpce"
+
+#: build/block-library/index.js:8
+msgid "Crop images"
+msgstr "Orezať obrázky"
+
+#: build/block-library/index.js:8
+msgid "Gallery settings"
+msgstr "Nastavenia galérie"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Gallery"
+msgstr "Galéria"
+
+#: build/block-library/index.js:8
+msgid "video"
+msgstr "video"
+
+#: build/block-library/index.js:8
+msgid "audio"
+msgstr "audio"
+
+#: build/block-library/index.js:8
+msgid "music"
+msgstr "hudba"
+
+#: build/block-library/index.js:8
+msgid "image"
+msgstr "obrázok"
+
+#: build/block-library/index.js:8
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:8
+msgid "post"
+msgstr "článok"
+
+#: build/block-library/index.js:8
+msgid "Custom HTML"
+msgstr "Vlastné HTML"
+
+#: build/block-library/index.js:8
+msgid "subtitle"
+msgstr "podtitulok"
+
+#: build/block-library/index.js:8
+msgid "title"
+msgstr "titulok"
+
+#: build/block-library/index.js:8
+msgid "Level"
+msgstr "Úroveň"
+
+#: build/block-library/index.js:8
+msgid "photos"
+msgstr "fotky"
+
+#: build/block-library/index.js:8
+msgid "images"
+msgstr "obrázky"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "None"
+msgstr "Žiadny"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Media File"
+msgstr "Súbor médií"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Attachment Page"
+msgstr "Stránka prílohy"
+
+#: build/block-library/index.js:8
+msgid "List"
+msgstr "Zoznam"
+
+#: build/block-library/index.js:8
+msgid "recent posts"
+msgstr "nedávny článok"
+
+#: build/block-library/index.js:8
+msgid "Latest Posts"
+msgstr "Najnovšie články"
+
+#: build/block-library/index.js:8
+msgid "Display post date"
+msgstr "Zobraziť dátum článku"
+
+#: build/block-library/index.js:8
+msgid "Grid view"
+msgstr "Mriežkové zobrazenie"
+
+#: build/format-library/index.js:1 build/block-library/index.js:8
+msgid "photo"
+msgstr "fotka"
+
+#: build/block-library/index.js:8
+msgid "Image settings"
+msgstr "Nastavenia obrázku"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Image"
+msgstr "Obrázok"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Preview"
+msgstr "Náhľad"
+
+#: build/block-library/index.js:8
+msgid "text"
+msgstr "text"
+
+#: build/components/index.js:6
+msgid "Font size"
+msgstr "Veľkosť písma"
+
+#: build/block-library/index.js:8
+msgid "Text settings"
+msgstr "Nastavenia textu"
+
+#: build/block-library/blocks/latest-posts.php:119
+#: build/block-library/index.js:8
+msgid "Read more"
+msgstr "Čítať viac"
+
+#: build/block-library/index.js:8
+msgid "numbered list"
+msgstr "číslovaný zoznam"
+
+#: build/block-library/index.js:8
+msgid "Add Row Before"
+msgstr "Pridať riadok pred"
+
+#: build/block-library/index.js:8
+msgid "Table"
+msgstr "Tabuľka"
+
+#: build/block-library/index.js:8
+msgid "Separator"
+msgstr "Oddeľovač"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Quote"
+msgstr "Citácia"
+
+#: build/components/index.js:6
+msgid "Order by"
+msgstr "Zoradiť podľa"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "Select"
+msgstr "Vybrať"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Vybrať alebo nahrať súbory médií"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Video"
+msgstr "Video"
+
+#: build/block-library/index.js:8
+msgid "New Column"
+msgstr "Nový stĺpec"
+
+#: build/block-library/index.js:8
+msgid "Delete Column"
+msgstr "Zmazať stĺpec"
+
+#: build/block-library/index.js:8
+msgid "Add Column After"
+msgstr "Pridať stĺpec za"
+
+#: build/block-library/index.js:8
+msgid "Add Column Before"
+msgstr "Pridať stĺpec pred"
+
+#: build/block-library/index.js:8
+msgid "Delete Row"
+msgstr "Zmazať riadok"
+
+#: build/block-library/index.js:8
+msgid "Add Row After"
+msgstr "Pridať riadok po"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+#: build/edit-post/index.js:6 build/components/index.js:6
+msgid "Close"
+msgstr "Zavrieť"
+
+#: build/block-editor/index.js:49
+msgid "Insert link"
+msgstr "Vložiť odkaz"
+
+#: build/block-editor/index.js:49
+msgid "Edit link"
+msgstr "Upraviť odkaz"
+
+#: build/editor/index.js:11 build/format-library/index.js:1
+#: build/block-library/index.js:8
+msgid "Link"
+msgstr "Odkaz"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Kurzíva"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Tučné"
+
+#: build/block-library/index.js:8 build/components/index.js:6
+msgid "Number of items"
+msgstr "Počet položiek"
+
+#: build/block-editor/index.js:49
+msgid "All"
+msgstr "Všetko"
+
+#: build/editor/index.js:11
+msgid "Category"
+msgstr "Kategória"
+
+#: build/components/index.js:6
+msgid "Oldest to newest"
+msgstr "Od najstaršieho po najnovšie"
+
+#: build/components/index.js:6
+msgid "Newest to oldest"
+msgstr "Od najnovšieho po najstaršie"
+
+#: build/components/index.js:6
+msgid "Item removed."
+msgstr "Položka odobraná."
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Vyskytla sa neznáma chyba."
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "No results."
+msgstr "Žiadne výsledky."
+
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:89 build/editor/index.js:11
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "(no title)"
+msgstr "(bez názvu)"
+
+#: build/block-editor/index.js:49 build/block-library/index.js:8
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:49
+msgid "Submit"
+msgstr "Odoslať"
+
+#: build/editor/index.js:11
+msgid "Block deleted."
+msgstr "Blok zmazaný."
+
+#: build/editor/index.js:11
+msgid "Block updated."
+msgstr "Blok aktualizovaný."
+
+#: build/editor/index.js:11
+msgid "Block created."
+msgstr "Blok vytvorený."
+
+#: build/editor/index.js:11
+msgid "Words"
+msgstr "Slová"
+
+#: build/editor/index.js:11
+msgid "Content structure"
+msgstr "Štruktúra obsahu"
+
+#: build/editor/index.js:11
+msgid "Public"
+msgstr "Verejné"
+
+#: build/editor/index.js:11
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Chránené heslom, ktoré si vyberiete. Iba tí s heslom si môžu pozrieť tento príspevok."
+
+#: build/editor/index.js:11
+msgid "Password Protected"
+msgstr "Chránené heslom"
+
+#: build/editor/index.js:11
+msgid "Private"
+msgstr "Súkromné"
+
+#: build/editor/index.js:11
+msgid "Visible to everyone."
+msgstr "Viditeľné pre všetkých."
+
+#: build/editor/index.js:11
+msgid "Use a secure password"
+msgstr "Použite bezpečné heslo"
+
+#: build/editor/index.js:11
+msgid "Create password"
+msgstr "Vytvoriť bezpečné heslo"
+
+#: build/editor/index.js:11
+msgid "Publish:"
+msgstr "Publikovať:"
+
+#: build/editor/index.js:11
+msgid "Visibility:"
+msgstr "Viditeľnosť:"
+
+#: build/editor/index.js:11
+msgid "Are you ready to publish?"
+msgstr "Pripravený na publikovanie?"
+
+#: build/editor/index.js:11
+msgid "Copy Link"
+msgstr "Kopírovať odkaz"
+
+#: build/editor/index.js:11
+msgid "What’s next?"
+msgstr "Čo ďalej?"
+
+#: build/editor/index.js:11
+msgid "Published"
+msgstr "Zverejnené"
+
+#: build/editor/index.js:11
+msgid "Schedule"
+msgstr "Naplánovať"
+
+#: build/editor/index.js:11 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Aktualizovať"
+
+#: build/editor/index.js:11
+msgid "Submit for Review"
+msgstr "Odoslať na kontrolu"
+
+#: build/editor/index.js:11
+msgid "Allow comments"
+msgstr "Povoliť komentáre"
+
+#: build/editor/index.js:11
+msgid "Template:"
+msgstr "Šablóna:"
+
+#: build/editor/index.js:11
+msgid "Saved"
+msgstr "Uložené"
+
+#: build/editor/index.js:11
+msgid "Blocks"
+msgstr "Bloky"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Search for a block"
+msgstr "Vyhľadať blok"
+
+#: build/editor/index.js:11
+msgid "Copy Error"
+msgstr "Kopírovať chybu"
+
+#: build/editor/index.js:11
+msgid "Copy Post Text"
+msgstr "Kopírovať text článku"
+
+#: build/block-editor/index.js:49
+msgid "More options"
+msgstr "Viac možností"
+
+#: build/block-editor/index.js:49
+msgid "Edit visually"
+msgstr "Upraviť vizuálne"
+
+#: build/block-editor/index.js:49
+msgid "Duplicate"
+msgstr "Duplikovať"
+
+#: build/block-editor/index.js:49
+msgid "Convert to Blocks"
+msgstr "Konvertovať na bloky"
+
+#: build/block-editor/index.js:49
+msgid "Block: %s"
+msgstr "Blok: %s"
+
+#: build/block-library/index.js:8 build/block-directory/index.js:1
+#: build/edit-post/index.js:6
+msgid "Remove"
+msgstr "Odobrať"
+
+#: build/edit-post/index.js:6
+msgid "Find original"
+msgstr "Nájsť originál"
+
+#: build/edit-post/index.js:6
+msgid "Copy all content"
+msgstr "Kopírovať celý obsah"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+#: build/edit-post/index.js:6
+msgid "Copied!"
+msgstr "Skopírované!"
+
+#: build/edit-post/index.js:6
+msgid "Visibility"
+msgstr "Viditeľnosť"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Tools"
+msgstr "Nástroje"
+
+#: build/edit-post/index.js:6
+msgid "Editor"
+msgstr "Editor"
+
+#: build/edit-post/index.js:6
+msgid "Code editor"
+msgstr "Editor kódu"
+
+#: build/edit-post/index.js:6
+msgid "Visual editor"
+msgstr "Vizuálny editor"
+
+#: build/edit-post/index.js:6
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "Reset"
+msgstr "Resetovať"
+
+#: build/block-library/index.js:8
+msgid "Write citation…"
+msgstr "Napíšte citáciu..."
+
+#: build/components/index.js:6
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:6
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:6
+msgid "Drop files to upload"
+msgstr "Presuňte a nahrajte súbory"
+
+#: build/editor/index.js:11
+msgid "Only visible to site admins and editors."
+msgstr "Viditeľné iba pre administrátorov a editorov webovej stránky."
+
+#: build/editor/index.js:11
+msgid "Post Visibility"
+msgstr "Viditeľnosť článku"
+
+#: build/editor/index.js:11
+msgid "Updating…"
+msgstr "Prebieha aktualizácia..."
+
+#: build/editor/index.js:11
+msgid "Publishing…"
+msgstr "Prebieha publikovanie..."
+
+#: build/block-library/index.js:8
+msgid "Use URL"
+msgstr "Použiť URL adresu"
+
+#: build/block-library/index.js:8
+msgid "embed"
+msgstr "vložiť"
+
+#: build/block-library/index.js:8
+msgid "Embedded content from %s"
+msgstr "Vložiť obsah z %s"
+
+#: build/block-library/index.js:8
+msgid "Heading %d"
+msgstr "Nadpis %d"
+
+#: build/block-library/index.js:8
+msgid "Heading settings"
+msgstr "Nastavenia nadpisu"
+
+#: build/block-library/index.js:8
+msgid "Enter URL to embed here…"
+msgstr "Zadajte URL adresu, ktorá sa sem vloží..."
+
+#: build/block-library/index.js:8
+msgid "Embedding…"
+msgstr "Vkladanie..."
+
+#: build/block-library/index.js:8
+msgid "Write heading…"
+msgstr "Napíšte nadpis..."
+
+#: build/block-library/index.js:8
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: build/block-library/index.js:8
+msgid "divider"
+msgstr "oddeľovač"
+
+#: build/block-library/index.js:8
+msgid "Write quote…"
+msgstr "Napíšte citáciu..."
+
+#: build/edit-post/index.js:6
+msgid "Close settings"
+msgstr "Zatvoriť nastavenia"
+
+#: build/edit-post/index.js:6
+msgid "Block"
+msgstr "Blok"
+
+#: build/editor/index.js:11
+msgid "(Empty heading)"
+msgstr "(Prázdny nadpis)"
+
+#: build/block-editor/index.js:49
+msgid "Move down"
+msgstr "Posunúť dole"
+
+#: build/block-editor/index.js:49
+msgid "Move up"
+msgstr "Posunúť hore"
+
+#: build/block-editor/index.js:49
+msgid "Edit as HTML"
+msgstr "Upraviť ako HTML"
+
+#: build/editor/index.js:11
+msgid "Order"
+msgstr "Poradie"
+
+#: build/editor/index.js:11
+msgid "Status"
+msgstr "Status"
+
+#: build/editor/index.js:11
+msgid "Standard"
+msgstr "Štandardný"
+
+#: lib/client-assets.php:164 build/editor/index.js:11
+#: build/edit-post/index.js:6
+msgid "Featured image"
+msgstr "Ilustračný obrázok"
+
+#: build/editor/index.js:11
+msgid "Set featured image"
+msgstr "Nastaviť ilustračný obrázok"
+
+#: build/editor/index.js:11
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d revízia"
+msgstr[1] "%d revízie"
+msgstr[2] "%d revízií"
+
+#: build/editor/index.js:11
+msgid "Move to Trash"
+msgstr "Zahodiť do koša"
+
+#: build/editor/index.js:11
+msgid "Headings"
+msgstr "Nadpisy"
+
+#: build/editor/index.js:11
+msgid "Save Draft"
+msgstr "Uložiť koncept"
+
+#: build/edit-post/index.js:6
+msgid "View post"
+msgstr "Zobraziť článok"
+
+#: build/editor/index.js:11
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Náhľad"
+
+#: build/editor/index.js:11
+msgid "Trashing failed"
+msgstr "Odstránenie zlyhalo"
+
+#: build/editor/index.js:11
+msgid "Scheduling failed."
+msgstr "Plánovanie zlyhalo"
+
+#: build/editor/index.js:11
+msgid "Publishing failed."
+msgstr "Publikovanie zlyhalo"
+
+#: build/editor/index.js:11
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Máte neuložené zmeny. Ak budete pokračovať, stratíte ich."
+
+#: build/editor/index.js:11
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Vaša téma môže už používať H1 pre názov článku)"
+
+#: build/editor/index.js:11
+msgid "(Incorrect heading level)"
+msgstr "(Nesprávny level nadpisu)"
+
+#: build/block-library/index.js:8
+msgid "Write subheading…"
+msgstr "Napíšte podnadpis..."
+
+#: build/block-library/index.js:8
+msgid "Write shortcode here…"
+msgstr "Napíšte sem shortcode..."
+
+#: build/block-library/index.js:8
+msgid "Write list…"
+msgstr "Napíšte zoznam..."
+
+#: build/block-library/index.js:8
+msgid "ordered list"
+msgstr "číslovaný zoznam"
+
+#: build/block-library/index.js:8
+msgid "bullet list"
+msgstr "odrážkový zoznam"
+
+#: build/block-library/index.js:8
+msgid "Convert to ordered list"
+msgstr "Konvertovať na číslovaný zoznam"
+
+#: build/block-library/index.js:8
+msgid "Convert to unordered list"
+msgstr "Konvertovať na nečíslovaný zoznam"
+
+#: build/block-library/index.js:8
+msgid "Preformatted"
+msgstr "Predformátovaný"
+
+#: build/block-library/index.js:8
+msgid "Write preformatted text…"
+msgstr "Napíšte predformátovaný text..."
+
+#: build/block-library/index.js:8
+msgid "No posts found."
+msgstr "Žiadne články nenájdené."
+
+#: build/block-library/index.js:8
+msgid "List view"
+msgstr "Zobraziť zoznam"
+
+#: build/block-library/index.js:8
+msgid "Write…"
+msgstr "Napíšte..."
+
+#: build/block-library/index.js:8
+msgid "poetry"
+msgstr "poézia"
+
+#: build/block-library/index.js:8
+msgid "Verse"
+msgstr "Verš"
+
+#: build/edit-post/index.js:6
+msgid "Page attributes"
+msgstr "Vlastnosti stránky"
+
+#: build/components/index.js:6
+msgid "Dismiss this notice"
+msgstr "Skryť toto oznámenie"
+
+#: build/editor/index.js:11
+msgid "Tag"
+msgstr "Značka"
+
+#: build/editor/index.js:11
+msgid "Term"
+msgstr "Výraz"
+
+#: build/editor/index.js:11
+msgid "Immediately"
+msgstr "Ihneď"
+
+#: build/editor/index.js:11
+msgid "Saving"
+msgstr "Ukladá sa"
+
+#: build/editor/index.js:11
+msgid "is now live."
+msgstr "je teraz zverejnený."
+
+#: build/editor/index.js:11
+msgid "Post Format"
+msgstr "Formát článku"
+
+#: build/editor/index.js:11
+msgid "Permalink:"
+msgstr "Trvalý odkaz:"
+
+#: build/editor/index.js:11
+msgid "Undo"
+msgstr "Späť"
+
+#: build/editor/index.js:11
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Viacero H1 nadpisov sa neodporúča)"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "Document"
+msgstr "Dokument"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Prečiarknuté"
+
+#: build/editor/index.js:11
+msgid "Aside"
+msgstr "Poznámka"
+
+#: build/editor/index.js:11
+msgid "Chat"
+msgstr "Chat"
+
+#: build/editor/index.js:11
+msgid "Pending review"
+msgstr "Čaká na schválenie"
+
+#: build/editor/index.js:11
+msgid "Write an excerpt (optional)"
+msgstr "Napíšte zhrnutie (voliteľné)"
+
+#: build/editor/index.js:11
+msgid "Switch to draft"
+msgstr "Zmeniť na koncept"
+
+#: build/editor/index.js:11
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Naozaj chcete zrušiť uverejnenie tohto článku?"
+
+#: build/block-editor/index.js:49
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Blok %s je jediný blok a nemôže byť posunutý"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Bloky nemôžu byť posunuté nahor, pretože sú už na vrchu"
+
+#: build/block-editor/index.js:49
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Bloky nemôžu byť posunuté nadol, pretože sú už na spodku"
+
+#: build/block-library/index.js:8
+msgid "horizontal-line"
+msgstr "horizontálna čiara"
+
+#: build/editor/index.js:11
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s odstránený"
+
+#: build/editor/index.js:11
+msgid "no title"
+msgstr "žiadny nadpis"
+
+#: build/block-editor/index.js:49 build/edit-post/index.js:6
+msgid "No blocks found."
+msgstr "Žiadny blok sa nenašiel."
+
+#: build/editor/index.js:11
+msgid "Parent Category"
+msgstr "Nadradená kategória"
+
+#: build/editor/index.js:11
+msgid "Parent Term"
+msgstr "Nadradený výraz"
+
+#: build/editor/index.js:11
+msgid "Convert to Regular Block"
+msgstr "Konvertovať na normálny blok"
+
+#: build/block-editor/index.js:49
+msgid "No block selected."
+msgstr "Nie je vybratý žiadny blok."
+
+#: build/block-library/index.js:8
+msgid "Write caption…"
+msgstr "Napíšte titulok..."
+
+#: build/block-library/index.js:8
+msgid "Display as dropdown"
+msgstr "Zobraziť ako rozbaľovací zoznam"
+
+#: build/editor/index.js:11
+msgid "Allow pingbacks & trackbacks"
+msgstr "Povoliť spätné odkazy a spätné upozornenia"
+
+#: build/editor/index.js:11
+msgid "Suggestion:"
+msgstr "Návrh:"
+
+#: build/editor/index.js:11
+msgid "Redo"
+msgstr "Dopredu"
+
+#: build/edit-post/index.js:6
+msgid "Transform into:"
+msgstr "Zmeniť na:"
+
+#: build/edit-post/index.js:6
+msgid "Status & visibility"
+msgstr "Stav a Viditeľnosť"
+
+#: build/editor/index.js:11
+msgid "Would you like to privately publish this post now?"
+msgstr "Chcete tento článok zverejniť súkromne?"
+
+#: build/block-library/index.js:8
+msgid "Classic"
+msgstr "Klasický"
+
+#: build/block-editor/index.js:49 build/components/index.js:6
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d výsledok bol nájdený, použite klávesy hore a dolu pre navigáciu."
+msgstr[1] "%d výsledky boli nájdené, použite klávesy hore a dolu pre navigáciu."
+msgstr[2] "%d výsledkov bolo nájdených, použite klávesy hore a dolu pre navigáciu."
+
+#: build/blocks/index.js:2
+msgid "Reusable blocks"
+msgstr "Znovupoužiteľné bloky"
+
+#: build/components/index.js:6
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:6
+msgid "AM"
+msgstr "AM"
+
+#: build/block-library/index.js:8
+msgid "Pullquote"
+msgstr "Citácia"
+
+#: build/block-library/index.js:8
+msgid "Indent list item"
+msgstr "Položka zoznamu odsadenia"
+
+#: build/block-library/index.js:8
+msgid "Outdent list item"
+msgstr "Položka zoznamu predsadenia"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Vložené prvky"
+
+#: build/editor/index.js:11
+msgid "Attempt Recovery"
+msgstr "Pokus o obnovu"
+
+#: build/editor/index.js:11
+msgid "The editor has encountered an unexpected error."
+msgstr "Editor zaznamenal neočakávanú chybu."
+
+#: build/editor/index.js:11
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Ste si istí, že chcete vymazať tento Znovupoužiteľný blok?\n"
+"\n"
+"Bude trvale zmazaný zo všetkých príspevkov a stránok, ktoré ho používajú."
+
+#: build/block-editor/index.js:49
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Tento blok zaznamenal neočakávanú chybu a nemôže byť prezretý."
+
+#: build/block-editor/index.js:49
+msgid "Editor content"
+msgstr "Obsah editora"
+
+#: build/block-editor/index.js:49
+msgid "Editor top bar"
+msgstr "Top bar editora"
+
+#: build/editor/index.js:11
+msgid "Learn more about manual excerpts"
+msgstr "Získajte viac informácií o manuálnych úryvkoch"
+
+#: build/editor/index.js:11
+msgid "no parent"
+msgstr "žiadny rodič"
+
+#: build/block-library/index.js:8
+msgid "Heading"
+msgstr "Nadpis"
+
+#: build/block-library/index.js:8
+msgid "Paragraph"
+msgstr "Odsek"
+
+#: build/block-library/index.js:8
+msgid "Drop cap"
+msgstr "Drop Cap"
+
+#: build/editor/index.js:11
+msgid "Paragraphs"
+msgstr "Odseky"
+
+#: build/editor/index.js:11
+msgid "Document Outline"
+msgstr "Orámovanie dokumentu"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d nájdený výsledok."
+msgstr[1] "%d nájdené výsledky."
+msgstr[2] "%d nájdených výsledkov."
+
+#: build/block-library/index.js:8
+msgid "Edit table"
+msgstr "Upraviť tabuľku"
+
+#: build/editor/index.js:11
+msgid "Updating failed."
+msgstr "Aktualizácia zlyhala."
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the end of the content and can’t be moved right"
+msgstr "Blok %1$s je na konci obsahu a nemôže byť posunutý vpravo"
+
+#: build/block-editor/index.js:49
+msgid "Block %1$s is at the beginning of the content and can’t be moved right"
+msgstr "Blok %1$s je na začiatku obsahu a nemôže byť posunutý vpravo"
+
+#: build/block-library/index.js:8
+msgid "Fixed background"
+msgstr "Pevné pozadie"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formátovanie"
+
+#: build/block-editor/index.js:49
+msgid "Align right"
+msgstr "Zarovnať vpravo"
+
+#: build/block-editor/index.js:49
+msgid "Align center"
+msgstr "Zarovnať na stred"
+
+#: build/block-editor/index.js:49
+msgid "Align left"
+msgstr "Zarovnať vľavo"
+
+#: lib/experiments-page.php:45 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Widgety"
+
+#: build/editor/index.js:11 build/block-editor/index.js:49
+#: build/block-library/index.js:8
+msgid "Audio"
+msgstr "Audio"
+
+#: build/block-editor/index.js:49
+msgid "Upload"
+msgstr "Nahrať"
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Táto farebná kombinácia môže byť pre ľudí ťažšie čitateľná. Skúste použiť jasnejšiu farbu pozadia a / alebo tmavšiu farbu textu."
+
+#: build/block-editor/index.js:49
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Táto farebná kombinácia môže byť pre ľudí ťažšie čitateľná. Skúste použiť tmavšiu farbu pozadia a / alebo svetlejšiu farbu textu. "
+
+#: build/components/index.js:6
+msgid "Clear"
+msgstr "Vyčistiť"
+
+#: build/components/index.js:6
+msgid "Color: %s"
+msgstr "Farba: %s"
+
+#: build/block-editor/index.js:49
+msgid "Full width"
+msgstr "Plná širka"
+
+#: build/blocks/index.js:2
+msgid "Common blocks"
+msgstr "Bežné bloky"
+
+#: build/block-editor/index.js:49
+msgid "HTML anchor"
+msgstr "HTML kotva"
+
+#: build/components/index.js:6
+msgid "Custom color picker"
+msgstr "Vlastný výber farby"
+
+#: build/block-editor/index.js:49
+msgid "Wide width"
+msgstr "Na celú šírku"
+
+#: build/block-editor/index.js:49
+msgid "Additional CSS class(es)"
+msgstr "Dodatočné CSS triedy"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Tlač od roku 1440. Toto je vývojový plugin pre nový editor blokov v jadre."
+
+#: build/editor/index.js:11
+msgid "Add title"
+msgstr "Zadajte nadpis"
+
+#: gutenberg.php:116
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Gutenberg vo vývojovom režime vyžaduje vytvorenie súborov. Spustite <code>npm install</code>, pre inštaláciu závislostí, <code>npm run build</code> pre vytvorenie súborov alebo <code>npm run dev</code> pre vytvorenie súborov a sledovanie zmien. Ďalšie informácie nájdete v súbore <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">prispievanie</a>."
+
+#: gutenberg.php:78
+msgid "Documentation"
+msgstr "Dokumentácia"
+
+#. translators: %s: Human-readable time difference.
+#: lib/class-wp-rest-block-directory-controller.php:305
+msgid "%s ago"
+msgstr "pred %s"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg tím"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:11
+msgid "Author"
+msgstr "Autor"
+
+#: lib/templates.php:136 lib/template-parts.php:99 build/editor/index.js:11
+#: build/block-library/index.js:8
+msgid "Slug"
+msgstr "Slug"
+
+#: build/edit-post/index.js:6
+msgid "Discussion"
+msgstr "Diskusia"
+
+#: build/edit-post/index.js:6
+msgid "Custom fields"
+msgstr "Vlastné polia"
+
+#: build/block-library/index.js:8 build/edit-post/index.js:6
+msgid "Excerpt"
+msgstr "Výňatok"
+
+#: build/editor/index.js:11 build/edit-post/index.js:6
+msgid "Publish"
+msgstr "Publikovať"
+
+#: build/editor/index.js:11 build/block-library/index.js:8
+msgid "Save"
+msgstr "Uložiť"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Zvoľte kategóriu"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#: build/block-library/index.js:8
+msgid "Metadata"
+msgstr "Metadata"
+
+#: build/block-library/index.js:8
+msgid "(Untitled)"
+msgstr "(Bez názvu)"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:103
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg vyžaduje WordPress %s alebo novší pre správne fungovanie. Pred aktiváciou Gutenberg prosím aktualizujte WordPress."
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "Názov štýlu bloku musí byť reťazec."
+
+#: build/core-data/index.js:1
+msgid "Comment"
+msgstr "Komentár"

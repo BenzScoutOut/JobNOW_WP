@@ -1,0 +1,3457 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Thai
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:13:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: th\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "อัตราส่วนกว้างยาว 16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "อัตราส่วนกว้างยาว 4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "อนุญาตให้ปรับสไตล์ด้วยการเติมสีทึบแบบไล่ระดับ"
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "สไตล์ไล่ระดับสี"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "อนุญาตให้ปรับสไตล์ด้วยการปรับแต่งสี"
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "ตัวเลือกสีที่กำหนดเอง"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "อนุญาตให้ใช้การตั้งค่าสีสำหรับตัวแก้ไขทั้งหมด"
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "การตั้งค่าสี"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "อนุญาตให้ใช้ส่วนควบคุมการออกแบบตัวอักษรระดับบล็อก"
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "ส่วนควบคุมการออกแบบตัวอักษร"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "การตั้งค่าตัวแก้ไข"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "การตั้งค่าใช้เพื่อปิดหรือเปิดส่วนควบคุมการไล่ระดับสีและการตั้งค่าล่วงหน้าทั่วทั้งเว็บ"
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "การตั้งค่าใช้เพื่อปิดหรือเปิดใช้งานส่วนควบคุมการปรับแต่งสีทั่วทั้งเว็บ"
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "การตั้งค่าใช้เพื่อปิดหรือเปิดส่วนควบคุมสีทั้งหมดทั่วเว็บ"
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "การตั้งค่าใช้เพื่อปิดหรือเปิดใช้งานส่วนควบคุมการออกแบบตัวอักษรทั่วทั้งเว็บ"
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "ตำแหน่งที่ตั้ง..."
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "เวลา..."
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "เขียนคำอธิบายกิจกรรม..."
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "เขียนชื่อกิจกรรม..."
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "ปี..."
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "เดือน..."
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "วัน..."
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "กิจกรรมภายในบล็อกกิจกรรม"
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "รายการกิจกรรม"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "แสดงกิจกรรมจากช่วงเวลานั้น (ไม่เกิน 100 กิจกรรม)"
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "กิจกรรมต่อหน้า"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "เปลี่ยนไปเชื่อมโยงกับปฏิทินสาธารณะ"
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "กำลังแสดงปฏิทินสาธารณะ"
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "กรอก URL ที่นี่…"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "เรียกข้อมูลทั้งหมด"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "วันที่"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "เพิ่มรายการกิจกรรมหรือแสดงกิจกรรมจากปฏิทินสาธารณะ"
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "กิจกรรม"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "ล้างค่าสื่อ"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "จอภาพ"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "เกิดข้อผิดพลาด โปรดตรวจสอบสิทธิ์ของปฏิทินเพื่อให้แน่ใจว่าเป็นสาธารณะหรือลองอีกครั้งภายหลัง"
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "ซอฟต์แวร์"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "อัปโหลด"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "ปรับปรุง"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "ทันสมัย"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "เป็นกระแส"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "เผ็ดร้อน"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "วิทยาลัย"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "ประกาศนียบัตร"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "ปริญญา"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "การสำเร็จการศึกษา"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "สำเร็จการศึกษา"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "การศึกษา"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "ฤดู"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "ฤดูหนาว"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "หนาวมาก"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "น้ำแข็ง"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "หนาว"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "จัดส่ง"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "ตะกร้าสินค้า"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "วิศวกร"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "พัฒนา"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "ตัวบอกสถานะ"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "คำพูด"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "ภาษา"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "ความปลอดภัย"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "ปลอดภัย"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "ข้อมูลชีวภาพ"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "การป้องกัน"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "ประวัติ"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "การรักษาความปลอดภัย"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "ร่วมกัน"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "ทีม"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "วิดเจ็ต"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "ปลั๊กอิน"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "ตัวต่อ"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "อีคอมเมิร์ซ"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "การค้าขาย"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "ร้านค้า"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "ชำระเงิน"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "เงินสด"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "เงิน"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "ดอกไม้"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "การทำสวน"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "ดี"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "กลิ่น"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "กลิ่นหอม"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "กลีบดอกไม้"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "งานฉลอง"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "ปาร์ตี้"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "เก้าอี้"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "ผ่อนคลาย"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "เย็น"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "สุดสัปดาห์"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "รสขาติ"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "ช้อน"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "ส้อม"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "เครื่องดื่ม"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "อาหาร"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "ตึกสูง"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "เมือง"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "อาคาร"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "องค์กร"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "ธุรกิจ"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "ตำแหน่งที่ตั้ง"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "โลก"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "ทั่วโลก"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "สาธารณะ"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "โลก"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "ฤดร้อน"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "น้ำ"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "ทะเล"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "ภายนอก"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "กลางแจ้ง"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "น้อยที่สุด"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "ทัศนียภาพ"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "เนิน"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "ช่องกาหลายตัวเลือก"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "กาเครื่องหมาย"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "แผนที่"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "วิดเจ็ต"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "สี่เหลี่ยม"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "กล่อง"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "กล่อง"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "คลื่น"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "ช่องเลือกตัวเลือกเดียว"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "ไวไฟ"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "ส่ง"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "ส่ง"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "แสดงความเห็น"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "ตอบกลับ"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "ตอบกลับ"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "ตัวอักษร"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "อ่าน"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "ฮับ"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "เชื่อมต่อ"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "พื้นผิว"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "สำนักงาน"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "โต๊ะ"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "พีซี"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "ชื่นชอบ"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "นิยม"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "โหวต"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "จัดอันดับ"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "จูบ"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "วาเลนไทน์"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "รูปร่าง"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "รัก"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "การออกแบบตัวอักษร"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "ตำแหน่งปักหมุด"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "ดินสอ"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "แบบอักษร"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "ประเภท"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "ศิลปะ"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "ภาพวาดเล่น"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "ภาพวาด"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "กรีก"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "ดีใจ"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "สนุก"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "ยิ้ม"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "อิโมติคอน"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "อารมณ์"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "มีความสุข"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "ข้อมูล"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "จุด"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "กราฟ"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "แผนภูมิ"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "พาย"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "สถิติ"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "เลขคณิต"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "วงกลม"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "บวก"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "แทรก"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "วงกลม"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "ลบ"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "เพิ่ม"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "พู่กัน"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "สีระบาย"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "สี"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "จานสี"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "ผู้ผลิต"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "ผู้กำกับ"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "การถ่ายวิดีโอ"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "คอลเลกชัน"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "รูรับแสง"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "ฟิล์ม"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "กล้อง"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "การถ่ายภาพ"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "ช่างภาพ"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "ภาพถ่าย"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "อุปกรณ์"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "คอมพิวเตอร์"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "หูฟัง"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "จังหวะ"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "เสียง"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "สร้างสรรค์"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "ศิลปิน"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "เพลง"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "พ็อดแคสต์"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "ไมโครโฟน"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "ดนตรี"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "ออกแบบ"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "สร้าง"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "บล็อก"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "บล็อก"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "อัปโหลดไฟล์สื่อหรือเลือกจากคลังไฟล์สื่อของคุณ"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "แสดงรูปภาพในคลังแบบเรียงอิฐที่ได้สมดุล"
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "สมดุล"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "จองเวลานัดหมาย"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "บ่าย"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "เช้า"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "เวลา"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "การนัดหมาย"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "มีหมายเหตุใช่ไหม"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "ไม่ใช่"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "ใช่"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "คุณจะเข้าร่วมหรือไม่"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "กับแขกอีกหนึ่งคน"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "โปรดตอบกลับ"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "ติดต่อเรา"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "ข้อมูลติดต่อ"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "คุณอาจใช้แท็กต่อไปนี้ในช่องเรื่อง: "
+
+#: includes/class-coblocks-form.php:974 dist/coblocks.js:58
+msgid "name"
+msgstr "ชื่อ"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "แบบฟอร์มส่งจาก [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "เขียนคำบรรยายคลัง..."
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "พื้นที่สื่อ"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "เพิ่มชื่อเรื่อง..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "ชื่อเมนู..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "เพิ่มปุ่ม..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "เขียนข้อความ..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "เขียนชื่อเรื่อง..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "เพิ่มเนื้อหา..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "เพิ่มหัวเรื่อง..."
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "ลิงก์"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "โพรไฟล์บนสังคมออนไลน์"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "ไอคอนและข้อความ"
+
+#: includes/class-coblocks-form.php:378 dist/coblocks.js:58
+msgid "Text"
+msgstr "ข้อความ"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "มาสก์"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "โซเชียล"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "แชร์"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "แหลม"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "สามเหลี่ยม"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "โค้ง"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "ลาด"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "เอียง"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "เนิน"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "ลอน"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "ตัวคั่น"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "รูปร่างสำหรับแบ่งหน้าจอ"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "ลักษณะเด่น"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "บริการ"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "เขียนคำอธิบาย..."
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "บริการ"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "เค้าโครง"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "คอลัมน์"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "แถว"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "รายการตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "การเปรียบเทียบ"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "หน้าเริ่มต้น"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "ตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "ตัวเลื่อน"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "แสดงเรื่องหรือฟีดบล็อกภายนอกเป็นแถบหมุน"
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(ไม่มีชื่อเรื่อง)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "พีด RSS"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "แนวนอน"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "ล่าสุด"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "บล็อก"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "เรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "แสดงเรื่องหรือฟีด RSS เป็นแบบเรียงแนวตั้งหรือแบบการ์ดแนวนอน"
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "เรื่อง"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "วิดีโอ"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "รูปภาพ"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "ทิศทาง"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "แผนที่"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "ที่อยู่"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "แผนที่"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "ย่อหน้า"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "สีเน้นข้อความ"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "ปุ่มรอง..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "เพิ่มหัวเรื่องของส่วนนำเรื่อง..."
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "ปุ่ม"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "ส่วนนำเรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "แก้ไข URL %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "ย้อนกลับไปยัง %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "โค้ด"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "กิสต์"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "ภาพเคลื่อนไหว"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "ข้อมูลที่กรอก"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "ช่องข้อความที่ซ่อนไว้สำหรับรวบรวมข้อมูลเพิ่มเติม"
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "url"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "ไฮเปอร์ลิงค์"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "ช่องข้อความสำหรับเก็บข้อมูล URL"
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "ฟิลด์กาเครื่องหมายที่มีหลายตัวเลือกซึ่งสามารถเลือกได้หลายรายการ"
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "รายการแบบเปิดลง"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "ฟิลด์แบบเปิดลงที่มีหลายตัวเลือกซึ่งสามารถเลือกได้เพียงรายการเดียว"
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "ข้อความหลายบรรทัด"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "ข้อความ"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "ข้อความ"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "พื้นที่ข้อความ"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "แฟกซ์"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "อุปกรณ์เคลื่อนที่"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "เซลล์"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "มือถือ"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "โทรศัพท์"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "ตัวเลือก"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "เลือก"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "เลือก"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "ช่องเลือกตัวเลือกเดียว"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "นามสกุล"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "ชื่อ"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "เมล"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "อีเมล"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "ปี"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "เดือน"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "วัน"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "ปฏิทิน"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "ข้อมูลติดต่อ"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "เกี่ยวกับ"
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "email"
+msgstr "อีเมล"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "แบบฟอร์ม"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "รายการอาหาร"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "รายการ"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "ตาราง"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "เมนู"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "ร้านอาหาร"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "อาหารและเครื่องดื่ม"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "คุณสมบัติพิเศษ"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "นี่เป็นบล็อกคุณสมบัติพิเศษที่คุณสามารถใช้เพื่อเน้นคุณสมบัติพิเศษได้"
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "เพิ่มเนื้อหาคุณสมบัติพิเศษ"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "ชื่อคุณสมบัติพิเศษ"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "เพิ่มชื่อคุณสมบัติพิเศษ..."
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "คุณสมบัติพิเศษ"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "เต็มความกว้าง"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "เส้น"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "จุด"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "ช่องไฟ"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "ระยะแนวนอนแบบไดนามิก"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "คอลัมน์"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "แบบทับซ้อน"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "แบบเรียงกระเบื้อง"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "ภาพปะติด"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "แชร์"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "กดเพื่อทวีต"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "ปรับขนาดตามพื้นที่"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "เต็มพื้นที่"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "อัตโนมัติ"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "เรียงแนวตั้งบนมือถือ"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "กระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "ลิงก์"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "ลิงก์ผู้เขียน..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "วางเพื่ออัปโหลดเป็นรูปประจำตัว"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "บุคคลนิรนาม"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "โปรไฟล์"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "ชีวประวัติ"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "ผู้เขียน"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "ข้อผิดพลาด"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "คำเตือน"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "ความสำเร็จ"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "ข้อมูล"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "ข้อความ"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "การแจ้งให้ทราบ"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "การแจ้งเตือน"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "เขียนขื่อรายการแอคคอร์เดียน..."
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "รายการแอคคอร์เดียน"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "แท็บ"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "แอคคอร์เดียน"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "คลื่นด้านบน"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "คลื่นด้านล่าง"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "สามมิติ"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "กลม"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "ช่องกาหลายตัวเลือก"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "การ์ดสื่อ"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "กล่องไฟ"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "ม่วง"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "กลางคืน"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "ย้อนยุค"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "สีเงิน"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "มาตรฐาน"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "เครื่องหมายรับรอง"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "รางวัล"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "คำนิยม"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "การพิสูจน์ตัวตน"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "ลูกค้า"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "อ่อน"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "เข้ม"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "ภาพถ่าย"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "คลัง"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "เปลี่ยนเป็นตัวพิมพ์ใหญ่"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "ตัวพิมพ์เล็ก"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "ปุ่มหลัก..."
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "ตัวหนา"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "ปกติ"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "ทึบ"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "มีเส้นขอบ"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "ไอคอน"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "ไอคอน"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "สลับไปแสดง %s เป็นแถว"
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "แสดง %s เป็นแถว"
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "%s แบบแถว"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "อัปเดต"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "ไฟ"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "โรงเรียน"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "เกล็ดหิมะ"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "จัดส่ง"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "เลเยอร์"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "แสงกระจาย"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "ใหม่"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "แปล"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "ลายนิ้วมือ"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "ส่วนขยายเพิ่มเติม"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "บัตรเครดิต"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "สร้าง"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "ดอกไม้"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "เค้ก"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "โซฟา"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "อาหารค่ำ"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "เมือง"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "โลก"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "คลื่น"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "ภูเขา"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "ตำแหน่งปักหมุด"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "บล็อก"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "สัญญาณ"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "ส่ง"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "ตอบกลับ"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "ฮับ"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "คีย์บอร์ด"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "ติดตาม"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "แท็บเล็ต"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "แล็ปท็อป"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "อุปกรณ์"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "เดสก์ท็อป"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "ดาว"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "หัวใจ"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "ภาพวาดเล่น"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "การทำงาน"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "อิโมติคอน"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "โพลล์"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "แผนภาพการกระจาย"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "แผนภูมิวงกลม"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "วงกลมที่มีเครื่องหมายลบ"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "เพิ่มวงกลม"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "แปรง"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "สีระบาย"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "ตัวเลือกสี"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "เลนส์สี"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "ฟิล์ม"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "วิดีโอ"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "คลัง"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "กล้อง"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "รูรับแสง"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "เสียง"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "ความดังเสียง"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "ชุดหูฟัง"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "อัลบัม"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "เสียง"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "ตัวกรองวินเทจ"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "ดั้งเดิม"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "ร้อยละ"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "อีเอ็ม"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "พิกเซล"
+
+#: includes/class-coblocks-form.php:687 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "ซ่อน"
+
+#: includes/class-coblocks-form.php:653 dist/coblocks.js:58
+msgid "Website"
+msgstr "เว็บไซต์"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "มีบางสิ่งผิดพลาด"
+
+#: includes/class-coblocks-form.php:551 includes/class-coblocks-form.php:600
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "เลือก"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "เรียกข้อมูลฟีดภายนอก"
+
+#: includes/class-coblocks-form.php:419 dist/coblocks.js:58
+msgid "Date"
+msgstr "วันที่"
+
+#: includes/class-coblocks-form.php:450 dist/coblocks.js:58
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "อ่านเพิ่มเติม"
+
+#: includes/class-coblocks-form.php:489 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "เลือกหนึ่งรูปแบบ"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "เกิดข้อผิดพลาดขึ้น ซึ่งอาจหมายถึงฟีดไม่ทำงาน ลองอีกครั้งในภายหลัง"
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "ฟิลด์สำหรับขอวันที่เลือกด้วยระบบเลือกวันที่"
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "ฟิลด์สำหรับเก็บที่อยู่อีเมลที่ผ่านการตรวจสอบแล้ว"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "ฟิลด์ข้อความสำหรับเก็บชื่อและนามสกุล"
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "ฟิลด์ที่มีหลายตัวเลือกซึ่งสามารถเลือกได้เพียงรายการเดียว"
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "คีย์ API ไม่ถูกต้องหรือจำนวนคำขอมากเกินไป"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "เลือกตั้งค่าขนาดไอคอนล่วงหน้า"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(ไม่มีชื่อเรื่อง)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "เขียนตัวเลือก..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "ลบตัวเลือกออก"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "เรื่องบนบล็อก"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "ใช้ URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "เพิ่มแบบฟอร์มข้อมูลติดต่อในหน้าของคุณ"
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "ยอดนิยม"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "เปิดใช้งานตัวเลือกการควบคุมโดยละเอียดแล้ว"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "สลับเพื่อเปิดใช้งานตัวเลือกการควบคุมโดยละเอียด"
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "ใช้ฟีดภายนอก"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "ไม่พบเรื่องใดๆ เริ่มเผยแพร่หรือเพิ่มเรื่องจากฟีด RSS"
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "บันทึกแล้ว"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "การแสดงระบบควบคุมแผนที่แบบเต็มจอ"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "สลับเพื่อแสดงระบบควบคุมแผนที่มุมมองถนนที่มุมขวาล่าง"
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "การแสดงระบบควบคุมแผนที่มุมมองถนน"
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "ต้องการความช่วยเหลือใช่หรือไม่"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "รับคีย์"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "เพิ่มคีย์ API ของ Google Maps การอัปเดตคีย์ API นี้จะตั้งค่าแผนที่ทั้งหมดของคุณให้ใช้คีย์ใหม่"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "สลับเพื่อแสดงระบบควบคุมแผนที่แบบเต็มจอ"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "สลับเพื่อเปิดใช้งานการย่อและขยายบนแผนที่ด้วยระบบควบคุมการย่อ/ขยาย"
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "การแสดงระบบควบคุมการย่อ/ขยายแผนที่"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "สลับเพื่อเปิดใช้งานการสลับระหว่างมุมมองแผนที่มาตรฐานและแบบดาวเทียม"
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "เปิดใช้งานการสลับระหว่างมุมมองแผนที่มาตรฐานและแบบดาวเทียมแล้ว"
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "หมายเลขโทรศัพท์ที่อนุญาตให้ผู้เข้าชมแจ้งหมายเลขโทรศัพท์ให้คุณทราบ"
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "กำลังแสดงวันที่เผยแพร่"
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "ใส่ตำแหน่งหรือที่อยู่เพื่อปักหมุดบน Google Map"
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "ค้นหาสถานที่หรือที่อยู่…"
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "ความสูงสำหรับแผนที่เป็นพิกเซล"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "ระดับการย่อ/ขยาย"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "แก้ไข URL ของ RSS"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "รูปภาพอยู่ทางซ้าย"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "รูปภาพอยู่ทางขวา"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "โดยทั่วไปแล้วจะพบ URL ของ RSS ได้ในไดเรกทอรี /feed/ ของเว็บไซต์"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "สลับเพื่อแสดงวันที่เผยแพร่"
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "จำนวนคำสูงสุดในเนื้อหา"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "สลับเพื่อแสดงเนื้อหาในเรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "กำลังแสดงเนื้อหาในเรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "จำนวนเรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "เรื่องแบบแถบหมุน"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "วงกลม"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "สี่เหลี่ยม"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "เพิ่มจำนวนผู้เข้าชมด้วยลิงก์ไปยังโปรไฟล์โซเชียลมีเดีย"
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "เมนูสี ออกแบบ สี ศิลปิน สีระบาย สร้างสรรค์ สื่อ"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "URL ลิงก์"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "ไม่พบผลลัพธ์"
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "รัศมี"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "ใช้ขนาดที่กำหนดเอง"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "ล้างค่าขนาดไอคอน"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "เพิ่มสัญลักษณ์กราฟิกอย่างมีสไตล์เพื่อสื่อสารให้ได้มากขึ้น"
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "แชร์ใน LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "ไอคอน"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "สลับเพื่อใช้สีทางการจากแต่ละโซเชียลมีเดีย"
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "เปิดใช้งานสีปุ่มแชร์แล้ว"
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "เพิ่มลิงก์สำหรับแชร์ในโซเชียลเพื่อช่วยให้คุณได้แชร์และมีคนกดถูกใจ"
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "พลิกกลับแนวตั้ง"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "พลิกกลับแนวนอน"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr ""
+"เพิ่มรูปร่างสำหรับแบ่งหน้าจอ\n"
+"เพื่อแยกแต่ละส่วนในหน้านั้นออกจากกันอย่างชัดเจน"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "สลับเพื่อเรียงปุ่มบนมือถือในแนวตั้ง"
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "กำลังเรียงปุ่มบนมือถือในแนวตั้ง"
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "ปุ่ม"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "แจ้งให้ผู้เข้าชมดำเนินการกับหลายปุ่มที่เรียงต่อกัน"
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "แถบหมุน"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "รูปขนาดย่อ"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "สลับไปที่ความสูงเป็นเปอร์เซ็นต์"
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "เปิดใช้งานความสูงเป็นเปอร์เซ็นต์แล้ว"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "สลับเพื่อแสดงรูปขนาดย่อ"
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "กำลังแสดงการนำทางด้วยรูปย่อ"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "แสดงหลายรูปภาพในคลังแบบแถบหมุนอย่างสวยงาม"
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "แทนที่ข้อความนี้ด้วยคำบรรยายที่เข้ากับภาพในการ์ด จากนั้นเพิ่มบล็อกลงในการ์ดนี้ เช่น ปุ่ม รายชื่อ หรือรูปภาพ"
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "สื่ออยู่ทางซ้าย"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "สื่ออยู่ทางขวา"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "สลับเพื่อเพิ่มเงาของ %s"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "กำลังแสดงเงาของ %s"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "สลับเพื่อเพิ่มเงาของการ์ด"
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "กำลังแสดงเงาของการ์ด"
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "เพิ่มรูปภาพหรือวิดีโอโดยมีการ์ดวางเหลื่อมอยู่ข้างๆ"
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "วางเพื่อแทนที่สื่อ"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "สื่อ"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "แก้ไขสื่อ"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "เรียงอิฐ"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "เพิ่มมุมโค้งมนให้กับรายการในคลัง "
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "แสดงหลายรูปภาพในคลังแบบเรียงอิฐอย่างเป็นระเบียบ"
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "โลโก้และป้าย"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "แก้ไขโลโก้"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "ขาวดำ"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "เพิ่มโลโก้ ป้าย หรือเครื่องหมายรับรองเพื่อสร้างความน่าเชื่อถือ"
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "ลบออก"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "บันทึก"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "รับความช่วยเหลือ"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "คีย์ของฉัน"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "สร้างคีย์"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "เพิ่มเว็บไซต์ reCAPTCHA และคีย์ลับของคุณเพื่อปกป้องแบบฟอร์มของคุณจากสแปม"
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "เรื่อง"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "ที่อยู่อีเมล"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s ไม่ใช่ที่อยู่อีเมลที่ใช้งานได้"
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s และ %s ไม่ใช่ที่อยู่อีเมลที่ใช้งานได้"
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s ไม่ใช่ที่อยู่อีเมลที่ใช้งานได้"
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "กล่องข้อความสำหรับข้อความที่ยาวขึ้น"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "เพิ่มข้อความ…"
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "ตัวอย่างหัวเรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "สลับเพื่อเพิ่มช่องนามสกุล"
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "กำลังแสดงทั้งช่องใส่ชื่อและนามสกุล"
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "ความสูงสำหรับองค์ประกอบตัวคั่นแบบไดนามิกเป็นพิกเซล"
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "เพิ่มช่องไฟที่ปรับขนาดได้ระหว่างบล็อกอื่นๆ"
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "เพิ่มคำพูดที่จะทวีต..."
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "ชื่อผู้ใช้ Twitter"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "สีปุ่ม"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "วิธีที่ง่ายที่สุดในการโปรโมทและโฆษณาบล็อก เว็บไซต์ และธุรกิจทาง Twitter"
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "เพิ่มคำพูดสำหรับผู้อ่านที่จะทวีตผ่าน Twitter"
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "$0.00"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "เพิ่มคำอธิบาย..."
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "เผ็ดร้อน"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "สลับเพื่อแสดงราคาสำหรับรายการนี้"
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "การแสดงราคาสำหรับรายการนี้"
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "ราคา"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "สลับเพื่อแสดงรูปภาพสำหรับรายการนี้"
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "แสดงรูปภาพสำหรับรายการนี้"
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "รูปภาพ"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "รายการอาหารและเครื่องดื่มในบล็อกอาหารและเครื่องดื่ม"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "งดเนื้อสัตว์ยกเว้นอาหารทะเล"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "ปราศจากกลูเต็น"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "มังสวิรัติ"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "รสจัดมาก"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "รสจัด"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "สลับเพื่อแสดงราคาสำหรับแต่ละรายการ"
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "การแสดงราคาสำหรับแต่ละรายการ"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "ราคา"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "สลับเพื่อแสดงรูปภาพสำหรับแต่ละรายการ"
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "การแสดงรูปภาพสำหรับแต่ละรายการ"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "รูปภาพ"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "แสดงเมนูหรือรายการราคา"
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "เลือกจำนวนคอลัมน์สำหรับแถวนี้"
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "เลือกเค้าโครงสำหรับแถวแบบ %s คอลัมน์นี้"
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "แถว"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "เพิ่มพื้นหลังให้แถว"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "สี่"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "สาม"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "สอง"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "หนึ่ง"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "เปลี่ยนเค้าโครงบล็อกแบบแถว"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "แบ่งสี่ส่วน"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "แบ่งสามส่วน"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "เพิ่มพื้นหลังให้คอลัมน์"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "ความกว้าง"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "ช่องว่างรอบพื้นที่บรรจุ"
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "คอลัมน์ย่อยถัดไปของแถว"
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "เพิ่มโครงสร้างภายนอกสำหรับบล็อกคอลัมน์ แล้วเพิ่มบล็อกเนื้อหาที่คุณต้องการลงในคอลัมน์"
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "แผน %d"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "เปลี่ยนจำนวนตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "สี่ตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "สามตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "สองตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "หนึ่งตารางราคา"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "เพิ่มตารางราคาเพื่อช่วยให้ผู้เข้าชมเปรียบเทียบผลิตภัณฑ์และแผนบริการได้"
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "เพิ่มลักษณะเด่น"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "แผน A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "ซื้อทันที"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "ตารางราคาที่จะช่วยให้ผู้เข้าชมเปรียบเทียบผลิตภัณฑ์และแผนบริการได้"
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "เพิ่มการสนับสนุน Internet Explorer โดยโหลดโพลีฟิลล์ของจาวาสคริปท์ในหน้านี้"
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "เพิ่มการสนับสนุน Internet Explorer โดยโหลดโพลีฟิลล์ของจาวาสคริปท์"
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "จัดการเนื้อหาภายในรายการแอคคอร์เดียนที่ยุบได้"
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "สลับเพื่อตั้งค่ารายการแอคคอร์เดียนนี้ให้เปิดตามค่าเริ่มต้น"
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "รายการแอคคอร์เดียนเปิดอยู่ตามค่าเริ่มต้น"
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "เพิ่มรายการแอคคอร์เดียนที่ยุบได้ลงในชุดแอคคอร์เดียน"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "เพิ่มบันทึกขนาดเล็กไม่เกินสามคอลัมน์สำหรับผลิตภัณฑ์หรือบริการของคุณ"
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "เพิ่มเป็นพื้นหลัง"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "คอลัมน์ย่อยเดี่ยวภายในบล็อกคุณสมบัติพิเศษหลัก"
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "การแจ้งเตือนคือข้อความที่แสดงนอกส่วนของเนื้อหาปกติ การแจ้งเตือนจะให้ข้อเสนอแนะตามสถานการณ์ ปกติแล้วจะขอให้ผู้อ่านดำเนินการอย่างใดอย่างหนึ่ง"
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "นี่เป็นบล็อกการแจ้งเตือน"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "แสดงประกาศแจ้งหรือข้อความเสนอแนะตามสถานการณ์"
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "แก้ไขตำแหน่งที่ตั้ง"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "เพิ่มตำแหน่งหรือที่อยู่เพื่อปักหมุดบน Google Map"
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google Map"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "สลับเพื่อแสดงปุ่มกระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "การแสดงปุ่มกระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "คอลัมน์"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "สไตล์"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "เพิ่มการแสดงผลบริการได้สูงสุดสี่คอลัมน์"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "สลับเพื่อแสดงปุ่มกระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "การแสดงปุ่มกระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "หนึ่งรายการบริการภายในบล็อกบริการ"
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "เงา"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "นำรูปภาพมาประกอบกันเป็นคลังภาพปะติดที่สวยงาม"
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "เขียนชีวประวัติที่สรุปความน่าเชื่อถือที่เป็นกลางและอำนาจหน้าที่ให้ผู้อ่านทราบ..."
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "เขียนชื่อผู้เขียน..."
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "แก้ไขรูปประจำตัว"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "เกิดขึ้นเพื่อแสดงออก ไม่ใช่เพื่อสร้างความประทับใจ ผู้สร้างจะสร้างโลกที่ฉันต้องการ"
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "เพิ่มชีวประวัติผู้เขียนเพื่อสร้างความน่าเชื่อถือและอำนาจหน้าที่"
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "รูปภาพ %1$d จาก %2$d ในคลัง"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "เรียงแนวตั้ง"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "กล่องไฟ"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "คำบรรยาย"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "สลับเพื่อเปิดกล่องไฟรูปภาพ"
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "เปิดใช้งานกล่องไฟรูปภาพแล้ว"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "สลับเพื่อแสดงคำบรรยายสื่อ"
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "แสดงคำบรรยายสำหรับสื่อแต่ละรายการ"
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "สลับเพื่อใส่รูปภาพเต็มความกว้างทั้งหมดในพื้นที่คลังที่มีอยู่"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "เปิดใช้งานภาพเต็มความกว้าง"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "แสดงหลายรูปภาพในคลังแบบเรียงซ้อนแนวตั้งเป็นแถวเดียว"
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "กำลังโหลดกิสต์"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "เพิ่ม URL กิสต์ของ GitHub..."
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "ข้อมูล meta ของกิสต์"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "ไฟล์กิสต์"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "URL ของกิสต์"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "สลับเพื่อแสดงข้อมูล meta ของกิสต์"
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "แสดงข้อมูล meta ของกิสต์"
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "ฝังกิสต์ของ GitHub โดยเพิ่มลิงก์ของกิสต์"
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "ดูกิสต์นี้บน GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "ค้นหา Gif"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "ค้นหา Gif ที่ตรงใจบน Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Gif นี้มีแอตทริบิวต์ข้อความสำรองที่ว่างอยู่"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "ลบ Gif ออก"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "ปล่อยว่างไว้หากรูปภาพเป็นการตกแต่งเท่านั้น"
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "บรรยายจุดประสงค์ของภาพ"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "เลือกมาหนึ่ง Gif จะเป็น Gif ใดก็ได้"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "สลับเพื่อลบขอบด้านล่างใดๆ ออก"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "สลับเพื่อเพิ่มขอบด้านล่างกลับคืน"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "สลับเพื่อลบขอบด้านบนใดๆ ออก"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "สลับเพื่อเพิ่มขอบด้านบนกลับคืน"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "สลับเพื่อเรียงองค์ประกอบซ้อนกันบนขอบเขตการมองเห็นที่เล็กลง"
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "เปิดใช้งานความไวในการตอบสนอง"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "สลับเพื่อแสดงปุ่มเต็มความกว้าง"
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "การแสดงให้เต็มความกว้าง"
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "ล้างค่าตัวเลือกการครอบตัดรูปภาพ"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "หมุนตามเข็มนาฬิกา"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "หมุนทวนเข็มนาฬิกา"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "การตั้งค่าครอบตัดตัวยึดรูปภาพ"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "สิบวินาที"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "เก้าวินาที"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "แปดวินาที"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "เจ็ดวินาที"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "หกวินาที"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "ห้าวินาที"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "สี่วินาที"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "สามวินาที"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "สองวินาที"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "หนึ่งวินาที"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "ลากได้"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "เล่นอัตโนมัติ"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "สลับเพื่อเลื่อนโดยที่ภาพไม่ตายตัว"
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "เปิดใช้งานการเลื่อนโดยที่ภาพไม่ตายตัว"
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "สลับเพื่อหยุดเล่นอัตโนมัติขณะเลื่อนเมาส์"
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "การหยุดเล่นอัตโนมัติขณะเลื่อนเมาส์"
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "การจัดแนวภาพให้อยู่ตรงกลาง"
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "การจัดแนวภาพให้ชิดซ้าย"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "สลับเพื่อแสดงการนำทางด้วยจุด"
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "การแสดงการนำทางด้วยจุด"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "สลับเพื่อแสดงลูกศรนำทางภาพนิ่ง"
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "การแสดงลูกศรนำทางภาพนิ่ง"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "สลับเพื่อเปิดใช้งานฟังก์ชันการลาก"
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "เปิดใช้งานการลากแล้วโยน"
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "ไปที่ภาพต่อไปโดยอัตโนมัติ"
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "ไปต่อหลังจาก %1$d %2$s"
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "วินาที"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "วินาที"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "ตัวเลือกสีที่กำหนดเอง"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "URL ที่กำหนดเอง"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "ลากรูปภาพ อัปโหลดภาพใหม่ หรือเลือกไฟล์จากไลบรารีของคุณ"
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "คลัง %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "เขียนคำบรรยาย:"
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "ใหญ่เป็นพิเศษ"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "ขนาด"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "แปลง"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "ความหนา"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "แบบอักษร"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "เปลี่ยนการออกแบบตัวอักษร"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "ใช้ตัวกรอง"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "ตัวพิมพ์ใหญ่"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "หัวเรื่อง %d"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "เพิ่มข้อความที่เน้น..."
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "เพิ่มลูกเล่นเน้นข้อความลงในข้อความย่อหน้าเพื่อดึงดูดความสนใจและเน้นคำบรรยายที่สำคัญ"
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "ดึงดูดความสนใจและเน้นคำบรรยายที่สำคัญ"
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "ระยะเวลา"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "เปลี่ยนเค้าโครง"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "ความกว้างของเนื้อหาในพิกเซล"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "ความสูงเป็นพิกเซล"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "ช่องว่างภายในพื้นที่บรรจุ"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "เพิ่มพื้นหลังให้ส่วนนำเรื่อง"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "เพิ่มเนื้อหาส่วนนำเรื่อง ซึ่งปกติจะเป็นพื้นที่แนะนำหน้าหรือสองหน้าที่มาพร้อมกับการกระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "พื้นที่แนะนำของหน้าที่มาพร้อมข้อความเล็กน้อยและการกระตุ้นให้ดำเนินการ"
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "ใหญ่มาก"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "ใหญ่"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "กลาง"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "เล็ก"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "ไม่มี"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "ลบพื้นหลังออก"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "สลับเพื่อวนซ้ำวิดีโอ"
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "การวนซ้ำวิดีโอพื้นหลัง"
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "สลับเพื่อปิดเสียงวิดีโอ"
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "การปิดเสียงวิดีโอพื้นหลัง"
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "การแสดงผล"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "ตำแหน่ง"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "ซ้ำ"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "ขอบเสริม"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "นำไปใช้"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "การบันทึก"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "วางรูปภาพแทนที่"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "ความสูง"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "สลับเพื่อเปิดใช้งานโหมดเต็มจอ"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "เปิดใช้งานโหมดเต็มจอแล้ว"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "เต็มจอ"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "เค้าโครง"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "ต้องการ"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "เพิ่มป้ายชื่อ..."
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "%s ของมือถือ"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "ช่องห่าง"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "ขั้นสูง"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "การตั้งค่า %s ขั้นสูง"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "ด้านซ้าย"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "ด้านล่าง"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "ด้านขวา"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "ด้านบน"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "ซิงค์"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "ยกเลิกการซิงค์"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "ล้างค่า"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "ปิดการตั้งค่า %s ขั้นสูง"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "เลือกหน่วย"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "ขอบ"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "เฟซบุ๊ค"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "แชร์ใน Reddit"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "แชร์ใน Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "แชร์ใน Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "แชร์ทางอีเมล"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "แชร์ทาง LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "แชร์ใน Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "แชร์ใน Twitter"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "แชร์ในเฟซบุ๊ค"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "ดู CoBlocks ใน WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "แสดงความคิดเห็น"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "คีย์ API ของ Google Map เพื่อสร้างแผนที่"
+
+#: includes/class-coblocks-form.php:1031
+msgid "Your message was sent:"
+msgstr "ส่งข้อความของคุณแล้ว:"
+
+#: includes/class-coblocks-form.php:766
+msgid "Submit"
+msgstr "ส่ง"
+
+#: includes/class-coblocks-form.php:347 dist/coblocks.js:58
+msgid "Message"
+msgstr "ข้อความ"
+
+#: includes/class-coblocks-form.php:262 dist/coblocks.js:58
+msgid "Last"
+msgstr "สกุล"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "First"
+msgstr "ชื่อ"
+
+#: includes/class-coblocks-form.php:257 dist/coblocks.js:58
+msgid "Name"
+msgstr "ชื่อ"
+
+#: includes/class-coblocks-form.php:222 includes/class-coblocks-form.php:317
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "อีเมล"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "คีย์ลับ Google reCAPTCHA เพื่อป้องกันการสแปมแบบฟอร์ม"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "คีย์เว็บไซต์ Google reCAPTCHA เพื่อป้องกันการสแปมแบบฟอร์ม"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks เป็นชุด <strong>บล็อกเนื้อหาสำหรับสร้างเพจ</strong> ระดับมืออาชีพสำหรับโปรแกรมแก้ไขบล็อก WordPress Gutenberg บล็อกของเราเน้นให้ผู้สร้างมีความสามารถที่จะสร้างเพจที่สวยงามสมบูรณ์ได้ใน WordPress"
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

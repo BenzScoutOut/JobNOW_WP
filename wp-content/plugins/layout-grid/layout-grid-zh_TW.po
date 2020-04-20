@@ -1,0 +1,153 @@
+# Translation of Plugins - Layout Grid Block - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Layout Grid Block - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-16 17:13:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Layout Grid Block - Development (trunk)\n"
+
+#: index.js:6
+msgid "Changing the number of columns will reset your layout and could remove content."
+msgstr "變更欄位數量會重設版面配置，也可能移除內容。"
+
+#: index.js:6
+msgid "A column used inside a Layout Grid block."
+msgstr "格狀版面區塊內使用的欄位。"
+
+#: index.js:6
+msgid "<strong>Snow Patrol</strong>"
+msgstr "<strong>Snow Patrol</strong>"
+
+#: index.js:6
+msgid "Align blocks to to a global grid, with support for responsive breakpoints."
+msgstr "將區塊對齊全域格線，提供回應式中斷點支援。"
+
+#: index.js:6
+msgid "Huge"
+msgstr "極大"
+
+#: index.js:6
+msgid "Large"
+msgstr "大"
+
+#: index.js:6
+msgid "Medium"
+msgstr "中"
+
+#: index.js:6
+msgid "Small"
+msgstr "小"
+
+#: index.js:6
+msgid "No padding"
+msgstr "沒有填補"
+
+#: index.js:6
+msgid "Choose padding for this column:"
+msgstr "選擇此欄位填補值："
+
+#: index.js:6
+msgid "Column Padding"
+msgstr "欄位填補值"
+
+#: index.js:6
+msgid "Background"
+msgstr "背景"
+
+#: index.js:6
+msgid "Column Color"
+msgstr "欄位顏色"
+
+#: index.js:6
+msgid "Note that previewing your post will show your browser's breakpoint, not the currently selected one."
+msgstr "提醒你，預覽文章會顯示你的瀏覽器適用的中斷點，而不是你目前選取的裝置。"
+
+#: index.js:6
+msgid "Responsive Breakpoints"
+msgstr "回應式中斷點"
+
+#: index.js:6
+msgid "Layout"
+msgstr "版面配置"
+
+#: index.js:6
+msgid "Select a layout to start with:"
+msgstr "選取版面配置以開始撰寫內容："
+
+#: index.js:6
+msgid "Choose Layout"
+msgstr "選擇版面配置"
+
+#: index.js:6
+msgid "Showing desktop layout"
+msgstr "顯示桌上型電腦版面配置"
+
+#: index.js:6
+msgid "Showing tablet layout"
+msgstr "顯示平板電腦版面配置"
+
+#: index.js:6
+msgid "Showing mobile layout"
+msgstr "顯示行動裝置版面配置"
+
+#: index.js:6
+msgid "Span"
+msgstr "範圍"
+
+#: index.js:6
+msgid "Offset"
+msgstr "位移"
+
+#: index.js:6
+msgid "Column"
+msgstr "欄"
+
+#: index.js:6
+msgid "Mobile"
+msgstr "行動"
+
+#: index.js:6
+msgid "Tablet"
+msgstr "平板電腦"
+
+#: index.js:6
+msgid "Desktop"
+msgstr "桌上型電腦"
+
+#: index.js:6
+msgid "4 columns"
+msgstr "4 個欄位"
+
+#: index.js:6
+msgid "3 columns"
+msgstr "3 個欄位"
+
+#: index.js:6
+msgid "2 columns"
+msgstr "2 個欄位"
+
+#: index.js:6
+msgid "1 column"
+msgstr "1 個欄位"
+
+#. Author URI of the plugin
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Let any blocks align to a global grid"
+msgstr "讓任何區塊對齊全域格線"
+
+#. Plugin Name of the plugin
+#: index.js:6
+msgid "Layout Grid"
+msgstr "格狀版面"

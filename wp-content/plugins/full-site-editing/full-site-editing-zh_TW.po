@@ -1,0 +1,1092 @@
+# Translation of Plugins - Full Site Editing - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Full Site Editing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-26 16:41:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Full Site Editing - Stable (latest release)\n"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:106
+msgid "Here's a detailed guide."
+msgstr "請參閱這份詳盡的使用指南。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:105
+msgid "https://support.wordpress.com/wordpress-editor/"
+msgstr "https://support.wordpress.com/wordpress-editor/"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:104
+msgid "New to the WordPress editor? Want to learn more about using it? "
+msgstr "如果是區塊編輯器的新使用者，並且想進一步瞭解區塊編輯器的使用方式。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:100
+msgid "Learn how to use the WordPress editor"
+msgstr "進一步瞭解區塊編輯器的使用方式"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:53
+#: wpcom-block-editor-nux/src/wpcom-nux.js:59
+msgid "Welcome to the WordPress editor"
+msgstr "歡迎使用 WordPress 編輯器"
+
+#: event-countdown-block/blocks/src/index.js:16
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to your favorite next thing, and celebrate with fireworks when the time is right!"
+msgstr "活動的倒數計時。請撰寫標題並選取日期和時間。"
+
+#: event-countdown-block/blocks/src/view.js:64
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown seconds remaining"
+msgid "seconds"
+msgstr "秒"
+
+#: event-countdown-block/blocks/src/view.js:60
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown minutes remaining"
+msgid "minutes"
+msgstr "分鐘"
+
+#: event-countdown-block/blocks/src/view.js:56
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown hours remaining"
+msgid "hours"
+msgstr "小時"
+
+#: event-countdown-block/blocks/src/view.js:51
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgctxt "Countdown days remaining"
+msgid "days"
+msgstr "天"
+
+#: event-countdown-block/blocks/src/edit.js:48
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Date:"
+msgstr "日期:"
+
+#: event-countdown-block/blocks/src/edit.js:36
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Title:"
+msgstr "標題:"
+
+#: starter-page-templates/page-template-modal/components/block-iframe-preview.js:212
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Preview"
+msgstr "預覽"
+
+#: jetpack-timeline/blocks/src/timeline.js:23
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Create a timeline of events."
+msgstr "建立事件的時間表。"
+
+#: jetpack-timeline/blocks/src/timeline.js:22
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline"
+msgstr "時間表"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:17
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "An entry on the timeline"
+msgstr "時間表上的項目。"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:16
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Timeline Entry"
+msgstr "時間表項目"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/images.js:40
+msgid "inserter"
+msgstr "插入器"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:86
+msgid "All of the blocks available to you live in the block library. You’ll find it wherever you see the <InserterIconImage /> icon."
+msgstr "在 [區塊庫] 中有目前全部可用的區塊。只要看到 <InserterIconImage /> 圖示便可以找到區塊庫。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:81
+msgid "Get to know the block library"
+msgstr "瞭解區塊庫"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:73
+msgid "Each block comes with its own set of controls for changing things like color, width, and alignment. These will show and hide automatically when you have a block selected."
+msgstr "每一種區塊都有專屬的設定控制項，藉以變更如色彩、寬度及對齊方式等設定；選取不同的區塊，便會自動顯示對應的設定。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:70
+msgid "Make each block your own"
+msgstr "自訂區塊符合網站需求"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:63
+msgid "In the WordPress editor, each paragraph, image, or video is presented as a distinct “block” of content."
+msgstr "在 WordPress 編輯器中，每個段落、每張圖片或每個視訊都會以不同內容「區塊」呈現。"
+
+#: wpcom-block-editor-nux/dist/wpcom-block-editor-nux.js:1
+#: wpcom-block-editor-nux/src/wpcom-nux.js:54
+msgid "Get started"
+msgstr "開始使用"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Subtitle"
+msgstr "顯示子標題"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Begin typing post title, click autocomplete result to select."
+msgstr "請輸入文章標題，並點擊自動完成結果以選取。"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Choose Specific Posts"
+msgstr "選取指定文章"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Team Pages"
+msgstr "團隊頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Services Pages"
+msgstr "服務頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Product Pages"
+msgstr "產品頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Portfolio Pages"
+msgstr "作品集頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Menu Pages"
+msgstr "選單頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Event Pages"
+msgstr "活動頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Contact Pages"
+msgstr "聯絡資訊頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blog Pages"
+msgstr "部落格頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "About Pages"
+msgstr "關於頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Blank"
+msgstr "空白頁面"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Home Pages"
+msgstr "首頁"
+
+#: jetpack-timeline/blocks/src/timeline.js:67
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Winter"
+msgstr "冬季"
+
+#: jetpack-timeline/blocks/src/timeline.js:56
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Fall"
+msgstr "秋季"
+
+#: jetpack-timeline/blocks/src/timeline.js:45
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Summer"
+msgstr "夏季"
+
+#: jetpack-timeline/blocks/src/timeline.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Spring"
+msgstr "春季"
+
+#: jetpack-timeline/blocks/src/block-appender.js:35
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+msgid "Add New Entry"
+msgstr "新增項目"
+
+#: event-countdown-block/blocks/src/view.js:67
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "until"
+msgstr "剩餘時間"
+
+#: event-countdown-block/blocks/src/edit.js:42
+#: event-countdown-block/blocks/src/edit.js:44
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Title"
+msgstr "活動標題"
+
+#: event-countdown-block/blocks/src/edit.js:28
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Count down to an event. Set a title and pick a time and date."
+msgstr "活動的倒數計時。請撰寫標題並選取日期和時間。"
+
+#: event-countdown-block/blocks/src/edit.js:27
+#: event-countdown-block/blocks/src/index.js:15
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Event Countdown"
+msgstr "活動倒數計時"
+
+#: event-countdown-block/blocks/src/edit.js:20
+#: event-countdown-block/dist/event-countdown-block.js:1
+msgid "Choose Date"
+msgstr "選取日期"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Excluded Tags"
+msgstr "排除的標籤"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Advanced Filters"
+msgstr "顯示進階篩選條件"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Hide Advanced Filters"
+msgstr "隱藏進階篩選條件"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:134
+#: blog-posts-block/dist/editor.js:6
+msgid "Load more posts"
+msgstr "載入更多文章"
+
+#: posts-list-block/blocks/posts-list/index.js:74
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "An improved version of this block is available. Update for a better, more natural way to manage your blog post listings. There may be small visual changes."
+msgstr "這個區塊已有改進版本可供使用。更新區塊後便能以更好、更自然的方式管理這個網站的網站文章清單。這項更新包含些微外觀上的變化。"
+
+#: posts-list-block/blocks/posts-list/index.js:67
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Update Block"
+msgstr "更新區塊"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sorry, no posts were found."
+msgstr "很抱歉，找不到符合條件的文章。"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Write header…"
+msgstr "撰寫標題…"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Uncropped"
+msgstr "不進行裁剪"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Square Image Shape"
+msgstr "正方形圖片形狀"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "portrait Image Shape"
+msgstr "直向圖片形狀"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Landscape Image Shape"
+msgstr "橫向圖片形狀"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media behind"
+msgstr "媒體覆疊於內容下方"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on right"
+msgstr "媒體顯示於內容右側"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on left"
+msgstr "媒體顯示於內容左側"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show media on top"
+msgstr "媒體顯示於內容上方"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Grid View"
+msgstr "格狀檢視"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "List View"
+msgstr "清單檢視"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author Avatar"
+msgstr "顯示作者個人頭像"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Author"
+msgstr "顯示作者"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Category"
+msgstr "顯示分類"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Date"
+msgstr "顥示發佈日期"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Meta Settings"
+msgstr "文章中繼資料設定"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Type Scale"
+msgstr "標題大小"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Excerpt"
+msgstr "顯示內容摘要"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Post Control Settings"
+msgstr "文章控制項設定"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Sets a minimum height for the block, using a percentage of the screen's current height."
+msgstr "使用目前畫面高度的百分比設定區塊最小高度。"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Minimum height"
+msgstr "最小高度"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Size"
+msgstr "精選圖片尺寸"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Stack on mobile"
+msgstr "於行動裝置上以堆疊方式顯示"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image Caption"
+msgstr "顯示精選圖片說明文字"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show Featured Image"
+msgstr "顯示精選圖片"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Featured Image Settings"
+msgstr "精選圖片設定"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Show \"More\" Button"
+msgstr "顯示 [載入更多文章] 按鈕"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Columns"
+msgstr "版面欄位數量"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Display Settings"
+msgstr "顯示設定"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "XL"
+msgstr "XL"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Extra Large"
+msgstr "特大型"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "L"
+msgstr "L"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Large"
+msgstr "大型"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "M"
+msgstr "M"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Medium"
+msgstr "中型"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "S"
+msgstr "S"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Small"
+msgstr "小型"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Tags"
+msgstr "標籤"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Categories"
+msgstr "分類"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "Authors"
+msgstr "作者"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no name)"
+msgstr "(無名稱)"
+
+#: blog-posts-block/dist/editor.js:6
+msgid "(no title)"
+msgstr "(無標題)"
+
+#: blog-posts-block/editor.js:33 blog-posts-block/dist/editor.js:6
+msgid "Blog Posts"
+msgstr "網站文章"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:52
+msgctxt "block style"
+msgid "Borders"
+msgstr "框線"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:51
+msgctxt "block style"
+msgid "Default"
+msgstr "預設"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:49
+msgid "A block for displaying homepage posts."
+msgstr "用於顯示首頁文章的區塊。"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:47
+msgid "latest"
+msgstr "最新"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:46
+msgid "articles"
+msgstr "文章"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:45
+msgid "posts"
+msgstr "文章"
+
+#: blog-posts-block/dist/editor.js:6
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/index.js:29
+msgid "Homepage Posts"
+msgstr "首頁文章"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:230
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid " and "
+msgstr " 及 "
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:212
+#: blog-posts-block/dist/editor.js:6
+msgctxt "post author"
+msgid "by"
+msgstr "作者:"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:142
+msgid "Something went wrong. Please refresh the page and/or try again."
+msgstr "執行時發生錯誤。請重新整理頁面後再試一次。"
+
+#: blog-posts-block/newspack-homepage-articles/blocks/homepage-articles/view.php:139
+msgid "Loading..."
+msgstr "正在載入..."
+
+#: dotcom-fse/plugins/close-button-override/index.js:92
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Parts"
+msgstr "範本組件"
+
+#: blog-posts-block/dist/editor.js:6
+#: dotcom-fse/plugins/close-button-override/index.js:90
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Posts"
+msgstr "文章"
+
+#: dotcom-fse/plugins/close-button-override/index.js:88
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Pages"
+msgstr "頁面"
+
+#: dotcom-fse/blocks/site-credit/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "This block tells the world that you're using WordPress.com."
+msgstr "這個區塊會顯示這個網站採用 WordPress.com 建置。"
+
+#: dotcom-fse/blocks/site-credit/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "WordPress.com Credit"
+msgstr "WordPress.com 資訊"
+
+#: dotcom-fse/blocks/site-credit/edit.js:72 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Footer credit loading…"
+msgstr "正在載入頁尾資訊..."
+
+#: dotcom-fse/class-full-site-editing.php:265
+#: starter-page-templates/index.js:59
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Page Layout"
+msgstr "頁面版面配置"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Use %s layout"
+msgstr "使用 [%s] 版面配置"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Adding layout…"
+msgstr "正在新增版面配置..."
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Close Layout Selector"
+msgstr "關閉版面配置選取器"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select Page Layout"
+msgstr "選取頁面版面配置"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Layout"
+msgstr "版面配置"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Cancel"
+msgstr "取消"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Changing the page's layout will remove any customizations or edits you have already made."
+msgstr "變更頁面版面配置，會移除全部自訂項目或之前進行的編輯內容。"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Overwrite Page Content?"
+msgstr "確認覆寫頁面內容？"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Change Layout"
+msgstr "變更版面配置"
+
+#: starter-page-templates/page-template-modal/components/template-selector-preview.js:21
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Select a layout to preview."
+msgstr "請選取要預覽的版面配置。"
+
+#: dotcom-fse/blocks/site-credit/index.php:155
+msgid "WordPress Icon"
+msgstr "WordPress 圖示"
+
+#: dotcom-fse/blocks/site-credit/index.php:150
+msgid "Proudly powered by WordPress"
+msgstr "本站採用 WordPress 建置"
+
+#: dotcom-fse/class-full-site-editing.php:624
+msgid "WordPress Footer Credit"
+msgstr "WordPress 頁尾資訊"
+
+#: dotcom-fse/templates/class-wp-template.php:149
+msgid "Footer"
+msgstr "頁尾"
+
+#: dotcom-fse/templates/class-wp-template.php:147
+msgid "Header"
+msgstr "頁首"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:108
+msgid "Font Selection"
+msgstr "字型組合"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:98
+#: global-styles/src/global-styles-sidebar.js:131
+msgid "You have unsaved changes."
+msgstr "尚未儲存設定。"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:94
+msgid "Any change you make here will apply to the entire website."
+msgstr "這在裡進行的變更均會套用至整個網站。"
+
+#. translators: %s: Name of site.
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:92
+msgid "You are customizing %s."
+msgstr "目前正在自訂 %s。"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:81
+#: global-styles/src/global-styles-sidebar.js:86
+msgid "Global Styles"
+msgstr "全域樣式"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:47
+msgid "Reset"
+msgstr "重設"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:27
+msgid "custom font selection"
+msgstr "自訂字型組合"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:40
+msgid "Base Font"
+msgstr "基本字型"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-selection-panel.js:33
+msgid "Heading Font"
+msgstr "標題字型"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:46
+msgid "font pairings"
+msgstr "字型組合"
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/font-pairings-panel.js:17
+msgid "Font Pairings"
+msgstr "字型組合"
+
+#. translators: %s: feature name (i.e. font pairings, etc)
+#: global-styles/dist/global-styles.js:6 global-styles/src/no-support.js:9
+msgid "Your active theme doesn't support %s."
+msgstr "這個網站目前使用的佈景主題不支援 [%s] 功能。"
+
+#: dotcom-fse/blocks/template/edit.js:180 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Loading editor for: %s"
+msgstr "正在為 %s 載入編輯器"
+
+#: blog-posts-block/dist/editor.js:6 dotcom-fse/blocks/site-title/edit.js:71
+#: dotcom-fse/blocks/site-description/edit.js:79
+#: dotcom-fse/blocks/navigation-menu/edit.js:68 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Color"
+msgstr "文字色彩"
+
+#: jetpack-timeline/blocks/src/timeline-item.js:39
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-description/edit.js:74
+#: dotcom-fse/blocks/navigation-menu/edit.js:63 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Background Color"
+msgstr "背景色彩"
+
+#: blog-posts-block/dist/editor.js:6
+#: jetpack-timeline/blocks/src/timeline-item.js:34
+#: jetpack-timeline/dist/jetpack-timeline.js:1
+#: dotcom-fse/blocks/site-title/edit.js:65
+#: dotcom-fse/blocks/site-description/edit.js:68
+#: dotcom-fse/blocks/navigation-menu/edit.js:57 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Color Settings"
+msgstr "色彩設定"
+
+#: dotcom-fse/blocks/site-title/edit.js:61
+#: dotcom-fse/blocks/site-description/edit.js:64
+#: dotcom-fse/blocks/navigation-menu/edit.js:53 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Text Settings"
+msgstr "文字設定"
+
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgid "Go back"
+msgstr "返回"
+
+#: dotcom-fse/plugins/template-update-notice/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Updates to this template will affect all pages on your site."
+msgstr "更新這個範本會影響這個網站的全部頁面。"
+
+#: dotcom-fse/blocks/site-title/edit.js:89 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Title"
+msgstr "新增網站標題"
+
+#: dotcom-fse/blocks/site-description/edit.js:107
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Add a Site Description"
+msgstr "新增網站說明"
+
+#: dotcom-fse/blocks/post-content/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "The page content."
+msgstr "頁面內容。"
+
+#: dotcom-fse/blocks/post-content/index.js:18 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Content"
+msgstr "內容"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:86
+msgid "collapsed"
+msgstr "已收合"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:85
+msgid "expanded"
+msgstr "已展開"
+
+#: dotcom-fse/blocks/navigation-menu/index.php:82
+msgid "Menu"
+msgstr "選單"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:399
+msgctxt "Default page title"
+msgid "Contact"
+msgstr "聯絡方式"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:387
+msgctxt "Default page title"
+msgid "About"
+msgstr "關於"
+
+#: dotcom-fse/class-full-site-editing.php:575
+msgid "Template Types cannon be deleted."
+msgstr "範本類型無法刪除。"
+
+#: dotcom-fse/class-full-site-editing.php:537
+msgid "Templates cannot be moved to drafts."
+msgstr "範本無法移動至草稿。"
+
+#: dotcom-fse/class-full-site-editing.php:523
+msgid "Templates cannot be deleted."
+msgstr "範本無法刪除。"
+
+#. translators: %s: "Back to Post", "Back to Page", "Back to Template", etc.
+#: dotcom-fse/class-full-site-editing.php:271
+msgid "Back to %s"
+msgstr "返回 [%s]"
+
+#: starter-page-templates/class-wp-rest-sideload-image-controller.php:76
+msgid "Invalid parent type."
+msgstr "錯誤的上層類型。"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:57
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Error loading site %s"
+msgstr "載入網站 %s 時發生錯誤"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:54
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to load site %s"
+msgstr "無法載入網站 %s"
+
+#: dotcom-fse/lib/site-options/use-site-options.js:96
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Unable to save site %s"
+msgstr "無法儲存網站 %s"
+
+#: dotcom-fse/blocks/site-title/index.js:16 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Your site title."
+msgstr "這個網站的標題。"
+
+#: dotcom-fse/blocks/site-title/edit.js:78
+#: dotcom-fse/blocks/site-title/index.js:15 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Title"
+msgstr "網站標題"
+
+#: dotcom-fse/blocks/site-title/edit.js:119
+#: dotcom-fse/blocks/site-credit/edit.js:69 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site title loading…"
+msgstr "正在載入網站標題..."
+
+#: global-styles/dist/global-styles.js:6
+#: global-styles/src/global-styles-sidebar.js:55
+msgid "Publish"
+msgstr "發佈"
+
+#: dotcom-fse/blocks/template/edit.js:191 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Edit %s"
+msgstr "編輯%s"
+
+#: dotcom-fse/blocks/site-description/index.js:16
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description, also known as the tagline."
+msgstr "請簡單說明這個網站的內容。"
+
+#: dotcom-fse/blocks/site-description/edit.js:94
+#: dotcom-fse/blocks/site-description/index.js:15
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site Description"
+msgstr "網站說明"
+
+#: dotcom-fse/blocks/site-description/edit.js:138
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Site description loading…"
+msgstr "正在載入網站說明..."
+
+#: dotcom-fse/blocks/navigation-menu/index.js:23
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Visual placeholder for site-wide navigation and menus."
+msgstr "全站導覽及選單的視覺化預留項目。"
+
+#: dotcom-fse/blocks/navigation-menu/index.js:22
+#: dotcom-fse/dist/dotcom-fse.js:6
+msgid "Navigation Menu"
+msgstr "導覽選單"
+
+#: starter-page-templates/class-starter-page-templates.php:149
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "沒有可用的範本。略過範本選取強制回應視窗。"
+
+#: starter-page-templates/class-starter-page-templates.php:140
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "沒有接收到來自縱向 API 的資料。略過範本選取強制回應視窗。"
+
+#: dotcom-fse/blocks/template/index.js:21 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Display a Template Part."
+msgstr "顯示範本組件。"
+
+#: dotcom-fse/blocks/template/index.js:19 dotcom-fse/dist/dotcom-fse.js:6
+msgid "Template Part"
+msgstr "範本組件"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:10
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default vertical name"
+msgid "Business"
+msgstr "商務"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:9
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default company name"
+msgid "Your Company Name"
+msgstr "公司名稱"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:8
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default phone number"
+msgid "555-555-5555"
+msgstr "02-2320-6208"
+
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:7
+#: starter-page-templates/dist/starter-page-templates.js:6
+msgctxt "default address"
+msgid "123 Main St"
+msgstr "重慶南路一段 122 號"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:516
+msgid "Back to template part types"
+msgstr "返回 [範本組件類型]"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:515
+msgid "No template part types found."
+msgstr "找不到符合條件的範本組件類型。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:514
+msgid "Search Template Part Types"
+msgstr "搜尋範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:513
+msgid "Parent Template Part Type:"
+msgstr "上層範本組件類型:"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:512
+msgid "Parent Template Part Type"
+msgstr "上層範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:511
+msgid "New Template Part Type"
+msgstr "新增範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:510
+msgid "Add New Template Part Type"
+msgstr "新增範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:509
+msgid "Update Template Part Type"
+msgstr "更新範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:508
+msgid "View Template Part Type"
+msgstr "檢視範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:507
+msgid "Edit Template Part Type"
+msgstr "編輯範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:506
+msgid "All Template Part Types"
+msgstr "全部範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:505
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:504
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:503
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "範本組件類型"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:465
+msgid "Template part updated."
+msgstr "範本組件已更新。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:464
+msgid "Template part scheduled."
+msgstr "範本組件已排程。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:463
+msgid "Template part reverted to draft."
+msgstr "範本組件已還原為草稿。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:462
+msgid "Template part published privately."
+msgstr "範本組件已私密發佈。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:461
+msgid "Template part published."
+msgstr "範本組件已發佈。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:460
+msgid "Template parts list"
+msgstr "範本組件清單"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:459
+msgid "Template parts list navigation"
+msgstr "範本組件清單檢視"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:458
+msgid "Filter template parts list"
+msgstr "篩選範本組件清單"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:457
+msgid "No template parts found in Trash."
+msgstr "在回收桶中找不到符合條件的範本組件。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:456
+msgid "No template parts found."
+msgstr "找不到符合條件的範本組件。"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:455
+msgid "Search Template Parts"
+msgstr "搜尋範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:454
+msgid "All Template Parts"
+msgstr "全部範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:453
+msgid "View Template Part"
+msgstr "檢視範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:452
+msgid "Edit Template Part"
+msgstr "編輯範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:451
+msgid "New Template Part"
+msgstr "新增範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:450
+msgid "Add New Template Part"
+msgstr "新增範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:448
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:447
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:446
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:445
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "範本組件"
+
+#: dotcom-fse/templates/class-wp-template-inserter.php:449
+msgctxt "Template"
+msgid "Add New"
+msgstr "新增範本"
+
+#: posts-list-block/blocks/posts-list/index.js:97
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts"
+msgstr "文章數量"
+
+#: posts-list-block/blocks/posts-list/index.js:86
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Number of posts to show"
+msgstr "文章顯示數量"
+
+#: posts-list-block/blocks/posts-list/index.js:82
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Your recent blog posts will be displayed here."
+msgstr "這裡會顯示最新網站文章。"
+
+#: posts-list-block/blocks/posts-list/index.js:34
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Displays your latest Blog Posts."
+msgstr "顯示最新網站文章。"
+
+#: posts-list-block/blocks/posts-list/index.js:33
+#: posts-list-block/dist/posts-list-block.js:1
+msgid "Blog Posts Listing"
+msgstr "網站文章清單"
+
+#: posts-list-block/class-posts-list-block.php:157
+msgid "Read more"
+msgstr "閱讀全文"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:154
+msgid "Continue reading %s"
+msgstr "閱讀全文 %s"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "編輯"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "作者:"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "精選內容"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "檢視全部文章"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "準備發佈第一篇文章了嗎？請從<a href=\"%1$s\">這裡</a>開始。"
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "目前沒有文章可供顯示。"
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "使用區塊編輯器加強頁面建置工作流程。"
+
+#. Plugin Name of the plugin
+msgid "Full Site Editing"
+msgstr "Full Site Editing"
