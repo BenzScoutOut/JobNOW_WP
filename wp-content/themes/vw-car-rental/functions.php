@@ -1161,67 +1161,193 @@ function getCardUI($bodyResponse, $page, $nextPage, $prevPage, $url,$bodyRespons
 		
 }
 
-function get_video_list(){
+function get_tab_video_ui(){
+	?>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<ul  class="nav nav-tabs d-flex nav-tab-control">
+			<li class="active">
+        		<a  href="#1a" class="video-tab-title" data-toggle="tab">ทั้งหมด</a>
+			</li>
+			<li>
+				<a href="#2a"  class="video-tab-title" data-toggle="tab">Live Facebook</a>
+			</li>
+			<li>
+				<a href="#3a"  class="video-tab-title" data-toggle="tab">บทสัมภาษณ์</a>
+			</li>
+			<!-- <span class="ml-auto my-auto"> เรียงจากมากไปน้อย </span> -->
+		</ul>
+		<div class="tab-content clearfix tab-control">
+			<div class="tab-pane active" id="1a">
+				<div class="row">
+					<?php 
+					video_current_post_all();
+					video_post_without_current_all();
+					?>
 
- $args = array(  
-        'post_type' => 'video',
-        'post_status' => 'publish',
-        'posts_per_page' => 8
-    );
+				</div> 	
+			</div>
+			<div class="tab-pane" id="2a">
+				<div class="row">
+					<?php 
+					video_current_post_fb();
+					video_post_without_current_fb();
+					?>
 
-   $myposts = get_posts($args);
+				</div> 	
+			</div>
+			<div class="tab-pane" id="3a">
+				<div class="row">
+					<?php 
+					video_current_post_interview();
+					video_post_without_current_interview();
+					?>
 
-// If there are posts
-if($myposts){
-	  // Loop the posts
-	  // ?>
- <div class="row">
-	 
-<?php
-  foreach ($myposts as $key=>$value){
-	  	$url_values = get_post_meta( $value->ID, 'url' );
-	  	$title_values = get_post_meta( $value->ID, 'title' );
-	  	$thumbnails_values = get_post_meta( $value->ID, 'thumbnail' );
-	  	$date_values = get_post_meta( $value->ID, 'date' );
-    	$newDate = date("d M Y", strtotime($date_values[$key]));  
-	  	$type = get_post_meta( $value->ID, 'type' );
-	  	if($type[$key] == 'livefacebook'){
-			$type_values = 'live facebook';
-		}else{
-			$type_values = 'ทั่วไป';
-		}
-	  echo $type[$key];
-			if ($thumbnails_values[$key]) {
-			  $image = wp_get_attachment_image_src($thumbnails_values[$key], 'full');
-				
-					  ?>	<div class="col-4 d-flex">
-				<div class="card-video-control d-flex flex-column mx-auto">
-					<div class="video-thumbnail">
-						<img src="<?php echo $image[0]; ?>" class="video-thumbnail">
-					</div>
-					<div class="video-desc-control d-flex flex-column">
-						<span class="video-title mx-auto text-center"><?php echo $title_values[$key]; ?></span>
-						<div class="mt-auto d-flex flex-column">
-							<div class="video-button-type mx-auto d-flex">
-								<span class="video-button-text mx-auto my-auto"><?php echo $type_values; ?></span>
-							</div>
-							<span class="video-date-text mx-auto"><?php echo $newDate;?></span>
-							
-						</div>
-						
-					</div>
-				</div>
-	 		</div>
-		 <?php
-	wp_reset_postdata();
-			}
-	  
-
-  }
-	 
-	 ?> </div> <?php
+				</div> 	
+			</div>
+		</div>
+	<?php
 }
 
+function video_current_post_all(){
+	$args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+        'include'       => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	video_get_ui($myposts, true);
+}
+
+function video_post_without_current_all(){
+	$args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+        'exclude'       => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	video_get_ui($myposts, false);
+}
+
+function video_current_post_fb(){
+	$args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'cat' => 1395,
+        'include' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	video_get_ui($myposts, true);
+}
+
+function video_post_without_current_fb(){
+	$args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'cat' => 1395,
+        'exclude' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	video_get_ui($myposts, false);
+}
+
+function video_current_post_interview(){
+	$args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'cat' => 1394,
+        'include'       => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	video_get_ui($myposts, true);
+}
+
+function video_post_without_current_interview(){
+	$args = array(  
+        'post_type' => 'video',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'cat' => 1394,
+        'exclude'       => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	video_get_ui($myposts, false);
+}
+
+function video_get_ui($myposts, $isPlaying){
+
+	if($myposts){
+		foreach ($myposts as $value){
+			$url_values = $value->url;
+			$title_values = $value->title;
+			$thumbnails_values = $value->thumbnail;
+			$date_values = $value->date;
+			$newDate = date("d M Y", strtotime($date_values));  
+			$type = $value->type;
+			$post_categories = get_the_category( $value->ID );
+			$type = $post_categories[0]->cat_name;
+			$urlPost = get_post_permalink($value->ID);
+			if($type == 'livefacebook'){
+				$type_values = 'live facebook';
+			}else if($type == 'interview')
+				$type_values = 'บทสัมภาษณ์';
+			else{
+				$type_values = 'ทั่วไป';
+			}
+			if ($thumbnails_values) {
+				$image = wp_get_attachment_image_src($thumbnails_values, 'full');
+			
+				?>	<div class="col-12 col-md-4 d-flex">
+					
+						<a class="card-video-control d-flex flex-column mx-auto" href="<?php echo $urlPost; ?>">
+						<?php 
+								if($isPlaying){
+									?> 	<div class="border-card-video-active"></div>
+								<?php } ?>
+					
+							<div class="video-thumbnail">
+							<?php 
+								if($isPlaying){
+									?> <span class="video-now-playing">กำลังเล่น</span>
+									<div class="video-thumbnail-gradient"></div>
+								<?php } ?>
+								
+								<img src="<?php echo $image[0]; ?>" class="video-thumbnail">
+							</div>
+							<div class="video-desc-control d-flex flex-column">
+								<span class="video-title mx-auto text-center"><?php echo $title_values; ?></span>
+								<div class="mt-auto d-flex flex-column">
+								<?php 
+									if($isPlaying){
+										?>
+										<div class="video-live-button mx-auto d-flex">
+											<span class="video-live-button-text mx-auto my-auto">Live Now</span>
+										</div>
+										<?php
+									}
+								?>
+									
+									<div class="video-button-type mx-auto d-flex">
+										<span class="video-button-text mx-auto my-auto"><?php echo $type_values; ?></span>
+									</div>
+									<span class="video-date-text mx-auto"><?php echo $newDate;?></span>
+									
+								</div>
+								
+							</div>
+						</a>
+					</div>
+				<?php
+				wp_reset_postdata();
+			}
+		}
+	}
 }
 function get_jobid() {
 

@@ -1,15 +1,67 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
 .card-video-control{
+  margin-top: 56px;
   width: 285px;
   margin-left: 11px;
   margin-right: 11px;
   height: 368px;
   word-break: break-word;
-  
+}
+.nav-tab-control{
+  margin-top: 80px;
+}
+.tab-control{
+  margin-top: 18px;
+}
+
+.border-card-video-active{
+  z-index: 2;
+  position: absolute;
+  width: 285px;
+  height: 368px;
+  border: solid 6px #d97461;
+}
+
+.video-live-button{
+  width: 158px;
+  height: 36px;
+  border-radius: 18px;
+  border-radius: 19.5px;
+  border: solid 2px #d97461;
+  margin-bottom: 8px;
+  z-index: 3;
+}
+
+.video-live-button-text{
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Noto Thai Medium';
+  color: #d97461;
+}
+
+.video-now-playing{
+  position: absolute;
+  font-size: 17px;
+  font-family: 'Noto Thai Medium';
+  font-weight: bold;
+  color: #ee4123;
+  margin-left: 10px;
+  margin-top: 8px;
+  z-index: 3;
+}
+
+.video-thumbnail-gradient{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.91), rgba(240, 240, 240, 0) 61%);
 }
 
 .video-thumbnail{
+   z-index: 1;
+  position: relative;
   height: 160px;
   width: auto;
   object-fit: cover;
@@ -18,7 +70,7 @@
 
 .video-desc-control{
   padding: 8px;
- height: 208px;
+  height: 208px;
   background-color: #ffe4dd;
 }
 
@@ -28,6 +80,10 @@
   font-family: 'Noto Thai Medium';
   color: #231f20;
   line-height: 1.5em;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;  
 }
 
 .video-button-type{
@@ -53,5 +109,49 @@
   color: #333;
 }
 
+.video-tab-title{
+  font-family: 'Noto Thai Medium';
+  font-size: 20px;
+  color: #333;
+  opacity: 0.5;
+  font-weight: 300;
+}
+#exTab1 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+#exTab2 h3 {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
+
+/* remove border radius for the tab */
+
+#exTab1 .nav-pills > li > a {
+  border-radius: 0;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+  border: none !important;
+  color: #333;
+  opacity: 1;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+/* change border radius for the tab , apply corners on top*/
+
+#exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#exTab3 .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+}
 </style>
 <!-- end Simple Custom CSS and JS -->
