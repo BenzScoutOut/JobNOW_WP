@@ -1200,8 +1200,11 @@ function get_tab_video_ui(){
 			<div class="tab-pane" id="3a">
 				<div class="row">
 					<?php 
-					video_current_post_interview();
-					video_post_without_current_interview();
+					if(checkAllInterview()){
+						video_current_post_interview();
+						video_post_without_current_interview();
+					}
+					
 					?>
 
 				</div> 	
@@ -1209,10 +1212,49 @@ function get_tab_video_ui(){
 		</div>
 	<?php
 }
+function fb_opengraph() {
+	$args = array(  
+		 'post_type' => 'video_channel',
+		 'post_status' => 'publish',
+		 'posts_per_page' => 8,
+		 'islive' => true,
+		 'include' => get_the_ID()
+	 );
+	 $myposts = get_posts($args);
+	 foreach ($myposts as $value){
+		 $url_values = $value->url;
+		 $description = $value->description;
+	 ?>
+	 <meta property="og:description" content="<?php echo $description; ?>"/>
+	 <meta property="og:type" content="article"/>
+	 <meta property="og:url" content="<?php echo the_permalink(); ?>"/>
+  
+	 <?php
+	 }
+ }
+ add_action('wp_head', 'fb_opengraph', 5);
+function checkAllInterview(){
+	$args = array(  
+        'post_type' => 'video_channel',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'cat' => 1395,
+        'exclude' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	if(sizeof($myposts) == 0){
+			?> <div class="col-12 no-video-control d-flex">
+					<span class="no-video-text mx-auto my-auto">ยังไม่มีวีดีโอในหมวดนี้</span>
+			</div><?php
+		return false;
+		}else{
+		return true;
+	}
+}
 
 function video_current_post_all(){
 	$args = array(  
-        'post_type' => 'video',
+        'post_type' => 'video_channel',
         'post_status' => 'publish',
 		'posts_per_page' => 8,
         'include'       => get_the_ID()
@@ -1223,7 +1265,7 @@ function video_current_post_all(){
 
 function video_post_without_current_all(){
 	$args = array(  
-        'post_type' => 'video',
+        'post_type' => 'video_channel',
         'post_status' => 'publish',
 		'posts_per_page' => 8,
         'exclude'       => get_the_ID()
@@ -1234,10 +1276,10 @@ function video_post_without_current_all(){
 
 function video_current_post_fb(){
 	$args = array(  
-        'post_type' => 'video',
+        'post_type' => 'video_channel',
         'post_status' => 'publish',
 		'posts_per_page' => 8,
-		'cat' => 1395,
+		'cat' => 1394,
         'include' => get_the_ID()
 	);
 	$myposts = get_posts($args);
@@ -1246,10 +1288,10 @@ function video_current_post_fb(){
 
 function video_post_without_current_fb(){
 	$args = array(  
-        'post_type' => 'video',
+        'post_type' => 'video_channel',
         'post_status' => 'publish',
 		'posts_per_page' => 8,
-		'cat' => 1395,
+		'cat' => 1394,
         'exclude' => get_the_ID()
 	);
 	$myposts = get_posts($args);
@@ -1258,10 +1300,10 @@ function video_post_without_current_fb(){
 
 function video_current_post_interview(){
 	$args = array(  
-        'post_type' => 'video',
+        'post_type' => 'video_channel',
         'post_status' => 'publish',
 		'posts_per_page' => 8,
-		'cat' => 1394,
+		'cat' => 1395,
         'include'       => get_the_ID()
 	);
 	$myposts = get_posts($args);
@@ -1270,10 +1312,10 @@ function video_current_post_interview(){
 
 function video_post_without_current_interview(){
 	$args = array(  
-        'post_type' => 'video',
+        'post_type' => 'video_channel',
         'post_status' => 'publish',
 		'posts_per_page' => 8,
-		'cat' => 1394,
+		'cat' => 1395,
         'exclude'       => get_the_ID()
 	);
 	$myposts = get_posts($args);
@@ -1281,13 +1323,15 @@ function video_post_without_current_interview(){
 }
 
 function video_get_ui($myposts, $isPlaying){
-
-	if($myposts){
+		
+			
+		
 		foreach ($myposts as $value){
 			$url_values = $value->url;
 			$title_values = $value->title;
 			$thumbnails_values = $value->thumbnail;
 			$date_values = $value->date;
+			$isLive = $value->islive;
 			$newDate = date("d M Y", strtotime($date_values));  
 			$type = $value->type;
 			$post_categories = get_the_category( $value->ID );
@@ -1303,9 +1347,31 @@ function video_get_ui($myposts, $isPlaying){
 			if ($thumbnails_values) {
 				$image = wp_get_attachment_image_src($thumbnails_values, 'full');
 			
-				?>	<div class="col-12 col-md-4 d-flex">
-					
-						<a class="card-video-control d-flex flex-column mx-auto" href="<?php echo $urlPost; ?>">
+				?>
+				
+						
+					<div class="col-12 col-md-4 d-flex">
+						<a class="d-flex d-md-none mobile-video-control">
+							<img src="<?php echo $image[0]; ?>" class="mobile-video-thumbnail">
+							<div class="mobile-video-desc-control d-flex flex-column">
+							<?php 
+								if($isPlaying){
+									?> <span class="mobile-playing-text">กำลังเล่น</span>
+										
+								<?php } ?>
+								
+								<?php 
+									if($isLive){
+										?>
+										<div class="video-live-button d-flex">
+											<span class="video-live-button-text mx-auto my-auto">Live Now</span>
+										</div>
+								<?php	} ?>
+								<span class="video-title mt-auto"><?php echo $title_values; ?></span>
+							</div>
+						</a>
+						
+						<a class="card-video-control d-md-flex d-none flex-column mx-auto" href="<?php echo $urlPost; ?>">
 						<?php 
 								if($isPlaying){
 									?> 	<div class="border-card-video-active"></div>
@@ -1324,7 +1390,7 @@ function video_get_ui($myposts, $isPlaying){
 								<span class="video-title mx-auto text-center"><?php echo $title_values; ?></span>
 								<div class="mt-auto d-flex flex-column">
 								<?php 
-									if($isPlaying){
+									if($isLive){
 										?>
 										<div class="video-live-button mx-auto d-flex">
 											<span class="video-live-button-text mx-auto my-auto">Live Now</span>
@@ -1346,8 +1412,9 @@ function video_get_ui($myposts, $isPlaying){
 				<?php
 				wp_reset_postdata();
 			}
-		}
-	}
+			}
+		
+	
 }
 function get_jobid() {
 

@@ -1,11 +1,12 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
 .card-video-control{
-  margin-top: 56px;
+  position: relative;
+  margin-bottom: 56px;
   width: 285px;
   margin-left: 11px;
   margin-right: 11px;
-  height: 368px;
+  height: auto;
   word-break: break-word;
 }
 .nav-tab-control{
@@ -18,8 +19,8 @@
 .border-card-video-active{
   z-index: 2;
   position: absolute;
-  width: 285px;
-  height: 368px;
+  width: 100%;
+  height: 100%;
   border: solid 6px #d97461;
 }
 
@@ -62,7 +63,7 @@
 .video-thumbnail{
    z-index: 1;
   position: relative;
-  height: 160px;
+  height: 100%;
   width: auto;
   object-fit: cover;
   background-color: #f0f0f0;
@@ -152,6 +153,76 @@
   color : white;
   background-color: #428bca;
   padding : 5px 15px;
+}
+
+@media screen and (max-width: 768px){
+  .video-tab-title{
+  font-family: 'Noto Thai Medium';
+  font-size: 15px;
+  color: #333;
+  opacity: 0.5;
+  font-weight: 300;
+}
+  .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+  border: none !important;
+  color: #333;
+  opacity: 1;
+  font-weight: 600;
+  font-size: 15px;
+}
+    .video-title{
+      font-size: 14px;
+      font-weight: 600;
+      font-family: 'Noto Thai Medium';
+      color: #231f20;
+      line-height: 1.5em;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;  
+  }
+  .mobile-video-control{
+    margin-left: 15px;
+    margin-right: 15px;  
+    margin-bottom: 16px;
+  }
+  .video-live-button{
+  width: fit-content;
+  height: 36px;
+  border-radius: 18px;
+  border-radius: 19.5px;
+  border: solid 2px #d97461;
+    padding-left: 8px;
+    padding-right: 8px;
+  margin-bottom: 8px;
+  z-index: 3;
+}
+
+.video-live-button-text{
+  font-size: 11px;
+  font-weight: 600;
+  font-family: 'Noto Thai Medium';
+  color: #d97461;
+}
+  .mobile-playing-text{
+    font-size: 17px;
+  	font-family: 'Noto Thai Medium';
+  	font-weight: bold;
+  	color: #ee4123;
+  }
+  .mobile-video-thumbnail{
+   	width: 50%;
+    height: 101px;
+    object-fit: cover;
+  	background-color: #acacac;
+  }
+  
+  .mobile-video-desc-control{
+    width: 40%;
+    margin-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
 }
 </style>
 <!-- end Simple Custom CSS and JS -->
