@@ -386,7 +386,7 @@ function show_card_design(){
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -453,7 +453,7 @@ function show_card_design(){
 											<button class="btn btn-apply-extra">
 																ดูงานใหม่ทั้งหมด
 											</button></a>
-									  <a href="https://account.scoutout.co/login?callbackUrl=https:%2F%2Fjob.jobnow.work%2Fredirect-authenticate%3Fredirect_path%3D%252Fprofile%26utm_source%3DJobNOW%26utm_medium%3DJobNOW_LD_Parttime%26utm_campaign%3D%26utm_content%3D%26fbclid%3D%26gclid%3D" target="_blank" class="job-title-red mx-auto">
+									  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
 									  ฝากประวัติของคุณ
 									  </a>
 									  	
@@ -471,7 +471,7 @@ function show_card_design(){
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -535,7 +535,7 @@ function show_card_design(){
 											<button class="btn btn-apply-extra">
 																ดูงานใหม่ทั้งหมด
 											</button></a>
-									  <a href="https://account.scoutout.co/login?callbackUrl=https:%2F%2Fjob.jobnow.work%2Fredirect-authenticate%3Fredirect_path%3D%252Fprofile%26utm_source%3DJobNOW%26utm_medium%3DJobNOW_LD_Parttime%26utm_campaign%3D%26utm_content%3D%26fbclid%3D%26gclid%3D" target="_blank" class="job-title-red mx-auto">
+									  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
 									  ฝากประวัติของคุณ
 									  </a>
 									  	
@@ -582,7 +582,7 @@ function show_card_cp_all(){
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -667,7 +667,7 @@ function show_card_cp_all(){
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -731,7 +731,7 @@ function show_card_cp_all(){
 											<button class="btn btn-apply-extra">
 																ดูงานใหม่ทั้งหมด
 											</button></a>
-									  <a href="https://jobnow.page.link/vn1s" target="_blank" class="job-title-red mx-auto">
+									  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
 									  ฝากประวัติของคุณ
 									  </a>
 									  	
@@ -779,7 +779,7 @@ function show_card_lotus(){
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -846,7 +846,7 @@ function show_card_lotus(){
 											<button class="btn btn-apply-extra">
 																ดูงานใหม่ทั้งหมด
 											</button></a>
-									  <a href="https://jobnow.page.link/vn1s" target="_blank" class="job-title-red mx-auto">
+									  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
 									  ฝากประวัติของคุณ
 									  </a>
 									  	
@@ -864,7 +864,7 @@ function show_card_lotus(){
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -928,7 +928,7 @@ function show_card_lotus(){
 											<button class="btn btn-apply-extra">
 																ดูงานใหม่ทั้งหมด
 											</button></a>
-									  <a href="https://jobnow.page.link/vn1s" target="_blank" class="job-title-red mx-auto">
+									  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
 									  ฝากประวัติของคุณ
 									  </a>
 									  	
@@ -1075,7 +1075,7 @@ function getCardUI($bodyResponse, $page, $nextPage, $prevPage, $url,$bodyRespons
 										if($value2["salaryType"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
 										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / ชั่วโมง";
+											$salaryType = "บาท / วัน";
 										}else if($value2["salaryType"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
@@ -1160,7 +1160,215 @@ function getCardUI($bodyResponse, $page, $nextPage, $prevPage, $url,$bodyRespons
 						  }
 		
 }
+/* Custom CP-ALL */
+function show_recommend_landing(){
+//https://usdan0cyoc.execute-api.ap-southeast-1.amazonaws.com/dev/job/recommend/landing lLXlQyIYAE5MQHdqHJOD03Gbu8FQ1yFy4evXFjua   Dev
+//https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing 9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm  Prod
+	$url = 'https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'x-api-key' => '9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm',
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+		if(sizeof($bodyResponse) > 0){
+	?>
+		
+<!------ Include the above in your HEAD tag ---------->
 
+<link rel="stylesheet" href="https://unpkg.com/flickity@2.0.5/dist/flickity.css">
+<script src="https://unpkg.com/flickity@2.0.5/dist/flickity.pkgd.js"></script>
+		<div class="d-flex job-recommend-control justify-content-cener">
+			<h2 class="job-recommend-header-text mx-auto">
+				งานแนะนำสำหรับคุณ
+			</h2>
+		</div>
+		<div class="container d-none d-md-block mx-auto row-width">
+					  <div class="carousel" data-flickity='{ "wrapAround": false, "contain" : true}'>
+						<?php
+						foreach ($bodyResponse as $key => $value2) {
+							
+										if($value2["salary_type"] == "MONTHLY"){
+											$salaryType = "บาท / เดือน";
+										}else if($value2["salary_type"] == "DAILY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else if($value2["salary_type"] == "HOURLY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else{
+											$salaryType = "บาท / ชั่วโมง";
+										}
+
+										if($value2["job_expire_time_left_unit"] == "day"){
+											$jobExpireType = "วัน";
+										}else{
+											$jobExpireType = "ชั่วโมง";
+										}
+
+								?> 
+						  
+						  
+						
+										<div class="carousel-cell card-job mx-auto">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto">
+												<div class="d-flex img-section">
+													<img src="<?php echo $value2["job_profile_image_url"]; ?>" class="image-job">
+													<div class="img-logo-section d-flex">
+														<img src="<?php echo $value2["headquarter_logo_image_url"]; ?>" class="img-logo">
+														<span class="text-branch-name my-auto"><?php echo $value2["branch_name"]; ?></span>
+													</div>
+													<div class="bg-section">
+														
+													</div>
+												</div>
+												<div class="text-control d-flex flex-column">
+													<span class="job-title"><?php echo $value2["job_title"]; ?></span>
+													<div class="d-flex item-desc-margin" style="margin-top: 8px;">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/salary-icon@3x.png" class="img-salary mb-auto">
+														<span class="salary-text mb-auto"><?php echo number_format($value2["salary_from"], 0, '', ','); ?> - <?php echo number_format($value2["salary_to"], 0, '', ','); ?> <?php echo $salaryType; ?></span>
+													</div>
+													
+													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
+														
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
+													<span class="company-text mb-auto"><?php echo $value2["headquarter_name"]; ?></span>
+													</div>
+													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/expired-icon@3x.png" class="img-salary mb-auto">
+															<label class="company-text mb-auto">เหลืออีก <?php echo $value2["job_expire_time_left"]; ?> <?php echo $jobExpireType ?> </label>
+														</div>
+													<div class="row mt-auto">
+														
+														<div class="col-12 d-flex">
+															<button class="btn btn-apply mx-auto my-auto">
+																ดูรายละเอียดงาน
+															</button>
+														</div>
+													</div>
+												</div>
+											</a>
+										</div>
+						  <?php 
+							if($key == sizeof($bodyResponse)-1){ ?>
+								  <div class="carousel-cell card-job mx-auto">
+							  
+												<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job">
+								  <div class="text-control margin-extra d-flex flex-column">
+										<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
+									  	<div class="d-inline">
+											<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
+											<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
+									  </div>
+								  		<a href="https://job.jobnow.work/?utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
+											<button class="btn btn-apply-extra">
+																ดูงานใหม่ทั้งหมด
+											</button></a>
+									  <a href="https://jobnow.work/resume?utm_source=jobnow.work&utm_medium=recommend_all_jobs" target="_blank" class="job-title-red mx-auto">
+									  ฝากประวัติของคุณ
+									  </a>
+									  	
+								  </div>
+						  </div>
+							<?php } 
+								}?>
+						   </div>
+					</div>
+		<div class="container-fluid d-md-none mx-auto">
+					  <div class="carousel" data-flickity='{ "wrapAround": false }'>
+						<?php
+						foreach ($bodyResponse as $key => $value2) {
+							
+										if($value2["salaryType"] == "MONTHLY"){
+											$salaryType = "บาท / เดือน";
+										}else if($value2["salaryType"] == "DAILY"){
+											$salaryType = "บาท / วัน";
+										}else if($value2["salaryType"] == "HOURLY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else{
+											$salaryType = "บาท / ชั่วโมง";
+										}
+
+										if($value2["jobExpireTimeLeftUnit"] == "day"){
+											$jobExpireType = "วัน";
+										}else{
+											$jobExpireType = "ชั่วโมง";
+										}
+
+								?> 
+										<div class="carousel-cell  card-job">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto">
+												<div class="d-flex img-section">
+													<img src="<?php echo $value2["job_profile_image_url"]; ?>" class="image-job">
+													<div class="img-logo-section d-flex">
+														<img src="<?php echo $value2["headquarter_logo_image_url"]; ?>" class="img-logo">
+														<span class="text-branch-name my-auto"><?php echo $value2["branch_name"]; ?></span>
+													</div>
+													<div class="bg-section">
+														
+													</div>
+												</div>
+												<div class="text-control d-flex flex-column">
+													<span class="job-title"><?php echo $value2["job_title"]; ?></span>
+													<div class="d-flex item-desc-margin">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/salary-icon@3x.png" class="img-salary mb-auto">
+														<label class="salary-text mb-auto"><?php echo number_format($value2["salary_from"], 0, '', ','); ?> - <?php echo number_format($value2["salary_to"], 0, '', ','); ?> <?php echo $salaryType; ?></label>
+													</div>
+													
+													<div class="d-flex item-desc-margin">
+														
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
+													<label class="company-text mb-auto"><?php echo $value2["headquarter_name"]; ?></label>
+													</div>
+													<div class="d-flex item-desc-margin">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/expired-icon@3x.png" class="img-salary mb-auto">
+															<label class="company-text mb-auto">เหลืออีก <?php echo $value2["job_expire_time_left"]; ?> <?php echo $jobExpireType ?> </label>
+														</div>
+													<div class="row mt-auto">
+														
+														<div class="col-12 d-flex">
+															<button class="btn btn-apply mx-auto my-auto">
+																ดูรายละเอียดงาน
+															</button>
+														</div>
+													</div>
+												</div>
+											</a>
+										</div>
+						  <?php 
+							if($key == sizeof($bodyResponse)-1){ ?>
+								  <div class="carousel-cell card-job mx-auto">
+							  
+										<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job"/>
+									  <div class="text-control margin-extra d-flex flex-column">
+											<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
+												<div class="d-inline">
+											<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
+											<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
+									  </div>
+											<a href="https://job.jobnow.work/?utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
+												<button class="btn btn-apply-extra">
+																	ดูงานใหม่ทั้งหมด
+												</button></a>
+										  <a href="https://jobnow.work/resume?utm_source=jobnow.work&utm_medium=recommend_all_jobs" target="_blank" class="job-title-red mx-auto">
+										  ฝากประวัติของคุณ
+										  </a>
+
+									  </div>
+								  </div>
+									<?php
+							}
+								}?>
+						   </div>
+					</div>
+	
+<?php
+		}
+}
 function get_tab_video_ui(){
 	?>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -1212,27 +1420,156 @@ function get_tab_video_ui(){
 		</div>
 	<?php
 }
+function article_b_opengraph() {
+   $args = array(  
+	   	'post_type' => 'article',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+        'include' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	foreach ($myposts as $value){
+		$title = $value->title;
+		$description = $value->description;
+		$thumbnails_values = $value->thumbnail;
+		$image = wp_get_attachment_image_src($thumbnails_values, 'full');
+	?>
+	<meta property="title" content="<?php echo $title; ?>"/>
+	<meta property="description" content="<?php echo $description; ?>"/>
+    <meta property="type" content="article"/>
+    <meta property="url" content="<?php echo the_permalink(); ?>"/>
+	<meta property="image" content="<?php echo $image[0]; ?>"/>
+	<meta property="og:title" content="<?php echo $title; ?>"/>
+	<meta property="og:description" content="<?php echo $description; ?>"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="<?php echo the_permalink(); ?>"/>
+	<meta property="og:image" content="<?php echo $image[0]; ?>"/>
+ 
+	<?php
+	}
+}
+add_action('wp_head', 'article_b_opengraph', 5);
+
 function fb_opengraph() {
+   $args = array(  
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+        'include' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	foreach ($myposts as $value){
+		$title = $value->title;
+		$description = $value->description;
+		$thumbnails_values = $value->thumbnail;
+		$image = wp_get_attachment_image_src($thumbnails_values, 'full');
+	?>
+	<meta property="title" content="<?php echo $title; ?>"/>
+	<meta property="description" content="<?php echo $description; ?>"/>
+    <meta property="type" content="article"/>
+    <meta property="url" content="<?php echo the_permalink(); ?>"/>
+	<meta property="image" content="<?php echo $image[0]; ?>"/>
+	<meta property="og:title" content="<?php echo $title; ?>"/>
+	<meta property="og:description" content="<?php echo $description; ?>"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="<?php echo the_permalink(); ?>"/>
+	<meta property="og:image" content="<?php echo $image[0]; ?>"/>
+ 
+	<?php
+	}
+}
+add_action('wp_head', 'fb_opengraph', 5);
+
+function showpopupvideoFB(){
 	$args = array(  
-		 'post_type' => 'video_channel',
-		 'post_status' => 'publish',
-		 'posts_per_page' => 8,
-		 'islive' => true,
-		 'include' => get_the_ID()
-	 );
-	 $myposts = get_posts($args);
-	 foreach ($myposts as $value){
-		 $url_values = $value->url;
-		 $description = $value->description;
-	 ?>
-	 <meta property="og:description" content="<?php echo $description; ?>"/>
-	 <meta property="og:type" content="article"/>
-	 <meta property="og:url" content="<?php echo the_permalink(); ?>"/>
-  
-	 <?php
-	 }
- }
- add_action('wp_head', 'fb_opengraph', 5);
+        'post_type' => 'elementor_library',
+        'post_status' => 'publish'
+	);
+	$myposts = get_post(2338);
+		$url_values =$myposts->url;
+	?>
+
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=590534365055696&autoLogAppEvents=1"></script>
+<div class="fb-video" data-href="https://www.facebook.com/jobnow.work/videos/<?php echo $url_values; ?>/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/jobnow.work/videos/<?php echo $url_values; ?>/" class="fb-xfbml-parse-ignore"></blockquote></div>
+<?php
+}
+
+function showTagVideoCurrent(){
+	$myposts = get_post(get_the_ID());
+	$post_categories = get_the_category( $myposts->ID );
+	$type = $post_categories[0]->cat_name;
+	$tagLink = "#1a";
+	
+			if($type == 'livefacebook'){
+				$type_values = 'live facebook';
+				$tagLink = "#2a";
+			}else if($type == 'interview'){
+				$type_values = 'บทสัมภาษณ์';
+				$tagLink = "#3a";
+			}else{
+				$type_values = 'ทั่วไป';
+				$tagLink = "#1a";
+			}
+	
+	?> <a href="<?php echo $tagLink; ?>" data-toggle="tab"><div class="tag-button d-flex">
+		<span class="tag-button-text mx-auto my-auto"><?php echo $type_values; ?></span>
+		</div></a>
+	<?php
+}
+function showCurrentVideoFB(){
+	$args = array(  
+        'post_type' => 'video_channel',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'islive' => true,
+        'include' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	foreach ($myposts as $value){
+		$url_values = $value->url;
+		$title = $value->title;
+		$description = $value->description;
+		$thumbnails_values = $value->thumbnail;
+		$image = wp_get_attachment_image_src($thumbnails_values, 'full');
+	?>
+	<meta property="title" content="<?php echo $title; ?>"/>
+	<meta property="description" content="<?php echo $description; ?>"/>
+    <meta property="type" content="article"/>
+    <meta property="url" content="<?php echo the_permalink(); ?>"/>
+	<meta property="image" content="<?php echo $image[0]; ?>"/>
+	<meta property="og:title" content="<?php echo $title; ?>"/>
+	<meta property="og:description" content="<?php echo $description; ?>"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="<?php echo the_permalink(); ?>"/>
+	<meta property="og:image" content="<?php echo $image[0]; ?>"/>
+	<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=590534365055696&autoLogAppEvents=1"></script>
+<div class="fb-video" data-href="https://www.facebook.com/jobnow.work/videos/<?php echo $url_values; ?>/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/jobnow.work/videos/<?php echo $url_values; ?>/" class="fb-xfbml-parse-ignore"></blockquote></div>
+<?php
+	}
+}
+function checkCurrentIDLive(){
+	$args = array(  
+        'post_type' => 'video_channel',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'islive' => true,
+        'include' => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	foreach ($myposts as $value){
+			$isLive = $value->islive;
+		if($isLive){
+		?> <div class="video-live-button d-flex mx-auto">
+					<span class="video-live-button-text mx-auto my-auto">Live Now</span>
+				</div><?php
+		}else{
+			
+		}
+	}
+	
+	
+}
+
 function checkAllInterview(){
 	$args = array(  
         'post_type' => 'video_channel',
@@ -1322,10 +1659,148 @@ function video_post_without_current_interview(){
 	video_get_ui($myposts, false);
 }
 
+function all_article(){
+	$args = array(  
+        'post_type' => 'article',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+		'exclude'       => get_the_ID()
+	);
+	$myposts = get_posts($args);
+	?> <div class="row"> <?php
+		article_get_ui($myposts, false);
+				?> </div> <?php
+}
+
+function other_article(){
+	$args = array(  
+        'post_type' => 'article',
+        'post_status' => 'publish',
+		'posts_per_page' => 3,
+		'exclude'       => array(2704, get_the_ID())
+	);
+	$myposts = get_posts($args);
+	?> <div class="d-md-flex d-block"> <?php
+		other_article_get_ui($myposts, false);
+				?> </div> <?php
+}
+
+function article_landing_ui(){
+	$args = array(  
+        'post_type' => 'article',
+        'post_status' => 'publish',
+		'posts_per_page' => 5,
+		'exclude' => 2704
+	);
+	$myposts = get_posts($args);
+		
+			?> 
+		<div class="row d-block d-md-none d-lg-block">
+
+			<div class="col-lg-6 col-md-6 col-12 landing-article-card-control">
+				<a class="landing-article-head-card d-flex flex-column" href="<?php echo get_post_permalink($myposts[0]->ID); ?>">
+					<img class="img landing-article-head-img" src="<?php echo wp_get_attachment_image_src($myposts[0]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-head-title"><?php echo $myposts[0]->title; ?></span>
+					<span class="landing-article-head-short-desc"><?php echo $myposts[0]->description; ?></span>
+				</a>
+			</div> 
+			<div class="col-lg-3 col-12 landing-article-card-control d-flex flex-column">
+				
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[1]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[1]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[1]->title ?></span>
+				</a>
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[2]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[2]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[2]->title ?></span>
+				</a>
+			</div>
+			<div class="col-lg-3 col-12 landing-article-card-control d-flex flex-column">
+				
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[3]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[3]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[3]->title ?></span>
+				</a>
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[4]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[4]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[4]->title ?></span>
+				</a>
+			</div>
+	</div>
+
+	<div class=" d-lg-none d-md-flex d-none no-gutters">
+			<div class="landing-article-card-control d-flex flex-column no-gutters">
+				
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[0]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[0]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[0]->title ?></span>
+				</a>
+				
+			</div>
+			<div class="landing-article-card-control d-flex flex-column no-gutters">
+				
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[1]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[1]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[1]->title ?></span>
+				</a>
+				
+			</div>
+			<div class="landing-article-card-control d-flex flex-column no-gutters">
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[2]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[2]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[2]->title ?></span>
+				</a>
+			</div>
+			<div class="landing-article-card-control d-flex flex-column no-gutters">
+				<a class="landing-article-card d-flex flex-column"  href="<?php echo get_post_permalink($myposts[3]->ID); ?>">
+					<img class="img landing-article-img" src="<?php echo wp_get_attachment_image_src($myposts[3]->thumbnail, 'full')[0]; ?>">
+					<span class="landing-article-title"><?php echo $myposts[3]->title ?></span>
+				</a>
+			</div>
+	</div>
+<?php
+
+}
+function other_article_get_ui($myposts, $isReading){
+	foreach ($myposts as $value){
+		$title = $value->title;
+		$date_values = $value->date;
+		$newDate = date("d M Y", strtotime($date_values));  
+		$thumbnails_values = $value->thumbnail;
+		$urlPost = get_post_permalink($value->ID);
+		$image = wp_get_attachment_image_src($thumbnails_values, 'full');
+		
+		?> <div class="article-card-control d-flex">
+				<a class="article-card d-flex flex-column" href="<?php echo $urlPost; ?>">
+					<img src="<?php echo $image[0]; ?>" class="img article-image">
+					<span class="article-text"><?php echo $title; ?></span>
+					<span class="article-date"><?php echo $newDate; ?></span>
+				</a>
+			</div> 
+<?php
+	}
+}
+function article_get_ui($myposts, $isReading){
+	foreach ($myposts as $value){
+		$title = $value->title;
+		$date_values = $value->date;
+		$newDate = date("d M Y", strtotime($date_values));  
+		$thumbnails_values = $value->thumbnail;
+		$urlPost = get_post_permalink($value->ID);
+		$image = wp_get_attachment_image_src($thumbnails_values, 'full');
+		
+		?> <div class="col-lg-4 col-md-5 col-12 article-card-control d-flex">
+				<a class="article-card d-flex flex-column" href="<?php echo $urlPost; ?>">
+					<img src="<?php echo $image[0]; ?>" class="img article-image">
+					<span class="article-text"><?php echo $title; ?></span>
+					<span class="article-date"><?php echo $newDate; ?></span>
+				</a>
+			</div> 
+<?php
+	}
+}
+
 function video_get_ui($myposts, $isPlaying){
-		
-			
-		
 		foreach ($myposts as $value){
 			$url_values = $value->url;
 			$title_values = $value->title;
@@ -1351,7 +1826,7 @@ function video_get_ui($myposts, $isPlaying){
 				
 						
 					<div class="col-12 col-md-4 d-flex">
-						<a class="d-flex d-md-none mobile-video-control">
+						<a class="d-flex d-md-none mobile-video-control"  href="<?php echo $urlPost; ?>">
 							<img src="<?php echo $image[0]; ?>" class="mobile-video-thumbnail">
 							<div class="mobile-video-desc-control d-flex flex-column">
 							<?php 
@@ -1384,7 +1859,7 @@ function video_get_ui($myposts, $isPlaying){
 									<div class="video-thumbnail-gradient"></div>
 								<?php } ?>
 								
-								<img src="<?php echo $image[0]; ?>" class="video-thumbnail">
+								<img loading='lazy' src="<?php echo $image[0]; ?>" class="video-thumbnail">
 							</div>
 							<div class="video-desc-control d-flex flex-column">
 								<span class="video-title mx-auto text-center"><?php echo $title_values; ?></span>
