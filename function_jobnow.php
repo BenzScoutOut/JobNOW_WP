@@ -1,6 +1,5 @@
 <?php
 /* Custom Part-Time */
-/* Custom Part-Time */
 function show_card_design(){
 
 	$url = 'https://jobnow-api.scoutoutapi.com/api/v3.0/job-seeker/public/jobs?jobTypes=PART_TIME&searchText=&googlePlaceId=&googlePlaceName=&latitude=&longitude=&page=0';
@@ -22,8 +21,8 @@ function show_card_design(){
 		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
-<link rel="stylesheet" href="https://unpkg.com/flickity@2.0/dist/flickity.min.css">
-<script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 		
 		<div class="container d-none d-md-block mx-auto row-width">
 					  <div class="carousel" data-flickity='{ "wrapAround": false, "contain": true }'>
@@ -81,7 +80,7 @@ function show_card_design(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -163,7 +162,7 @@ function show_card_design(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -218,8 +217,8 @@ function show_card_cp_all(){
 		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
-<link rel="stylesheet" href="https://unpkg.com/flickity@2.0/dist/flickity.min.css">
-<script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 		
 		<div class="container d-none d-md-block mx-auto row-width">
 					  <div class="carousel" data-flickity='{ "wrapAround": false, "contain": true }'>
@@ -277,7 +276,7 @@ function show_card_cp_all(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -359,7 +358,7 @@ function show_card_cp_all(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -415,8 +414,8 @@ function show_card_lotus(){
 		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
-<link rel="stylesheet" href="https://unpkg.com/flickity@2.0/dist/flickity.min.css">
-<script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 		
 		<div class="container d-none d-md-block mx-auto row-width">
 					  <div class="carousel" data-flickity='{ "wrapAround": false, "contain": true }'>
@@ -474,7 +473,7 @@ function show_card_lotus(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -556,7 +555,7 @@ function show_card_lotus(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -807,11 +806,12 @@ function getCardUI($bodyResponse, $page, $nextPage, $prevPage, $url,$bodyRespons
 						  }
 		
 }
-/* Custom CP-ALL */
-function show_recommend_landing(){
-//https://usdan0cyoc.execute-api.ap-southeast-1.amazonaws.com/dev/job/recommend/landing lLXlQyIYAE5MQHdqHJOD03Gbu8FQ1yFy4evXFjua   Dev
-//https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing 9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm  Prod
-	$url = 'https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing';
+
+function show_digital_jobs(){
+	?> <!------ Include the above in your HEAD tag ---------->
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script> <?
+	$url = 'https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/digital';
 			//Create cURL connection
 	$response =  wp_remote_get($url, array(
 				'method' => 'GET',
@@ -824,19 +824,94 @@ function show_recommend_landing(){
 				'cookies' => array()
 			));
 	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
-		if(sizeof($bodyResponse) > 0){
-	?>
-		
-<!------ Include the above in your HEAD tag ---------->
+	get_ui_card_recommend($bodyResponse, "digital_job");
+}
 
-<link rel="stylesheet" href="https://unpkg.com/flickity@2.0.5/dist/flickity.css">
-<script src="https://unpkg.com/flickity@2.0.5/dist/flickity.pkgd.js"></script>
-		<div class="d-flex job-recommend-control justify-content-cener">
-			<h2 class="job-recommend-header-text mx-auto">
-				งานแนะนำสำหรับคุณ
-			</h2>
-		</div>
-		<div class="container d-none d-md-block mx-auto row-width">
+function get_new_card_recommend($bodyResponse, $utm_medium){
+	?>
+<div class="container d-block mx-auto row-width">
+	<div class="scrolling-wrapper">
+		<?php
+						foreach ($bodyResponse as $key => $value2) {
+							
+										if($value2["salary_type"] == "MONTHLY"){
+											$salaryType = "บาท / เดือน";
+										}else if($value2["salary_type"] == "DAILY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else if($value2["salary_type"] == "HOURLY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else{
+											$salaryType = "บาท / ชั่วโมง";
+										}
+
+										if($value2["job_expire_time_left_unit"] == "day"){
+											$jobExpireType = "วัน";
+										}else{
+											$jobExpireType = "ชั่วโมง";
+										}
+
+								?> <div class="card-job mx-auto card-carousel">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=<?php echo $utm_medium; ?>" target="_blank" class="mx-auto">
+												<div class="d-flex img-section">
+													<img src="<?php echo $value2["job_profile_image_url"]; ?>" class="image-job">
+													<div class="img-logo-section d-flex">
+														<img src="<?php echo $value2["headquarter_logo_image_url"]; ?>" class="img-logo">
+														<span class="text-branch-name my-auto"><?php echo $value2["headquarter_name"]; ?></span>
+													</div>
+													<div class="bg-section">
+														
+													</div>
+												</div>
+												<div class="text-control d-flex flex-column content-control">
+													<span class="job-title"><?php echo $value2["job_title"]; ?></span>
+													<div class="d-flex item-desc-margin" style="margin-top: 8px;">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/salary-icon@3x.png" class="img-salary mb-auto">
+														<span class="salary-text mb-auto"><?php echo number_format($value2["salary_from"], 0, '', ','); ?> - <?php echo number_format($value2["salary_to"], 0, '', ','); ?> <?php echo $salaryType; ?></span>
+													</div>
+													
+													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
+														
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
+													<span class="company-text mb-auto"><?php echo $value2["branch_name"]; ?></span>
+													</div>
+													<div class="row mt-auto">
+														
+														<div class="col-12 d-flex">
+															<button class="btn btn-apply mx-auto my-auto">
+																สมัครงาน นี้
+															</button>
+														</div>
+													</div>
+												</div>
+											</a>
+										</div>
+			  <?php 
+							if($key == sizeof($bodyResponse)-1){ ?>
+								  <div class="card-job mx-auto card-carousel">
+							  					<div class="d-flex flex-column">
+												<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job">
+													  <div class="text-control margin-extra d-flex flex-column">
+															<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
+															<div class="d-inline">
+																<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
+																<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
+														  </div>
+															<a href="https://job.jobnow.work/jobs?latitude=&longitude=&utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
+																<button class="btn btn-apply-extra">
+																					ดูงานใหม่ทั้งหมด
+																</button></a>
+													  </div>
+												</div>
+						  </div>
+							<?php } 
+								}?>
+	</div>
+</div><?
+}
+
+function get_ui_card_recommend($bodyResponse, $utm_medium){
+	?>
+<div class="container d-none d-md-block mx-auto row-width">
 					  <div class="carousel" data-flickity='{ "wrapAround": false, "contain" : true}'>
 						<?php
 						foreach ($bodyResponse as $key => $value2) {
@@ -862,12 +937,12 @@ function show_recommend_landing(){
 						  
 						
 										<div class="carousel-cell card-job mx-auto">
-											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=<?php echo $utm_medium; ?>" target="_blank" class="mx-auto">
 												<div class="d-flex img-section">
 													<img src="<?php echo $value2["job_profile_image_url"]; ?>" class="image-job">
 													<div class="img-logo-section d-flex">
 														<img src="<?php echo $value2["headquarter_logo_image_url"]; ?>" class="img-logo">
-														<span class="text-branch-name my-auto"><?php echo $value2["branch_name"]; ?></span>
+														<span class="text-branch-name my-auto"><?php echo $value2["headquarter_name"]; ?></span>
 													</div>
 													<div class="bg-section">
 														
@@ -883,9 +958,9 @@ function show_recommend_landing(){
 													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
 														
 														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
-													<span class="company-text mb-auto"><?php echo $value2["headquarter_name"]; ?></span>
+													<span class="company-text mb-auto"><?php echo $value2["branch_name"]; ?></span>
 													</div>
-													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
+													<div class="d-md-flex d-none item-desc-margin"  style="margin-top: 8px;">
 														<img src="https://jobnow.work/wp-content/uploads/2020/03/expired-icon@3x.png" class="img-salary mb-auto">
 															<label class="company-text mb-auto">เหลืออีก <?php echo $value2["job_expire_time_left"]; ?> <?php echo $jobExpireType ?> </label>
 														</div>
@@ -893,7 +968,7 @@ function show_recommend_landing(){
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
@@ -924,116 +999,138 @@ function show_recommend_landing(){
 							<?php } 
 								}?>
 						   </div>
-					</div>
-		<div class="container-fluid d-md-none mx-auto">
-					  <div class="carousel" data-flickity='{ "wrapAround": false }'>
-						<?php
+</div>
+<div class="container d-block d-md-none mx-auto row-width">
+	<div class="scrolling-wrapper">
+		<?php
 						foreach ($bodyResponse as $key => $value2) {
 							
-										if($value2["salaryType"] == "MONTHLY"){
+										if($value2["salary_type"] == "MONTHLY"){
 											$salaryType = "บาท / เดือน";
-										}else if($value2["salaryType"] == "DAILY"){
-											$salaryType = "บาท / วัน";
-										}else if($value2["salaryType"] == "HOURLY"){
+										}else if($value2["salary_type"] == "DAILY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else if($value2["salary_type"] == "HOURLY"){
 											$salaryType = "บาท / ชั่วโมง";
 										}else{
 											$salaryType = "บาท / ชั่วโมง";
 										}
 
-										if($value2["jobExpireTimeLeftUnit"] == "day"){
+										if($value2["job_expire_time_left_unit"] == "day"){
 											$jobExpireType = "วัน";
 										}else{
 											$jobExpireType = "ชั่วโมง";
 										}
 
-								?> 
-										<div class="carousel-cell  card-job">
-											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto">
+								?> <div class="card-job mx-auto card-carousel">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=<?php echo $utm_medium; ?>" target="_blank" class="mx-auto">
 												<div class="d-flex img-section">
 													<img src="<?php echo $value2["job_profile_image_url"]; ?>" class="image-job">
 													<div class="img-logo-section d-flex">
 														<img src="<?php echo $value2["headquarter_logo_image_url"]; ?>" class="img-logo">
-														<span class="text-branch-name my-auto"><?php echo $value2["branch_name"]; ?></span>
+														<span class="text-branch-name my-auto"><?php echo $value2["headquarter_name"]; ?></span>
 													</div>
 													<div class="bg-section">
 														
 													</div>
 												</div>
-												<div class="text-control d-flex flex-column">
+												<div class="text-control d-flex flex-column content-control">
 													<span class="job-title"><?php echo $value2["job_title"]; ?></span>
-													<div class="d-flex item-desc-margin">
+													<div class="d-flex item-desc-margin" style="margin-top: 8px;">
 														<img src="https://jobnow.work/wp-content/uploads/2020/03/salary-icon@3x.png" class="img-salary mb-auto">
-														<label class="salary-text mb-auto"><?php echo number_format($value2["salary_from"], 0, '', ','); ?> - <?php echo number_format($value2["salary_to"], 0, '', ','); ?> <?php echo $salaryType; ?></label>
+														<span class="salary-text mb-auto"><?php echo number_format($value2["salary_from"], 0, '', ','); ?> - <?php echo number_format($value2["salary_to"], 0, '', ','); ?> <?php echo $salaryType; ?></span>
 													</div>
 													
-													<div class="d-flex item-desc-margin">
+													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
 														
 														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
-													<label class="company-text mb-auto"><?php echo $value2["headquarter_name"]; ?></label>
+													<span class="company-text mb-auto"><?php echo $value2["branch_name"]; ?></span>
 													</div>
-													<div class="d-flex item-desc-margin">
-														<img src="https://jobnow.work/wp-content/uploads/2020/03/expired-icon@3x.png" class="img-salary mb-auto">
-															<label class="company-text mb-auto">เหลืออีก <?php echo $value2["job_expire_time_left"]; ?> <?php echo $jobExpireType ?> </label>
-														</div>
 													<div class="row mt-auto">
 														
 														<div class="col-12 d-flex">
 															<button class="btn btn-apply mx-auto my-auto">
-																ดูรายละเอียดงาน
+																สมัครงาน นี้
 															</button>
 														</div>
 													</div>
 												</div>
 											</a>
 										</div>
-						  <?php 
+			  <?php 
 							if($key == sizeof($bodyResponse)-1){ ?>
-								  <div class="carousel-cell card-job mx-auto">
-							  
-										<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job"/>
-									  <div class="text-control margin-extra d-flex flex-column">
-											<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
-												<div class="d-inline">
-											<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
-											<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
-									  </div>
-											<a href="https://job.jobnow.work/jobs?latitude=&longitude=&utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
-												<button class="btn btn-apply-extra">
-																	ดูงานใหม่ทั้งหมด
-												</button></a>
-										  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
-										  ฝากประวัติของคุณ
-										  </a>
-
-									  </div>
-								  </div>
-									<?php
-							}
+								  <div class="card-job mx-auto card-carousel">
+							  					<div class="d-flex flex-column">
+												<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job">
+													  <div class="text-control margin-extra d-flex flex-column">
+															<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
+															<div class="d-inline">
+																<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
+																<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
+														  </div>
+															<a href="https://job.jobnow.work/jobs?latitude=&longitude=&utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
+																<button class="btn btn-apply-extra">
+																					ดูงานใหม่ทั้งหมด
+																</button></a>
+													  </div>
+												</div>
+						  </div>
+							<?php } 
 								}?>
-						   </div>
-					</div>
-	
+	</div>
+</div>
+<?
+}
+function show_recommend_landing_test(){
+//https://usdan0cyoc.execute-api.ap-southeast-1.amazonaws.com/dev/job/recommend/landing lLXlQyIYAE5MQHdqHJOD03Gbu8FQ1yFy4evXFjua   Dev
+//https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing 9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm  Prod
+	$url = 'https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'x-api-key' => '9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm',
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+		if(sizeof($bodyResponse) > 0){
+	?>
+		
+<!------ Include the above in your HEAD tag ---------->
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <?php
+			get_new_card_recommend($bodyResponse, "recommend_landing");
 		}
 }
-
-function pro_developers_job(){
+function show_recommend_landing(){
+//https://usdan0cyoc.execute-api.ap-southeast-1.amazonaws.com/dev/job/recommend/landing lLXlQyIYAE5MQHdqHJOD03Gbu8FQ1yFy4evXFjua   Dev
+//https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing 9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm  Prod
+	$url = 'https://ftateuclr7.execute-api.ap-southeast-1.amazonaws.com/production/job/recommend/landing';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'x-api-key' => '9MI61CdeGG3eVZI5Q7tzP1hPwPxVWJdW7Zm9rhIm',
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+		if(sizeof($bodyResponse) > 0){
 	?>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <script type="text/javascript" src="https://firebasestorage.googleapis.com/v0/b/scoutout-jobnow.appspot.com/o/jquery-3.4.1.min.js?alt=media"></script>
-    <link rel="stylesheet"
-        href="https://firebasestorage.googleapis.com/v0/b/scoutout-jobnow.appspot.com/o/style.min.css?alt=media">
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2.0.5/dist/flickity.css">
-    <script src="https://unpkg.com/flickity@2.0.5/dist/flickity.pkgd.js">
-    </script>
- <script src="https://jobnow.work/wp-content/uploads/custom-css-js/2958.js"></script>
-    <div class="container  mx-auto row-width">
-        <div class="carousel-developer-jobs" data-flickity='{ "wrapAround": true, "contain" : true, "cellAlign": left }'>
-
-        </div>
-    </div>
+		
+<!------ Include the above in your HEAD tag ---------->
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <?php
+			get_ui_card_recommend($bodyResponse, "recommend_landing");
+		}
 }
 
 function test_public_recommend_job(){
@@ -1043,9 +1140,8 @@ function test_public_recommend_job(){
     <script type="text/javascript" src="https://firebasestorage.googleapis.com/v0/b/scoutout-jobnow.appspot.com/o/jquery-3.4.1.min.js?alt=media"></script>
     <link rel="stylesheet"
         href="https://firebasestorage.googleapis.com/v0/b/scoutout-jobnow.appspot.com/o/style.min.css?alt=media">
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2.0.5/dist/flickity.css">
-    <script src="https://unpkg.com/flickity@2.0.5/dist/flickity.pkgd.js">
-    </script>
+   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
  <script src="https://firebasestorage.googleapis.com/v0/b/scoutout-jobnow.appspot.com/o/code.min.js?alt=media"></script>
     <div class="container  mx-auto row-width">
         <div class="carousel" data-flickity='{ "wrapAround": true, "contain" : true, "cellAlign": left }'>
@@ -1576,8 +1672,565 @@ function video_get_ui($myposts, $isPlaying){
 		
 	
 }
+
+function pro_developer_jobs(){
+	?>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+		<?php
+	$url = 'https://jobnow-api.scoutoutapi.com/api/v3.0/job-seeker/public/jobs?searchText=&roleIds=8&googlePlaceId=&googlePlaceName=&latitude=&longitude=&page=0';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'Authorization' => 'Basic bWVzc3VhOnBpbmd1MTIz',
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+	ui_card_pro($bodyResponse, true);
+}
+
+function ui_card_pro($bodyResponse, $isJobNOW){
+	?>
+<div class="container d-none d-md-block mx-auto row-width">
+					  <div class="carousel" data-flickity='{ "wrapAround": false, "contain" : true}'>
+						<?php
+	
+						foreach ($bodyResponse as $key => $value2) {
+										if($value2["salaryType"] == "MONTHLY"){
+											$salaryType = "บาท / เดือน";
+										}else if($value2["salaryType"] == "DAILY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else if($value2["salaryType"] == "HOURLY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else{
+											$salaryType = "บาท / ชั่วโมง";
+										}
+
+										if($value2["jobExpireTimeLeftUnit"] == "day"){
+											$jobExpireType = "วัน";
+										}else{
+											$jobExpireType = "ชั่วโมง";
+										}
+
+								?> 
+										<div class="carousel-cell card-job-pro mx-auto">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto">
+												<div class="d-flex img-section">
+													<img src="<?php echo $value2["jobProfileImageUrl"]; ?>" class="image-job">
+													<div class="img-logo-section d-flex">
+														<img src="<?php echo $value2["headquarterLogoUrl"]; ?>" class="img-logo">
+														<span class="text-branch-name my-auto"><?php echo $value2["branchName"]; ?></span>
+													</div>
+													<div class="bg-section">
+														
+													</div>
+												</div>
+												<div class="text-control d-flex flex-column">
+													<span class="job-title"><?php echo $value2["jobTitle"]; ?></span>
+													<div class="d-flex item-desc-margin" style="margin-top: 8px;">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/salary-icon@3x.png" class="img-salary mb-auto">
+														<span class="salary-text mb-auto"><?php echo number_format($value2["salaryFrom"], 0, '', ','); ?> - <?php echo number_format($value2["salaryTo"], 0, '', ','); ?> <?php echo $salaryType; ?></span>
+													</div>
+													
+													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
+														
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
+													<span class="company-text mb-auto"><?php echo $value2["headquarterName"]; ?></span>
+													</div>
+													<div class="d-flex item-desc-margin"  style="margin-top: 8px;">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/expired-icon@3x.png" class="img-salary mb-auto">
+															<label class="company-text mb-auto">เหลืออีก <?php echo $value2["jobExpireTimeLeft"]; ?> <?php echo $jobExpireType ?> </label>
+														</div>
+													<div class="row mt-auto">
+														
+														<div class="col-12 d-flex">
+															<button class="btn btn-apply mx-auto my-auto">
+																สมัครงาน นี้
+															</button>
+														</div>
+													</div>
+												</div>
+											</a>
+										</div>
+						  <?php 
+							if($key == sizeof($bodyResponse)-1){ ?>
+								  <div class="carousel-cell card-job mx-auto">
+							  
+												<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job">
+								  <div class="text-control margin-extra d-flex flex-column">
+										<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
+									  	<div class="d-inline">
+											<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
+											<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
+									  </div>
+								  		<a href="https://job.jobnow.work/jobs?latitude=&longitude=&utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
+											<button class="btn btn-apply-extra">
+																ดูงานใหม่ทั้งหมด
+											</button></a>
+									  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
+									  ฝากประวัติของคุณ
+									  </a>
+									  	
+								  </div>
+						  </div>
+							<?php } 
+								}?>
+						   </div>
+					</div>
+<div class="container-fluid d-md-none mx-auto">
+					  <div class="carousel" data-flickity='{ "wrapAround": false }'>
+						<?php
+						foreach ($bodyResponse as $key => $value2) {
+							
+										if($value2["salaryType"] == "MONTHLY"){
+											$salaryType = "บาท / เดือน";
+										}else if($value2["salaryType"] == "DAILY"){
+											$salaryType = "บาท / วัน";
+										}else if($value2["salaryType"] == "HOURLY"){
+											$salaryType = "บาท / ชั่วโมง";
+										}else{
+											$salaryType = "บาท / ชั่วโมง";
+										}
+
+										if($value2["jobExpireTimeLeftUnit"] == "day"){
+											$jobExpireType = "วัน";
+										}else{
+											$jobExpireType = "ชั่วโมง";
+										}
+
+								?> 
+										<div class="carousel-cell  card-job-pro">
+											<a href="https://job.jobnow.work/job/<?php echo $value2["uuid"];?>?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto" style="pro-card-a">
+												<div class="d-flex img-section">
+													<img src="<?php echo $value2["jobProfileImageUrl"]; ?>" class="image-job">
+													<div class="img-logo-section d-flex">
+														<img src="<?php echo $value2["headquarterLogoUrl"]; ?>" class="img-logo">
+														<span class="text-branch-name my-auto"><?php echo $value2["branchName"]; ?></span>
+													</div>
+													<div class="bg-section">
+														
+													</div>
+												</div>
+												<div class="text-control d-flex flex-column">
+													<span class="job-title" style="overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre;"><?php echo $value2["jobTitle"]; ?></span>
+													<div class="d-flex item-desc-margin">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/salary-icon@3x.png" class="img-salary mb-auto">
+														<label class="salary-text mb-auto"><?php echo number_format($value2["salaryFrom"], 0, '', ','); ?> - <?php echo number_format($value2["salaryTo"], 0, '', ','); ?> <?php echo $salaryType; ?></label>
+													</div>
+													
+													<div class="d-flex item-desc-margin">
+														
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/place-icon@3x.png" class="img-salary mb-auto">
+													<label class="company-text mb-auto"><?php echo $value2["headquarterName"]; ?></label>
+													</div>
+													<div class="d-flex item-desc-margin">
+														<img src="https://jobnow.work/wp-content/uploads/2020/03/expired-icon@3x.png" class="img-salary mb-auto">
+															<label class="company-text mb-auto">เหลืออีก <?php echo $value2["jobExpireTimeLeft"]; ?> <?php echo $jobExpireType ?> </label>
+														</div>
+													
+												</div>
+												<div class="d-flex my-auto">
+														<button class="btn btn-apply mx-auto my-auto">
+																สมัครงาน นี้
+												</button>
+													
+												</div>
+											
+											</a>
+										</div>
+						  <?php 
+							if($key == sizeof($bodyResponse)-1){ ?>
+								  <div class="carousel-cell card-job-pro mx-auto pro-card-extra-control">
+							  
+										<img src="https://jobnow.work/wp-content/uploads/2020/03/extra-card@3x.png" class="image-job"/>
+									  <div class="text-control margin-extra d-flex flex-column">
+											<span class="job-title d-flex">มีงานดีๆ ที่เหมาะกับคุณ</span>
+												<div class="d-inline">
+											<span class="job-title">รอคนอยู่อีกเยอะที่ </span>
+											<img src="https://jobnow.work/wp-content/uploads/2020/03/logo-text@3x.png" class="extra-card-logo-jobnow">
+									  </div>
+											<a href="https://job.jobnow.work/jobs?latitude=&longitude=&utm_source=JobNOW&utm_medium=recommend_all_jobs" target="_blank" >
+												<button class="btn btn-apply-extra">
+																	ดูงานใหม่ทั้งหมด
+												</button></a>
+										  <a href="https://jobnow.work/resume" target="_blank" class="job-title-red mx-auto">
+										  ฝากประวัติของคุณ
+										  </a>
+
+									  </div>
+								  </div>
+									<?php
+							}
+								}?>
+						   </div>
+					</div>
+<?php
+}
 function get_jobid() {
 
    return $_GET['jobID'];
 
 }
+
+function jobnow_pro_recommend(){
+	  ?>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+		<?php
+	$url = 'https://connect-api.scoutoutapi.com/api/v1/public/companies/resume-jobnow/jobs?page=0&pageSize=9&keywords=&types=&roleIds=';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+	card_jobnow_pro($bodyResponse, false, "");
+}
+
+function jobnow_pro_developer_all(){
+	  ?>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+		<?php
+	$url = 'https://connect-api.scoutoutapi.com/api/v1/public/job-now-pro/jobs?roleIds=64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88&keywords=';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+	card_jobnow_pro($bodyResponse, true, "Developer");
+}
+
+function jobnow_pro_design_all(){
+	  ?>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+		<?php
+	$url = 'https://connect-api.scoutoutapi.com/api/v1/public/job-now-pro/jobs?roleIds=32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55&keywords=';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+	card_jobnow_pro($bodyResponse, true, "Designer");
+}
+
+function jobnow_pro_marketing_all(){
+	  ?>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+		<?php
+	$url = 'https://connect-api.scoutoutapi.com/api/v1/public/job-now-pro/jobs?roleIds=1,2,3,4,5,6,7,8,9,10,11,12,13&keywords=';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+	card_jobnow_pro($bodyResponse, true, "Marketing");
+}
+
+
+function jobnow_pro_all_company(){
+	  ?>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"/>
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+		<?php
+	$url = 'https://leelatest.scoutout.net/api/v1/public/job-now-pro/companies';
+			//Create cURL connection
+	$response =  wp_remote_get($url, array(
+				'method' => 'GET',
+				'timeout' => 45,
+				'redirection' => 5,
+				'headers' => array(
+					'Content-Type' => 'application/json'
+				),
+				'cookies' => array()
+			));
+	$bodyResponse = json_decode(wp_remote_retrieve_body($response), TRUE);
+	if (isset($_GET['showAll']) && $_GET['showAll'] == true) {
+		card_jobnow_pro_company($bodyResponse, true);
+	}else{
+		card_jobnow_pro_company($bodyResponse, false);
+	}
+}
+
+function card_jobnow_pro($bodyResponse, $isAllJobs , $textAllJobs){
+	?>
+	<div class="container d-block mx-auto row-width pro-container-no-padding">
+						  <div class="carousel" data-flickity='{ "wrapAround": false, "contain" : true}'>
+						<?php
+						foreach ($bodyResponse as $key => $value2) {
+							$salaryType = $value2['jobSalaryType'];
+							$jd_converter = strip_tags($value2['jobDescription']);
+							if($value2['jobSalaryType'] == 'DAILY'){
+								$salaryType = 'วัน';
+							}else if($value2['jobSalaryType'] == 'ANNUALLY'){
+								$salaryType = 'ปี';
+							}else if($value2['jobSalaryType'] == 'MONTHLY'){
+								$salaryType = 'เดือน';
+							}else{
+								$salaryType = 'ชั่วโมง';
+							}
+								?> 
+										<div class="carousel-cell card-pro mx-auto d-flex flex-column">
+											<a href="<?php echo $value2['jobUrl']; ?>" target="_blank" class="mx-auto d-flex flex-column">
+												<div class="d-flex pro-card-company-job-control">
+													<img src="<?php echo $value2['companyLogoImageUrl']; ?>" class="pro-card-logo">
+ 													<div class="d-flex flex-column pro-card-section-1-title-control my-auto">
+														<span class="pro-card-company-name"><?php echo $value2['companyName'];?></span>
+														<span class="pro-card-job-title"><?php echo $value2['jobName'];?></span>
+														
+														
+													</div>
+												</div>
+												<div class="d-flex flex-column pro-card-exp-section-control">
+													<div class="pro-card-img-section-control row">
+														<div class="pro-card-img-icon-control col-1">
+														<img src="https://jobnow.work/wp-content/uploads/2020/08/jobnow-pro-salary-icon@3x.png" class="pro-card-img-loc my-auto mx-auto">
+															</div>
+														<div class="col-10">
+															<?php if($value2['jobDisplaySalary']){
+									?><span class="pro-card-text-side-img my-auto"><?php echo number_format($value2['jobSalaryFrom']);?> - <?php echo number_format($value2['jobSalaryTo']);?> / <?php echo $salaryType; ?></span><?php
+								}else{
+									?><span class="pro-card-text-side-img my-auto">เงินเดือนสามารถต่อรองได้</span><?php
+								}?>
+														</div>
+														
+													</div>
+													<div class="pro-card-img-section-control row">
+														<div class="pro-card-img-icon-control col-1">
+															<img src="https://jobnow.work/wp-content/uploads/2020/07/pro-exp@3x.png" class="pro-card-img-exp my-auto  mx-auto">
+														</div>
+														<div class="col-10">
+														<span class="pro-card-text-side-img my-auto"><?php echo $value2['jobRoleDisplayName']; ?></span>
+														</div>
+													</div>
+													<div class="pro-card-img-section-control row">
+														<div class="pro-card-img-icon-control col-1">
+														<img src="https://jobnow.work/wp-content/uploads/2020/07/pro-location@3x.png" class="pro-card-img-loc my-auto mx-auto">
+															</div>
+														<div class="col-10">
+															<span class="pro-card-text-side-img my-auto"><?php echo $value2['jobLocation']; ?></span>
+														</div>
+														
+													</div>
+													
+<!-- 													<span class="pro-card-description my-auto"><?php echo $jd_converter; ?></span> -->
+												</div>
+												<a href="<?php echo $value2['jobUrl'];?>" class="btn pro-job-viewmore-button mt-auto mx-auto">รายละเอียดเพิ่มเติม</a>
+											</a>
+										</div>
+							
+							 <?php 
+// 							sizeof($bodyResponse)-1
+							if($key == 1 && $isAllJobs == true){ ?>
+							  <div class="carousel-cell card-pro mx-auto">
+											<a href="https://job.jobnow.work/job/?utm_source=jobnow.work&utm_medium=recommend_landing" target="_blank" class="mx-auto d-flex flex-column h-100">
+												<div class="d-flex flex-column">
+													<?php 
+																if($textAllJobs == "Developer"){
+																	?> <img src="https://jobnow.work/wp-content/uploads/2020/07/pro-dev-img-card@3x.png" class="pro-all-card-img-size mx-auto">
+													<?
+																}else if($textAllJobs == "Designer"){
+																	?> <img src="https://jobnow.work/wp-content/uploads/2020/07/pro-design-img-card@3x.png" class="pro-all-card-img-size mx-auto">
+													<?
+																}else if($textAllJobs == "Marketing"){
+																	?> <img src="https://jobnow.work/wp-content/uploads/2020/07/pro-mark-img-card@3x.png" class="pro-all-card-img-size mx-auto">
+													<?
+																}
+																?>
+													
+													<span class="pro-all-card-text-title mx-auto">ยังมีงานสำหรับ <?php echo $textAllJobs; ?> อีกเยอะ</span>
+													
+												</div>
+												<button class="btn text-center pro-all-card-button mx-auto mt-auto">
+														งาน <?php echo $textAllJobs; ?> ทั้งหมด
+													</button>
+								  </a>
+							  </div>
+							  <?php } ?>
+								<?php }
+						  ?>
+						   </div>
+					</div>
+<?
+}
+
+function card_jobnow_pro_company($bodyResponse,$showAll){
+	?>
+	<div class="container d-flex pro-row-width-company pro-container-no-padding">
+						  <div class="row">
+							  
+	
+						<?php
+						foreach ($bodyResponse as $key => $value2) {
+								?> 
+							  <div class="col-lg-4 col-md-6 col-12 d-flex">
+								  
+							
+										<div class="card-pro-company mx-auto d-flex flex-column">
+											<a href="<?php echo $value2['companyCareerSiteUrl'];?>" target="_blank" class="mx-auto d-flex flex-column">
+												<div class="d-flex pro-card-company-img-section">
+													<img src="<?php echo $value2['companyProfileImageUrl']; ?>" class="pro-card-company-img-bg">
+													<img src="<?php echo $value2['companyLogoImageUrl']; ?>" class="pro-card-company-img-logo">
+												</div>
+												<div class="d-flex flex-column pro-card-company-text-control">
+													<span class="pro-card-company-text-company-name text-center"><?php echo $value2["companyName"]; ?></span>
+													<span class="pro-card-company-text-desc text-center">ตำแหน่งงานที่เปิดรับทั้งหมด <?php echo $value2["companyCareerSiteActiveJobs"]; ?>ตำแหน่ง</span>
+													<?php if($value2["companyAddress"] != ''){ ?>
+														<div class="pro-card-img-map-icon-control d-flex mx-auto">
+														<img src="https://jobnow.work/wp-content/uploads/2020/07/pro-location@3x.png" class="pro-card-img-loc my-auto mx-auto"><a href="http://maps.google.com/?q=<?php echo $value2['companyAddress'];?>" class="pro-card-text-link-map my-auto">ดูแผนที่</a>
+															</div> <?php } ?>
+													
+												</div>
+											<a href="<?php echo $value2['companyCareerSiteUrl'];?>" class="btn pro-company-viewmore-button mt-auto mx-auto">รายละเอียดเพิ่มเติม</a>
+												
+											</a>
+										</div>
+							  </div>
+								<?php }
+						  ?>
+							  <?php 
+	?>
+							  
+							  	</div>
+					</div>
+<?
+}
+
+function redirect_to_pricing(){
+	  $email = $_GET['email'];
+      $company_name = $_GET['company'];
+      $uuid = $_GET['uuid'];
+	   header("location: https://scoutout.co/jobnow/package");
+}
+
+// Save user data from URL to Woocommerce session
+add_action( 'template_redirect', 'set_custom_data_wc_session' );
+function set_custom_data_wc_session () {
+    if ( isset( $_GET['company'] ) || isset( $_GET['email'] ) ) {
+        $em   = isset( $_GET['company'] )   ? esc_attr( $_GET['company'] )   : '';
+        $name = isset( $_GET['email'] ) ? esc_attr( $_GET['email'] ) : '';
+
+        // Set the session data
+        WC()->session->set( 'custom_data', array( 'company' => $em, 'email' => $name ) );
+    }
+}
+// Autofill checkout fields from user data saved in Woocommerce session
+add_filter( 'woocommerce_billing_fields' , 'prefill_billing_fields' );
+function prefill_billing_fields ( $address_fields ) {
+    // Get the session data
+    $data = WC()->session->get('custom_data');
+
+    // company
+    if( isset($data['company']) && ! empty($data['company']) )
+        $address_fields['billing_company']['default'] = $data['company'];
+
+    // email
+    if( isset($data['email']) && ! empty($data['email']) )
+        $address_fields['billing_email']['default'] = $data['email'];
+
+    return $address_fields;
+}
+function all_vdo_profile_landing(){
+	$args = array(  
+        'post_type' => 'vdo_profile',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+        'exclude' => array(3408, 3409)
+	);
+	$myposts = get_posts($args);
+	?> <div class="container row mx-auto"> <?
+	foreach ($myposts as $value){
+		$url_values = $value->url;
+		$post_date = $value->posted_date;
+		$image_url = $value->image_url;
+		$name = $value->name;
+		$newDate = date("d M Y", strtotime($post_date));  
+		?>
+			
+						
+				<div class="col-4 vdo-profile-col-control d-flex justify-content-center">
+					<a href="<?php echo get_post_permalink($value->ID); ?>" class="vdo-profile-border d-flex flex-column mx-auto">
+							<div class="vdo-profile-img-preview-control d-flex">
+								<img src="<?php echo $image_url; ?>" class="vdo-profile-img-preview mx-auto">
+								<img src="https://jobnow.work/wp-content/uploads/2020/08/play-video@3x.png" class="vdo-profile-img-play">
+							</div>
+							<div class="d-md-flex d-none flex-column">
+								<span class="vdo-profile-name-text mx-auto text-center"><?php echo $name; ?></span>
+						</div>
+					</a>
+				</div>
+						
+
+<? 
+	}
+	?> </div> <?
+}
+
+function all_vdo_profile(){
+	$args = array(  
+        'post_type' => 'vdo_profile',
+        'post_status' => 'publish',
+		'posts_per_page' => 8,
+        'exclude' => array(3408, 3409)
+	);
+	$myposts = get_posts($args);
+	?> <div class="container row mx-auto"> <?
+	foreach ($myposts as $value){
+		$url_values = $value->url;
+		$post_date = $value->posted_date;
+		$image_url = $value->image_url;
+		$name = $value->name;
+		$newDate = date("d M Y", strtotime($post_date));  
+		?>
+			
+						
+				<div class="col-lg-3 col-3 col-md-4 vdo-profile-col-control">
+					<a href="<?php echo get_post_permalink($value->ID); ?>" class="vdo-profile-border d-flex flex-column mx-auto">
+							<div class="vdo-profile-img-preview-control d-flex">
+								<img src="<?php echo $image_url; ?>" class="vdo-profile-img-preview mx-auto">
+								<img src="https://jobnow.work/wp-content/uploads/2020/08/play-video@3x.png" class="vdo-profile-img-play">
+							</div>
+							<div class="d-flex flex-column">
+								<span class="vdo-profile-name-text mx-auto text-center"><?php echo $name; ?></span>
+						</div>
+					</a>
+				</div>
+						
+
+<? 
+	}
+	?> </div> <?
+}
+?>
